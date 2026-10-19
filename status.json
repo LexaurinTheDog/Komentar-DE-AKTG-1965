@@ -9,7 +9,18 @@
     "reason": "215 commentary units not yet authored; official full build rejects incomplete manuscript",
     "raw_xml_verbatim_ratio": 1.0,
     "completeness": true,
-    "strict_validator": "pending final run"
+    "strict_validator": {
+      "repo": "Komentar-DE-AKTG-1965",
+      "units": 392,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 214993,
+      "errors": [
+        "krátký/chybějící komentář u 215 jednotek: ['p150(0<400)', 'p150a(0<120)', 'p151(0<120)', 'p152(0<400)', 'p153-157(0<120)', 'p158(0<400)', 'p159(0<120)', 'p160(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "verbatim_ratio": 1.0
   },
   "independent_review": false,
   "checkpoint": "commentary/part-12.md",
