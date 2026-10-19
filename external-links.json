@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/aktg/",
+    "status": 200,
+    "checked_at": "2026-10-19T18:47:48.008478+00:00"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.html",
+    "status": 200,
+    "checked_at": "2026-10-19T18:47:48.101745+00:00"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/33/VO.html",
+    "error": "HTTP Error 400: Bad Request"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE301422016",
+    "status": 200,
+    "checked_at": "2026-10-19T18:47:48.497567+00:00"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE300612013",
+    "status": 200,
+    "checked_at": "2026-10-19T18:47:48.605000+00:00"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE302052021",
+    "status": 200,
+    "checked_at": "2026-10-19T18:47:48.721681+00:00"
+  },
+  {
+    "url": "https://www.recht.bund.de/eli/bund/bgbl-1/2026/33",
+    "method": "GET",
+    "http_status": 200,
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/33/VO",
+    "evidence": "sources/bgbl-2026-I-33-index.html"
+  }
+]

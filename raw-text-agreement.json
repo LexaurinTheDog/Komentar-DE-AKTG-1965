@@ -1,0 +1,16 @@
+{
+  "xml_text_units": 392,
+  "xml_original_nonwhitespace_chars": 413801,
+  "text_mismatches": [],
+  "verbatim_raw_xml_text_agreement": 1.0,
+  "index_numbered_links": 392,
+  "index_missing_ids": [],
+  "index_unexpected_ids": [],
+  "range_links": [
+    "___43_und_44.html",
+    "___153_bis_157.html",
+    "___163_bis_169.html",
+    "___329_bis_336.html"
+  ],
+  "method": "Independent XML itertext concatenation, removal of whitespace only; compared by official label; independent HTML link enumeration. No use of canonical text."
+}

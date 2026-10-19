@@ -1,0 +1,21 @@
+{
+  "old": "sources/intake-2026-10-01.xml",
+  "new": "sources/aktg.xml",
+  "identical_bytes": true,
+  "changed_units": [],
+  "future_changes_excluded": {
+    "law": "BGBl. 2026 I Nr. 33, Artikel 23 Nummern 2–6",
+    "units": [
+      "p120a",
+      "p130",
+      "p134b",
+      "p134c",
+      "p134d"
+    ],
+    "effective": "2030-01-10"
+  },
+  "cent_rule_included": {
+    "unit": "p8",
+    "effective": "2026-02-10"
+  }
+}

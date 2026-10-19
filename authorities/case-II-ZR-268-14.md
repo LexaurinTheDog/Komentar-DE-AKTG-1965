@@ -1,0 +1,11 @@
+# BGH, Urteil vom 5. April 2016 – II ZR 268/14
+
+ECLI:DE:BGH:2016:050416UIIZR268.14.0. Amtlicher Volltext: [Rechtsprechung im Internet](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE301422016). Gesicherte [XML](KORE301422016.xml), [ZIP](KORE301422016.zip), [lesbare Transkription](KORE301422016.md); Abruf und Hash: [verification.json](verification.json), 19. Oktober 2026.
+
+Gegenstand war die Rückforderung von Dividenden der Geschäftsjahre 2002–2004 nach dem Erwerb sämtlicher Aktien einer nicht börsennotierten Gesellschaft. Die Klägerin behauptete unzureichende eigene und mittelbare Beteiligungsmeldungen. Die Vorinstanz hatte die Übersendung eines Kaufvertrags beziehungsweise Entwurfs genügen lassen. Der BGH hob im angefochtenen Umfang auf und verwies zurück; er sprach den Rückforderungsbetrag nicht endgültig zu.
+
+Rn. 13, 17–24: Auch der Alleinaktionär und das selbst abhängige Unternehmen unterliegen den eigenen Mitteilungspflichten. Die Meldung muss eine eindeutige Veröffentlichung ohne korrigierende Ermittlungen ermöglichen, als Beteiligungsmitteilung erkennbar sein und die bereits bestehende Beteiligung betreffen. Die bloße vorgezogene Übersendung des Vertrags oder Entwurfs genügte nicht. Rn. 11, 14, 30: Die Dividendenrückforderung folgt § 62; für Gewinnanteile sind Kenntnis oder fahrlässige Unkenntnis der fehlenden Bezugsberechtigung zu prüfen. Rn. 35–38 behandeln Nachholung, Vorsatz und die hierfür maßgebliche Darlegung. Rn. 28 lässt die besondere Frage einer freiwilligen Bekanntmachung bei der Einpersonen-AG offen. Rn. 46–47 formulieren nur Hinweise zur weiteren Prüfung von Erkundigung und Wissenszurechnung, keine abschließende allgemeine Zurechnungsregel.
+
+**Zeitliche Grenze:** Das Urteil erging zum damaligen Schriftformerfordernis und diskutiert in Rn. 21 § 126 BGB. Der verifizierte heutige § 20 verlangt Textform. Der Kommentar übernimmt deshalb die Aussage zur Erkennbarkeit und zum Informationsgehalt, behauptet aber keine heutige allgemeine Unterschriftspflicht. Die Übertragung dieser Informationsanforderungen auf die heutige Textform ist eine kenntlich gemachte rechtliche Einordnung des Kommentars.
+
+Unterstützte Einheiten: §§ 20 und 62. Selektiv recherchierte Entscheidung; keine Behauptung vollständiger späterer Rechtsprechungsauswertung.

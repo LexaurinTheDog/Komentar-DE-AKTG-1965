@@ -1,0 +1,15 @@
+# Einleitung
+
+Dieser Arbeitsentwurf erläutert den institutionellen Aufbau der Aktiengesellschaft anhand des amtlichen Aktiengesetzes. Er beginnt bei Kapital- und Aktienbegriffen, verfolgt Gründung und Aktionärsverhältnisse und behandelt die Verantwortung von Vorstand, Aufsichtsrat und Hauptversammlung. Die Fortsetzung über § 149 hinaus ist noch offen. Die vollständige Quellenextraktion ist deshalb nicht mit einem vollständigen Manuskript zu verwechseln.
+
+Das Grundkapital ist eine satzungsmäßige Rechengröße. Seine Aufbringung, spätere Vermögensbindung und Änderung werden durch unterschiedliche Vorschriften geschützt. Ebenso sind Kapitalanteil, Stimmgewicht und gesellschaftsbezogene Legitimation auseinanderzuhalten. Diese Unterscheidungen erklären, warum etwa ein zulässiger Aktienerwerb noch kein frei ausübbares Stimmrecht und ein hoher Jahresüberschuss noch keinen sofortigen Anspruch auf vollständige Auszahlung begründet.
+
+Die Organverfassung trennt eigenverantwortliche Leitung, Überwachung und die ausdrücklich zugewiesenen Aktionärsentscheidungen. Interne Zustimmungsvorbehalte und externe Vertretung können unterschiedlichen Regeln folgen. Bestellung, Dienstvertrag und Vergütung sind jeweils gesondert zu prüfen. Die Kapitel behandeln deshalb konkrete Voraussetzungen und Rechtsfolgen statt nur einen allgemein gehaltenen Pflichtenüberblick zu wiederholen.
+
+Die Gesetzeszitate stammen mechanisch aus der am 19. Oktober 2026 abgerufenen amtlichen XML. Das XML-Erstellungsdatum ist nur technische Metainformation. Den zeitlichen Geltungsstand stützt zusätzlich die Prüfung der letzten ausgewiesenen Änderung und ihrer Inkrafttretensvorschrift. Insbesondere werden die für 2030 vorgesehenen Publizitätsänderungen nicht als schon geltende Pflichten mit dem heutigen Text vermengt. Die gesicherte Intake-Version und der aktuelle Abruf bleiben getrennt erhalten.
+
+Bei den Erläuterungen handelt es sich um eine Erstfassung. Die Beispiele sind fiktiv. Die Verweise innerhalb des AktG lassen sich am vollständig gesicherten Quellentext prüfen, auch soweit das spätere Kommentarkapitel noch fehlt. Verweisungen auf andere Gesetze sind nur in dem ausdrücklich erläuterten Umfang behandelt; besondere Haftungsgrenzen, Verfahrensdetails und unionsrechtliche Datenformate werden nicht ohne hinreichend geprüfte Grundlage ergänzt.
+
+Die Rechtsprechungsarbeit beschränkt sich bisher auf drei dokumentierte BGH-Entscheidungen und die im Suchprotokoll angegebenen Rechercheschritte. Parteivortrag, revisionsrechtliche Unterstellung und tragender Gerichtsgrund werden getrennt. Ein historischer Form- oder Fristenstand wird nicht als heutiges Gesetz übernommen. Fallkarten und Rohquellen ermöglichen eine weitere sachliche Prüfung; sie ersetzen keine vollständige Recherche späterer Entscheidungen.
+
+Technische Prüfungen erfassen Wortlautübereinstimmung, Identifier, Kommentierungsstand, Verlinkung und auffällige Wiederholungen. Sie bescheinigen weder juristische Richtigkeit noch unabhängige Begutachtung. Der Status bleibt bis zur Fertigstellung aller 392 Datensätze und der Gesamtprüfung offen. © 2026 Vojtěch Říha; Lizenz für die eigene Kommentierung: Apache-2.0.

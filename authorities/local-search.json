@@ -1,0 +1,13 @@
+{
+  "queries": [
+    "II ZR 225/20",
+    "II ZR 452/17",
+    "II ZR 108/21"
+  ],
+  "corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "matches": [
+    "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore302052021.md",
+    "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore302352021.md",
+    "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore308932018.md"
+  ]
+}

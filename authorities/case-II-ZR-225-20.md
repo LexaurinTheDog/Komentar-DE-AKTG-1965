@@ -1,0 +1,11 @@
+# BGH, Urteil vom 22. Juni 2021 – II ZR 225/20
+
+ECLI:DE:BGH:2021:220621UIIZR225.20.0. [Amtlicher Volltext](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE302052021), gesicherte [XML](KORE302052021.xml), [ZIP](KORE302052021.zip) und [Transkription](KORE302052021.md). Abruf: 19. Oktober 2026, HTTP und Hash in [verification.json](verification.json).
+
+Ein Aufsichtsratsmitglied war zugleich alleiniger Gesellschafter und Geschäftsführer einer Beratungsgesellschaft. Diese schloss mit einem von der AG eingesetzten weiteren Berater Verträge über Kapitalmarktunterstützung. Daneben wurde eine Zahlung für die Mitwirkung an bestimmten Aufsichtsratsvorgängen und den anschließenden Rücktritt vereinbart. Der BGH gab dem Rückzahlungsbegehren weitgehend statt; nicht sämtliche Nebenforderungen hatten Erfolg.
+
+Rn. 16–25: Der Schutz der §§ 113, 114 erfasst auch den konkret mittelbaren Vertrags- und Zahlungsweg über einen Berater der AG. Umgehungsvorsatz ist dafür nicht erforderlich. Rn. 26–29: Die beschriebenen allgemeinen Kapitalmarkt- und Finanzierungsberatungen waren nicht hinreichend von der organschaftlichen Überwachungs- und Beratungsaufgabe abgegrenzt. Ein solcher Vertrag ist nicht bloß mangels Zustimmung unwirksam, sondern wegen Umgehung der Vergütungsordnung nicht genehmigungsfähig. Rn. 30–33: Der besondere Rückgewähranspruch ist entsprechend anzuwenden, einschließlich seiner von allgemeinen Bereicherungseinwendungen abgegrenzten Schutzwirkung. Rn. 34–38 behandeln die zusätzliche Zahlung für organschaftliche Mitwirkung.
+
+Grenzen: Das Urteil verbietet nicht jede klar abgegrenzte Spezialleistung außerhalb des Amts. Die Zurechnung beruht hier auf Alleingesellschafter- und Geschäftsführereigenschaft; es wird kein allgemeiner Schwellenwert für beliebige Minderheitsbeteiligungen behauptet. Die Ausführungen der Vorinstanz zur Beschränkung höherer Tätigkeiten auf Unternehmenspolitik stehen in Rn. 11–12 und wurden in Rn. 29 gerade kritisiert. Die heutige gesetzliche Trennung von Amtsvergütung und zusätzlichem Vertrag ist im gesicherten AktG-Wortlaut weiterhin vorhanden; keine vollständige Folgejudikaturrecherche.
+
+Unterstützte Einheiten: §§ 113 und 114; Zusammenhang mit § 111.

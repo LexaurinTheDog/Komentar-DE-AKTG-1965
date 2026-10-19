@@ -1,0 +1,74 @@
+{
+  "decisive_date": "2026-10-19",
+  "fetches": [
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-19T18:24:47.369766+00:00",
+      "http_status": 200,
+      "path": "sources/aktg.zip",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "content_type": "application/zip",
+      "bytes": 140159,
+      "zip_members": [
+        "BJNR010890965.xml"
+      ],
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/",
+      "accessed_at": "2026-10-19T18:24:47.608930+00:00",
+      "http_status": 200,
+      "path": "sources/index.html",
+      "sha256": "ba682e51e232d273e465e84f250e3a583c094aef054430ee8c010260bc0bb54e",
+      "content_type": "text/html",
+      "bytes": 86032
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.html",
+      "accessed_at": "2026-10-19T18:24:48.040323+00:00",
+      "http_status": 200,
+      "path": "sources/gesamt.html",
+      "sha256": "ee89b3141fcf64224f308506e3104205e485d6758127b44af86c9ef04bab8415",
+      "content_type": "text/html",
+      "bytes": 828034
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile&v=1",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T18:25:44.784628+00:00",
+      "path": "sources/bgbl-2026-I-33.pdf",
+      "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+      "format_validated": "PDF signature"
+    },
+    {
+      "url": "https://www.recht.bund.de/eli/bund/bgbl-1/2026/33",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/33/VO",
+      "http_status": 200,
+      "path": "sources/bgbl-2026-I-33-index.html",
+      "accessed_at": "2026-10-19T18:48:14.799255+00:00",
+      "sha256": "6d5b61d2b10f04dc95360f687d95dc257de26837b71dc5867d365f00922db8e5",
+      "expected_format": "HTML",
+      "contains_expected_title": true
+    }
+  ],
+  "version_assessment": {
+    "decisive_date": "2026-10-19",
+    "official_stand": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33",
+    "checked_at": "2026-10-19",
+    "evidence": [
+      "sources/aktg.xml",
+      "sources/gesamt.html",
+      "sources/bgbl-2026-I-33.pdf",
+      "sources/bgbl-2026-I-33.txt"
+    ],
+    "commencement": {
+      "article_23_number_1": "2026-02-10; Artikel 64 Absatz 1; Verkündung 2026-02-09",
+      "article_23_numbers_2_to_6": "2030-01-10; Artikel 64 Absatz 8; nicht als am Stichtag geltender Text eingearbeitet"
+    },
+    "since_intake": "Amtliche XML bytegleich zur gesicherten Intake-XML. Kein abweichender Textstand auf der aktuellen amtlichen Gesamtausgabe festgestellt.",
+    "limitations": "Die aktuelle amtliche Konsolidierung und die letzte ausgewiesene Änderung wurden geprüft. Keine vollständige Auswertung jedes nachfolgenden Bundesgesetzblatts auf redaktionell noch nicht eingearbeitete Änderungen."
+  },
+  "intake_sha256": "28db7b2b3f8039d63f828f4d185c20d84ea012444f5318f8a97636d60d3a8508",
+  "intake_xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+  "xml_unchanged_since_intake": true
+}

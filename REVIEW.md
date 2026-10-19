@@ -1,0 +1,11 @@
+# Prüfstand des Arbeitsentwurfs
+
+19. Oktober 2026. Dies ist die dokumentierte Eigenkontrolle des laufenden Entwurfs, keine unabhängige zweite Durchsicht und keine externe fachliche Freigabe.
+
+Der gesamte amtliche Quellenbestand wurde geparst. Die Identifierprüfung enthält 392 erwartete und extrahierte nummerierte Datensätze ohne fehlende oder doppelte Kennungen. Der Vollständigkeitsbericht unterscheidet Quellenmetadaten, Gliederung, Frontmaterial, leere Körper und gemeinsame Wegfallstellen. Diese Extraktionsprüfung besagt nichts über die noch fehlende Kommentierung von 215 Datensätzen.
+
+177 Datensätze bis einschließlich § 149 sind kommentiert. Geprüft wurden dabei der gelesene Wortlaut, interne Verweise und insbesondere die Trennung von Grundkapital und Vermögen, Einlagenleistung und Aktienausgabe, interner Zustimmung und Außenvertretung, Bestellung und Dienstvertrag sowie gegenwärtiger und erst künftig wirksamer Publizität. Die kommentierten Kapitel enthalten eigene Beispiele und praktische Schlussprüfungen. Ein Mindestlängencheck ist kein Qualitätsnachweis.
+
+Drei BGH-Volltexte wurden gelesen, amtlich neu abgerufen und mit Randnummern-Fallkarten dokumentiert. Die frühere Schriftform des § 20 und historische Fünfjahresverjährung des § 62 wurden ausdrücklich von der aktuellen Fassung getrennt. Das Urteil II ZR 179/12 enthält eine Unterbewertung nur als revisionsrechtliche Unterstellung. II ZR 268/14 endet mit Zurückverweisung und lässt Einzelprobleme offen. II ZR 225/20 betrifft eine konkret zugerechnete Beratungsgesellschaft und nicht jede beliebige Minderheitsbeteiligung.
+
+Offen bleiben die eigenständige Kommentierung sämtlicher Einheiten ab § 150, die Gesamt-Buildfreigabe, die erfolgreiche strenge Gesamtvalidierung und die unabhängige Prüfung aller Einheiten. Weitere Grenzen sind die selektive Rechtsprechungsauswahl, nicht vollständig geprüfte externe Verweisungsnormen und die fehlende Einzelauswertung sämtlicher nachfolgender Bundesgesetzblätter. Der Titel darf deshalb nicht als vollständig oder rechtlich abschließend geprüft bezeichnet werden.
