@@ -1,6 +1,6 @@
 # Einleitung
 
-Dieser Arbeitsentwurf erläutert den institutionellen Aufbau der Aktiengesellschaft anhand des amtlichen Aktiengesetzes. Er beginnt bei Kapital- und Aktienbegriffen, verfolgt Gründung und Aktionärsverhältnisse und behandelt die Verantwortung von Vorstand, Aufsichtsrat und Hauptversammlung. Die Fortsetzung über § 149 hinaus ist noch offen. Die vollständige Quellenextraktion ist deshalb nicht mit einem vollständigen Manuskript zu verwechseln.
+Dieser Arbeitsentwurf erläutert den institutionellen Aufbau der Aktiengesellschaft anhand des amtlichen Aktiengesetzes. Er beginnt bei Kapital- und Aktienbegriffen, verfolgt Gründung und Aktionärsverhältnisse und behandelt die Verantwortung von Vorstand, Aufsichtsrat, Hauptversammlung und Rechnungslegung. Die Fortsetzung über § 178 hinaus ist noch offen. Die vollständige Quellenextraktion ist deshalb nicht mit einem vollständigen Manuskript zu verwechseln.
 
 Das Grundkapital ist eine satzungsmäßige Rechengröße. Seine Aufbringung, spätere Vermögensbindung und Änderung werden durch unterschiedliche Vorschriften geschützt. Ebenso sind Kapitalanteil, Stimmgewicht und gesellschaftsbezogene Legitimation auseinanderzuhalten. Diese Unterscheidungen erklären, warum etwa ein zulässiger Aktienerwerb noch kein frei ausübbares Stimmrecht und ein hoher Jahresüberschuss noch keinen sofortigen Anspruch auf vollständige Auszahlung begründet.
 
