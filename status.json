@@ -9,11 +9,23 @@
     "reason": "195 commentary units not yet authored; official full build rejects incomplete manuscript",
     "raw_xml_verbatim_ratio": 1.0,
     "completeness": true,
-    "strict_validator": "pending rerun after new checkpoint"
+    "strict_validator": {
+      "repo": "Komentar-DE-AKTG-1965",
+      "units": 392,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 235726,
+      "errors": [
+        "krátký/chybějící komentář u 195 jednotek: ['p179(0<400)', 'p179a(0<400)', 'p180(0<400)', 'p181(0<400)', 'p182(0<400)', 'p183(0<400)', 'p183a(0<400)', 'p184(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "verbatim_ratio": 1.0,
+    "full_build_exit_code": 1
   },
   "independent_review": false,
   "checkpoint": "commentary/part-13.md",
-  "updated_at": "2026-10-19T18:51:38.923002+00:00",
+  "updated_at": "2026-10-19T18:51:54.474643+00:00",
   "complete": false,
   "remaining_unit_ids": [
     "p179",
