@@ -29,3 +29,5 @@ Begrenzte zweite Durchsicht §§ 120a–134b: [20 genaue Kennungen und Einzelbef
 Prüfbatch §§ 134c–150a: [Befunde](review-result-batch-009.json), [XML](sources/review-p134c-p150a.xml), [Fallkarte](authorities/case-II-ZB-10-25.md), [Suchprotokoll](authorities/search-log-batch-009.json).
 
 Prüfbatch §§ 151–179a: [Befunde](review-result-batch-010.json), [XML](sources/review-p151-p179a.xml), [Fallkarte](authorities/case-II-ZR-364-18.md), [Suchprotokoll](authorities/search-log-batch-010.json).
+
+Prüfbatch §§ 180–198 einschließlich § 183a: [Befunde](review-result-batch-011.json), [XML](sources/review-p180-p198.xml), [Suchprotokoll](authorities/search-log-batch-011.json).

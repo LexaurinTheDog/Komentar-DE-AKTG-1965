@@ -1,0 +1,52 @@
+{
+  "reviewed_ids": [
+    "p180",
+    "p181",
+    "p182",
+    "p183",
+    "p183a",
+    "p184",
+    "p185",
+    "p186",
+    "p187",
+    "p188",
+    "p189",
+    "p190",
+    "p191",
+    "p192",
+    "p193",
+    "p194",
+    "p195",
+    "p196",
+    "p197",
+    "p198"
+  ],
+  "corrected_ids": [
+    "p182",
+    "p183a",
+    "p184",
+    "p185",
+    "p186",
+    "p188",
+    "p192",
+    "p194",
+    "p195",
+    "p198"
+  ],
+  "outside_scope_commentary_changes": [],
+  "statutory_text_agreement": 1.0,
+  "expected": 393,
+  "parsed": 393,
+  "missing": [],
+  "duplicates": [],
+  "broken_links": [],
+  "repeated_long_sentences": [],
+  "rendered_chapters": [
+    9,
+    10
+  ],
+  "full_build_exit_code": 1,
+  "full_build_blocker": "165 outside-scope missing comments",
+  "batch_checks_ok": true,
+  "full_book_complete": false
+}
