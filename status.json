@@ -6,7 +6,7 @@
   "remaining_units": 165,
   "validation_result": {
     "ok": false,
-    "reason": "165 unassigned units remain unauthored; bounded review of Eingangsformel and p1–p19 complete",
+    "reason": "165 außerhalb dieses Auftrags fehlende Kommentare; begrenzte Prüfung p86–p104 einschließlich p87a abgeschlossen",
     "raw_xml_verbatim_ratio": 1.0,
     "completeness": true,
     "full_build_exit_code": 1,
@@ -14,7 +14,7 @@
       "repo": "Komentar-DE-AKTG-1965",
       "units": 393,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 274017,
+      "commentary_chars": 299529,
       "errors": [
         "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
       ],
@@ -22,11 +22,11 @@
       "ok": false
     },
     "verbatim_ratio": 1.0,
-    "bounded_review_evidence": "review-batch-validation.json"
+    "bounded_review_evidence": "review-checks-batch-006.json"
   },
   "independent_review": false,
-  "checkpoint": "commentary/part-00-eingangsformel.md",
-  "updated_at": "2026-10-20T23:18:48.797172+00:00",
+  "checkpoint": "review-result-batch-006.json",
+  "updated_at": "2026-10-20T23:21:06.120041+00:00",
   "complete": false,
   "remaining_unit_ids": [
     "p207",
@@ -200,18 +200,17 @@
   "total_chapters": 20,
   "commented_scope": "Eingangsformel und §§ 1–206, including inserted and explicit empty/grouped slots",
   "source_checks": {
-    "date": "2026-10-19",
-    "official_xml_http_status": 200,
-    "official_zip_http_status": 200,
-    "official_index_http_status": 200,
-    "last_amendment_pdf_http_status": 200,
-    "last_amendment_eli_http_status": 200,
-    "original_intake_sha256": "28db7b2b3f8039d63f828f4d185c20d84ea012444f5318f8a97636d60d3a8508",
-    "official_xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
-    "unchanged_since_intake": true,
-    "last_amendment_commencement_checked": true,
-    "all_subsequent_gazettes_individually_screened": false,
-    "latest_preflight": "preflight-result.json"
+    "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+    "accessed_at": "2026-10-20T23:19:27.625390+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p86-p104.zip",
+    "xml_path": "sources/review-p86-p104.xml",
+    "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+    "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+    "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+    "same_as_canonical": true,
+    "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
   },
   "case_law_sources": [
     "KORE301422016",
@@ -258,42 +257,30 @@
   },
   "latest_bounded_review": {
     "reviewed_ids": [
-      "p71",
-      "p71a",
-      "p71b",
-      "p71c",
-      "p71d",
-      "p71e",
-      "p72",
-      "p73",
-      "p74",
-      "p75",
-      "p76",
-      "p77",
-      "p78",
-      "p79",
-      "p80",
-      "p81",
-      "p82",
-      "p83",
-      "p84",
-      "p85"
+      "p86",
+      "p87",
+      "p87a",
+      "p88",
+      "p89",
+      "p90",
+      "p91",
+      "p92",
+      "p93",
+      "p94",
+      "p95",
+      "p96",
+      "p97",
+      "p98",
+      "p99",
+      "p100",
+      "p101",
+      "p102",
+      "p103",
+      "p104"
     ],
     "units_reviewed": 20,
     "complete": true,
-    "evidence": "review-result-batch-005.json",
-    "validation": {
-      "repo": "Komentar-DE-AKTG-1965",
-      "units": 393,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 287180,
-      "errors": [
-        "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "output_checkpoint_commit": "64f9a8b"
+    "evidence": "review-result-batch-006.json"
   },
   "validation": {
     "repo": "Komentar-DE-AKTG-1965",

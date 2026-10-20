@@ -1,0 +1,213 @@
+{
+  "complete": true,
+  "task": "bounded_independent_second_pass",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p86",
+    "p87",
+    "p87a",
+    "p88",
+    "p89",
+    "p90",
+    "p91",
+    "p92",
+    "p93",
+    "p94",
+    "p95",
+    "p96",
+    "p97",
+    "p98",
+    "p99",
+    "p100",
+    "p101",
+    "p102",
+    "p103",
+    "p104"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p86",
+      "result": "reviewed_no_change",
+      "assessment": "Wegfallvermerk geprüft. Keine historische Gewinnbeteiligungsregel rekonstruiert; Verweise auf §§ 87/87a korrekt.",
+      "official_doknr": "BJNR010890965BJNE010101377",
+      "statutory_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "commentary_sha256": "edf20e77a5d05f1f6c427b9e3b602a781a8b13c8d436c58b90a068322f6730d1"
+    },
+    {
+      "id": "p87",
+      "result": "reviewed_corrected",
+      "assessment": "Alle vier Absätze geprüft. Gerichtszuständigkeit bei § 85, Kündigungstermin, Insolvenzvoraussetzungen und begrenzte Minderheitskompetenz der Hauptversammlung präzisiert; § 122 Absatz 2 nachgelesen.",
+      "official_doknr": "BJNR010890965BJNE010203360",
+      "statutory_text_sha256": "a39e141e7431e26c977acd0a95363a1f7969206933732923fccb21cc253e18a1",
+      "commentary_sha256": "73e5dffe416d682820f716ba63ff374609c421b9ab371c12e5884e4c0e05b7cf"
+    },
+    {
+      "id": "p87a",
+      "result": "reviewed_corrected",
+      "assessment": "Alle elf Mindestangaben und Absatz 2 geprüft. Aktienfristen, Arbeitnehmerkreis, Behandlung eines abgelehnten Systems und Unterschied zwischen Vorlage und Billigung ergänzt; § 120a nachgelesen.",
+      "official_doknr": "BJNR010890965BJNE057900360",
+      "statutory_text_sha256": "f03c6b10e3bdd56a737eb84bf4f68619e6dc18d95bc473fd0d583509c6181e56",
+      "commentary_sha256": "7d43ea004c796513b9470ac073118dffceb7e1ecbdcd979680573dcf1faad851"
+    },
+    {
+      "id": "p88",
+      "result": "reviewed_corrected",
+      "assessment": "Alle drei Absätze geprüft. Geschäftszweigbegrenzung nicht auf sämtliche Verbote übertragen; grob fahrlässige Unkenntnis, Fristbeginn und unterschiedliche Ersatzalternativen präzisiert.",
+      "official_doknr": "BJNR010890965BJNE010301377",
+      "statutory_text_sha256": "491cd700c3be4255527057f70a685d88750b8cbfc3205780b3479751d664dc47",
+      "commentary_sha256": "1f4b9eb8f05081db8601e24cc72d375ed2ce314d6107f638acae93ca7432aabc"
+    },
+    {
+      "id": "p89",
+      "result": "reviewed_corrected",
+      "assessment": "Alle sechs Absätze geprüft. Konzernrichtungen, Angehörige/Rechnungsträger und Ausnahmen für Unternehmenskredite konkretisiert; Monatsgehaltsausnahme dort nicht übernommen; Institutstatbestand präzisiert.",
+      "official_doknr": "BJNR010890965BJNE010402320",
+      "statutory_text_sha256": "31c1c6d8ec682333e9a916da0c9e1657d70c2a199e5ef37bb7bea19546cdffaa",
+      "commentary_sha256": "a32c6f6a1f8b394f3217834d35ff8ce5b08ef7e1762d9cf11be98f47ad05ad3f"
+    },
+    {
+      "id": "p90",
+      "result": "reviewed_corrected",
+      "assessment": "Alle fünf Absätze samt vier Berichtsarten geprüft. Unverzüglicher Planungsbericht, Ausnahme vom Textformregelfall, Kenntnisnahme versus Übermittlung und Weitergabe durch Vorsitzenden ergänzt.",
+      "official_doknr": "BJNR010890965BJNE010503123",
+      "statutory_text_sha256": "072f6310e7bbb106c79dfad4b32e8c41232bebf0eb20ba81c027f50cb51ea8f6",
+      "commentary_sha256": "5adfb16fd083817833ea75fbd460e59f88ec056b4f8d7150f80968c63a2967d9"
+    },
+    {
+      "id": "p91",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1 bis 3 geprüft. Allgemeine Buchführungs- und Frühwarnverantwortung von zusätzlichem Kontroll-/Risikomanagementsystem der börsennotierten Gesellschaft getrennt; keine Änderung nötig.",
+      "official_doknr": "BJNR010890965BJNE010602360",
+      "statutory_text_sha256": "0c048a63a490c0529c7d69703c4fd4010b58148007da627a2058e90b4229a940",
+      "commentary_sha256": "8f7ebbd9feffc0a370fa866e7e1c017dbd8d62be538429bf3aa9cc3989dc6e69"
+    },
+    {
+      "id": "p92",
+      "result": "reviewed_no_change",
+      "assessment": "Absatz 1 und weggefallener Absatz 2 geprüft. Halbkapitalverlust, unverzügliche Einberufung/Anzeige und eigenständige Insolvenzprüfung zutreffend; keine Änderung nötig.",
+      "official_doknr": "BJNR010890965BJNE010703360",
+      "statutory_text_sha256": "78f5092f493ca55ec43f451c07e5ee0134ca5235a9396229825651708bfe4507",
+      "commentary_sha256": "4161542da0533eee503d9f0acaa46e2afcaa91e13ee2073e7441a24e37944975"
+    },
+    {
+      "id": "p93",
+      "result": "reviewed_corrected",
+      "assessment": "Alle sechs Absätze und sämtlicher Fallkatalog geprüft. Selbstbehalt beziffert, Nummer 6 als weggefallen behandelt, Verzichtssperre und Ausnahmen präzisiert, Gläubigerdurchsetzung und Schutzlosigkeit von HV-Beschluss/Verzicht ergänzt; § 48 nachgelesen.",
+      "official_doknr": "BJNR010890965BJNE010811360",
+      "statutory_text_sha256": "8d944d339f45cd8c5a26ed896823e9a5e8a6e5aa755d45fe0b81eb4a2600b5b9",
+      "commentary_sha256": "ffbcebab9d40bc6c03beb5cd3ebf51ada879add20f4c08869ac49336f5229043"
+    },
+    {
+      "id": "p94",
+      "result": "reviewed_no_change",
+      "assessment": "Einzelsatz und thematische Checkliste geprüft. Organstellvertreter von interner Mitarbeitervertretung und individuelle Verantwortlichkeit unterschieden; unverändert.",
+      "official_doknr": "BJNR010890965BJNE010900308",
+      "statutory_text_sha256": "3fc68ab983f3a452ad48a4e7410f7e3e0aa60bd4af25ddf9dc91316c97413c22",
+      "commentary_sha256": "3965d06402c6a4b99523eb0fcabcbee18c9331b1904da027a0696af4a5c92559"
+    },
+    {
+      "id": "p95",
+      "result": "reviewed_no_change",
+      "assessment": "Gesetzliche Ausgangsgröße, Satzungsoption, nur bedingte Dreiteilbarkeit, Kapitalhöchstgrößen und Vorbehalt für Mitbestimmung geprüft; Beispiel vierköpfiges Gremium zulässig im beschriebenen Rahmen.",
+      "official_doknr": "BJNR010890965BJNE011104360",
+      "statutory_text_sha256": "d4f8a7b5c44e462ef0421f0fcfde6b3ccdc4628f9d2e816d235065d3c2461c05",
+      "commentary_sha256": "0d5779d2782698161d0de435c233df01e63592931b274cfc8d0de484bc60bbf4"
+    },
+    {
+      "id": "p96",
+      "result": "reviewed_corrected",
+      "assessment": "Alle vier Absätze geprüft. Widerspruchsweg, Rundung, nachträgliche Änderungen und Nichtigkeit präzisiert. Absatz 3 verweist gerade nicht auf die getrennte Erfüllungsoption des Absatzes 2 Satz 3.",
+      "official_doknr": "BJNR010890965BJNE011205360",
+      "statutory_text_sha256": "c0e88c3cca869f44bfc5f8dcfe8b6426b151ba2b0af1706b13d7c537761df0c0",
+      "commentary_sha256": "52e61376b271c96ac76a088c7282b38d9940ce960d45a02b861abbb1ddebdf42"
+    },
+    {
+      "id": "p97",
+      "result": "reviewed_corrected",
+      "assessment": "Alle drei Absätze geprüft. Exakter Amtswechselzeitpunkt, nur teilweise unwirksame Satzung, sämtliche bisherigen Ämter und begrenzte einfache Satzungsanpassung ergänzt.",
+      "official_doknr": "BJNR010890965BJNE011302360",
+      "statutory_text_sha256": "27b6a0c426154fbf1759478605af1632a3acfd79c1c73675c21966f909306bc5",
+      "commentary_sha256": "c4d8c469e8c6b5b5e67817c94936dd08a5b8aa1bca3efeb7b2ecd6dcc00e0f57"
+    },
+    {
+      "id": "p98",
+      "result": "reviewed_corrected",
+      "assessment": "Alle vier Absätze und zehn Antragsgruppen geprüft. Arbeitnehmerquoren, besondere MitbestG-Gruppen, streitige Vorschlagsrechte und Folgewirkungen der §-97-Verweisung ergänzt.",
+      "official_doknr": "BJNR010890965BJNE011405140",
+      "statutory_text_sha256": "b41b502e704038f81e5deb0f42e4d60a2a04c20331e0dd683561db7c98434bd2",
+      "commentary_sha256": "635e16c4a75a6c9fd8c4d56ad7494cbe80bc6b292cd6444550d4c425feef400b"
+    },
+    {
+      "id": "p99",
+      "result": "reviewed_corrected",
+      "assessment": "Alle sechs Absätze geprüft. Beschwerderecht aller Antragsberechtigten, Publikation/Zustellung, mögliche Konzentration der Beschwerdezuständigkeit und fehlende Beteiligtenkostenerstattung erläutert. Keine ungeprüfte FamFG-Frist beziffert.",
+      "official_doknr": "BJNR010890965BJNE011509301",
+      "statutory_text_sha256": "a6737cac102309ee7a04941671d1257674d1b1d8bc29b07a35a277a7bc09ec69",
+      "commentary_sha256": "b4d5bc9278937589f817b5c78a7522a89053a4d3b5c8eb87e01233af09e110f4"
+    },
+    {
+      "id": "p100",
+      "result": "reviewed_corrected",
+      "assessment": "Alle fünf Absätze geprüft. Konzernausnahme auf begünstigte Person und fünf Sitze begrenzt, Vorschlagsschwelle strikt mehr als 25 Prozent, weitere Mitglieder und begrenzte Satzungsdisposition präzisiert.",
+      "official_doknr": "BJNR010890965BJNE011611125",
+      "statutory_text_sha256": "acc29c6afc5049514321c46eddc6927731d2b311cea2ce08a59690e26cfc4910",
+      "commentary_sha256": "0da6b0f5d9d791dd8f03290586e71db296a8a3fe95cce5ac8a61e60f78540ce7"
+    },
+    {
+      "id": "p101",
+      "result": "reviewed_corrected",
+      "assessment": "Alle drei Absätze geprüft. Ausnahme für weiteres Montan-Mitglied, gleiches Bestellungs-/Mängelregime für Ersatzmitglieder und Bezugsgröße der Drittelgrenze ergänzt.",
+      "official_doknr": "BJNR010890965BJNE011704125",
+      "statutory_text_sha256": "0373fecacbfdfa8b146c2547272ec4baba3f5e3cf2ee3275c48bea1f45a852a1",
+      "commentary_sha256": "e03d87e4f0d36c38f3901efa2668c9ba82d05f2606a98a1f1d09c2b70e29cb59"
+    },
+    {
+      "id": "p102",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft. Höchstamtszeit nach Geschäftsjahren und Entlastungs-HV, Beispiel 2026 sowie begrenzte Ersatzamtszeit zutreffend. § 30 Absatz 3 nachgelesen.",
+      "official_doknr": "BJNR010890965BJNE011800308",
+      "statutory_text_sha256": "ea4f97b34d8051dccdaf68dfd526ff553990f26181f7b3bac33d5f7cab1bfbc0",
+      "commentary_sha256": "92ecc74050ed1320fe6f1d3bffce3b5f259949b466eb9ad259cd8b3e401a828e"
+    },
+    {
+      "id": "p103",
+      "result": "reviewed_corrected",
+      "assessment": "Alle fünf Absätze geprüft. Gerichtliche Pflicht statt freies Ermessen bei wichtigem Grund, Aktionärsquoren und Beschwerde ergänzt. Hauptversammlungsabberufung grundsätzlich ohne wichtigen Grund unterschieden.",
+      "official_doknr": "BJNR010890965BJNE011906125",
+      "statutory_text_sha256": "6a30b6f2cbb2895a4b2a81a5c2352eb289f7b3f06a1cbca99622faaad44f568c",
+      "commentary_sha256": "2a8e22c08e61a2033c9c1172f0f87bad07e2e711d6ffcc2ebc17c7d4e296a5d6"
+    },
+    {
+      "id": "p104",
+      "result": "reviewed_corrected",
+      "assessment": "Alle sieben Absätze einschließlich sämtlicher Antragsgruppen geprüft. Quoren, dringender Fall in Mitbestimmung, ausgenommenes Montan-Mitglied, eingeschränktes Seitenverhältnis bei Quorumsreparatur, Vorschläge, Quotenverweisung und Rechtsmittel/Vollstreckung ergänzt.",
+      "official_doknr": "BJNR010890965BJNE012005360",
+      "statutory_text_sha256": "7ed4161914c7bc0d130945ae9aaa3d9de2732d66b05e544d6e5423901aed8456",
+      "commentary_sha256": "83cf3c6113e35a04862b3ff9c355ae4077b46dbd55eed8d983f3cbfb68997d44"
+    }
+  ],
+  "limitations": [
+    "Genau 20 zugewiesene Einheiten geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Freigabe.",
+    "Keine dieser 20 Einheiten enthält eine konkrete Gerichtsentscheidung. Keine neue Rechtsprechungsrecherche oder Behauptung erschöpfender Fallrechtabdeckung; vorhandene Fallkarten außerhalb dieses Auftrags nicht erneut geprüft.",
+    "Externe Verfahrens- und Spezialgesetze nur anhand der ausdrücklichen AktG-Verweisungen beschrieben; keine vollständige Prüfung ihrer eigenständigen Voraussetzungen.",
+    "Aktuelle amtliche Konsolidierung, Versionsgleichheit und Inkrafttreten der letzten ausgewiesenen Novelle geprüft; keine lückenlose Auswertung sämtlicher späterer Bundesgesetzblätter.",
+    "165 außerhalb des Auftrags fehlende Kommentare verhindern den Gesamtbuild und die strenge Gesamtvalidierung. Kapitel 04/05 als ausdrücklich partieller Checkpoint im Builderformat gerendert."
+  ],
+  "verified_at": "2026-10-20T23:21:06.120041+00:00",
+  "statutory_text_agreement_assigned": 1.0,
+  "source_xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+  "full_book_complete": false,
+  "whole_book_validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 393,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 299529,
+    "errors": [
+      "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "bounded_review_validation": "passed: 20 assigned units; 100% statutory text agreement; no outside-scope commentary edits; chapters 04/05 rendered as partial checkpoint"
+}
