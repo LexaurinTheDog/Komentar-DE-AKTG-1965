@@ -225,6 +225,18 @@
       "format_validated": "ZIP opened; AktG XML parsed; bytewise canonical comparison",
       "same_as_canonical": true,
       "reviewed_scope": "p20–p37 including p33a and p36a"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:12:31.069633+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p37a-p56.zip",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_path": "sources/review-p37a-p56.xml",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP containing parsed AktG XML",
+      "same_as_canonical": true
     }
   ]
 }

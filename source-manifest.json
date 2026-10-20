@@ -102,9 +102,19 @@
       "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d"
     },
     {
+      "path": "sources/review-p37a-p56.xml",
+      "bytes": 700066,
+      "sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea"
+    },
+    {
+      "path": "sources/review-p37a-p56.zip",
+      "bytes": 140159,
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d"
+    },
+    {
       "path": "sources/verification.json",
-      "bytes": 10193,
-      "sha256": "e4e1df540eafae0a3249becd3254155aaa261031ef5ee1b43a4696972a0454aa"
+      "bytes": 10752,
+      "sha256": "62a181d9862fe23527c040f6494c5429722a71a8e4e620cacbe6a38c98ada134"
     },
     {
       "path": "authorities/KORE300612013.md",
