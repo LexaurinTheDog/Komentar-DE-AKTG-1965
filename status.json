@@ -6,7 +6,7 @@
   "remaining_units": 165,
   "validation_result": {
     "ok": false,
-    "reason": "165 außerhalb dieses Auftrags fehlende Kommentare; begrenzte Prüfung p86–p104 einschließlich p87a abgeschlossen",
+    "reason": "165 außerhalb dieses Auftrags fehlende Kommentare; begrenzte Prüfung p105–p120 einschließlich p111a–p111c und p118a abgeschlossen",
     "raw_xml_verbatim_ratio": 1.0,
     "completeness": true,
     "full_build_exit_code": 1,
@@ -14,7 +14,7 @@
       "repo": "Komentar-DE-AKTG-1965",
       "units": 393,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 299529,
+      "commentary_chars": 309395,
       "errors": [
         "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
       ],
@@ -22,11 +22,11 @@
       "ok": false
     },
     "verbatim_ratio": 1.0,
-    "bounded_review_evidence": "review-checks-batch-006.json"
+    "bounded_review_evidence": "review-checks-batch-007.json"
   },
   "independent_review": false,
-  "checkpoint": "review-result-batch-006.json",
-  "updated_at": "2026-10-20T23:21:06.120041+00:00",
+  "checkpoint": "review-result-batch-007.json",
+  "updated_at": "2026-10-20T23:25:23.767181+00:00",
   "complete": false,
   "remaining_unit_ids": [
     "p207",
@@ -201,11 +201,11 @@
   "commented_scope": "Eingangsformel und §§ 1–206, including inserted and explicit empty/grouped slots",
   "source_checks": {
     "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
-    "accessed_at": "2026-10-20T23:19:27.625390+00:00",
+    "accessed_at": "2026-10-20T23:22:16.966461+00:00",
     "http_status": 200,
     "content_type": "application/zip",
-    "path": "sources/review-p86-p104.zip",
-    "xml_path": "sources/review-p86-p104.xml",
+    "path": "sources/review-p105-p120.zip",
+    "xml_path": "sources/review-p105-p120.xml",
     "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
     "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
     "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
@@ -257,30 +257,35 @@
   },
   "latest_bounded_review": {
     "reviewed_ids": [
-      "p86",
-      "p87",
-      "p87a",
-      "p88",
-      "p89",
-      "p90",
-      "p91",
-      "p92",
-      "p93",
-      "p94",
-      "p95",
-      "p96",
-      "p97",
-      "p98",
-      "p99",
-      "p100",
-      "p101",
-      "p102",
-      "p103",
-      "p104"
+      "p105",
+      "p106",
+      "p107",
+      "p108",
+      "p109",
+      "p110",
+      "p111",
+      "p111a",
+      "p111b",
+      "p111c",
+      "p112",
+      "p113",
+      "p114",
+      "p115",
+      "p116",
+      "p117",
+      "p118",
+      "p118a",
+      "p119",
+      "p120"
     ],
     "units_reviewed": 20,
     "complete": true,
-    "evidence": "review-result-batch-006.json"
+    "evidence": "review-result-batch-007.json",
+    "case_law_sources": [
+      "authorities/KORE300612013.xml",
+      "authorities/KORE302052021.xml",
+      "authorities/II-ZR-155-02.pdf"
+    ]
   },
   "validation": {
     "repo": "Komentar-DE-AKTG-1965",

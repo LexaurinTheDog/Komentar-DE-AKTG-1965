@@ -276,6 +276,39 @@
       "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
       "same_as_canonical": true,
       "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:22:16.966461+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p105-p120.zip",
+      "xml_path": "sources/review-p105-p120.xml",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+      "same_as_canonical": true,
+      "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    }
+  ],
+  "bgh_search_batch_007": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html?resourceId=373186&input_=373178&pageLocale=de&templateQueryString=155%2F02&startDate=2004-04-26&endDate=2004-04-26",
+      "resolved_url": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html?resourceId=373186&input_=373178&pageLocale=de&templateQueryString=155%2F02&startDate=2004-04-26&endDate=2004-04-26",
+      "accessed_at": "2026-10-20T23:25:59.224348+00:00",
+      "http_status": 200,
+      "path": "sources/bgh-gelatine-search.html",
+      "sha256": "c290c8254bbd38c74f130cfab81664d50e5ed009a91c1828ea71f33cffe27849",
+      "format_validated": "HTML; official BGH decision-search page; legacy endpoint redirects to current search"
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/list.py?Gericht=bgh&Art=en&Datum=2004-4-26",
+      "resolved_url": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html",
+      "accessed_at": "2026-10-20T23:26:00.089332+00:00",
+      "http_status": 200,
+      "path": "sources/bgh-2004-04-26-index.html",
+      "sha256": "0210b085ce0acec9c4df88a06d6a782b9ee3c4f0e680a1cc3c4e3d9c8e34705d",
+      "format_validated": "HTML; official BGH decision-search page; legacy endpoint redirects to current search"
     }
   ]
 }

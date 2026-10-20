@@ -1,0 +1,41 @@
+{
+  "checked_at": "2026-10-20T23:24:26.951699+00:00",
+  "scope": [
+    "p112",
+    "p113",
+    "p114",
+    "p119"
+  ],
+  "searches": [
+    {
+      "query": "II ZR 155/02",
+      "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+      "result": "Kein direkter Metadatentreffer bei case_number; amtliche BGH-Suche genutzt."
+    },
+    {
+      "query": "II ZR 155/02; 26.04.2004",
+      "official_search": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html",
+      "snapshot": "sources/bgh-gelatine-search.html",
+      "result": "Amtliches PDF gefunden, vollständig gelesen."
+    }
+  ],
+  "existing_fulltexts_read": [
+    {
+      "path": "authorities/KORE300612013.md",
+      "sha256": "081e273e4442715d167266e780045974a141e6e042a46ca107e3886ff95d07f6"
+    },
+    {
+      "path": "authorities/KORE300612013.xml",
+      "sha256": "eb05247216a57587ff7aecc2ce96802d68f23fa1fc7c316b66d643e4ab95cd6a"
+    },
+    {
+      "path": "authorities/KORE302052021.md",
+      "sha256": "8ebbb7adc1579ceda7b5f0d48513b8eb0095e60391e6a05849944627ccf663a1"
+    },
+    {
+      "path": "authorities/KORE302052021.xml",
+      "sha256": "d100c6c14f7c90e9f49620681c0c0706c956a7b3fb4031a994274af16db82b5a"
+    }
+  ],
+  "limits": "Selektive Prüfung der zitierten Entscheidungen; keine erschöpfende Folgejudikaturrecherche. Keine konkrete Fallquelle für die übrigen Einheiten hinzugefügt."
+}

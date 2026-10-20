@@ -1,0 +1,63 @@
+{
+  "reviewed_ids": [
+    "p105",
+    "p106",
+    "p107",
+    "p108",
+    "p109",
+    "p110",
+    "p111",
+    "p111a",
+    "p111b",
+    "p111c",
+    "p112",
+    "p113",
+    "p114",
+    "p115",
+    "p116",
+    "p117",
+    "p118",
+    "p118a",
+    "p119",
+    "p120"
+  ],
+  "units_reviewed": 20,
+  "corrected_ids": [
+    "p107",
+    "p111",
+    "p111a",
+    "p111b",
+    "p112",
+    "p113",
+    "p114",
+    "p115",
+    "p117",
+    "p118a",
+    "p119",
+    "p120"
+  ],
+  "outside_scope_commentary_changes": [],
+  "assigned_statutory_text_agreement": 1.0,
+  "source_expected_units": 393,
+  "source_parsed_units": 393,
+  "missing": [],
+  "duplicates": [],
+  "annex_records": [],
+  "broken_local_links": [],
+  "repeated_long_sentences": [],
+  "checkpoint_rendered_chapters": [
+    5,
+    6
+  ],
+  "batch_checks_ok": true,
+  "full_book_complete": false,
+  "checkpoint_links_checked": true,
+  "checkpoint_broken_links": [],
+  "full_build_exit_code": 1,
+  "full_build_blocker": "165 uncommented units outside assigned scope",
+  "case_fulltexts_read": [
+    "II ZR 179/12",
+    "II ZR 225/20",
+    "II ZR 155/02"
+  ]
+}

@@ -8,4 +8,4 @@ Rn. 12–19: Ein Verstoß gegen § 57 macht weder das Verpflichtungs- noch das E
 
 **Zeitliche Grenze:** Rn. 21 wendet aufgrund des historischen Leistungszeitpunkts die damalige fünfjährige Frist des § 62 Absatz 3 an. Der hier verifizierte aktuelle Gesetzestext nennt zehn Jahre. Die alte Frist wird nicht in die heutige Kommentierung übertragen. Die Entscheidung trägt die Aussage zur Rechtsfolgenstruktur, nicht eine pauschale Freistellung von Geschäften mit Aktionären oder eine abschließende Bewertung aller Vertretungskonflikte.
 
-Unterstützte Einheiten: §§ 57 und 62. Selektive Entscheidungsauswahl, keine vollständige Nachweis- oder Aktualitätskette sämtlicher Folgeentscheidungen.
+Unterstützte Einheiten: §§ 57 und 62 sowie § 112 (Rn. 9–10). Selektive Entscheidungsauswahl, keine vollständige Nachweis- oder Aktualitätskette sämtlicher Folgeentscheidungen.
