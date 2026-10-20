@@ -1,0 +1,9 @@
+# Autorencheckpoint §§ 239–255a
+
+Genau 20 zugewiesene Einheiten sind mit eigenständigem deutschem Kommentar versehen: §§ 239–248, 246a, 248a, 249–255 und 255a. Umfang: 39.513 Zeichen Kommentar. Alle 20 Gesetzeswortlaute stimmen vollständig mit dem frisch abgerufenen amtlichen XML überein. Die unabhängige Kennungsinventur umfasst 393 amtliche Einheiten einschließlich Eingangsformel und gemeinsam ausgewiesener weggefallener Nummerngruppen; keine fehlenden oder doppelten Kennungen, keine operative Anlage. Die bereits reparierte Eingangsformel blieb erhalten.
+
+Belege: [Einzelprüfungen](author-result-p239-p255a.json), [Vollständigkeitsinventur](completeness-author-p239-p255a.json), [amtlicher Abruf mit HTTP-Ergebnis und Hashwerten](sources/author-p239-p255a-verification.json), [Rechtsstand und Inkrafttreten](preflight-result.json), [Suchprotokoll und gesicherter Fehlabruf](authorities/search-log-p239-p255a.json), [strikte Gesamtvalidierung](validation-author-p239-p255a.json).
+
+Der unveränderte Gesamtbuilder wurde ausgeführt und stoppt an 113 fehlenden Kommentaren außerhalb dieses Auftrags. Kapitel 12 ist vollständig neu gerendert; die genau zugewiesenen 20 Einheiten sind zusätzlich im ausdrücklich begrenzten [Teilcheckpoint](CHECKPOINT-p239-p255a.md) enthalten. Keine Gesamtbuchfertigstellung. Die Autorenprüfung ist keine unabhängige Zweitprüfung und keine externe anwaltliche Freigabe. Längenmessung und Wiederholungsvergleich belegen keine umfassende rechtliche Qualität.
+
+Keine neue Gerichtsentscheidung zitiert: Der versuchte amtliche Volltextabruf lieferte kein PDF. Suchtreffer allein wurden nicht als Autorität verwendet. Die Recherche bleibt selektiv. Für §§ 255 und 255a wurde der aktuelle Wortlaut zugrunde gelegt, keine ältere Rechtslage zum Bewertungsausschluss übernommen. Die redaktionelle Verweisunstimmigkeit in § 255 Absatz 5 Satz 2 ist ausdrücklich erläutert.

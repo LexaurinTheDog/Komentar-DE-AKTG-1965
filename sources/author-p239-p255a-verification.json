@@ -1,0 +1,12 @@
+{
+  "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+  "accessed_at": "2026-10-20T23:54:37.374338+00:00",
+  "http_status": 200,
+  "content_type": "application/zip",
+  "path": "sources/author-p239-p255a.zip",
+  "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+  "xml_path": "sources/author-p239-p255a.xml",
+  "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+  "matches_canonical": true,
+  "validated_format": "ZIP containing parsed AktG XML"
+}

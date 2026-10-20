@@ -1,0 +1,258 @@
+{
+  "complete": true,
+  "task": "bounded_authoring",
+  "assigned_ids": [
+    "p239",
+    "p240",
+    "p241",
+    "p242",
+    "p243",
+    "p244",
+    "p245",
+    "p246",
+    "p246a",
+    "p247",
+    "p248",
+    "p248a",
+    "p249",
+    "p250",
+    "p251",
+    "p252",
+    "p253",
+    "p254",
+    "p255",
+    "p255a"
+  ],
+  "completed_units": 20,
+  "checks": [
+    {
+      "id": "p239",
+      "commentary_chars": 1642,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 239",
+        "§§ 237",
+        "§ 238",
+        "§ 239"
+      ]
+    },
+    {
+      "id": "p240",
+      "commentary_chars": 1690,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 240",
+        "§§ 229"
+      ]
+    },
+    {
+      "id": "p241",
+      "commentary_chars": 1779,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 241",
+        "§ 243",
+        "§§ 250",
+        "§ 242",
+        "§ 243",
+        "§ 241"
+      ]
+    },
+    {
+      "id": "p242",
+      "commentary_chars": 1872,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 242",
+        "§ 241",
+        "§ 121",
+        "§ 246a",
+        "§ 241"
+      ]
+    },
+    {
+      "id": "p243",
+      "commentary_chars": 2142,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 245"
+      ]
+    },
+    {
+      "id": "p244",
+      "commentary_chars": 1755,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 244",
+        "§ 244"
+      ]
+    },
+    {
+      "id": "p245",
+      "commentary_chars": 1881,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 245",
+        "§ 243"
+      ]
+    },
+    {
+      "id": "p246",
+      "commentary_chars": 1990,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 245",
+        "§ 148"
+      ]
+    },
+    {
+      "id": "p246a",
+      "commentary_chars": 2172,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§§ 182"
+      ]
+    },
+    {
+      "id": "p247",
+      "commentary_chars": 1899,
+      "official_text_equal": true,
+      "statutory_cross_references": []
+    },
+    {
+      "id": "p248",
+      "commentary_chars": 1738,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 242",
+        "§ 246a"
+      ]
+    },
+    {
+      "id": "p248a",
+      "commentary_chars": 2020,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 248a",
+        "§ 246",
+        "§ 248",
+        "§ 149",
+        "§ 149",
+        "§ 248a"
+      ]
+    },
+    {
+      "id": "p249",
+      "commentary_chars": 1931,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 246",
+        "§ 245",
+        "§ 246a",
+        "§ 241",
+        "§ 242"
+      ]
+    },
+    {
+      "id": "p250",
+      "commentary_chars": 1931,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 250",
+        "§ 241",
+        "§ 241",
+        "§ 100",
+        "§ 96",
+        "§ 252",
+        "§ 100"
+      ]
+    },
+    {
+      "id": "p251",
+      "commentary_chars": 1893,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 250",
+        "§ 251",
+        "§ 243",
+        "§ 244",
+        "§ 245",
+        "§ 245",
+        "§ 246",
+        "§ 252",
+        "§ 248"
+      ]
+    },
+    {
+      "id": "p252",
+      "commentary_chars": 1974,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 252",
+        "§ 250",
+        "§ 251",
+        "§ 250"
+      ]
+    },
+    {
+      "id": "p253",
+      "commentary_chars": 1799,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 256",
+        "§§ 173",
+        "§ 241",
+        "§ 254",
+        "§ 249",
+        "§ 246"
+      ]
+    },
+    {
+      "id": "p254",
+      "commentary_chars": 2071,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 254",
+        "§ 243"
+      ]
+    },
+    {
+      "id": "p255",
+      "commentary_chars": 2705,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 255",
+        "§ 243",
+        "§ 243",
+        "§§ 244",
+        "§ 186",
+        "§§ 255a",
+        "§ 255a"
+      ]
+    },
+    {
+      "id": "p255a",
+      "commentary_chars": 2629,
+      "official_text_equal": true,
+      "statutory_cross_references": [
+        "§ 255",
+        "§ 72a",
+        "§ 255b",
+        "§ 255a",
+        "§ 304",
+        "§ 255",
+        "§ 255b"
+      ]
+    }
+  ],
+  "repeated_long_paragraphs": 0,
+  "statutory_text_agreement": 1.0,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "limitations": [
+    "Keine neue Gerichtsentscheidung zitiert: amtlicher Volltextabruf nicht erfolgreich.",
+    "Keine erschöpfende Rechtsprechungsrecherche.",
+    "Gesamtbuilder und strikte Gesamtvalidierung bleiben wegen 113 fehlender Kommentare außerhalb des Auftrags unvollständig.",
+    "Autorenprüfung ersetzt keine unabhängige Zweitprüfung."
+  ]
+}
