@@ -197,5 +197,28 @@
   "verified_at": "2026-10-20T23:08:12.622937+00:00",
   "source_xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
   "full_book_complete": false,
-  "statutory_text_agreement_assigned": 1.0
+  "statutory_text_agreement_assigned": 1.0,
+  "technical_validation": {
+    "assigned_text_agreement": 1.0,
+    "assigned_units_with_commentary": 20,
+    "global_strict_validator": {
+      "repo": "Komentar-DE-AKTG-1965",
+      "units": 393,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 274017,
+      "errors": [
+        "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "full_build_exit_code": 1,
+    "partial_checkpoint_rendered": 228,
+    "parser_expected_count": 393,
+    "parser_parsed_count": 393,
+    "missing_official_ids": [],
+    "duplicate_official_ids": [],
+    "broken_local_links": [],
+    "repeated_long_sentences": []
+  }
 }

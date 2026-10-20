@@ -6,7 +6,7 @@
   "remaining_units": 165,
   "validation_result": {
     "ok": false,
-    "reason": "165 unassigned units remain unauthored; Eingangsformel batch complete",
+    "reason": "165 unassigned units remain unauthored; bounded review of Eingangsformel and p1–p19 complete",
     "raw_xml_verbatim_ratio": 1.0,
     "completeness": true,
     "full_build_exit_code": 1,
@@ -14,14 +14,15 @@
       "repo": "Komentar-DE-AKTG-1965",
       "units": 393,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 272569,
+      "commentary_chars": 274017,
       "errors": [
-        "165 unassigned commentary units missing (§ 207 onward)"
+        "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
-    "verbatim_ratio": 1.0
+    "verbatim_ratio": 1.0,
+    "bounded_review_evidence": "review-batch-validation.json"
   },
   "independent_review": false,
   "checkpoint": "commentary/part-00-eingangsformel.md",
