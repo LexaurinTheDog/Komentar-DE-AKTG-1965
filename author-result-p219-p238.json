@@ -1,0 +1,181 @@
+{
+  "task": "author",
+  "assigned_ids": [
+    "p219",
+    "p220",
+    "p221",
+    "p222",
+    "p223",
+    "p224",
+    "p225",
+    "p226",
+    "p227",
+    "p228",
+    "p229",
+    "p230",
+    "p231",
+    "p232",
+    "p233",
+    "p234",
+    "p235",
+    "p236",
+    "p237",
+    "p238"
+  ],
+  "completed_units": 20,
+  "total_units": 393,
+  "batch_complete": true,
+  "full_book_complete": false,
+  "verified_at": "2026-10-20T23:50:43.659573+00:00",
+  "checks": [
+    {
+      "id": "p219",
+      "commentary_chars": 1424,
+      "statutory_text_match": true,
+      "commentary_sha256": "08f394a58216fbe176aa226d275c38cd25e0a9644713058f6022e20209e2c4ae"
+    },
+    {
+      "id": "p220",
+      "commentary_chars": 1529,
+      "statutory_text_match": true,
+      "commentary_sha256": "cc3e5db8ec2b8dee663500e06d2fcaadaa4a06bd35ef0a056abbc03fc01e5184"
+    },
+    {
+      "id": "p221",
+      "commentary_chars": 2316,
+      "statutory_text_match": true,
+      "commentary_sha256": "c263265d26f024be3b88237d262215111b58f82ac25cd09348d1c57d6ec4969d"
+    },
+    {
+      "id": "p222",
+      "commentary_chars": 1604,
+      "statutory_text_match": true,
+      "commentary_sha256": "1a6d87f3c1a33f9f15525c8f504e29566811c285d0e36f5e22998a830f399c7e"
+    },
+    {
+      "id": "p223",
+      "commentary_chars": 1477,
+      "statutory_text_match": true,
+      "commentary_sha256": "cf91084b64683a072e1b0f21fd791c24260ae12d384061d2801ddf0aa07523e5"
+    },
+    {
+      "id": "p224",
+      "commentary_chars": 1452,
+      "statutory_text_match": true,
+      "commentary_sha256": "f25e576eccdc1fd1efe2b7dca4a5e9111eea178e84612dd71d44a07045dd4aff"
+    },
+    {
+      "id": "p225",
+      "commentary_chars": 1837,
+      "statutory_text_match": true,
+      "commentary_sha256": "b4ce117bb1ae1c698918eca03bf4a139f9645719e0721fc7666ebfbdcda23bf5"
+    },
+    {
+      "id": "p226",
+      "commentary_chars": 1913,
+      "statutory_text_match": true,
+      "commentary_sha256": "87ac6a87b0828d769dc3e88b0be2d255f4ede6f75d4b3607001f97257a960e7c"
+    },
+    {
+      "id": "p227",
+      "commentary_chars": 1452,
+      "statutory_text_match": true,
+      "commentary_sha256": "86ff15c37e8d6fcbc2424320ef3585095c1fc2535b101bf56133a8d52db8a922"
+    },
+    {
+      "id": "p228",
+      "commentary_chars": 1590,
+      "statutory_text_match": true,
+      "commentary_sha256": "d6201271efede1ea2e0b3f71f0912e14b8046e7cc13b311b6a017b7e52afa691"
+    },
+    {
+      "id": "p229",
+      "commentary_chars": 1769,
+      "statutory_text_match": true,
+      "commentary_sha256": "b17847452eaf1156af8939d327f302de8a2560b9d4bc1d0346b307bc8a9bfb0d"
+    },
+    {
+      "id": "p230",
+      "commentary_chars": 1455,
+      "statutory_text_match": true,
+      "commentary_sha256": "aa36154c8da5d861f66664a88f5497a49b604242f5709ab365719d9a69b3cd40"
+    },
+    {
+      "id": "p231",
+      "commentary_chars": 1629,
+      "statutory_text_match": true,
+      "commentary_sha256": "03b81db819d4e19bb024b5db05c8d9bb461d6342891c1ccebceccaecaf854019"
+    },
+    {
+      "id": "p232",
+      "commentary_chars": 1681,
+      "statutory_text_match": true,
+      "commentary_sha256": "a15d5935ae2e5a4d0640b2c9aef137ed80ec4b8b8da168963fff5b21baaaf791"
+    },
+    {
+      "id": "p233",
+      "commentary_chars": 1975,
+      "statutory_text_match": true,
+      "commentary_sha256": "18c69da50feb3556bc3940a954d8a3e3a914eade94571e7a5c4cabb9d5228c95"
+    },
+    {
+      "id": "p234",
+      "commentary_chars": 1670,
+      "statutory_text_match": true,
+      "commentary_sha256": "d4939b6f837b975b9201484981810e5dc8c39dd0b0be3b374896cd82ec3f577e"
+    },
+    {
+      "id": "p235",
+      "commentary_chars": 1672,
+      "statutory_text_match": true,
+      "commentary_sha256": "0e5b74b7f0d34a895f68ad8025a2ca9ae08f138e56eba609f1aa899ed91ad11e"
+    },
+    {
+      "id": "p236",
+      "commentary_chars": 1783,
+      "statutory_text_match": true,
+      "commentary_sha256": "33685044d73d947d18fc93a6326e02a8e7a4794ae824bc1b82eb7ca55dd09e57"
+    },
+    {
+      "id": "p237",
+      "commentary_chars": 2496,
+      "statutory_text_match": true,
+      "commentary_sha256": "ffec1d539a7c3fb7b70e8bd92fe32f2d2010813d384159eeb2d8f0b7e4662015"
+    },
+    {
+      "id": "p238",
+      "commentary_chars": 1746,
+      "statutory_text_match": true,
+      "commentary_sha256": "8ea7e4bdf36c47b8a908e82b3e04612efac282dce75233964aa3389c0d96c9a9"
+    }
+  ],
+  "completeness": {
+    "expected": 393,
+    "parsed": 393,
+    "missing": [],
+    "duplicates": [],
+    "annex_disposition": "Keine Anlage oder Anhang im amtlichen XML; bestehende vollständige Klassifikation im completeness-report.json."
+  },
+  "repeated_long_sentences": [],
+  "strict_validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 393,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 386654,
+    "errors": [
+      "krátký/chybějící komentář u 133 jednotek: ['p239(0<400)', 'p240(0<400)', 'p241(0<400)', 'p242(0<400)', 'p243(0<400)', 'p244(0<400)', 'p245(0<400)', 'p246(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "full_build_result": "Blocked by 133 uncommented units outside assigned batch; shared builder executed without modification.",
+  "rendered_files": [
+    "11-gesellschaftsmittel.md",
+    "12-kapitalherabsetzung-teilcheckpoint-p222-p238.md"
+  ],
+  "limitations": [
+    "Autorenprüfung, keine unabhängige zweite Durchsicht.",
+    "Selektive Rechtsprechungsrecherche; kein neuer geprüfter Volltextnachweis übernommen.",
+    "Keine Gesamtbuchfertigstellung; §§ 239 ff. außerhalb dieses Batches bleiben offen."
+  ]
+}

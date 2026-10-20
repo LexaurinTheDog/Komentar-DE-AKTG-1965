@@ -1,8 +1,8 @@
 {
-  "stage": "reviewing",
+  "stage": "authoring_batch_checkpoint",
   "decisive_date": "2026-10-19",
   "total_units": 393,
-  "completed_units": 240,
+  "completed_units": 260,
   "remaining_units": 153,
   "validation_result": {
     "ok": false,
@@ -24,30 +24,10 @@
     "bounded_review_evidence": "review-checks-batch-012.json"
   },
   "independent_review": false,
-  "checkpoint": "review-result-batch-012.json",
-  "updated_at": "2026-10-20T23:46:09.174075+00:00",
+  "checkpoint": "author-result-p219-p238.json",
+  "updated_at": "2026-10-20T23:50:43.659573+00:00",
   "complete": false,
   "remaining_unit_ids": [
-    "p219",
-    "p220",
-    "p221",
-    "p222",
-    "p223",
-    "p224",
-    "p225",
-    "p226",
-    "p227",
-    "p228",
-    "p229",
-    "p230",
-    "p231",
-    "p232",
-    "p233",
-    "p234",
-    "p235",
-    "p236",
-    "p237",
-    "p238",
     "p239",
     "p240",
     "p241",
@@ -205,12 +185,9 @@
     "KORE302052021"
   ],
   "remaining_limitations": [
-    "165 statutory units from § 207 onward require commentary.",
-    "No successful full build or complete strict validation.",
-    "No independent second pass.",
-    "Selective case-law research only; no exhaustive later-citation check.",
-    "External cross-referenced statutes not comprehensively commented or verified.",
-    "No line-by-line screening of all later gazettes beyond current official consolidation and last listed amendment."
+    "Autorenprüfung, keine unabhängige zweite Durchsicht.",
+    "Selektive Rechtsprechungsrecherche; kein neuer geprüfter Volltextnachweis übernommen.",
+    "Keine Gesamtbuchfertigstellung; §§ 239 ff. außerhalb dieses Batches bleiben offen."
   ],
   "preflight_complete": true,
   "bounded_author_result": "eingangsformel-result.json",
@@ -273,14 +250,41 @@
     ]
   },
   "validation": {
-    "repo": "Komentar-DE-AKTG-1965",
-    "units": 393,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 276193,
-    "errors": [
-      "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
-    ],
-    "warnings": [],
-    "ok": false
-  }
+    "strict_validator": {
+      "repo": "Komentar-DE-AKTG-1965",
+      "units": 393,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 386654,
+      "errors": [
+        "krátký/chybějící komentář u 133 jednotek: ['p239(0<400)', 'p240(0<400)', 'p241(0<400)', 'p242(0<400)', 'p243(0<400)', 'p244(0<400)', 'p245(0<400)', 'p246(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "batch_complete": true,
+    "full_book_complete": false
+  },
+  "last_author_batch": [
+    "p219",
+    "p220",
+    "p221",
+    "p222",
+    "p223",
+    "p224",
+    "p225",
+    "p226",
+    "p227",
+    "p228",
+    "p229",
+    "p230",
+    "p231",
+    "p232",
+    "p233",
+    "p234",
+    "p235",
+    "p236",
+    "p237",
+    "p238"
+  ]
 }

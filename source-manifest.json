@@ -227,6 +227,11 @@
       "sha256": "f5ea87b3b818e8ce3a4eaf1654631c4487ccdba4b0495be16b93826a0e960691"
     },
     {
+      "path": "authorities/search-log-p219-p238.json",
+      "bytes": 811,
+      "sha256": "68d7fab7f599eb87a1f9c50993374d434abcc6cf5439d18320b70a57a4bf011e"
+    },
+    {
       "path": "authorities/search-log.json",
       "bytes": 1455,
       "sha256": "44930451830731047547ef64cb39af46171ccf4b55f843b065fcc7bd98042dfb"
@@ -275,6 +280,21 @@
       "path": "sources/author-p207-p218.xml",
       "bytes": 700066,
       "sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea"
+    },
+    {
+      "path": "sources/author-p219-p238-verification.json",
+      "bytes": 512,
+      "sha256": "36dfb444a0f8ef8710bd0ad5c3a785341664ca73fabd8e48eec806602b43f5f5"
+    },
+    {
+      "path": "sources/author-p219-p238.xml",
+      "bytes": 700066,
+      "sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea"
+    },
+    {
+      "path": "sources/author-p219-p238.zip",
+      "bytes": 140159,
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d"
     },
     {
       "path": "sources/bgbl-2026-I-33-index.html",
@@ -473,8 +493,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 18860,
-      "sha256": "24f14b9cea6d3f82e4da15dc654f3b31dbde0ddf2b837fbd19d4f5378b6fec12"
+      "bytes": 19421,
+      "sha256": "eb1f631d71055584eecf94203997ccba7fdebed619732b5832549d2183fe05c5"
     }
   ]
 }
