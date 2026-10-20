@@ -197,5 +197,17 @@
   "verified_at": "2026-10-20T23:18:48.797172+00:00",
   "statutory_text_agreement_assigned": 1.0,
   "source_xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
-  "full_book_complete": false
+  "full_book_complete": false,
+  "whole_book_validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 393,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 287180,
+    "errors": [
+      "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "bounded_review_validation": "passed: 20 units; official text agreement 1.0; no outside-scope commentary edits"
 }
