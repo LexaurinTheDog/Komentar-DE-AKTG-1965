@@ -2,7 +2,7 @@
 
 [Einleitung](00-einleitung.md)
 
-227 von 392 amtlichen Datensätzen sind kommentiert. Die folgenden Kapitel sind enthalten; der Rest des Gesamtvorhabens ist offen.
+227 von 393 amtlichen Datensätzen sind kommentiert. Die folgenden Kapitel sind enthalten; der Rest des Gesamtvorhabens ist offen.
 
 - [Grundlagen und Unternehmensverbindungen](01-grundlagen.md)
 - [Gründung und Nachgründung](02-gruendung.md)

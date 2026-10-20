@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "sources/aktg-canonical.md",
-      "bytes": 517483,
-      "sha256": "39fc9c40e7e10a6b99ec178828c14765e2cdc26b946747ddc3210e50da85dbec"
+      "bytes": 517488,
+      "sha256": "ebfafc587c459f8d2ae9870ab657c902f9ffd7220aa04fe4caea8aba027fd9f1"
     },
     {
       "path": "sources/aktg.xml",
@@ -62,9 +62,34 @@
       "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d"
     },
     {
+      "path": "sources/recheck-2026-10-21-bgbl-33.pdf",
+      "bytes": 1222431,
+      "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af"
+    },
+    {
+      "path": "sources/recheck-2026-10-21-gesamt.html",
+      "bytes": 828034,
+      "sha256": "ee89b3141fcf64224f308506e3104205e485d6758127b44af86c9ef04bab8415"
+    },
+    {
+      "path": "sources/recheck-2026-10-21-index.html",
+      "bytes": 86032,
+      "sha256": "ba682e51e232d273e465e84f250e3a583c094aef054430ee8c010260bc0bb54e"
+    },
+    {
+      "path": "sources/recheck-2026-10-21.xml",
+      "bytes": 700066,
+      "sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea"
+    },
+    {
+      "path": "sources/recheck-2026-10-21.zip",
+      "bytes": 140159,
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d"
+    },
+    {
       "path": "sources/verification.json",
-      "bytes": 3205,
-      "sha256": "1aeb2b58f125f3c2d55d7b72c85ce92e26659ec58d55ace9d148699b2df8ae84"
+      "bytes": 6448,
+      "sha256": "88838838dd3fcecbd9ba925197de76873a75bf36fb662a3c51fcdc6b4b6ae410"
     },
     {
       "path": "authorities/KORE300612013.md",

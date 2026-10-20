@@ -1,0 +1,60 @@
+{
+  "complete": true,
+  "task": "bounded_source_parser_preflight",
+  "decisive_date": "2026-10-19",
+  "preflight_local_date": "2026-10-21",
+  "official_url": "https://www.gesetze-im-internet.de/aktg/",
+  "verified_at": "2026-10-20T23:05:09.121271+00:00",
+  "version_evidence": {
+    "decisive_date": "2026-10-19",
+    "rechecked_local_date": "2026-10-21",
+    "timezone": "Europe/Prague",
+    "verified_at": "2026-10-20T23:05:09.121271+00:00",
+    "stand": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33",
+    "unchanged_since_prior_fetch": true,
+    "effective_p8_cent_rule_present": true,
+    "future_2030_publicity_additions_absent": {
+      "§ 120a": true,
+      "§ 130": true,
+      "§ 134b": true,
+      "§ 134c": true,
+      "§ 134d": true
+    },
+    "commencement_evidence": "sources/bgbl-2026-I-33.txt: Artikel 23 (Seite 36), Artikel 64 Absätze 1 und 8 (Seiten 64–65)",
+    "limitations": [
+      "No comprehensive screening of all subsequent gazettes; current official consolidation and its latest listed amending enactment checked."
+    ]
+  },
+  "historical_versions_checked": {
+    "intake_xml": "sources/intake-2026-10-01.xml",
+    "current_xml": "sources/aktg.xml",
+    "recheck_xml": "sources/recheck-2026-10-21.xml",
+    "sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+    "identical": true,
+    "duplicate_official_labels": [],
+    "future_changes_checked_against_enactment": true,
+    "scope": "Current consolidated XML, intake and final amendment; no concatenated historical versions."
+  },
+  "annexes_checked": {
+    "disposition": "Keine Anlage im amtlichen XML und im amtlichen Inhaltsverzeichnis ausgewiesen. Das weggefallene Vierte Buch ist als Gliederung erhalten; die amtliche XML enthält keine Einzelnummern §§ 339–393. Diese werden nicht als geltende Vorschriften erfunden.",
+    "evidence": [
+      "sources/aktg.xml",
+      "sources/recheck-2026-10-21-index.html"
+    ],
+    "unclassified_operative_text_records": []
+  },
+  "coverage": {
+    "expected": 393,
+    "parsed": 393,
+    "missing": [],
+    "duplicates": [],
+    "repair": "Eingangsformel promoted from excluded frontmatter to statutory unit; wording mechanically extracted."
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Preflight only; no new commentary or independent legal review.",
+    "Full manuscript incomplete: 227 commented units and 166 uncommented units.",
+    "No exhaustive review of all later gazettes."
+  ],
+  "full_book_complete": false
+}

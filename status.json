@@ -1,9 +1,9 @@
 {
   "stage": "authoring",
   "decisive_date": "2026-10-19",
-  "total_units": 392,
+  "total_units": 393,
   "completed_units": 227,
-  "remaining_units": 165,
+  "remaining_units": 166,
   "validation_result": {
     "ok": false,
     "reason": "165 commentary units not yet authored; official full build rejects incomplete manuscript",
@@ -25,9 +25,10 @@
   },
   "independent_review": false,
   "checkpoint": "commentary/part-15.md",
-  "updated_at": "2026-10-19T18:55:34.212604+00:00",
+  "updated_at": "2026-10-20T23:05:09.121271+00:00",
   "complete": false,
   "remaining_unit_ids": [
+    "Eingangsformel",
     "p207",
     "p208",
     "p209",
@@ -209,7 +210,8 @@
     "official_xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
     "unchanged_since_intake": true,
     "last_amendment_commencement_checked": true,
-    "all_subsequent_gazettes_individually_screened": false
+    "all_subsequent_gazettes_individually_screened": false,
+    "latest_preflight": "preflight-result.json"
   },
   "case_law_sources": [
     "KORE301422016",
@@ -217,11 +219,12 @@
     "KORE302052021"
   ],
   "remaining_limitations": [
-    "165 statutory units from § 207 onward require real commentary; complete official units preserved.",
+    "166 statutory units require commentary, including Eingangsformel and units from § 207 onward.",
     "No successful full build or complete strict validation.",
     "No independent second pass.",
     "Selective case-law research only; no exhaustive later-citation check.",
     "External cross-referenced statutes not comprehensively commented or verified.",
     "No line-by-line screening of all later gazettes beyond current official consolidation and last listed amendment."
-  ]
+  ],
+  "preflight_complete": true
 }

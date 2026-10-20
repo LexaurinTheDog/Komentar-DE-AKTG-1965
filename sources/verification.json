@@ -70,5 +70,81 @@
   },
   "intake_sha256": "28db7b2b3f8039d63f828f4d185c20d84ea012444f5318f8a97636d60d3a8508",
   "intake_xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
-  "xml_unchanged_since_intake": true
+  "xml_unchanged_since_intake": true,
+  "rechecks": [
+    {
+      "verified_at": "2026-10-20T23:04:14.275251+00:00",
+      "fetches": [
+        {
+          "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+          "accessed_at": "2026-10-20T23:04:14.275416+00:00",
+          "path": "sources/recheck-2026-10-21.zip",
+          "http_status": 200,
+          "final_url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+          "content_type": "application/zip",
+          "bytes": 140159,
+          "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+          "zip_members": [
+            "BJNR010890965.xml"
+          ],
+          "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+          "same_as_canonical": true,
+          "format_validated": "zip"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aktg/",
+          "accessed_at": "2026-10-20T23:04:14.630729+00:00",
+          "path": "sources/recheck-2026-10-21-index.html",
+          "http_status": 200,
+          "final_url": "https://www.gesetze-im-internet.de/aktg/",
+          "content_type": "text/html",
+          "bytes": 86032,
+          "sha256": "ba682e51e232d273e465e84f250e3a583c094aef054430ee8c010260bc0bb54e",
+          "format_validated": "html"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.html",
+          "accessed_at": "2026-10-20T23:04:14.797842+00:00",
+          "path": "sources/recheck-2026-10-21-gesamt.html",
+          "http_status": 200,
+          "final_url": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.html",
+          "content_type": "text/html",
+          "bytes": 828034,
+          "sha256": "ee89b3141fcf64224f308506e3104205e485d6758127b44af86c9ef04bab8415",
+          "format_validated": "html"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile&v=1",
+          "accessed_at": "2026-10-20T23:04:15.864175+00:00",
+          "path": "sources/recheck-2026-10-21-bgbl-33.pdf",
+          "http_status": 200,
+          "final_url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile&v=1",
+          "content_type": "application/pdf",
+          "bytes": 1222431,
+          "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+          "format_validated": "pdf"
+        }
+      ]
+    }
+  ],
+  "preflight_assessment": {
+    "decisive_date": "2026-10-19",
+    "rechecked_local_date": "2026-10-21",
+    "timezone": "Europe/Prague",
+    "verified_at": "2026-10-20T23:05:09.121271+00:00",
+    "stand": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33",
+    "unchanged_since_prior_fetch": true,
+    "effective_p8_cent_rule_present": true,
+    "future_2030_publicity_additions_absent": {
+      "§ 120a": true,
+      "§ 130": true,
+      "§ 134b": true,
+      "§ 134c": true,
+      "§ 134d": true
+    },
+    "commencement_evidence": "sources/bgbl-2026-I-33.txt: Artikel 23 (Seite 36), Artikel 64 Absätze 1 und 8 (Seiten 64–65)",
+    "limitations": [
+      "No comprehensive screening of all subsequent gazettes; current official consolidation and its latest listed amending enactment checked."
+    ]
+  }
 }

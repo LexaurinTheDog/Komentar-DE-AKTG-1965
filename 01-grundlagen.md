@@ -1,5 +1,11 @@
 # Kommentarkapitel 01 — Grundlagen und Unternehmensverbindungen
 
+### Eingangsformel
+
+**Wortlaut der Vorschrift:**
+
+> Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
+
 #### Erstes Buch — Aktiengesellschaft
 
 #### Erster Teil — Allgemeine Vorschriften

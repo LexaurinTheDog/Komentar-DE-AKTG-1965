@@ -164,7 +164,12 @@ Sonder-, Straf- und Schlußvorschriften (§§ 393a - 410)
  Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften §§ 399 - 410
 
 Eingangsformel
+
+
+
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
+
+
 
 
 

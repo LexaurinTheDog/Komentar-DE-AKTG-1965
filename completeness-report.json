@@ -2,6 +2,7 @@
   "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
   "official_norm_records": 463,
   "expected_official_identifiers": [
+    "Eingangsformel",
     "§ 1",
     "§ 2",
     "§ 3",
@@ -396,6 +397,7 @@
     "§ 410"
   ],
   "extracted_identifiers": [
+    "Eingangsformel",
     "§ 1",
     "§ 2",
     "§ 3",
@@ -789,8 +791,8 @@
     "§ 409",
     "§ 410"
   ],
-  "expected_count": 392,
-  "extracted_count": 392,
+  "expected_count": 393,
+  "extracted_count": 393,
   "missing": [],
   "unexpected": [],
   "duplicates": [],
@@ -845,11 +847,6 @@
     {
       "doknr": "BJNR010890965BJNE000107360",
       "label": "Inhaltsübersicht",
-      "disposition": "frontmatter"
-    },
-    {
-      "doknr": "BJNR010890965BJNE000200308",
-      "label": "Eingangsformel",
       "disposition": "frontmatter"
     },
     {
@@ -1203,5 +1200,7 @@
   "limitations": [
     "Metadatenabgleich beweist die Extraktionsvollständigkeit gegenüber dieser XML, nicht deren amtliche redaktionelle Fehlerfreiheit."
   ],
+  "historical_duplicates": [],
+  "nonstructural_text_records_excluded": [],
   "ok": true
 }
