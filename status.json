@@ -25,7 +25,7 @@
   },
   "independent_review": false,
   "checkpoint": "commentary/part-00-eingangsformel.md",
-  "updated_at": "2026-10-20T23:06:31.544983+00:00",
+  "updated_at": "2026-10-20T23:08:34.460711+00:00",
   "complete": false,
   "remaining_unit_ids": [
     "p207",
@@ -226,5 +226,33 @@
     "No line-by-line screening of all later gazettes beyond current official consolidation and last listed amendment."
   ],
   "preflight_complete": true,
-  "bounded_author_result": "eingangsformel-result.json"
+  "bounded_author_result": "eingangsformel-result.json",
+  "bounded_review": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "Eingangsformel",
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p10",
+      "p11",
+      "p12",
+      "p13",
+      "p14",
+      "p15",
+      "p16",
+      "p17",
+      "p18",
+      "p19"
+    ],
+    "evidence": "review-result.json",
+    "full_book_review_complete": false
+  }
 }

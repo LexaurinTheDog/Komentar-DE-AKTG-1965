@@ -4,9 +4,8 @@
   "missing_official_identifiers": [],
   "extra_identifiers": [],
   "duplicate_statutory_ids": [],
-  "completed_commentary_units": 227,
+  "completed_commentary_units": 228,
   "missing_commentary_units": [
-    "Eingangsformel",
     "p207",
     "p208",
     "p209",
@@ -174,7 +173,7 @@
     "p410"
   ],
   "duplicate_commentary_blocks": [],
-  "commentary_chars": 270675,
+  "commentary_chars": 274017,
   "ordinary_below_700": [],
   "repeated_long_sentences": [],
   "broken_local_links": [],

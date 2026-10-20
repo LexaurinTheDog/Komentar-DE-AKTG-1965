@@ -125,6 +125,60 @@
           "format_validated": "pdf"
         }
       ]
+    },
+    {
+      "verified_at": "2026-10-20T23:07:18.434538+00:00",
+      "fetches": [
+        {
+          "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+          "accessed_at": "2026-10-20T23:07:18.434780+00:00",
+          "path": "sources/recheck-2026-10-21.zip",
+          "http_status": 200,
+          "final_url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+          "content_type": "application/zip",
+          "bytes": 140159,
+          "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+          "zip_members": [
+            "BJNR010890965.xml"
+          ],
+          "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+          "same_as_canonical": true,
+          "format_validated": "zip"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aktg/",
+          "accessed_at": "2026-10-20T23:07:18.648124+00:00",
+          "path": "sources/recheck-2026-10-21-index.html",
+          "http_status": 200,
+          "final_url": "https://www.gesetze-im-internet.de/aktg/",
+          "content_type": "text/html",
+          "bytes": 86032,
+          "sha256": "ba682e51e232d273e465e84f250e3a583c094aef054430ee8c010260bc0bb54e",
+          "format_validated": "html"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.html",
+          "accessed_at": "2026-10-20T23:07:18.843172+00:00",
+          "path": "sources/recheck-2026-10-21-gesamt.html",
+          "http_status": 200,
+          "final_url": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.html",
+          "content_type": "text/html",
+          "bytes": 828034,
+          "sha256": "ee89b3141fcf64224f308506e3104205e485d6758127b44af86c9ef04bab8415",
+          "format_validated": "html"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile&v=1",
+          "accessed_at": "2026-10-20T23:07:19.239196+00:00",
+          "path": "sources/recheck-2026-10-21-bgbl-33.pdf",
+          "http_status": 200,
+          "final_url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile&v=1",
+          "content_type": "application/pdf;charset=UTF-8",
+          "bytes": 1222431,
+          "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+          "format_validated": "pdf"
+        }
+      ]
     }
   ],
   "preflight_assessment": {

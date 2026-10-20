@@ -37,6 +37,11 @@
       "sha256": "9312907ab3d0196c1c89d4f624ba63db362a67622ab88cc2ceeca10ad72b6c11"
     },
     {
+      "path": "sources/eingangsformel-check.zip",
+      "bytes": 140159,
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d"
+    },
+    {
       "path": "sources/gesamt.html",
       "bytes": 828034,
       "sha256": "ee89b3141fcf64224f308506e3104205e485d6758127b44af86c9ef04bab8415"
@@ -88,8 +93,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 6448,
-      "sha256": "88838838dd3fcecbd9ba925197de76873a75bf36fb662a3c51fcdc6b4b6ae410"
+      "bytes": 9595,
+      "sha256": "5ab1069f4f05a3b60526297315665f0b45d0a48b69aff94708487316b006111e"
     },
     {
       "path": "authorities/KORE300612013.md",

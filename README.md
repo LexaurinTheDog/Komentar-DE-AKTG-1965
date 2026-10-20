@@ -1,6 +1,6 @@
 # Kommentar zum Aktiengesetz
 
-**Unvollständiger Arbeitsentwurf vom 19. Oktober 2026.** Die amtliche Quelle ist vollständig in 393 Einheiten extrahiert (392 nummerierte Datensätze und die Eingangsformel). Für 227 davon, von § 1 bis einschließlich § 206 einschließlich eingeschobener und gemeinsamer Wegfallstellen, liegt eine eigenständige Kommentierung vor. Die übrigen 166 Einheiten sind noch nicht kommentiert. Das Buch ist nicht fertiggestellt und hat die Gesamtvalidierung nicht bestanden.
+**Unvollständiger Arbeitsentwurf vom 19. Oktober 2026.** Die amtliche Quelle ist vollständig in 393 Einheiten extrahiert (392 nummerierte Datensätze und die Eingangsformel). Für 228 davon, einschließlich Eingangsformel und von § 1 bis einschließlich § 206 einschließlich eingeschobener und gemeinsamer Wegfallstellen, liegt eine eigenständige Kommentierung vor. Die übrigen 165 Einheiten sind noch nicht kommentiert. Das Buch ist nicht fertiggestellt und hat die Gesamtvalidierung nicht bestanden.
 
 Gegenstand des Gesamtvorhabens ist das gesamte deutsche Aktiengesetz vom 6. September 1965 (BGBl. I S. 1089), einschließlich KGaA-, Konzern-, Straf- und Schlussbestimmungen. Der vorliegende Buch-Checkpoint umfasst zehn Kapitel: Grundlagen, Gründung, Aktionärsverhältnisse, Vorstand, Aufsichtsrat, Hauptversammlung, Rechnungslegung sowie Satzungsänderung, ordentliche Kapitalerhöhung, bedingtes und genehmigtes Kapital. [INDEX](INDEX.md) · [Einleitung](00-einleitung.md) · [Quellen und Versionsprüfung](SOURCES.md) · [Prüfstand](REVIEW.md).
 
@@ -12,4 +12,4 @@ Die Erläuterungen sind eigenständige deutsche Texte mit fiktiven Beispielen un
 
 **Kommentartext © 2026 Vojtěch Říha.** Die eigenständige Kommentierung steht unter [Apache-2.0](LICENSE); die unveränderte Lizenzdatei stammt aus den gemeinsamen Werkzeugen. Amtliche Gesetzes- und Entscheidungstexte sind als Quellenmaterial getrennt gekennzeichnet; die Lizenzierung der Kommentierung beansprucht keine ausschließlichen Rechte daran und erfasst keine fremden redaktionellen Anmerkungen. Es wurden keine kommerziellen Kommentartexte übernommen. Projektbezug: [LexaurinTheDog](https://github.com/LexaurinTheDog).
 
-Der Entwurf wird ohne Gewähr bereitgestellt und ersetzt keine Prüfung des Einzelfalls. Eine unabhängige zweite Durchsicht und externe fachliche Freigabe liegen nicht vor. Veröffentlichung, Push oder externe Einreichung erfolgten nicht.
+Der Entwurf wird ohne Gewähr bereitgestellt und ersetzt keine Prüfung des Einzelfalls. Eine begrenzte unabhängige zweite Durchsicht liegt für die Eingangsformel und §§ 1–19 vor ([Einzelbefunde](review-result.json)). Eine unabhängige Gesamtprüfung und externe fachliche Freigabe liegen nicht vor. Veröffentlichung, Push oder externe Einreichung erfolgten nicht.
