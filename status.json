@@ -281,6 +281,18 @@
     ],
     "units_reviewed": 20,
     "complete": true,
-    "evidence": "review-result-batch-002.json"
+    "evidence": "review-result-batch-002.json",
+    "validation_result": "20 reviewed; statutory agreement 1.0; full validator blocked solely by 165 unassigned missing comments"
+  },
+  "validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 393,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 276193,
+    "errors": [
+      "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
   }
 }
