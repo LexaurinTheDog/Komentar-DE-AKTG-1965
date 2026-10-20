@@ -27,3 +27,5 @@ Begrenzte zweite Durchsicht §§ 105–120 (20 Einheiten): [Prüfbericht](review
 Begrenzte zweite Durchsicht §§ 120a–134b: [20 genaue Kennungen und Einzelbefunde](review-result-batch-008.json), [amtliche XML](sources/review-p120a-p134b.xml), [BGH II ZB 28/12](authorities/case-II-ZB-28-12.md), [selektives Suchprotokoll](authorities/search-log-batch-008.json).
 
 Prüfbatch §§ 134c–150a: [Befunde](review-result-batch-009.json), [XML](sources/review-p134c-p150a.xml), [Fallkarte](authorities/case-II-ZB-10-25.md), [Suchprotokoll](authorities/search-log-batch-009.json).
+
+Prüfbatch §§ 151–179a: [Befunde](review-result-batch-010.json), [XML](sources/review-p151-p179a.xml), [Fallkarte](authorities/case-II-ZR-364-18.md), [Suchprotokoll](authorities/search-log-batch-010.json).
