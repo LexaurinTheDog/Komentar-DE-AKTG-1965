@@ -3,222 +3,198 @@
   "task": "bounded_independent_second_pass",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "Eingangsformel",
-    "p1",
-    "p2",
-    "p3",
-    "p4",
-    "p5",
-    "p6",
-    "p7",
-    "p8",
-    "p9",
-    "p10",
-    "p11",
-    "p12",
-    "p13",
-    "p14",
-    "p15",
-    "p16",
-    "p17",
-    "p18",
-    "p19"
+    "p20",
+    "p21",
+    "p22",
+    "p23",
+    "p24",
+    "p25",
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p32",
+    "p33",
+    "p33a",
+    "p34",
+    "p35",
+    "p36",
+    "p36a",
+    "p37"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "Eingangsformel",
-      "result": "reviewed_no_change",
-      "assessment": "Gesetzgebungsformel gegen Original geprüft; keine Gründungsgenehmigung, keine Aussage zum Inkrafttreten späterer Änderungen; §§ 23, 41, 179, 410 abgeglichen.",
-      "official_doknr": "BJNR010890965BJNE000200308",
-      "statutory_text_sha256": "106228fb06373918db38f3b747d710a304bf1330ea7f739242e600bf4e03ae7f",
-      "commentary_sha256": "82e9b47be5fa2597a8574c1cc879ba01be4e11bb26fd7b62a31bba543b7cbcf4"
-    },
-    {
-      "id": "p1",
-      "result": "reviewed_no_change",
-      "assessment": "Beide Absätze geprüft: eigene Rechtspersönlichkeit, Haftungsmasse und Kapitalziffer; eigene Verpflichtungsgründe nicht ausgeschlossen; §§ 54, 57, 62, 63 abgeglichen.",
-      "official_doknr": "BJNR010890965BJNE000500308",
-      "statutory_text_sha256": "5166559817a0cbe783ab2284519f9b2c17e7a1bddea7a24d6e23ace249716af7",
-      "commentary_sha256": "859166ec6d3e7618a568033456648a65e15d019f5e03b858430b42333cff2035"
-    },
-    {
-      "id": "p2",
+      "id": "p20",
       "result": "reviewed_corrected",
-      "assessment": "Gründerzahl und Aktienübernahme geprüft; §§ 23, 28, 29, 42 abgeglichen. Registerhinweis auf Alleinaktionär neben eigenen Aktien präzisiert.",
-      "official_doknr": "BJNR010890965BJNE000601307",
-      "statutory_text_sha256": "e30f4f710ca25cc9afd7e9fb4dbb9b7aedddf0b551be973301d52847bde1165d",
-      "commentary_sha256": "d1e13484dfa308f6bfd896fbcdfaad60948df40f4b8f94aed4f5e599393a0eaf"
+      "assessment": "Alle acht Absätze geprüft. Kapitalberechnung und Zurechnung ohne Abzug eigener Aktien präzisiert; Erwerbsansprüche und Abnahmeverpflichtungen einbezogen. Sanktion auf Absatz 1/4 bezogen, Emittentenausnahme auf Aktien begrenzt. BGH II ZR 268/14 vollständig gelesen: Rn. 17–24 tragen Erkennbarkeit und Erwerbszeitpunkt, frühere Schriftform wird nicht auf heute übertragen.",
+      "official_doknr": "BJNR010890965BJNE002405125",
+      "statutory_text_sha256": "f56b672f6a0d7ea1e62f05fe04c498c3b42a738e41f329a04d289a44464265b8",
+      "commentary_sha256": "cb2011c275e790cc89f193ad1cd6d9a83d1a77b49c924fa9b80ce9afb3e0d7e8"
     },
     {
-      "id": "p3",
+      "id": "p21",
       "result": "reviewed_corrected",
-      "assessment": "Handelsgesellschaft und vollständige Marktdefinition geprüft. Sonderanwendungsbereich des § 161 Absatz 1 Satz 2 ergänzt; kein allgemeiner Ausschluss aller Pflichten bei fehlender Börsennotierung.",
-      "official_doknr": "BJNR010890965BJNE000702307",
-      "statutory_text_sha256": "39259d060f7f3c44f335458d224167203c962d024e97c8e83f0760ab7d8103ff",
-      "commentary_sha256": "6e8515104eb18cb08223ce7d63597e2739dbc00af7312d156fedd2b5a488ddd2"
+      "assessment": "Alle fünf Absätze geprüft. Textform, Unverzüglichkeit und Beteiligungsadressat klargestellt; Absatz 2 nicht auf inländische Kapitalgesellschaften verengt; Emittentenausnahme gilt für Aktien, nicht pauschal alle Beteiligungen.",
+      "official_doknr": "BJNR010890965BJNE002505125",
+      "statutory_text_sha256": "0696fd11b77ccb3cf29a04863987ae74ef0980127473d3e96e13cf09c4b744f1",
+      "commentary_sha256": "a8968724a40e8d649743bc019614b5b603d4ef2d9396aa82a983de736178f699"
     },
     {
-      "id": "p4",
+      "id": "p22",
       "result": "reviewed_no_change",
-      "assessment": "Zwingender Rechtsformzusatz auch bei Firmenfortführung; §§ 23, 39, 80 geprüft. Kein Anspruch auf vollständige HGB-Firmenprüfung.",
-      "official_doknr": "BJNR010890965BJNE000801307",
-      "statutory_text_sha256": "ef9305b346db62847cf5ce80550a8e0d4b8ba8a269f97e0fb11352b7df87edaf",
-      "commentary_sha256": "3a7f84c6ec1ab7c0a0ccc5f91d58a28f3ff90bd4fca25b2237b90722847f4ed5"
+      "assessment": "Nachweisanspruch und abschließende Verweisungen auf § 20 Absatz 1/3/4 und § 21 Absatz 1/2 geprüft. Keine Beweisvermutung erfunden; Beispiel und praktische Schlussprüfung beibehalten.",
+      "official_doknr": "BJNR010890965BJNE002600308",
+      "statutory_text_sha256": "7aab965d91e4ce5a842ac88b629db5f34c3deb5944996bf4ecb27edbc23ac7c2",
+      "commentary_sha256": "45da0ad27e9a6fc35217008aaa8881687bdebff4bbad7a146c0c99c551457716"
     },
     {
-      "id": "p5",
-      "result": "reviewed_no_change",
-      "assessment": "Inländischer Satzungssitz von Geschäftstätigkeit und Geschäftsanschrift getrennt; §§ 14, 37, 39, 45, 179, 181 geprüft.",
-      "official_doknr": "BJNR010890965BJNE000901140",
-      "statutory_text_sha256": "890c873043be78590c88126650c30743499bb062107d722869252f8e4349f5f2",
-      "commentary_sha256": "b4d81b117ab6350df818783b80b50e6de7111721f59277474dc6074cb5723d67"
-    },
-    {
-      "id": "p6",
-      "result": "reviewed_no_change",
-      "assessment": "Euro-Nennbetrag von Zahlungswährungen und Vermögen unterschieden; §§ 7, 8, 23 geprüft.",
-      "official_doknr": "BJNR010890965BJNE001002307",
-      "statutory_text_sha256": "0b56e0c2300b217fa8a200aba0fbdcf476e19d5bb56dcc7ba3f9ab3b5ce1c3f5",
-      "commentary_sha256": "2937bbaf137a0fabbff914a311e79de3bf2d44cde32bc911c0189e2f4c7c8235"
-    },
-    {
-      "id": "p7",
+      "id": "p23",
       "result": "reviewed_corrected",
-      "assessment": "50.000-Euro-Grenze von Mindesteinzahlung unterschieden; §§ 36, 36a, 228 geprüft. Verlustschwelle und Einberufungspflicht aus § 92 konkretisiert.",
-      "official_doknr": "BJNR010890965BJNE001101307",
-      "statutory_text_sha256": "e17aad8672981e473ebd8290844c45398c430b07602d82304d90a70d25b3f5c1",
-      "commentary_sha256": "ba720427b41e347d00f467f581e879f7869602314fa4e808987de68aa65db4b5"
+      "assessment": "Notarielle Form, beglaubigte Vollmacht und Absätze 2–5 abgeglichen. Gründer, individuelle Übernahmeangaben und Ausgabebetrag ausdrücklich ergänzt; Urkundenangaben von Satzungsinhalt und Satzungsstrenge getrennt.",
+      "official_doknr": "BJNR010890965BJNE002801307",
+      "statutory_text_sha256": "f8626317e7e4572c48dd8e8b63e888445665efcb2a55f53d8fbf07fc94502345",
+      "commentary_sha256": "cdcc7f9aa5cadc87ff5206bdb26091cc69e3a18a36d3a0587b305d4d9127ce83"
     },
     {
-      "id": "p8",
+      "id": "p24",
+      "result": "reviewed_no_change",
+      "assessment": "Amtlich weggefallene Nummer mit leerem XML-Körper bestätigt. Keine frühere Regel als geltend behandelt; Verweise auf §§ 23/25 angemessen.",
+      "official_doknr": "BJNR010890965BJNE002901123",
+      "statutory_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "commentary_sha256": "07fa7c3371b61758634aa44c4dda7cff94cca5f96c75e98553ff7e83f7c7bcfc"
+    },
+    {
+      "id": "p25",
+      "result": "reviewed_no_change",
+      "assessment": "Bedingung der Gesellschaftsblätter und zwingender Bundesanzeiger abgeglichen; Sonderpublikationen nicht verdrängt. Beispiele §§ 267 und 124a im Quelltext überprüft.",
+      "official_doknr": "BJNR010890965BJNE003004123",
+      "statutory_text_sha256": "0ae7abe9aac51eddb21855a50e82b1e60ec5d688c396907d518243adba245318",
+      "commentary_sha256": "c63eae7e133db2e3d45a4dc0923a3b7fde04af6bdcedbf36141a78fd872b296c"
+    },
+    {
+      "id": "p26",
+      "result": "reviewed_no_change",
+      "assessment": "Alle fünf Absätze gelesen: Berechtigtenbenennung, Gesamtaufwand, relative Unwirksamkeit und ausgeschlossene Heilung nach Eintragung; Fünfjahresänderungsfrist und kumulative 30-/5-Jahreslöschungsfristen zutreffend.",
+      "official_doknr": "BJNR010890965BJNE003100308",
+      "statutory_text_sha256": "6604b079754956020af83dc551a7a0acc0fd0166beaf4bfe4ddb977c450cad49",
+      "commentary_sha256": "51794d0e86f83e2eace16091c9265c218e4f71d3b21e76bb1aee9b0b41bccbdb"
+    },
+    {
+      "id": "p27",
       "result": "reviewed_corrected",
-      "assessment": "Alle sieben Absätze geprüft, einschließlich Absatz 2 Satz 4, Stückaktienquote, Unteilbarkeit, Zwischenscheine, Satzungsöffnung und Ausgeberhaftung. Beispiel auf exakt einen Cent umgestellt; Verhältnis zur Volleuroregel ausdrücklich als Gestaltungsrisiko markiert. Artikel 23 Nr. 1 und Artikel 64 des Änderungsgesetzes gelesen.",
-      "official_doknr": "BJNR010890965BJNE001205129",
-      "statutory_text_sha256": "429a2788ceeca8d6177d9835b2406b88522ab73e30669285a6314a53c361ecf2",
-      "commentary_sha256": "17f93cb369890c60d28f8f070ed45c5a0dadd19467b58450d0490d280a0147f6"
+      "assessment": "Alle fünf Absätze geprüft. Bewertungszeitpunkte der verdeckten Sacheinlage ausdrücklich ergänzt: Anmeldung oder spätere Überlassung. Vertragswirksamkeit, Anrechnung erst nach Eintragung, Beweislast und Rückgewähranspruch getrennt.",
+      "official_doknr": "BJNR010890965BJNE003202140",
+      "statutory_text_sha256": "14b425e241611213d4ca5da106289873c2c4ff621608be965b4667411fb5b2d6",
+      "commentary_sha256": "25dada17dcde400ca556db73265b281759e182298eef4ed29408cd493ceb55c6"
     },
     {
-      "id": "p9",
+      "id": "p28",
       "result": "reviewed_no_change",
-      "assessment": "Unterpari-Verbot und zulässiges Agio von anfänglicher Einzahlung unterschieden; §§ 36a, 186, 255 geprüft; keine veraltete Preis-Anfechtungsbehauptung.",
-      "official_doknr": "BJNR010890965BJNE001301307",
-      "statutory_text_sha256": "4611477c770052fd6c4a13b59b5310a165584b393abe47174d4ec70a78ce1188",
-      "commentary_sha256": "755a83c261a14d0ff06a6aecfb0d8cbcf763e57724cde05a0fe3a07fe74d5507"
+      "assessment": "Gründerqualität an Satzungsfeststellung durch Aktionäre gebunden. Fortbestehender Verantwortungsbezug und § 46 Absatz 5 gegen amtlichen Text geprüft; keine Gleichsetzung wirtschaftlicher Zeichner mit formellen Gründern.",
+      "official_doknr": "BJNR010890965BJNE003300308",
+      "statutory_text_sha256": "bd62db85595257487ee69f3d53cf5bb8ec4ecbf2c25973c99e5fe53311f91714",
+      "commentary_sha256": "71ca365255307dfe5f794871a55289dc20dc27f6f8f606450c54947d609e682f"
     },
     {
-      "id": "p10",
+      "id": "p29",
       "result": "reviewed_no_change",
-      "assessment": "Alle sechs Absätze und drei Inhaberaktienalternativen einschließlich Verwahreruntergruppen gegen Quelle geprüft; Namensaktienzwang bei Teilleistung, Nichtigkeit von Inhaberzwischenscheinen, Sammelurkunde und elektronische Register unterschieden.",
-      "official_doknr": "BJNR010890965BJNE001405360",
-      "statutory_text_sha256": "278cf65affd8978c6c732ae2afb86c60db8972ecad6a5f393c4cd5301d341575",
-      "commentary_sha256": "7ced6788a673975902be4809102d50c21a17e0369bf8f97268a5a7e657ea6e51"
+      "assessment": "Errichtung bei vollständiger Aktienübernahme von Einlageleistung und Eintragung getrennt. §§ 36/36a und § 41 Absätze 1/4 geprüft; Beispiel ohne vorzeitige Entstehungsbehauptung.",
+      "official_doknr": "BJNR010890965BJNE003400308",
+      "statutory_text_sha256": "643dba9e33bd99fac86f30c4df9e75e4546c4cf53a0f9f5135273b7de1d33594",
+      "commentary_sha256": "d21291f02c54d3b24645bf9230c6ba63efee5463032f05c79a0127c2800722c0"
     },
     {
-      "id": "p11",
-      "result": "reviewed_no_change",
-      "assessment": "Gattungsbildung nach Rechten geprüft; § 23 Absatz 5, § 179 Absatz 3 und §§ 139–141 abgeglichen. Ausgabezeit und Preis nicht als Gattungsmerkmale behandelt.",
-      "official_doknr": "BJNR010890965BJNE001500308",
-      "statutory_text_sha256": "b38762692b1358e8eaf36ca33a581f3a097d5d9ff8461344865786105d58c9f5",
-      "commentary_sha256": "e2482cff7a4ff038002803c797250367b3ef107df4294667c629e94e48bc282f"
-    },
-    {
-      "id": "p12",
+      "id": "p30",
       "result": "reviewed_corrected",
-      "assessment": "Stimmrechtsgrundsatz und gesetzliche Ausnahmen geprüft. Namensaktien, Zehnfachgrenze, Zustimmung, Erlöschen und Ein-Stimme-Sonderfälle des § 135a ergänzt; §§ 134, 136, 139–141 abgeglichen.",
-      "official_doknr": "BJNR010890965BJNE001602360",
-      "statutory_text_sha256": "069220e225d939b1ab78d2c2ce0efe39e79cbd060cd5676a2cfe63d13d2c9461",
-      "commentary_sha256": "27f9ef85363721fa052cab2f1841036d790d6f0eba9e66e67976437d26cad78f"
+      "assessment": "Alle vier Absätze geprüft. Abschlussprüfer ausdrücklich für erstes Voll- oder Rumpfgeschäftsjahr präzisiert; notarielle Bestellung, Ausnahme von Arbeitnehmerbestellungsregeln und Amtszeitende zutreffend.",
+      "official_doknr": "BJNR010890965BJNE003500308",
+      "statutory_text_sha256": "c6c31e0fb2c019b6460fc9fdfc67c2e682a02d99e54a6f2459bb0d0fc917f662",
+      "commentary_sha256": "10da69dbd6b59ba4307015b1ac62474ddcfbc9c2d18b7eb3ca865a98976432e4"
     },
     {
-      "id": "p13",
+      "id": "p31",
       "result": "reviewed_corrected",
-      "assessment": "Alle vier Sätze geprüft; zusätzliche Form betrifft Gültigkeit der Unterzeichnung, sprachlich korrigiert. Elektronische Aktien ohne Unterzeichnung; §§ 10, 41, 191, 197 abgeglichen.",
-      "official_doknr": "BJNR010890965BJNE001701360",
-      "statutory_text_sha256": "2b1f19ef5220068ecf6286082fe18d1c2962a89e0d419514a0037db3df3dc794",
-      "commentary_sha256": "3913ebab8417d1c6b25ddf08decaedf7db5fa162f02586aa7e133db6a46521a5"
+      "assessment": "Alle fünf Absätze geprüft. Hälfte der Mitglieder, mindestens drei, und Satzungsvorbehalt ergänzt; Beschränkung auf Absatz 1 Satz 1 erhalten. Beide gesetzlichen Erlöschensfälle, spätere Einbringung und Ausnahme von Erstamtszeit ausdrücklich abgeglichen.",
+      "official_doknr": "BJNR010890965BJNE003601307",
+      "statutory_text_sha256": "0e65336a93d21b2167c6dbbdb8fc8e3dbfdafa63866aee2db72256228375f9ec",
+      "commentary_sha256": "d767d756ef7b7582c8202c51f095970737dfeafafb295134dc4cb7fc60cf3561"
     },
     {
-      "id": "p14",
+      "id": "p32",
       "result": "reviewed_no_change",
-      "assessment": "Sitzgerichtsregel als subsidiäre örtliche Zuordnung geprüft; ausschließliche Landgerichtszuständigkeiten in §§ 132 und 246 unterscheiden sachliche und örtliche Ebene.",
-      "official_doknr": "BJNR010890965BJNE001800308",
-      "statutory_text_sha256": "62e7207cadca224723b9457200699740e915665a589de9d6f19e13e1e5d32843",
-      "commentary_sha256": "1430dfff02f040a882f110a0b33d8a6073498c6d91db24f45c9bc07cb8c849c7"
+      "assessment": "Schriftlicher Gründerbericht, alle drei Bewertungsangaben und Organinteressen geprüft. Erwerbskette, Zweijahreskosten und Betriebserträge im Beispiel zutreffend; Bericht nicht mit abschließender Werthaltigkeitsprüfung gleichgesetzt.",
+      "official_doknr": "BJNR010890965BJNE003700308",
+      "statutory_text_sha256": "692f542cfbfc837bf8d0035c8a43fe4f65920bd641ed92da70d94ad517fd399f",
+      "commentary_sha256": "2fca4e8b487fc345aab4489103bad885377eab15eeedc209c7a53da6b90a2f15"
     },
     {
-      "id": "p15",
-      "result": "reviewed_no_change",
-      "assessment": "Alle fünf Verbindungstatbestände geprüft, insbesondere rechtliche Selbständigkeit und keine automatische Gesamthaftung. §§ 16–19, 291, 292, 302, 317 abgeglichen.",
-      "official_doknr": "BJNR010890965BJNE001900308",
-      "statutory_text_sha256": "7fd135d738036090c3783b52e9bbacd69bb705b989f38230ad7ff2001b4df5ca",
-      "commentary_sha256": "78a2b482367ad0afa9cafc222951f4e44a15ed58550e9a6bb96cea71d136b13b"
-    },
-    {
-      "id": "p16",
-      "result": "reviewed_no_change",
-      "assessment": "Alle vier Absätze geprüft; Kapital- und Stimmenmehrheit, eigene und für Rechnung gehaltene Anteile, Zurechnung und Einzelkaufmann unterschieden. Beispiel 48/90 rechnerisch geprüft.",
-      "official_doknr": "BJNR010890965BJNE002001307",
-      "statutory_text_sha256": "0c5a2235fe298a55b88c9197b499d8e20f0e2d0376fc518b37a43d905c8329e5",
-      "commentary_sha256": "fadf14900849f76788f39c47c529c4d19ab1c4fde6e115622e9de50ddc0582e5"
-    },
-    {
-      "id": "p17",
+      "id": "p33",
       "result": "reviewed_corrected",
-      "assessment": "Beide Absätze geprüft; Einflussmöglichkeit genügt, Mehrheitsvermutung widerlegbar. Hinweis auf § 311 auf AG/KGaA ohne Beherrschungsvertrag beschränkt.",
-      "official_doknr": "BJNR010890965BJNE002100308",
-      "statutory_text_sha256": "97b6fd4a04f5fdf56932b735c84a17ee0d0f3a7aa5a7914b9fd1c9845c25c779",
-      "commentary_sha256": "f0a219538e444be05a2ba33f6cc8ef4359d8cb80c2687e993260629edbb13a36"
+      "assessment": "Interne Prüfung und vier externe Prüfungsgründe geprüft. Notarersatz nur bei Nummern 1/2, gerichtliche Bestellung und Beschwerde ergänzt. Eignung und Unabhängigkeit sowie Verweisung auf § 143 Absatz 2 abgeglichen.",
+      "official_doknr": "BJNR010890965BJNE003802140",
+      "statutory_text_sha256": "4f0e057474b5712d4247fa4c216625facf2cfd0869722cafdd1de4ec00a75ad3",
+      "commentary_sha256": "ce69b0233b31e3fec322b74ea7a004f4cf576aac698c9cc18e2c30df1f9a8274"
     },
     {
-      "id": "p18",
-      "result": "reviewed_no_change",
-      "assessment": "Absatz 1 mit drei Begründungswegen und Absatz 2 geprüft; einheitliche Leitung von Einzelkooperation unterschieden, Beherrschungsvertrag und Eingliederung nicht als bloße Vermutung bezeichnet.",
-      "official_doknr": "BJNR010890965BJNE002200308",
-      "statutory_text_sha256": "bbb745fadf5edf105423bbf1a5fa739747d304e2c5ba019fc787ae0d87da7cc3",
-      "commentary_sha256": "a72e666a358742eca58c2149fbedbb85d0359551f01a1cabe796a7e5247b5fbd"
-    },
-    {
-      "id": "p19",
+      "id": "p33a",
       "result": "reviewed_corrected",
-      "assessment": "Alle vier Absätze geprüft; Inland, Kapitalgesellschaft und mehr als 25 Prozent beiderseits. Präzisiert: § 16 Absatz 2 Satz 1 und Absatz 4, kein Abzug eigener Anteile nach Absatz 2 Satz 2 und keine Stimmenrechnung nach Absatz 3. Herrschaftsfiktionen und §-328-Ausnahme getrennt.",
-      "official_doknr": "BJNR010890965BJNE002301307",
-      "statutory_text_sha256": "38d2017906a111f7919f4e03a736be93527c048984c4feceba9db66388dc916d",
-      "commentary_sha256": "3fd32e67cfa3b1dff1974492753c0ec79035b5302d9475c7a455b2ac6c8970b9"
+      "assessment": "Beide Bewertungsalternativen und Ausschlussgründe geprüft. Beizulegender Zeitwert und Qualifikation des Sachverständigen präzisiert; Drei- und Sechsmonatsfristen sowie Bewertungsstichtag von tatsächlicher Einbringung getrennt.",
+      "official_doknr": "BJNR010890965BJNE056702123",
+      "statutory_text_sha256": "595e4b0612e98ddc640f5d8e39085245ad5b6c5528893f2e6f472dc812e67d33",
+      "commentary_sha256": "8b65815ee4ec98284f2bde7189964a3357b965e79be805d031444bcee179f089"
+    },
+    {
+      "id": "p34",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Prüfungsgegenstände und Berichte gegen alle drei Absätze geprüft. Niedrigster Ausgabebetrag versus Gegenleistung und beschränkte Berichtserleichterung nach § 33a zutreffend; öffentlicher Zugang nur zum externen Bericht behauptet.",
+      "official_doknr": "BJNR010890965BJNE003903140",
+      "statutory_text_sha256": "324460c6acf5fc9e96cd28f197f87c64c84ba548606f8a1f818b347d2495b968",
+      "commentary_sha256": "211ac4e63d7e01f2f4e8b2f24a6d6965f59df2ceb4ad0a0e99d2a8434ad0be48"
+    },
+    {
+      "id": "p35",
+      "result": "reviewed_no_change",
+      "assessment": "Aufklärungserfordernis, unanfechtbare Sachentscheidung und Berichtssperre geprüft. Kostenfestsetzung mit Beschwerde, Ausschluss der Rechtsbeschwerde und Vollstreckung nach Rechtskraft zutreffend voneinander getrennt.",
+      "official_doknr": "BJNR010890965BJNE004001140",
+      "statutory_text_sha256": "70aeca10cd0da846d66888dc31000c1f7c208f57c3eedf9218aa96d8a2cccdd5",
+      "commentary_sha256": "9c5c425df44b1c2369c6a774c0a73c78deeb6f43ad3deae310f5a81283b7db27"
+    },
+    {
+      "id": "p36",
+      "result": "reviewed_corrected",
+      "assessment": "Gemeinschaftliche Anmeldung aller bezeichneten Personen sowie Einzelaktienbezug und Steuern-/Gebührenausnahme geprüft. Rückflussbeispiel um die gesetzlich mögliche Befreiung nach § 27 Absatz 4 ergänzt; kein absolutes Verbot jeder Rückflussabrede behauptet.",
+      "official_doknr": "BJNR010890965BJNE004102140",
+      "statutory_text_sha256": "755c7b84a3d4b5f98d0528248a67f44f83ed0571dc49bedd849c64858ca53ce1",
+      "commentary_sha256": "f3e62423a8bbe94344d7e29be6f82373e91ff83c076f9bce15e552c789a1ecbf"
+    },
+    {
+      "id": "p36a",
+      "result": "reviewed_no_change",
+      "assessment": "Viertel des geringsten Ausgabebetrags plus volles Agio geprüft; Beispiel 0,25 + 9 Euro korrekt. Vollständige Sacheinlage, besondere Übertragungsverpflichtung mit Fünfjahresgrenze und vollständige Wertdeckung zutreffend dargestellt.",
+      "official_doknr": "BJNR010890965BJNE004201307",
+      "statutory_text_sha256": "124787bd650f8df9cf3459342f7fbacfb95f7025d4c98544467d1120e6949409",
+      "commentary_sha256": "344caae58a4de7350dfa1a021d504429fb29259696bbccad05ea3232091c05f0"
+    },
+    {
+      "id": "p37",
+      "result": "reviewed_corrected",
+      "assessment": "Alle sechs Absätze und Anlagenliste gelesen. Persönliche Versicherungen auf genaue §-76-Verweisungen bezogen; zulässige Belehrungswege ergänzt. Individualisierte Kostenberechnung und urkundliche Prüfungsgrundlagen ergänzt; Nummer 5 und Absatz 6 bleiben weggefallen.",
+      "official_doknr": "BJNR010890965BJNE004306360",
+      "statutory_text_sha256": "2b3d342bf09859b57ba9ac70a8fb97e0cf8bbe43e7b9648d27aaabfe6d012ec9",
+      "commentary_sha256": "f753d276e6d24437c811a1d9ca93ef13aad99833716e3b0d62274e84911cc2a0"
     }
   ],
   "limitations": [
-    "Nur die genau bezeichneten 20 Einheiten inhaltlich unabhängig durchgesehen; keine Gesamtbuchfreigabe und keine externe anwaltliche Prüfung.",
-    "Keine der 20 Erläuterungen führt ein Gerichtsurteil an. Keine neue systematische Rechtsprechungsrecherche; keine Behauptung vollständiger Rechtsprechungsabdeckung.",
-    "§ 8 Absatz 7 und die fortbestehende Volleuroregel werden als Auslegungs- und Gestaltungsrisiko benannt; keine gerichtliche Klärung behauptet.",
-    "Keine lückenlose Auswertung aller späteren Bundesgesetzblätter; aktuelle amtliche Konsolidierung und letzte ausgewiesene Änderung geprüft.",
-    "165 nicht zugewiesene Einheiten bleiben unkommentiert; Gesamtbuild und Gesamtvalidator deshalb nicht erfolgreich."
+    "Genau diese 20 Einheiten geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Prüfung.",
+    "Bestehende Entscheidung II ZR 268/14 vollständig gelesen; keine neue umfassende Rechtsprechungsrecherche. Die übrigen 19 Einheiten stützen sich nicht auf behauptete Entscheidungen.",
+    "Aktuelle amtliche Konsolidierung und Inkrafttreten der letzten ausgewiesenen Novelle geprüft; nicht sämtliche späteren Bundesgesetzblätter einzeln ausgewertet.",
+    "165 außerhalb des Auftrags liegende Einheiten weiterhin ohne Kommentar; Gesamtbuild und strenge Gesamtvalidierung daher nicht erfolgreich."
   ],
-  "verified_at": "2026-10-20T23:08:12.622937+00:00",
+  "verified_at": "2026-10-20T23:11:01.837610+00:00",
   "source_xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
   "full_book_complete": false,
-  "statutory_text_agreement_assigned": 1.0,
-  "technical_validation": {
-    "assigned_text_agreement": 1.0,
-    "assigned_units_with_commentary": 20,
-    "global_strict_validator": {
-      "repo": "Komentar-DE-AKTG-1965",
-      "units": 393,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 274017,
-      "errors": [
-        "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "full_build_exit_code": 1,
-    "partial_checkpoint_rendered": 228,
-    "parser_expected_count": 393,
-    "parser_parsed_count": 393,
-    "missing_official_ids": [],
-    "duplicate_official_ids": [],
-    "broken_local_links": [],
-    "repeated_long_sentences": []
-  }
+  "statutory_text_agreement_assigned": 1.0
 }

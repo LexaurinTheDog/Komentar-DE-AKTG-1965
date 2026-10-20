@@ -1,16 +1,49 @@
 {
-  "scope": "full_validator_on_partial_manuscript",
-  "exit_code": 1,
-  "result": {
-    "repo": "Komentar-DE-AKTG-1965",
-    "units": 393,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 274017,
-    "errors": [
-      "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
-    ],
-    "warnings": [],
-    "ok": false
-  },
-  "assigned_review_result": "review-result.json"
+  "scope": "bounded review p20–p37 including p33a,p36a",
+  "reviewed_ids": [
+    "p20",
+    "p21",
+    "p22",
+    "p23",
+    "p24",
+    "p25",
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p32",
+    "p33",
+    "p33a",
+    "p34",
+    "p35",
+    "p36",
+    "p36a",
+    "p37"
+  ],
+  "units_reviewed": 20,
+  "commentary_changed_ids": [
+    "p20",
+    "p21",
+    "p23",
+    "p27",
+    "p30",
+    "p31",
+    "p33",
+    "p33a",
+    "p36",
+    "p37"
+  ],
+  "outside_scope_commentary_changes": [],
+  "assigned_statutory_text_agreement": 1.0,
+  "source_complete_units": 393,
+  "source_parsed_units": 393,
+  "source_missing": [],
+  "source_duplicates": [],
+  "broken_local_links": [],
+  "repeated_long_sentences": [],
+  "full_book_complete": false,
+  "full_build_blocker": "165 unassigned units without commentary; unchanged shared build refuses full book",
+  "checkpoint_rendered_units": 228
 }
