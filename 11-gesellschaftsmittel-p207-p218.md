@@ -1,6 +1,17 @@
-# Arbeitsstand: §§ 207–218 AktG
+# Kommentarkapitel 11 — Kapitalerhöhung aus Gesellschaftsmitteln und Schuldverschreibungen
 
-Dieser abgegrenzte Abschnitt ist ein Autorenentwurf. Das Gesamtbuch und seine unabhängige Prüfung sind noch nicht abgeschlossen.
+Begrenzter Checkpoint: §§ 207–218. Die weiteren Einheiten dieses Kapitels sind hier nicht enthalten.
+
+#### Erstes Buch — Aktiengesellschaft
+
+#### Sechster Teil — Satzungsänderung.
+Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung
+
+#### Zweiter Abschnitt — Maßnahmen der
+Kapitalbeschaffung
+
+#### Vierter Unterabschnitt — Kapitalerhöhung aus
+Gesellschaftsmitteln
 
 ### § 207 — Voraussetzungen
 
@@ -14,7 +25,7 @@ Dieser abgegrenzte Abschnitt ist ein Autorenentwurf. Das Gesamtbuch und seine un
 
 Die Kapitalerhöhung aus Gesellschaftsmitteln bindet bereits vorhandenes Eigenkapital als Grundkapital. Sie verschafft der Gesellschaft keine neue Liquidität: Kapital- und Gewinnrücklagen werden umgegliedert, ohne dass Aktionäre neue Einlagen leisten. Darin liegt der Unterschied zur Kapitalerhöhung gegen Einlagen nach §§ 182 ff. Der Ausdruck „Gratisaktien“ darf deshalb nicht als Vermögenszuwachs der Gesellschaft oder als unentgeltliche Zuwendung zusätzlicher Unternehmenssubstanz verstanden werden.
 
-Absatz 1 weist die Entscheidung der Hauptversammlung zu. Nicht jede beliebige Eigenkapitalposition ist umwandlungsfähig; § 208 bestimmt die verfügbaren Rücklagen und Verlustsperren. Absatz 2 übernimmt die Beschlussanforderungen des § 182 Absatz 1 einschließlich der qualifizierten Kapitalmehrheit und gegebenenfalls erforderlicher Gattungsbeschlüsse sowie die Anmeldung nach § 184 Absatz 1. Bei Stückaktien kann die Aktienzahl unverändert bleiben; dann steigt der auf die einzelne Aktie entfallende Anteil am Grundkapital. Der Beschluss muss die gewählte Erhöhungsart erkennen lassen. Absatz 3 verlangt eine Bilanz als rechnerische Grundlage; deren Aktualität und Prüfung richten sich nach § 209.
+Absatz 1 weist die Entscheidung der Hauptversammlung zu. Nicht jede beliebige Eigenkapitalposition ist umwandlungsfähig; § 208 bestimmt die verfügbaren Rücklagen und Verlustsperren. Absatz 2 übernimmt die Beschlussanforderungen des § 182 Absatz 1 einschließlich der grundsätzlich qualifizierten, durch Satzung abänderbaren Kapitalmehrheit und zusätzlicher Satzungserfordernisse sowie die Anmeldung nach § 184 Absatz 1. Der Verweis erfasst nicht § 182 Absatz 2; dessen Gattungssonderbeschlüsse dürfen daher nicht allein aus dieser Verweisung verlangt werden. Der Schutz der bestehenden Rechtsrelationen ist insbesondere nach § 216 gesondert zu beachten. Bei Stückaktien kann die Aktienzahl unverändert bleiben; dann steigt der auf die einzelne Aktie entfallende Anteil am Grundkapital. Der Beschluss muss die gewählte Erhöhungsart erkennen lassen. Absatz 3 verlangt eine Bilanz als rechnerische Grundlage; deren Aktualität und Prüfung richten sich nach § 209.
 
 Beispiel: Eine AG mit 2 Millionen Euro Grundkapital wandelt 500.000 Euro geeigneter Rücklagen um. Ohne Ausgabe neuer Stückaktien bleiben die Beteiligungsquoten und die Aktienzahl unverändert; das Grundkapital beträgt nach Eintragung 2,5 Millionen Euro. Ein entsprechender Zahlungseingang auf dem Gesellschaftskonto ist damit nicht verbunden. Vor der Beschlussfassung sind daher Finanzierungsziel, Rücklagenverfügbarkeit und Bilanzgrundlage getrennt zu prüfen.
 
@@ -144,7 +155,7 @@ Beispiel: Für drei alte Aktien entsteht eine neue Aktie. Eine Aktionärin mit v
 
 Nach Eintragung muss der Vorstand bei Ausgabe neuer Aktien unverzüglich deren Abholung veranlassen. Absatz 1 verlangt sowohl die Bekanntmachung in den Gesellschaftsblättern als auch die Übermittlung nach § 67a. Kapitalerhöhungsbetrag, Zuteilungsverhältnis und Hinweis auf einen möglichen späteren Verkauf gehören in die Bekanntmachung. Die Regel dient der praktischen Umsetzung der bereits nach § 212 zugeordneten Berechtigung; Nichtabholung bewirkt keinen sofortigen Rechtsverlust.
 
-Die Verkaufsabwicklung umfasst mehrere klar getrennte Zeitstufen. Erst nach einem Jahr seit Bekanntmachung der Aufforderung ist der Verkauf anzudrohen. Diese Androhung muss dreimal mit Abständen von jeweils mindestens einem Monat bekanntgemacht werden. Die letzte Bekanntmachung muss noch vor Ablauf von achtzehn Monaten seit der ursprünglichen Aufforderung erfolgen. Nach Absatz 3 folgt eine weitere Wartezeit von einem Jahr seit der letzten Androhungsbekanntmachung. Erst danach sind die nicht abgeholten Aktien für Rechnung der Beteiligten zu verkaufen, zum Börsenpreis oder mangels Börsenpreises durch öffentliche Versteigerung. Hinzu kommen die entsprechend geltenden Modalitäten des § 226 Absatz 3 Satz 2 bis 6.
+Die Verkaufsabwicklung umfasst mehrere klar getrennte Zeitstufen. Erst nach einem Jahr seit Bekanntmachung der Aufforderung ist der Verkauf anzudrohen. Diese Androhung muss dreimal mit Abständen von jeweils mindestens einem Monat bekanntgemacht werden. Die letzte Bekanntmachung muss noch vor Ablauf von achtzehn Monaten seit der ursprünglichen Aufforderung erfolgen. Nach Absatz 3 folgt eine weitere Wartezeit von einem Jahr seit der letzten Androhungsbekanntmachung. Erst danach sind die nicht abgeholten Aktien für Rechnung der Beteiligten zu verkaufen, zum Börsenpreis oder mangels Börsenpreises durch öffentliche Versteigerung. Nach § 226 Absatz 3 Satz 2 bis 6 ist bei fehlender angemessener Erfolgsaussicht am Gesellschaftssitz ein geeigneter Verkaufsort zu wählen. Zeit, Ort und Gegenstand der Versteigerung sind öffentlich bekanntzumachen; die besondere Benachrichtigung der Beteiligten darf nur bei Untunlichkeit unterbleiben. Bekanntmachung und Benachrichtigung müssen mindestens zwei Wochen vor der Versteigerung erfolgen. Der Erlös ist auszuzahlen oder bei bestehendem Hinterlegungsrecht zu hinterlegen.
 
 Absatz 4 überträgt das Verfahren auf Gesellschaften ohne Aktienurkunden: Dort wird zur Zuteilung aufgefordert. Die fehlende Einzelurkunde beseitigt also weder Informationspflicht noch Schutzfristen.
 

@@ -1,0 +1,12 @@
+{
+  "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE307192023.zip",
+  "http_status": 200,
+  "content_type": "application/zip",
+  "sha256": "b29b150f69d37c9152c8c9b808751f6ec7d60c0abcd5062552ac9ca180ffca9e",
+  "path": "authorities/KORE307192023-review012-response",
+  "accessed_at": "2026-10-20T23:44:49.189186+00:00",
+  "members": [
+    "jb-KORE307192023.xml"
+  ],
+  "format_validated": true
+}

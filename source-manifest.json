@@ -2,9 +2,24 @@
   "generated_from": "saved source files",
   "files": [
     {
+      "path": "authorities/1-StR-306-16-rejected-response.html",
+      "bytes": 51650,
+      "sha256": "e1477b36e07bc94ead6ec6e9229cc2e15d888fc43c579c06cabcbe4e5fd2b348"
+    },
+    {
+      "path": "authorities/BGH-II-ZR-141-21.md",
+      "bytes": 1460,
+      "sha256": "c4d47bad32e74236b3923840650ddcaaa78ebcbc5d28ab503b8de99e848802a3"
+    },
+    {
       "path": "authorities/II-ZR-141-21-response",
       "bytes": 51650,
       "sha256": "23ad97bef001e98b14e2f418a89a33efcff6a7563c173b8848156a42cb15ae1d"
+    },
+    {
+      "path": "authorities/II-ZR-141-21-review012-response",
+      "bytes": 51650,
+      "sha256": "5a7ebb2dc25be98c8dbb114ccc1870d45853bd45e758d0127831e29d6bab9d7f"
     },
     {
       "path": "authorities/II-ZR-155-02.pdf",
@@ -107,6 +122,21 @@
       "sha256": "e2f56b4f17a8bad78b6f40f60264d79b11b1c7a5f443a68adfd6208c18c2a4bc"
     },
     {
+      "path": "authorities/KORE307192023-intake.md",
+      "bytes": 32623,
+      "sha256": "578ed488c6c642ea809a5c4f89376a33dcaab6a3651f613988159b8ada9b1526"
+    },
+    {
+      "path": "authorities/KORE307192023-review012-response",
+      "bytes": 11243,
+      "sha256": "b29b150f69d37c9152c8c9b808751f6ec7d60c0abcd5062552ac9ca180ffca9e"
+    },
+    {
+      "path": "authorities/KORE307192023.xml",
+      "bytes": 51095,
+      "sha256": "43507ceed69e384f4628f028f91ed890d1217fc819b0e1d06ddf47df307015f0"
+    },
+    {
       "path": "authorities/case-II-ZB-10-25.md",
       "bytes": 1598,
       "sha256": "c35aa43b7c83a3fdbca67bef1eac6c64b5cf132769bdbaa537c598083a0c73d6"
@@ -142,6 +172,16 @@
       "sha256": "eabe8fc4e8c78937a4b3a521f49829392435323b231ce423c0189e9f2383e1e7"
     },
     {
+      "path": "authorities/fetch-case-review012.json",
+      "bytes": 421,
+      "sha256": "882cbede0f6a57b56e73c7a320581b3b44f482a5f260e412392b6bb49869dcd8"
+    },
+    {
+      "path": "authorities/fetch-review012.json",
+      "bytes": 454,
+      "sha256": "9ef61fd5b39c1afd3d0d3e5f7a32197cf7f959e963d074b7aeb5d1fd67a41ca4"
+    },
+    {
       "path": "authorities/local-search.json",
       "bytes": 343,
       "sha256": "73aabae89c9cbc9d38f043c2a3ee92d59230519c2454d5d8b09d48e10904813f"
@@ -175,6 +215,16 @@
       "path": "authorities/search-log-batch-011.json",
       "bytes": 1085,
       "sha256": "9771ee865767c384777c3046dd537cf893065650fb41444a98afa426f993e06e"
+    },
+    {
+      "path": "authorities/search-log-batch-012.json",
+      "bytes": 831,
+      "sha256": "17c30306897b85cb0640363445b0b5a7f2d4f9b9dbed2e6f951039cbdf2af98a"
+    },
+    {
+      "path": "authorities/search-log-p207-p218.json",
+      "bytes": 953,
+      "sha256": "f5ea87b3b818e8ce3a4eaf1654631c4487ccdba4b0495be16b93826a0e960691"
     },
     {
       "path": "authorities/search-log.json",
@@ -220,6 +270,11 @@
       "path": "sources/aktg.zip",
       "bytes": 140159,
       "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d"
+    },
+    {
+      "path": "sources/author-p207-p218.xml",
+      "bytes": 700066,
+      "sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea"
     },
     {
       "path": "sources/bgbl-2026-I-33-index.html",
@@ -357,6 +412,16 @@
       "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d"
     },
     {
+      "path": "sources/review-p199-p218.xml",
+      "bytes": 700066,
+      "sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea"
+    },
+    {
+      "path": "sources/review-p199-p218.zip",
+      "bytes": 140159,
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d"
+    },
+    {
       "path": "sources/review-p20-p37.xml",
       "bytes": 700066,
       "sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea"
@@ -408,8 +473,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 17587,
-      "sha256": "a7ebf1f73ef38ca7f8a07172d7429cb33c221f28962b4640d20d2540ec57ba25"
+      "bytes": 18860,
+      "sha256": "24f14b9cea6d3f82e4da15dc654f3b31dbde0ddf2b837fbd19d4f5378b6fec12"
     }
   ]
 }

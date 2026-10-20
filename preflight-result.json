@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "preflight_local_date": "2026-10-21",
   "official_url": "https://www.gesetze-im-internet.de/aktg/",
-  "verified_at": "2026-10-20T23:37:28.257935+00:00",
+  "verified_at": "2026-10-20T23:43:54.197121+00:00",
   "version_evidence": {
     "decisive_date": "2026-10-19",
     "rechecked_local_date": "2026-10-21",
@@ -24,7 +24,7 @@
     "limitations": [
       "No comprehensive screening of all subsequent gazettes; current official consolidation and its latest listed amending enactment checked."
     ],
-    "latest_actual_fetch": "2026-10-20T23:37:28.257935+00:00",
+    "latest_actual_fetch": "2026-10-20T23:43:54.197121+00:00",
     "review_commencement_check": "Artikel 23 Nr. 1: 10.02.2026; Nr. 2–6: 10.01.2030; Artikel 24: 04.12.2026 (am Stichtag nicht wirksam)."
   },
   "historical_versions_checked": {
@@ -36,7 +36,7 @@
     "duplicate_official_labels": [],
     "future_changes_checked_against_enactment": true,
     "scope": "Current consolidated XML, intake and final amendment; no concatenated historical versions.",
-    "bounded_recheck_xml": "sources/review-p180-p198.xml"
+    "bounded_recheck_xml": "sources/review-p199-p218.xml"
   },
   "annexes_checked": {
     "disposition": "Keine Anlage im amtlichen XML und im amtlichen Inhaltsverzeichnis ausgewiesen. Das weggefallene Vierte Buch ist als Gliederung erhalten; die amtliche XML enthält keine Einzelnummern §§ 339–393. Diese werden nicht als geltende Vorschriften erfunden.",
@@ -45,7 +45,7 @@
       "sources/recheck-2026-10-21-index.html"
     ],
     "unclassified_operative_text_records": [],
-    "bounded_raw_xml_recheck": "sources/review-p180-p198.xml"
+    "bounded_raw_xml_recheck": "sources/review-p199-p218.xml"
   },
   "coverage": {
     "expected": 393,
@@ -56,10 +56,10 @@
   },
   "unresolved_blockers": [],
   "limitations": [
-    "Quellen- und Parserprüfung vollständig im beschriebenen Umfang; aktuelle Inhaltsprüfung beschränkt auf die 20 bezeichneten Einheiten.",
-    "165 Einheiten außerhalb des Auftrags weiterhin ohne Kommentierung.",
-    "Keine lückenlose Auswertung aller späteren Bundesgesetzblätter."
+    "Genau p199–p218 inhaltlich geprüft; keine Gesamtbuchfreigabe oder externe anwaltliche Genehmigung.",
+    "Aktuelle amtliche Konsolidierung und Inkrafttreten der zuletzt ausgewiesenen Novelle geprüft, keine lückenlose Durchsicht aller späteren Gesetzblätter.",
+    "153 fehlende Kommentare außerhalb dieses Auftrags verhindern Gesamtbuild und Gesamtvalidierung; Kapitel 10 vollständig und §§ 207–218 als ausdrücklicher Teilcheckpoint gerendert."
   ],
   "full_book_complete": false,
-  "review_batch": "p180–p198 (20 zugewiesene Einheiten)"
+  "review_batch": "p199–p218 (20 Einheiten)"
 }
