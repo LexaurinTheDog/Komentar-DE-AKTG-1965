@@ -93,7 +93,7 @@
     {
       "id": "p65",
       "result": "reviewed_corrected",
-      "assessment": "Drei Absätze geprüft. Subsidiarität und Monatsvermutung, Zweijahresfrist ab Registeranmeldung zutreffend. Zwingenden Vorrang des Börsenverkaufs und Versteigerungsort, Zwewochenfrist, Benachrichtigte und Untunlichkeitsausnahme ergänzt.",
+      "assessment": "Drei Absätze geprüft. Subsidiarität und Monatsvermutung, Zweijahresfrist ab Registeranmeldung zutreffend. Zwingenden Vorrang des Börsenverkaufs und Versteigerungsort, Zweiwochenfrist, Benachrichtigte und Untunlichkeitsausnahme ergänzt.",
       "official_doknr": "BJNR010890965BJNE007302377",
       "statutory_text_sha256": "c67d64b25102b60d2d2c873f3a1894acc262b88d5c0b512eb07230195588cbe2",
       "commentary_sha256": "24be198e0b8a2bf83b93257520b3a185d22cfd778825b723648fc719bebcb94d"
@@ -197,5 +197,16 @@
   "verified_at": "2026-10-20T23:16:11.919132+00:00",
   "statutory_text_agreement_assigned": 1.0,
   "source_xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
-  "full_book_complete": false
+  "full_book_complete": false,
+  "strict_validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 393,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 283359,
+    "errors": [
+      "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  }
 }
