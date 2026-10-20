@@ -2,11 +2,11 @@
   "stage": "authoring",
   "decisive_date": "2026-10-19",
   "total_units": 393,
-  "completed_units": 227,
-  "remaining_units": 166,
+  "completed_units": 228,
+  "remaining_units": 165,
   "validation_result": {
     "ok": false,
-    "reason": "166 commentary units remain unauthored; bounded preflight completed",
+    "reason": "165 unassigned units remain unauthored; Eingangsformel batch complete",
     "raw_xml_verbatim_ratio": 1.0,
     "completeness": true,
     "full_build_exit_code": 1,
@@ -14,9 +14,9 @@
       "repo": "Komentar-DE-AKTG-1965",
       "units": 393,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 270675,
+      "commentary_chars": 272569,
       "errors": [
-        "krátký/chybějící komentář u 166 jednotek: ['Eingangsformel(0<120)', 'p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)']"
+        "165 unassigned commentary units missing (§ 207 onward)"
       ],
       "warnings": [],
       "ok": false
@@ -24,11 +24,10 @@
     "verbatim_ratio": 1.0
   },
   "independent_review": false,
-  "checkpoint": "commentary/part-15.md",
-  "updated_at": "2026-10-20T23:05:09.121271+00:00",
+  "checkpoint": "commentary/part-00-eingangsformel.md",
+  "updated_at": "2026-10-20T23:06:31.544983+00:00",
   "complete": false,
   "remaining_unit_ids": [
-    "Eingangsformel",
     "p207",
     "p208",
     "p209",
@@ -195,10 +194,10 @@
     "p409",
     "p410"
   ],
-  "commentary_chars": 270675,
+  "commentary_chars": 272569,
   "completed_chapters": 10,
   "total_chapters": 20,
-  "commented_scope": "§§ 1–206, including inserted and explicit empty/grouped slots",
+  "commented_scope": "Eingangsformel und §§ 1–206, including inserted and explicit empty/grouped slots",
   "source_checks": {
     "date": "2026-10-19",
     "official_xml_http_status": 200,
@@ -219,12 +218,13 @@
     "KORE302052021"
   ],
   "remaining_limitations": [
-    "166 statutory units require commentary, including Eingangsformel and units from § 207 onward.",
+    "165 statutory units from § 207 onward require commentary.",
     "No successful full build or complete strict validation.",
     "No independent second pass.",
     "Selective case-law research only; no exhaustive later-citation check.",
     "External cross-referenced statutes not comprehensively commented or verified.",
     "No line-by-line screening of all later gazettes beyond current official consolidation and last listed amendment."
   ],
-  "preflight_complete": true
+  "preflight_complete": true,
+  "bounded_author_result": "eingangsformel-result.json"
 }

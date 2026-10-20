@@ -1,0 +1,34 @@
+{
+  "task": "bounded_author",
+  "assigned_ids": [
+    "Eingangsformel"
+  ],
+  "completed_ids": [
+    "Eingangsformel"
+  ],
+  "complete": true,
+  "full_book_complete": false,
+  "verified_at": "2026-10-20T23:06:31.544983+00:00",
+  "source": "sources/aktg.xml",
+  "source_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+  "source_agreement": 1.0,
+  "commentary_chars": 1894,
+  "internal_cross_references_checked": [
+    "p23",
+    "p41",
+    "p179",
+    "p410"
+  ],
+  "case_law": "No special search for this legislative formula; no judicial authority claimed.",
+  "build": "Shared full builder attempted; stops for 165 unassigned missing comments. Existing checkpoint builder rendered 228 units in 10 complete chapters.",
+  "strict_validation": {
+    "ok": false,
+    "verbatim_ratio": 1.0,
+    "unassigned_missing_units": 165,
+    "assigned_unit_passes": true
+  },
+  "limitations": [
+    "Full manuscript incomplete.",
+    "No independent second pass."
+  ]
+}

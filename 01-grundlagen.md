@@ -6,6 +6,12 @@
 
 > Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
+Die Eingangsformel dokumentiert den Gesetzesbeschluss des Bundestages und die Zustimmung des Bundesrates zum ursprünglichen Aktiengesetz. Sie steht vor der in Bücher und Teile gegliederten Sachregelung und betrifft das Zustandekommen des Gesetzes. Aus ihr entstehen weder besondere Rechte einzelner Aktionäre noch zusätzliche Pflichten der Gesellschaftsorgane. Insbesondere ist die dort genannte Zustimmung keine aktienrechtliche Genehmigung, die bei jeder Gesellschaftsgründung erneut einzuholen wäre. Die Gründung richtet sich vielmehr nach §§ 23 ff.; die Entstehung der Aktiengesellschaft als solcher knüpft § 41 an die Eintragung in das Handelsregister.
+
+Die Formel ist im konsolidierten Text als Bestandteil des Stammgesetzes erhalten. Ihr Wortlaut liefert für sich allein keinen Nachweis dafür, welches Gesetzgebungsverfahren jede spätere Änderung durchlaufen hat oder seit wann deren einzelne Bestimmungen gelten. Für eine zeitlich zutreffende Anwendung sind deshalb der Änderungsstand und die jeweiligen Inkrafttretensregelungen gesondert zu prüfen. Auch das ursprüngliche Inkrafttreten regelt nicht diese Formel, sondern § 410. Die Zustimmung des Bundesrates darf ebenso wenig mit der Zustimmung einer Hauptversammlung zu einer Satzungsänderung nach § 179 gleichgesetzt werden: Gesetzgebung und gesellschaftsinterne Beschlussfassung betreffen unterschiedliche Regelungsebenen.
+
+Beispiel: Eine Gründerin liest die Formel und möchte vor der Registeranmeldung eine Zustimmung des Bundesrates zu ihrer geplanten AG beschaffen. Ein solches Erfordernis ergibt sich daraus nicht. Sie muss die gesetzlichen Gründungsschritte erfüllen; die Formel bestätigt das Zustandekommen des gesetzlichen Rahmens. Für diese Einordnung wird keine gerichtliche Entscheidung als Beleg herangezogen. Eine besondere Rechtsprechungsrecherche zur Eingangsformel ist in dieser begrenzten Bearbeitung nicht erfolgt.
+
 #### Erstes Buch — Aktiengesellschaft
 
 #### Erster Teil — Allgemeine Vorschriften

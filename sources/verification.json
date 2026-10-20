@@ -146,5 +146,19 @@
     "limitations": [
       "No comprehensive screening of all subsequent gazettes; current official consolidation and its latest listed amending enactment checked."
     ]
-  }
+  },
+  "bounded_unit_checks": [
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:06:13.150073+00:00",
+      "http_status": 200,
+      "path": "sources/eingangsformel-check.zip",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "content_type": "application/zip",
+      "format_validated": "ZIP opened; XML parsed; jurabk AktG verified",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "same_as_canonical": true,
+      "version_evidence": "Unchanged from canonical XML; commencement analysis in preflight-result.json and sources/bgbl-2026-I-33.txt; decisive date remains 2026-10-19"
+    }
+  ]
 }
