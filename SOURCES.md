@@ -25,3 +25,5 @@ Erneuter Quellen-Preflight am 21. Oktober 2026 (Europe/Prague; Abrufzeitstempel 
 Begrenzte zweite Durchsicht §§ 105–120 (20 Einheiten): [Prüfbericht](review-result-batch-007.json), [erneuter amtlicher XML-Abruf](sources/review-p105-p120.xml). Neuer selektiver Nachweis für § 119: [BGH, 26. April 2004 – II ZR 155/02](authorities/case-II-ZR-155-02.md), [Suchprotokoll](authorities/search-log-batch-007.json), [HTTP und Hash](authorities/verification-batch-007.json). Vorhandene Volltexte II ZR 179/12 und II ZR 225/20 erneut gelesen. Keine vollständige Folgejudikaturrecherche.
 
 Begrenzte zweite Durchsicht §§ 120a–134b: [20 genaue Kennungen und Einzelbefunde](review-result-batch-008.json), [amtliche XML](sources/review-p120a-p134b.xml), [BGH II ZB 28/12](authorities/case-II-ZB-28-12.md), [selektives Suchprotokoll](authorities/search-log-batch-008.json).
+
+Prüfbatch §§ 134c–150a: [Befunde](review-result-batch-009.json), [XML](sources/review-p134c-p150a.xml), [Fallkarte](authorities/case-II-ZB-10-25.md), [Suchprotokoll](authorities/search-log-batch-009.json).

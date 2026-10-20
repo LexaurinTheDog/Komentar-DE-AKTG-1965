@@ -42,6 +42,8 @@ Die gesetzliche Rücklage dient der zusätzlichen Kapitalabsicherung. Absatz 2 v
 
 Absatz 3 bindet den Bestand bis zur Schwelle eng an Verlustdeckung und verlangt vorrangige Deckungsmöglichkeiten aus den jeweils bezeichneten Gewinnpositionen. Absatz 4 lässt den übersteigenden Betrag unter erweiterten Voraussetzungen für Verlustdeckung oder Kapitalerhöhung aus Gesellschaftsmitteln verwenden, verbietet aber die kombinierte Verlustdeckung bei gleichzeitiger Auflösung von Gewinnrücklagen zur Ausschüttung. Beispiel: Eine AG möchte geschützte Rücklagen zur Deckung des Jahresfehlbetrags nutzen und gleichzeitig freie Gewinnrücklagen ausschütten. Die isolierte Betrachtung beider Buchungen übersieht die Verwendungsgrenze. Zuführung, geschützter Mindestbestand, überschießender Teil und Ausschüttungsplanung sind daher zusammen zu prüfen. Für die Ausschüttung folgt anschließend § 58.
 
+Rechenbeispiel: Bei einer Million Euro Grundkapital, 80.000 Euro an berücksichtigungsfähigen Rücklagen und 200.000 Euro Jahresüberschuss nach Abzug eines Verlustvortrags beträgt die Regelzuführung 10.000 Euro. Die gesetzliche Zehnprozentmarke wäre damit noch nicht erreicht. Innerhalb der gebundenen Schwelle verlangt Absatz 3 zusätzlich die fehlende Deckungsmöglichkeit durch andere Gewinnrücklagen. Beim überschießenden Betrag nach Absatz 4 entfällt dieses zusätzliche Vorrangerfordernis; das Verbot gleichzeitiger Ausschüttungsauflösung bleibt für die Verlustdeckung bestehen.
+
 ### § 150a — (weggefallen)
 
 **Wortlaut der Vorschrift:**

@@ -1,0 +1,50 @@
+{
+  "reviewed_ids": [
+    "p134c",
+    "p134d",
+    "p135",
+    "p135a",
+    "p136",
+    "p137",
+    "p138",
+    "p139",
+    "p140",
+    "p141",
+    "p142",
+    "p143",
+    "p144",
+    "p145",
+    "p146",
+    "p147",
+    "p148",
+    "p149",
+    "p150",
+    "p150a"
+  ],
+  "corrected_ids": [
+    "p134c",
+    "p135",
+    "p141",
+    "p142",
+    "p145",
+    "p147",
+    "p148",
+    "p150"
+  ],
+  "outside_scope_commentary_changes": [],
+  "statutory_text_agreement": 1.0,
+  "expected": 393,
+  "parsed": 393,
+  "missing": [],
+  "duplicates": [],
+  "broken_links": [],
+  "repeated_long_sentences": [],
+  "rendered_chapters": [
+    7,
+    8
+  ],
+  "full_build_exit_code": 1,
+  "full_build_blocker": "165 outside-scope missing comments",
+  "batch_checks_ok": true,
+  "full_book_complete": false
+}

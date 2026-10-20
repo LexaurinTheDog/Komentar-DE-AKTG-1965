@@ -1,0 +1,210 @@
+{
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p134c",
+    "p134d",
+    "p135",
+    "p135a",
+    "p136",
+    "p137",
+    "p138",
+    "p139",
+    "p140",
+    "p141",
+    "p142",
+    "p143",
+    "p144",
+    "p145",
+    "p146",
+    "p147",
+    "p148",
+    "p149",
+    "p150",
+    "p150a"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p134c",
+      "result": "reviewed_corrected",
+      "assessment": "Alle vier Absätze und beide Informationskataloge geprüft; fehlende Einzelvereinbarung und alternative Berichtsveröffentlichung präzisiert; 2030-Regel nicht vorgezogen.",
+      "official_doknr": "BJNR010890965BJNE058600360",
+      "statutory_text_sha256": "714601844fe0fd5aa52922ed7b10602c86ac038524d37a8c737366593953bc79",
+      "commentary_sha256": "562b6d364a307662a48e20fdeb746aa59b936a4a6a526771f7427ffad105963a"
+    },
+    {
+      "id": "p134d",
+      "result": "reviewed_no_change",
+      "assessment": "Alle vier Absätze mit sechs Transparenzthemen geprüft; jährliche Kodexerklärung und unverzügliche Konfliktinformation zutreffend getrennt; unverändert.",
+      "official_doknr": "BJNR010890965BJNE058700360",
+      "statutory_text_sha256": "cf2fb747e1d08c06f67a8a2f8508d83ae4c9110e9082476351fc5a8f6a83e9aa",
+      "commentary_sha256": "a7fb5d7393897a5a968eb089a67b68202836359259c5902c7e5fd7bcf5b329b6"
+    },
+    {
+      "id": "p135",
+      "result": "reviewed_corrected",
+      "assessment": "Absätze 1–10 einschließlich Wegfall geprüft; Geschäftsmaßigkeit statt Gewerbsmäßigkeit berichtigt, Verflechtungen, Überwachung, 20-Prozent-Grenze und begrenzten Verweis aus Absatz 4 erläutert; amtlichen §-123-Verweis nicht eigenmächtig geändert.",
+      "official_doknr": "BJNR010890965BJNE015609360",
+      "statutory_text_sha256": "4f3e04505ec9c2e923b53332d3fbd67b4f60825389f517b4db17079d969721cb",
+      "commentary_sha256": "b964a1077fdf31960afcdb970f5ff02bf26f71457a2f3dfa73c8fadeb75903f8"
+    },
+    {
+      "id": "p135a",
+      "result": "reviewed_no_change",
+      "assessment": "Alle vier Absätze geprüft; Zehnfachgrenze, Zustimmung, Übertragungserlöschen, Fristverlängerung, Gattungsbeschlüsse und einfache Prüferstimme zutreffend; unverändert.",
+      "official_doknr": "BJNR010890965BJNE059200360",
+      "statutory_text_sha256": "d0533cd6ac8dc21798a6aa41b9559852a58ec4d61b188b94f5fe9d0a903da594",
+      "commentary_sha256": "5581799f20b0c6251ff5dfee7bd52020790c8c7228f442f20d3b44aee0c9a8db"
+    },
+    {
+      "id": "p136",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft; persönliche Sperre und Sperre der eigenen Aktien sowie nichtige Bindungsverträge zutreffend; keine pauschale Ausweitung auf jede Stimmbindung.",
+      "official_doknr": "BJNR010890965BJNE015700308",
+      "statutory_text_sha256": "cb67c4e092534c235057a1909ad566a7cc1c1b45bde47c9e15e490e6cbaccecb",
+      "commentary_sha256": "42215bcd44eff78cb6d061fd3e01baaf16b2308bd3a6eafc5f35ad768dbd4f52"
+    },
+    {
+      "id": "p137",
+      "result": "reviewed_no_change",
+      "assessment": "Gesamte Vorschrift und § 130 Absatz 1 abgeglichen; vertretenes Kapital, Zehntelsquorum, Antrag und Protokollierung zutreffend; unverändert.",
+      "official_doknr": "BJNR010890965BJNE015800308",
+      "statutory_text_sha256": "a200be1012cc32864e2cde5b56d6902576c7436efa2cb41bdde77ef562837936",
+      "commentary_sha256": "c211496c59a1369a083cc8bbc0b6ebc67cc30664fb07d13267899b72811429e2"
+    },
+    {
+      "id": "p138",
+      "result": "reviewed_no_change",
+      "assessment": "Gesamte Vorschrift geprüft; gruppenbezogene Zehntelschwelle, Versammlung/Abstimmung und Spezialvorrang des § 141 zutreffend; unverändert.",
+      "official_doknr": "BJNR010890965BJNE016000308",
+      "statutory_text_sha256": "7103528ca03ae979652197e49535a53b7330d0534937dc9078054548d6623635",
+      "commentary_sha256": "68c11e6a477eb8cd60be185df79fa0c26a33a73534cfe43252e97b9d2320720d"
+    },
+    {
+      "id": "p139",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft; Gewinnvorzug, Nachzahlungsregel nur für Vorabdividende und Halbkapitalgrenze zutreffend; unverändert.",
+      "official_doknr": "BJNR010890965BJNE016202123",
+      "statutory_text_sha256": "a7a943d706a2e2a8bb8b7e0f4dbebf88b2e82789c6c9b4afa095b03d17057f1c",
+      "commentary_sha256": "1dd0a2746fc45e45632982b0678a086c6f2db6f67e7b3cead24a038ee5e85b8d"
+    },
+    {
+      "id": "p140",
+      "result": "reviewed_no_change",
+      "assessment": "Alle drei Absätze geprüft; kumulativer und nicht kumulativer Vorzug, Rückstände, Kapitalmehrheit und fehlender automatischer bedingter Zahlungsanspruch unterschieden; unverändert.",
+      "official_doknr": "BJNR010890965BJNE016301123",
+      "statutory_text_sha256": "46ea8d374b6dd6391c44333b5c54ce0b4d3b24f8ba1459c8d728a36abd09ff13",
+      "commentary_sha256": "bfadee929a8b724dbc32b9e402131fd569e93f4fe86c93addf4f10e2b1cb34af"
+    },
+    {
+      "id": "p141",
+      "result": "reviewed_corrected",
+      "assessment": "Alle vier Absätze geprüft; Satzungsgrenze sprachlich berichtigt; Rang im Gesellschaftsvermögen, ursprünglicher Vorbehalt, Bezugsrecht und Stimmenbezugsgröße präzisiert.",
+      "official_doknr": "BJNR010890965BJNE016400308",
+      "statutory_text_sha256": "8d6c51cceaeb3f576be11bd8046c3314efdc35ccc14ec1f68dfd8e1ed4ce8451",
+      "commentary_sha256": "5f312c395ab2e620df365b73a7c7b7bcb14f57671ba1ebee4a8b1b966a38c2ee"
+    },
+    {
+      "id": "p142",
+      "result": "reviewed_corrected",
+      "assessment": "Alle acht Absätze geprüft; Mindestbesitz, Austauschquorum, BaFin-Mitteilungen und Vergütungsrechtsmittel präzisiert; BGH II ZB 10/25 vollständig gelesen und begrenzt eingeordnet.",
+      "official_doknr": "BJNR010890965BJNE016610360",
+      "statutory_text_sha256": "4e7a148bff72d307f361261583cc7d60575722d57fd344ba64d81514f8105c3c",
+      "commentary_sha256": "4c80bc2536b249bc6e44f762da1ae580fcde5e415ba78804f22c54588736e5b4"
+    },
+    {
+      "id": "p143",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–3 einschließlich Wegfall geprüft; individuelle/Gesellschaftseignung, zeitbezogene Unabhängigkeit und Nichtprüfungsleistungen zutreffend; externe Kataloge nicht ungeprüft ausformuliert.",
+      "official_doknr": "BJNR010890965BJNE016703360",
+      "statutory_text_sha256": "6a3500ff0e8946c35c99a7c8e11de1671c963b5f79dd975172ffe2f464b8c618",
+      "commentary_sha256": "f193b39afccc8543f37b99e723064c26e53c1b3c1b2a0ba9f437e41c18f33fe2"
+    },
+    {
+      "id": "p144",
+      "result": "reviewed_no_change",
+      "assessment": "Vollständige Verweisnorm gelesen; Prüferverantwortung von Kosten und Organstellung getrennt; keine ungeprüften Haftungshöchstbeträge; unverändert.",
+      "official_doknr": "BJNR010890965BJNE016800308",
+      "statutory_text_sha256": "364fff3f509801ce5fa2c363c565f1d3a657d5f5357a04b7dfca8832a0b528ed",
+      "commentary_sha256": "5d2a35861d9d9a8e1e9e4a8d05b7b725b1eef1bbf456d29f07fe5dc2d0bf4bbb"
+    },
+    {
+      "id": "p145",
+      "result": "reviewed_corrected",
+      "assessment": "Alle sechs Absätze geprüft; konzernbezogenes Aufklärungsrecht von Besichtigung getrennt, Aufsichtsratsvorlage und Tagesordnungspflicht ergänzt.",
+      "official_doknr": "BJNR010890965BJNE016903140",
+      "statutory_text_sha256": "4313024aeba147cfa90846ab898334c65ff5583e9e848dbe88036893e160c70a",
+      "commentary_sha256": "919f24f0c90e8e66492d51c8b99b44f663049cc456211c99585c941c5af3cc39"
+    },
+    {
+      "id": "p146",
+      "result": "reviewed_no_change",
+      "assessment": "Vollständige Vorschrift geprüft; Gesellschaftskosten und kausaler vorsätzlich/grob fahrlässig falscher Vortrag unterschieden; fehlender Verdachtsnachweis allein genügt nicht zur Erstattung; unverändert.",
+      "official_doknr": "BJNR010890965BJNE017001377",
+      "statutory_text_sha256": "145147286d6032e0ed314bf0f6a2478f75d2f15dceb477050c36292d903aa968",
+      "commentary_sha256": "dea8ff05c3aafe80bf7e4d055acc4f61665be4cbc257ef5c06ed9c3ea684c8f2"
+    },
+    {
+      "id": "p147",
+      "result": "reviewed_corrected",
+      "assessment": "Absätze 1–4 einschließlich beider Wegfälle geprüft; gerichtliche Zweckmäßigkeit, Kosten, Vergütungsrechtsmittel und Vollstreckung ergänzt.",
+      "official_doknr": "BJNR010890965BJNE017105140",
+      "statutory_text_sha256": "8b70f4ae66a446530aa3e92c14bb77c3ebd2846bed992d80da9d8f46423705ed",
+      "commentary_sha256": "4e8365b516969f099ab0c8b3cacb06c5de7db8a5cae3f759bc3e107b2de88f83"
+    },
+    {
+      "id": "p148",
+      "result": "reviewed_corrected",
+      "assessment": "Alle sechs Absätze und vier Zulassungsvoraussetzungen geprüft; veröffentlichungsbezogener Erwerbsmaßstab, Beiladung, Vergleichswirkung und differenzierte Kostenerstattung ergänzt.",
+      "official_doknr": "BJNR010890965BJNE017403140",
+      "statutory_text_sha256": "be3b99742dbbeca450c34d2f82da5d3c8d2f8c7c8e1e5f6e395117f31f8e7819",
+      "commentary_sha256": "714e655ce7727cc7092c857074238ab19311bebf98696416fe924a2a5839201f"
+    },
+    {
+      "id": "p149",
+      "result": "reviewed_no_change",
+      "assessment": "Alle drei Absätze geprüft; Börsennotierung, Zeitpunkt, vollständige Nebenabreden, Leistungswirksamkeit und Prozesshandlungen getrennt; entsprechende Anwendung über § 142 zutreffend; unverändert.",
+      "official_doknr": "BJNR010890965BJNE017501377",
+      "statutory_text_sha256": "93dbda47da8f801dc695cf77c4d2f42d4102fc16e6e8385a6ddd8840621a5737",
+      "commentary_sha256": "630f63be7fbb481a5d55087274ea3385974bf09cbf48ec2da368babf771ba529"
+    },
+    {
+      "id": "p150",
+      "result": "reviewed_corrected",
+      "assessment": "Alle vier Absätze und Verwendungsnummern geprüft; Verlustdeckungsrangfolgen abgegrenzt und konkretes Fünfprozent-Rechenbeispiel ergänzt.",
+      "official_doknr": "BJNR010890965BJNE052600308",
+      "statutory_text_sha256": "07ff6d2980480cc3f586158a91a576dac7a817b5897c1473aebe95e878562469",
+      "commentary_sha256": "0c893c09f0913aca62f0b154c04f4ca1e738b404562f64a0adc8ffa0406d9f32"
+    },
+    {
+      "id": "p150a",
+      "result": "reviewed_no_change",
+      "assessment": "Amtlicher leerer Textkörper und Wegfallüberschrift geprüft; keine historische Rücklagenpflicht ergänzt; Quellenfußnote erhalten; unverändert.",
+      "official_doknr": "BJNR010890965BJNE017700308",
+      "statutory_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "commentary_sha256": "3838fca18c7574ab48d80308295b6e4a5be66d70d2b2ab8f739cac2f1e01d7b9"
+    }
+  ],
+  "limitations": [
+    "Genau 20 zugewiesene Einheiten inhaltlich geprüft; keine Gesamtbuchfreigabe oder externe anwaltliche Genehmigung.",
+    "Selektive Fallrecherche, II ZB 10/25 vollständig gelesen; für übrige Einheiten kein gesonderter hinreichend verifizierter Fall ausgewählt. Keine vollständige spätere Rechtsprechungskette.",
+    "Externe Normenkataloge nicht umfassend geprüft; amtliche Verweisungen unverändert belassen.",
+    "Aktuelle Konsolidierung und letzte ausgewiesene Novelle samt Inkrafttreten geprüft; keine lückenlose Durchsicht späterer Gesetzblätter.",
+    "165 außerhalb des Auftrags fehlende Kommentare verhindern Gesamtbuild und Gesamtvalidierung; Kapitel 07/08 im Builderformat gesichert."
+  ],
+  "verified_at": "2026-10-20T23:32:28.634828+00:00",
+  "statutory_text_agreement_assigned": 1.0,
+  "full_book_complete": false,
+  "whole_book_validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 393,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 323947,
+    "errors": [
+      "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  }
+}
