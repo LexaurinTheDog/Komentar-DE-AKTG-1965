@@ -3,198 +3,198 @@
   "task": "bounded_independent_second_pass",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p105",
-    "p106",
-    "p107",
-    "p108",
-    "p109",
-    "p110",
-    "p111",
-    "p111a",
-    "p111b",
-    "p111c",
-    "p112",
-    "p113",
-    "p114",
-    "p115",
-    "p116",
-    "p117",
-    "p118",
-    "p118a",
-    "p119",
-    "p120"
+    "p120a",
+    "p121",
+    "p122",
+    "p123",
+    "p124",
+    "p124a",
+    "p125",
+    "p126",
+    "p127",
+    "p127a",
+    "p128",
+    "p129",
+    "p130",
+    "p130a",
+    "p131",
+    "p132",
+    "p133",
+    "p134",
+    "p134a",
+    "p134b"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p105",
+      "id": "p120a",
+      "result": "reviewed_corrected",
+      "assessment": "Alle fünf Absätze geprüft; Unverbindlichkeit des Berichtsvotums, Abgrenzung der Systempublikation von § 162 Absatz 4 und Größenklassen ergänzt; 2030-Änderung nicht vorgezogen.",
+      "official_doknr": "BJNR010890965BJNE058300360",
+      "statutory_text_sha256": "dc6e1f130b6031c968ab51b4e1512284f57d25bcbd4cfe8231265add92ae783c",
+      "commentary_sha256": "78c5a29cd60679d9dd63549bf11bce4ff81c9196d45d25dd434e00830458b271"
+    },
+    {
+      "id": "p121",
+      "result": "reviewed_corrected",
+      "assessment": "Absätze 1–7 einschließlich 4a/4b geprüft; Briefalternative, genaue Kombination für EU-Medienpflicht, virtuelle Hinweise und begrenzte Vollversammlungswirkung präzisiert.",
+      "official_doknr": "BJNR010890965BJNE014108125",
+      "statutory_text_sha256": "dfd8ccf3cc86c85fd0c029394b9d2e4b60a51880fe6199c0ee06ab0a3a623c66",
+      "commentary_sha256": "8e6fb7be7d9f5eed5a5e4a393429db92236eb47fed0b4f359fb0bc3b32c791ed"
+    },
+    {
+      "id": "p122",
+      "result": "reviewed_corrected",
+      "assessment": "Alle vier Absätze geprüft; Quoren, Vorbesitz, Ergänzungsfristen, Fortbesitz, § 70 und § 121 Absatz 7 abgeglichen; Ermächtigungshinweis, Beschwerde und Gerichtskostenbedingung ergänzt.",
+      "official_doknr": "BJNR010890965BJNE014208123",
+      "statutory_text_sha256": "58895b22bbe8593bafff2284a9a04d4b3a11e378ebfda3bcd2001afabeaccb31",
+      "commentary_sha256": "1685dc33019273693f1612f9de877dba4d7def878402b6336c604d7bddc1ce3c"
+    },
+    {
+      "id": "p123",
+      "result": "reviewed_corrected",
+      "assessment": "Alle fünf Absätze geprüft; heutiger 22-Tage-Stichtag korrekt; entsprechende Fristverlängerung bei Nachweisregel ergänzt und Register-/Inhaberlegitimation abgegrenzt.",
+      "official_doknr": "BJNR010890965BJNE014306360",
+      "statutory_text_sha256": "f35205a094d812beead17efb50d711ff58c1e693cb499f08306e06fdac5284ca",
+      "commentary_sha256": "3be9b93fd40a0749f58bd7dc936edfab9c1b3a50b0c9a05ba779c2cf4e0867a6"
+    },
+    {
+      "id": "p124",
+      "result": "reviewed_corrected",
+      "assessment": "Alle vier Absätze geprüft; Vorschlagsorgane, Ausnahmefälle, Kandidatenangaben und Aktionärsvertretermehrheit im Aufsichtsrat ergänzt.",
+      "official_doknr": "BJNR010890965BJNE014410125",
+      "statutory_text_sha256": "535a94b5cf8c3fc233d481d0467467dfdc24effaa0d0c8725c3b435391b32907",
+      "commentary_sha256": "8884da3ed56fad478a6325e943f4b75986b6866f21f75bfeee5639786c502a6f"
+    },
+    {
+      "id": "p124a",
       "result": "reviewed_no_change",
-      "assessment": "Beide Absätze geprüft: Unvereinbarkeit, begrenzte Überbrückung bis insgesamt ein Jahr, ruhende Aufsichtsratsaufgaben und Ausnahme von § 88 zutreffend.",
-      "official_doknr": "BJNR010890965BJNE012101140",
-      "statutory_text_sha256": "d6cc460f2bb6828176d7bee5371f38136ceb03754e15ac12c2327869a24a0b9b",
-      "commentary_sha256": "01dc664eb92f1c163de3e3b3f006532b81fd21a9811eaacc7a6242b20ec0e672"
+      "assessment": "Alle sechs Katalognummern und späteres Ergänzungsverlangen geprüft; Vergütungsberichtserörterung, Gattungszahlen und Formularausnahme richtig; unverändert.",
+      "official_doknr": "BJNR010890965BJNE056901125",
+      "statutory_text_sha256": "7749952195e9245eeb8d31ec7439c4b534052eb8c05cccc4f1b18eb01edc933c",
+      "commentary_sha256": "f2c783c049e6f2571494b56db1f599d195f5955f36d6a4a8635ad2681799ab4a"
     },
     {
-      "id": "p106",
+      "id": "p125",
+      "result": "reviewed_corrected",
+      "assessment": "Alle fünf Absätze geprüft; Pflicht-/Sollangaben zu Kandidaten, geänderte Tagesordnung, § 67a-Verweis und genaue Weiterleitungsausnahme ergänzt.",
+      "official_doknr": "BJNR010890965BJNE014508360",
+      "statutory_text_sha256": "f790b4f8b5bdb50dd6ab2213e3bda1e77e7e3e79b1d6660365811ebb20984c4d",
+      "commentary_sha256": "a2f5318214deb6ae0a581024428379e3a88c43202dc829d962c0912ebfe3e3af"
+    },
+    {
+      "id": "p126",
+      "result": "reviewed_corrected",
+      "assessment": "Alle vier Absätze und sieben Ausnahmen geprüft; missverständlichen Website-Zugang korrigiert, Wiederholungstatbestände getrennt und auf Begründung begrenzte Zeichenfolge erläutert.",
+      "official_doknr": "BJNR010890965BJNE014603125",
+      "statutory_text_sha256": "c8e5446c86feafd1b3a06d2488d75739a49e25699f5bc4fbaade10348300a525",
+      "commentary_sha256": "e0d916b0e0c8f6a6134b8062d1f31523abe3bb5b927d264bb417c04a5a0f5066"
+    },
+    {
+      "id": "p127",
       "result": "reviewed_no_change",
-      "assessment": "Einreichung bei jeder personellen Änderung, gesetzliche Listenangaben, gerichtlicher Bekanntmachungshinweis und Abgrenzung zu § 107 geprüft; keine Änderung.",
-      "official_doknr": "BJNR010890965BJNE012201377",
-      "statutory_text_sha256": "6536edc3078b8b7260e0ec75155600bcc848df730fa05e735f543bc316d84d5c",
-      "commentary_sha256": "df5d497b8b3149320328813472b5f35cfb6605e48802710289e0d91f28322f37"
+      "assessment": "Sämtliche Sätze und drei Zusatzinformationen geprüft; Begründungsfreiheit, Pflichtangaben und sinngemäßer virtueller Antrag zutreffend; unverändert.",
+      "official_doknr": "BJNR010890965BJNE014705123",
+      "statutory_text_sha256": "9f8b6b3993274b9bfb1c037a0113d007ebf32b259e5889cd2d11f5b2fb64c750",
+      "commentary_sha256": "ebb3efe0aba2b8b94d00262c3a8affba48220915358f569990564b7abcb65114"
     },
     {
-      "id": "p107",
-      "result": "reviewed_corrected",
-      "assessment": "Alle vier Absätze geprüft; Protokollabschrift, Prüfungsausschussaufgaben, konfliktbezogene Mitgliedschaftsregeln und Verteilung eingeholter Auskünfte ergänzt. Nichtdelegierbarkeitskatalog mit Original verglichen.",
-      "official_doknr": "BJNR010890965BJNE012308360",
-      "statutory_text_sha256": "1c48f1a0252cf2ae75c5a2a6eec40da22c578f0da90a1002dd44397cb795a560",
-      "commentary_sha256": "40a6706020dac93fc774944a17c63119ff2b6932ca13232f9d3adea3ec9e0b86"
-    },
-    {
-      "id": "p108",
+      "id": "p127a",
       "result": "reviewed_no_change",
-      "assessment": "Alle vier Absätze geprüft: Sollzahl, Mindestteilnahme, schriftliche Stimmenübermittlung und Widerspruch gegen besondere Beschlussform zutreffend. Neunkopfbeispiel korrekt.",
-      "official_doknr": "BJNR010890965BJNE012401311",
-      "statutory_text_sha256": "c7479b288f12053f2832bcf06de35709710eaf85aab4e41e746ae57d7ee417a1",
-      "commentary_sha256": "74564cac0652b6b51daf52f290aabeb14facbb9255388dc81ad3e8c2d21bdbb5"
+      "assessment": "Alle fünf Absätze geprüft; Inhalt, optionale Verweise, Gesellschaftsstellungnahme und Verordnungsermächtigung zutreffend; keine unbelegten Nutzungsbedingungen; unverändert.",
+      "official_doknr": "BJNR010890965BJNE056302301",
+      "statutory_text_sha256": "369e454e229d375e8ba9e853013ebfdfd74aa1dc1ecff34041df6b22e8a45c64",
+      "commentary_sha256": "b8a58b5d937cd92a6f29664e55ac116c1a8a7daa9228032869ad083775f5080e"
     },
     {
-      "id": "p109",
+      "id": "p128",
       "result": "reviewed_no_change",
-      "assessment": "Alle vier Absätze geprüft: Sachverständige, Abschlussprüfer ohne Vorstand, Ausschussteilnahme, ermächtigte Sitzungsteilnahme ohne eigene Organstimme und Gesetzesvorbehalt zutreffend.",
-      "official_doknr": "BJNR010890965BJNE012502360",
-      "statutory_text_sha256": "81636a8c24034e4a0c64540d93e7997a49390a314c529fa187733e47c694a0a4",
-      "commentary_sha256": "dc1fc553e6ecf131213f4ac6b326ef151515b1d4553bc03b6549ae2d9186d5b2"
+      "assessment": "Amtlich weggefallene Überschrift und leerer Textkörper geprüft; kein historischer Text eingefügt; sachbezogene Vorbereitungsliste bleibt erhalten.",
+      "official_doknr": "BJNR010890965BJNE014811360",
+      "statutory_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "commentary_sha256": "584c70c62e37f93a0b5d905134cda46a8f2f3d3add3ce4a283c0ff23a088df99"
     },
     {
-      "id": "p110",
+      "id": "p129",
+      "result": "reviewed_corrected",
+      "assessment": "Alle fünf Absätze geprüft; anonyme Vollmachtgeber, Registerermächtigte und unverzügliche Weitergabe der Zählbestätigung ergänzt.",
+      "official_doknr": "BJNR010890965BJNE015058360",
+      "statutory_text_sha256": "620b574589e3aba5893bd2c9ee75694011cd8ab71ffa25364a768b19ef33290c",
+      "commentary_sha256": "083024bb6919a2dd7831182ae2f6eba6786acbc31b791b0861edbd1935d005a6"
+    },
+    {
+      "id": "p130",
       "result": "reviewed_no_change",
-      "assessment": "Alle drei Absätze geprüft: begründetes Verlangen, Zweitwochenfrist ab Einberufung, Selbsteinberufung und Halbjahresminimum samt Ausnahme zutreffend.",
-      "official_doknr": "BJNR010890965BJNE012602377",
-      "statutory_text_sha256": "5f908cf9b685ea74c41b73eb11fd9c8cfaadc167618135dd4dad054028f1fb40",
-      "commentary_sha256": "5314245f0272dbe53d896ff0eeacc8d2663cd83221c1525ef289ecaccfe78e86"
+      "assessment": "Absätze 1–6 einschließlich 1a geprüft; Notarpräsenz, beschränkte Protokollausnahme, Aktionärsverlangen, Belege, Einreichung und Siebentagespublikation korrekt; unverändert.",
+      "official_doknr": "BJNR010890965BJNE056603360",
+      "statutory_text_sha256": "f0930c054f3daabdcdebbacfbfa1df8ba45908c3f972bc5e4652b891d6431628",
+      "commentary_sha256": "0e7dfff05b4f725b5db4adbc3616b7fcda0c7aa268afe41359efec0b31d3a9aa"
     },
     {
-      "id": "p111",
+      "id": "p130a",
       "result": "reviewed_corrected",
-      "assessment": "Alle sechs Absätze geprüft; freiwillige externe Prüfung nichtfinanzieller Berichte, Zielgrößen in ganzen Personen, genaue 30-Prozent-Grenze, Nullbegründung und getrennte Quotenbefreiungen präzisiert.",
-      "official_doknr": "BJNR010890965BJNE012705360",
-      "statutory_text_sha256": "de9f53595e1061a53a4eeade7a4bec7b0a32ab2ec34826e152ce56e4ffa7a093",
-      "commentary_sha256": "6c94389b2e670eea831bb97331960fae370026d9168d73e0fd61aa7a85c721a0"
+      "assessment": "Alle sechs Absätze geprüft; Website-/Drittwebsiteweg und auf drei Nummern beschränkter Ausnahmenverweis ergänzt; keine Übernahme der 5000-Zeichenregel.",
+      "official_doknr": "BJNR010890965BJNE059100125",
+      "statutory_text_sha256": "763bb9031273864e8226c703a1d0575d89ce7fdadbddc9c0040eeaec417009d6",
+      "commentary_sha256": "19cab2e96d8d43c7ff574ebd2ec9071ecda172a2f958a3a3167a1a052fecabde"
     },
     {
-      "id": "p111a",
+      "id": "p131",
       "result": "reviewed_corrected",
-      "assessment": "Alle drei Absätze einschließlich sämtlicher Ausnahmen geprüft; alternative Tochtertatbestände, Umsetzungskatalog und besondere Instituts- und Vergütungsausnahmen konkretisiert. Externe IAS-Definition nur als gesetzlicher Verweis, keine rekonstruierte IAS-Kasuistik.",
-      "official_doknr": "BJNR010890965BJNE058001125",
-      "statutory_text_sha256": "c26fd75031b09f919718db1486cf7c084730ae0d5b670d3e54ef6cf395503728",
-      "commentary_sha256": "657e2711b60bfe0256613556d9f1eaf2ec8563249b2250a03368690f3d79a66b"
+      "assessment": "Alle Absätze einschließlich 1a–1f und sieben Verweigerungstatbestände gelesen. Einzelgründe und Ein-/Siebentagesunterschied erläutert; pauschale Abschließendkeitsaussage wegen amtlich verifizierter Aufsichtsratsvertraulichkeit eingegrenzt. BGH II ZB 28/12 vollständig gelesen und fallgebunden ergänzt.",
+      "official_doknr": "BJNR010890965BJNE015107125",
+      "statutory_text_sha256": "168920c3b09c5706c16bd1584b80a08a6564598ea90e31a1941abda3fb23a35a",
+      "commentary_sha256": "e0bf2a50374c3e5658ac24ddfc056776d482f5df2d2050836da1473a6ac2174d"
     },
     {
-      "id": "p111b",
+      "id": "p132",
       "result": "reviewed_corrected",
-      "assessment": "Alle vier Absätze geprüft; striktes Überschreiten, Voraussetzungen der Konzernbezugsgröße und fehlende eigene Dreiviertelregel konkretisiert; kein ungeprüfter Transfer aus § 111 Absatz 4.",
-      "official_doknr": "BJNR010890965BJNE058100360",
-      "statutory_text_sha256": "de1af1ea57c5b24499416bdbc2bbd4f2c2e011e2e15fc4823ad863a1c70e5101",
-      "commentary_sha256": "2336af826bcfc582fc1b43dd20bbb857f318100b960d5dac4dcf1e79ce464dcc"
+      "assessment": "Alle fünf Absätze geprüft; beide Berechtigtengruppen und unterschiedliche Widerspruchsanforderungen sowie virtuelle Zuschaltung präzisiert; Zweiwochenfrist zutreffend.",
+      "official_doknr": "BJNR010890965BJNE015204125",
+      "statutory_text_sha256": "5c252594ca4ca0afa6b6e295e9f1f991ec5d7c1ac2eb284f92879f7e01860f65",
+      "commentary_sha256": "c2a80cfd2480c51621573121d5b0a9a0b21e509cc36aa0beba101213758d76b1"
     },
     {
-      "id": "p111c",
+      "id": "p133",
+      "result": "reviewed_corrected",
+      "assessment": "Beide Absätze geprüft; Enthaltungen, Patt und eigenständige Wahlregel ergänzt; Kapital- und Stimmenmehrheiten zutreffend getrennt.",
+      "official_doknr": "BJNR010890965BJNE015400308",
+      "statutory_text_sha256": "3f843c78ab1b89f648924e2bd1b47a8ba05fa7ebf8b5442400e2b5525ce5057f",
+      "commentary_sha256": "6204809fc555acbe5536731b2dc8b58102c00a587bd1bb20fbf1f0708c637faa"
+    },
+    {
+      "id": "p134",
+      "result": "reviewed_corrected",
+      "assessment": "Alle vier Absätze geprüft; Teileinlagen-/Bruchstimmenregel, offensichtlicher Minderwert, elektronischer Vollmachtsnachweis und genaue Dreijahresaufzeichnung ergänzt.",
+      "official_doknr": "BJNR010890965BJNE015504140",
+      "statutory_text_sha256": "05126d2a6e2e101148207889d7bb7782d30ae7ef05d7dfbe75eed926e3887a27",
+      "commentary_sha256": "852a694cd2bcd5e1020c47b238b30d36f38dd2ea3b4c00ecc38174e5bcaa0be0"
+    },
+    {
+      "id": "p134a",
       "result": "reviewed_no_change",
-      "assessment": "Alle vier Absätze geprüft: unverzügliche Publikation, aggregierte Geschäfte, Mindestinhalt, Fünfjahreswebsite, Insiderkoordination und hypothetischer Tochtertest zutreffend.",
-      "official_doknr": "BJNR010890965BJNE058200360",
-      "statutory_text_sha256": "bdf8ce2fdb7c990fad9627a82f1620ee5603842b823ae43caa13d3956ac5946c",
-      "commentary_sha256": "49ae42be0b6cdc6d813841f2f95f9f3117eb0045418c9fb8b32d5e61528cc6c2"
+      "assessment": "Beide Absätze und sämtliche Definitionen geprüft; Erlaubnistatbestände und unionsrechtliche Anwendungsgrenzen korrekt als Verweise behandelt; keine ungeprüfte EU-Falllösung; unverändert.",
+      "official_doknr": "BJNR010890965BJNE058401360",
+      "statutory_text_sha256": "8be9fc3d374543eafade9cbce58288378fa4eb0b6321c92ea961c5dff40d48eb",
+      "commentary_sha256": "70687a3b0fad3eacc8c170ce03e8e0fbded5063caaa97c16257e6aca04789ccc"
     },
     {
-      "id": "p112",
-      "result": "reviewed_corrected",
-      "assessment": "Beide Sätze und § 78 Absatz 2 Satz 2 geprüft. BGH II ZR 179/12 im gesicherten Volltext gelesen; historische Fallgrenze und fehlende abschließende Folgejudikaturprüfung ausdrücklich klargestellt.",
-      "official_doknr": "BJNR010890965BJNE012801140",
-      "statutory_text_sha256": "e6c936c4ba665bda3afb64b91e97c5eee8cc1f3ea7b6c9b2d748f0fd05e882ce",
-      "commentary_sha256": "80c79ad2252ff03a1918b18f85b303376570d932067930bd113cb484227c8ec2"
-    },
-    {
-      "id": "p113",
-      "result": "reviewed_corrected",
-      "assessment": "Alle drei Absätze geprüft; § 120a Absätze 2 und 3 nachgelesen, kostenfreie Mindestaufbewahrung zehn Jahre, Behandlung einer Ablehnung und zeitliche Sperre beim ersten Aufsichtsrat ergänzt. BGH II ZR 225/20 vollständig gegengelesen.",
-      "official_doknr": "BJNR010890965BJNE012902360",
-      "statutory_text_sha256": "854475297bcfd55b59b1723fff5a64e88d7235d37e996517c4af92c8862ee032",
-      "commentary_sha256": "9e0c062e88b3c500947eb16dc214b788b79cd1c8fb9736a6a9d121671cb413f3"
-    },
-    {
-      "id": "p114",
-      "result": "reviewed_corrected",
-      "assessment": "Beide Absätze geprüft; Arbeitsvertragsausnahme, nachträgliche Genehmigung versus nicht genehmigungsfähige Amtsvergütung und Aktivlegitimation des Drittberaters präzisiert; BGH II ZR 225/20 vollständig gegengelesen.",
-      "official_doknr": "BJNR010890965BJNE013000308",
-      "statutory_text_sha256": "7999cfd92b3bfc2adb29d7122c6829ddc8d7057de093237c6f1714c4e2fe2633",
-      "commentary_sha256": "70564985be5bd2b27e947ec94a13f9b00e6ee02e1a65280e6767406cc66e3b88"
-    },
-    {
-      "id": "p115",
-      "result": "reviewed_corrected",
-      "assessment": "Alle fünf Absätze geprüft; genaue Konzernzuständigkeiten, Angehörigenkreis, personelle Verbindungen, Waren-/Konzernausnahmen und KWG-Sondertatbestand konkretisiert.",
-      "official_doknr": "BJNR010890965BJNE013102320",
-      "statutory_text_sha256": "cf5e128ca59f0e55eb7dabca6158a8fdf651b7e2aaae6643cc773f90b6f59792",
-      "commentary_sha256": "e35b1d70962f3165a429a38eb45d7d3b0177004f489ab369e2df48bf6d7dcc89"
-    },
-    {
-      "id": "p116",
+      "id": "p134b",
       "result": "reviewed_no_change",
-      "assessment": "Gesamte Vorschrift und Verweise geprüft; sinngemäße Organhaftung, ausgenommener Selbstbehalt, Verschwiegenheit, Vergütungshaftung und begrenzte Aussage zu § 15b InsO zutreffend.",
-      "official_doknr": "BJNR010890965BJNE013203360",
-      "statutory_text_sha256": "ef18be408aabbdf3384c23f177dc8c0b2d5bf49f6c4a140ef740269789c64c27",
-      "commentary_sha256": "c26a34b78ee621d3ed33368017575b71f43357aaf700e8f5a7c9cfa078ea7a82"
-    },
-    {
-      "id": "p117",
-      "result": "reviewed_corrected",
-      "assessment": "Alle sieben Absätze geprüft; Reichweite der HV-Befreiung, Vorsatz des Vorteilsbegünstigten, Verzichtssperren, Gläubigerschutz, Insolvenzverfolgung und konkrete Ausübung der Leitungsmacht präzisiert.",
-      "official_doknr": "BJNR010890965BJNE013402377",
-      "statutory_text_sha256": "1c932f718b5f2612832d5508147619f76173d5dec7a49630626042a428c1e6a6",
-      "commentary_sha256": "ddbb086ad10d697b5bcace4aefaa370cddd68c40c156e70a2d7ae326d356a8be"
-    },
-    {
-      "id": "p118",
-      "result": "reviewed_no_change",
-      "assessment": "Alle vier Absätze geprüft; elektronische Teilnahme, Briefwahl, Organanwesenheit, Bestätigung/Weiterleitung und Übertragung ohne automatische Teilnehmerrechte zutreffend.",
-      "official_doknr": "BJNR010890965BJNE013703360",
-      "statutory_text_sha256": "7060d1e5422a5de0e38996e480bcd77859d72f8c7979abd123a957d073e0548d",
-      "commentary_sha256": "d57d83759701df2475b14c9dac8ddfc6999094400c575d5aa55fbf2828dfdd70"
-    },
-    {
-      "id": "p118a",
-      "result": "reviewed_corrected",
-      "assessment": "Alle sechs Absätze einschließlich acht Live-/Vorabvoraussetzungen geprüft; Fristberechnung, Website, Stimmenbestätigung, abgestufte Präsenzpflichten und Dokumentenzugang konkretisiert; §§ 121, 130a und 131 nachgelesen.",
-      "official_doknr": "BJNR010890965BJNE059000125",
-      "statutory_text_sha256": "5439998610d62f77b5caee5174158cf50b18ae7b7d6cb2d609897fac2a432deb",
-      "commentary_sha256": "36a0a6c0ad31bed460c428f12d7ef63057e2baf5447f7e378c51134803c227e4"
-    },
-    {
-      "id": "p119",
-      "result": "reviewed_corrected",
-      "assessment": "Beide Absätze samt neun Zuständigkeitsgruppen geprüft; absolute Eingangsaussage korrigiert und ungeschriebene Ausnahmezuständigkeit nach neu gesichertem amtlichen BGH-Volltext II ZR 155/02 ergänzt. Innen-/Außenwirkung und qualifizierte Kapitalmehrheit unterschieden.",
-      "official_doknr": "BJNR010890965BJNE013804125",
-      "statutory_text_sha256": "623d1df122553ea053a4bb450ca0f220fec492b7a6bd92485d0bfa2917d6c7cd",
-      "commentary_sha256": "5d64aea398ea976bbd11cd4d26dd445f253c69880fe58b74e477a6100e924f8f"
-    },
-    {
-      "id": "p120",
-      "result": "reviewed_corrected",
-      "assessment": "Absätze 1 bis 3 sowie weggefallenen Absatz 4 geprüft. Einzelabstimmungsquoren, fehlende Anspruchserledigung und § 136 zutreffend; weggefallenen Absatz ausdrücklich von aktuellem § 120a abgegrenzt.",
-      "official_doknr": "BJNR010890965BJNE013908360",
-      "statutory_text_sha256": "023b975836b002e8417aafa51dca8b70a78b01c580289d93d2044f7aaa57b81e",
-      "commentary_sha256": "6a08f10a6f12737591e9834129178782e3aa5c42df956032b475d4b1ee558f1a"
+      "assessment": "Alle fünf Absätze geprüft; Politik, jährlicher Bericht, unwesentliche Stimmabgabe, Abweichungserklärung, dreijährige Zugänglichkeit und Verweismöglichkeit korrekt; spätere Registerpflicht ausgeschlossen; unverändert.",
+      "official_doknr": "BJNR010890965BJNE058500360",
+      "statutory_text_sha256": "6ab1b12c8d5ac8e76b15310ebe0792e5306854c25cbbe231cbe53da2c4c5b852",
+      "commentary_sha256": "7806b3eb820ec282aae6d0eabb47dd1a4d2713dd622155300377b53e43b3e2c2"
     }
   ],
   "limitations": [
-    "Genau 20 zugewiesene Einheiten geprüft; keine Gesamtbuchfreigabe oder externe anwaltliche Freigabe.",
-    "Selektive Rechtsprechung: zwei bereits zitierte Volltexte erneut vollständig gelesen, ein amtlicher BGH-Volltext zu § 119 neu recherchiert und vollständig gelesen; keine umfassende Folgejudikaturprüfung.",
-    "Externe Gesetze und Rechnungslegungsstandards nur im Umfang der AktG-Verweise behandelt; keine eigenständige vollständige Prüfung dieser Rechtsgebiete.",
+    "Genau 20 zugewiesene Einheiten geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Freigabe.",
+    "Selektive Fallrecherche: BGH II ZB 28/12 vollständig gelesen; keine vollständige spätere Rechtsprechungskette. Für die anderen 19 Einheiten kein gesonderter ausreichend geprüfter Fall ausgewählt.",
+    "Externe Normen nur im Umfang der AktG-Verweise behandelt; kein umfassender Kommentar des Unions-, Aufsichts- oder Prozessrechts.",
     "Aktuelle amtliche Konsolidierung und letzte ausgewiesene Novelle samt Inkrafttreten geprüft; keine lückenlose Auswertung sämtlicher späterer Gesetzblätter.",
-    "165 außerhalb des Auftrags fehlende Kommentare verhindern Gesamtbuild und Gesamtvalidierung; Kapitel 05/06 als begrenzter Checkpoint im Builderformat gerendert."
+    "165 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung; Kapitel 06/07 als begrenzter Checkpoint im Builderformat gerendert."
   ],
-  "verified_at": "2026-10-20T23:25:23.767181+00:00",
+  "verified_at": "2026-10-20T23:28:58.299937+00:00",
   "statutory_text_agreement_assigned": 1.0,
   "source_xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
   "full_book_complete": false,
@@ -202,12 +202,12 @@
     "repo": "Komentar-DE-AKTG-1965",
     "units": 393,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 309395,
+    "commentary_chars": 318039,
     "errors": [
       "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
     ],
     "warnings": [],
     "ok": false
   },
-  "bounded_review_validation": "passed: 20/20 assigned units read; 100% statutory text agreement; no outside-scope commentary edits; partial chapters 05/06 rendered"
+  "bounded_review_validation": "passed: 20/20 assigned units read, 13 corrected; 100% statutory agreement; no outside-scope changes"
 }

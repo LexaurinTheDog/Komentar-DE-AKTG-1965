@@ -1,0 +1,62 @@
+{
+  "reviewed_ids": [
+    "p120a",
+    "p121",
+    "p122",
+    "p123",
+    "p124",
+    "p124a",
+    "p125",
+    "p126",
+    "p127",
+    "p127a",
+    "p128",
+    "p129",
+    "p130",
+    "p130a",
+    "p131",
+    "p132",
+    "p133",
+    "p134",
+    "p134a",
+    "p134b"
+  ],
+  "units_reviewed": 20,
+  "corrected_ids": [
+    "p120a",
+    "p121",
+    "p122",
+    "p123",
+    "p124",
+    "p125",
+    "p126",
+    "p129",
+    "p130a",
+    "p131",
+    "p132",
+    "p133",
+    "p134"
+  ],
+  "outside_scope_commentary_changes": [],
+  "assigned_statutory_text_agreement": 1.0,
+  "source_expected_units": 393,
+  "source_parsed_units": 393,
+  "missing": [],
+  "duplicates": [],
+  "annex_records": [],
+  "broken_local_links": [],
+  "repeated_long_sentences": [],
+  "checkpoint_rendered_chapters": [
+    6,
+    7
+  ],
+  "batch_checks_ok": true,
+  "full_book_complete": false,
+  "checkpoint_links_checked": true,
+  "checkpoint_broken_links": [],
+  "full_build_exit_code": 1,
+  "full_build_blocker": "165 uncommented units outside assigned scope",
+  "case_fulltexts_read": [
+    "II ZB 28/12"
+  ]
+}

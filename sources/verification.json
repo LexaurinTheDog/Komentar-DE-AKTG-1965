@@ -289,6 +289,19 @@
       "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
       "same_as_canonical": true,
       "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:26:53.039364+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p120a-p134b.zip",
+      "xml_path": "sources/review-p120a-p134b.xml",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+      "same_as_canonical": true,
+      "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
     }
   ],
   "bgh_search_batch_007": [
