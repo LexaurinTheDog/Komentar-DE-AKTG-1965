@@ -1,0 +1,19 @@
+{
+  "at": "2026-10-20T23:43:08.681011+00:00",
+  "queries": [
+    "site.bundesgerichtshof.de Kapitalerhöhung aus Gesellschaftsmitteln 212",
+    "site.rechtsprechung-im-internet.de 1 StR 306/16",
+    "local rg 1 StR 306/16 in /Volumes/LaCie/law-intake/eu/de/rii"
+  ],
+  "candidate": "BGH 16.05.2017 – 1 StR 306/16",
+  "official_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-5-16&Gericht=bgh&anz=21&nr=79913&pos=0",
+  "outcome": "Response failed PDF magic validation; not cited; no holding attributed. Local search found manifest initially, no full text reviewed.",
+  "scope": "Selective research; no assertion of absence of relevant case law.",
+  "supported_units": [],
+  "official_fetch": {
+    "status": 200,
+    "path": "authorities/1-StR-306-16-rejected-response.html",
+    "sha256": "e1477b36e07bc94ead6ec6e9229cc2e15d888fc43c579c06cabcbe4e5fd2b348",
+    "pdf_magic_valid": false
+  }
+}

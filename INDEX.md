@@ -14,3 +14,5 @@
 - [Rechnungslegung und Gewinnverwendung](08-rechnungslegung.md)
 - [Satzungsänderung und ordentliche Kapitalerhöhung](09-satzung-kapitalerhoehung.md)
 - [Bedingtes und genehmigtes Kapital](10-bedingtes-genehmigtes-kapital.md)
+
+- [Arbeitsstand §§ 207–218](11-gesellschaftsmittel-p207-p218.md)

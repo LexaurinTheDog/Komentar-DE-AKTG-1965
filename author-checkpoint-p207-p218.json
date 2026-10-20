@@ -1,0 +1,57 @@
+{
+  "task": "bounded_author",
+  "assigned_ids": [
+    "p207",
+    "p208",
+    "p209",
+    "p210",
+    "p211",
+    "p212",
+    "p213",
+    "p214",
+    "p215",
+    "p216",
+    "p217",
+    "p218"
+  ],
+  "completed_ids": [
+    "p207",
+    "p208",
+    "p209",
+    "p210",
+    "p211",
+    "p212",
+    "p213",
+    "p214",
+    "p215",
+    "p216",
+    "p217",
+    "p218"
+  ],
+  "completed_units": 12,
+  "statutory_text_agreement": 1.0,
+  "source_mismatches": [],
+  "commentary_chars": {
+    "p207": 1660,
+    "p208": 1840,
+    "p209": 1980,
+    "p210": 1778,
+    "p211": 1157,
+    "p212": 1291,
+    "p213": 1510,
+    "p214": 1770,
+    "p215": 1760,
+    "p216": 1825,
+    "p217": 1742,
+    "p218": 1976
+  },
+  "repeated_long_sentences": [],
+  "source_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+  "independent_review": false,
+  "whole_book_complete": false,
+  "limitations": [
+    "Keine Entscheidung als Autorität aufgenommen: amtlicher BGH-Abruf lieferte keine PDF; Recherche nur selektiv.",
+    "Gemeinsamer Vollbuild bleibt wegen fehlender Kommentare außerhalb dieses Auftrags gesperrt."
+  ],
+  "build": "bounded section rendered with shared build_repo quote/load functions"
+}
