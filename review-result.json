@@ -3,210 +3,199 @@
   "task": "bounded_independent_second_pass",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p57",
-    "p58",
-    "p59",
-    "p60",
-    "p61",
-    "p62",
-    "p63",
-    "p64",
-    "p65",
-    "p66",
-    "p67",
-    "p67a",
-    "p67b",
-    "p67c",
-    "p67d",
-    "p67e",
-    "p67f",
-    "p68",
-    "p69",
-    "p70"
+    "p71",
+    "p71a",
+    "p71b",
+    "p71c",
+    "p71d",
+    "p71e",
+    "p72",
+    "p73",
+    "p74",
+    "p75",
+    "p76",
+    "p77",
+    "p78",
+    "p79",
+    "p80",
+    "p81",
+    "p82",
+    "p83",
+    "p84",
+    "p85"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p57",
+      "id": "p71",
       "result": "reviewed_corrected",
-      "assessment": "Drei Absätze und vier Ausnahmen des Absatzes 1 abgeglichen; wirtschaftlich darlehensgleiche Forderungen ergänzt. II ZR 179/12 vollständig gelesen; Unterbewertung nur unterstellt, Wirksamkeit und Rückgewähr getrennt.",
-      "official_doknr": "BJNR010890965BJNE006502140",
-      "statutory_text_sha256": "8836666883c38e42ee446808a5b12c354898ccab57a12bbbf48cfa231e9200ab",
-      "commentary_sha256": "abae2db6be01de3dbcd6fadc7ddd3606e81412bb09ea5f678855a16b2ac79766"
+      "assessment": "Alle vier Absätze und acht Erwerbsgründe geprüft. Unterschiede von Nummern 7/8, tägliche Fünfprozentgrenze, exakte Fallgruppen der Bestands-/Rücklagen- und Volleinzahlungsprüfung sowie Berichtsdaten ergänzt. Schuldrechtliche Nichtigkeit vom wirksamen Erwerb getrennt.",
+      "official_doknr": "BJNR010890965BJNE007912360",
+      "statutory_text_sha256": "08e9c130da191dc386da1d74d0529a9895ff8c89f9c9c9c8e5b33b4e421820be",
+      "commentary_sha256": "b6cbf91b516934229d67f5f8e77fc3993325ed4df35eb3f8060c950c0dacaa36"
     },
     {
-      "id": "p58",
-      "result": "reviewed_corrected",
-      "assessment": "Absätze 1, 2, 2a, 3–5 abgeglichen. Halbierungsbasen und Satzungsermächtigung zutreffend. Gesonderten Bilanz-/Anhangsausweis der Wertaufholungsrücklage ergänzt.",
-      "official_doknr": "BJNR010890965BJNE006605123",
-      "statutory_text_sha256": "d32ce5280d5ec9e45a9f388322474d256a0c294f56157d0ff115e89b307d0b8a",
-      "commentary_sha256": "4ed3b2a43c97480977ddfc806cdcb70cf48c23568129aae0ac6ddca147b483c2"
-    },
-    {
-      "id": "p59",
+      "id": "p71a",
       "result": "reviewed_no_change",
-      "assessment": "Alle drei Absätze geprüft: Satzungsermächtigung, abgelaufenes Geschäftsjahr, positiver vorläufiger Abschluss, beide kumulativen Halbgrenzen und Aufsichtsratszustimmung. Zahlenbeispiel richtig.",
-      "official_doknr": "BJNR010890965BJNE006700308",
-      "statutory_text_sha256": "de3f9ae988589968ae150f8e1cc2764ddbc902cf1f38440bd04212430bc76265",
-      "commentary_sha256": "513cdca1cdc06c87dbe14a5c9b073939f99bcd3e13c4f7597210982db8cbe2ac"
+      "assessment": "Absätze 1/2 geprüft: Erwerbszweck, drei Finanzierungsformen, laufende Institutsgeschäfte, Arbeitnehmerausnahme, begrenzte Rücklagenbedingung und Vertragskonzernausnahme zutreffend. Keine eigene Aussage über ungeprüfte UmwG-Abfindungstatbestände.",
+      "official_doknr": "BJNR010890965BJNE008004360",
+      "statutory_text_sha256": "ef3a418f5b68d227bfa93544958ae8e2d27e5b8fbc161ab970f9629c3bc5e1e6",
+      "commentary_sha256": "c6f3449e99dc5d3ca0b08983c313c9dc6760f2d3ea7adc5c43d79f47ef8cbec1"
     },
     {
-      "id": "p60",
-      "result": "reviewed_corrected",
-      "assessment": "Alle drei Absätze geprüft. Beispiel auf fortbestehend ungleiche Einzahlungsquoten konkretisiert; zeitanteilige Berechnung und Verteilung des nach Vorweganteil verbleibenden Gewinns erläutert.",
-      "official_doknr": "BJNR010890965BJNE006801307",
-      "statutory_text_sha256": "fb1a603d212d73bfb3d36e8aacc0cb6f8c6906b71c0bcfdcd6dae1c4b8b4df44",
-      "commentary_sha256": "96a27c58dc2854e22330ba5a63a75cae294bcde6f01b6eb2f00b7edd4c9d1565"
-    },
-    {
-      "id": "p61",
+      "id": "p71b",
       "result": "reviewed_no_change",
-      "assessment": "Satzungsmäßige wiederkehrende Nebenleistung, Wertobergrenze und Unabhängigkeit vom Bilanzgewinn abgeglichen; Rohstoffbeispiel und §§ 55/57 zutreffend.",
-      "official_doknr": "BJNR010890965BJNE006900308",
-      "statutory_text_sha256": "fe5d4dec1797be1d5ae929b1b70c6c7f4f1506e1ae47c876dabe62e3d8717e3c",
-      "commentary_sha256": "a8e3f449d1559923bb254208267ebc22eeeef6b3c6aac892fecc244d48dcd1e7"
+      "assessment": "Einzelsatz geprüft. Fehlende Rechte aus Eigenaktien und fortbestehender Aktienbestand unterschieden; § 16 als gesonderte Quotenregel nachgelesen. Kein universeller Mehrheitsnenner behauptet.",
+      "official_doknr": "BJNR010890965BJNE008100308",
+      "statutory_text_sha256": "41feba1a1eba22086a1b5cc539e2df894b068c1545de71001df71bd548f5df74",
+      "commentary_sha256": "db7d427b1c9e24f01db9b62b947f83becc89446da3d78ce1b9ea1a12b14937f0"
     },
     {
-      "id": "p62",
-      "result": "reviewed_corrected",
-      "assessment": "Alle drei Absätze und § 54 Absatz 4 Satz 2 geprüft. Beide zitierten BGH-Volltexte gelesen; Beweislasten und Zurückverweisung präzisiert. Historische Fünfjahresfrist ausdrücklich vom heutigen Zehnjahrestext getrennt.",
-      "official_doknr": "BJNR010890965BJNE007002377",
-      "statutory_text_sha256": "b146b62ef7aad406aada944c3fba15424b75835b6dc87dd617557c514ec3fd29",
-      "commentary_sha256": "20d2dfbe458e0c1c0dcaa858f63e80e7e21e1b44f472b15a4b605dc37e619876"
-    },
-    {
-      "id": "p63",
+      "id": "p71c",
       "result": "reviewed_no_change",
-      "assessment": "Drei Absätze einschließlich Bekanntmachungsalternative geprüft; fünf Prozent ab Fälligkeit, weiterer Schaden und Satzungsstrafe zutreffend. § 25 im amtlichen AktG nachgelesen.",
-      "official_doknr": "BJNR010890965BJNE007100308",
-      "statutory_text_sha256": "6ba9289410af59c2dc10afe6e3eb5a6c298934c7e7810e842fdaf6b9307c8c5f",
-      "commentary_sha256": "72b6ee955566cb61c07f709fb7679624849fd0eee741b7023dd15fb048311afa"
+      "assessment": "Alle drei Absätze geprüft. Jahresfrist für rechtswidrige Erwerbe, Dreijahresfrist nur für rechtmäßigen überschießenden Bestand, Einziehung nach Fristablauf. § 237 nachgelesen.",
+      "official_doknr": "BJNR010890965BJNE008201307",
+      "statutory_text_sha256": "26d5827f6c06ad19e5da5970ba4a91ca2b09bb34b40f83e325f7bd70691af509",
+      "commentary_sha256": "e454044f81dc575fafbb68d822dba8b3d3624bbc72819798f4a3da194dbc65df"
     },
     {
-      "id": "p64",
+      "id": "p71d",
       "result": "reviewed_corrected",
-      "assessment": "Vier Absätze geprüft: Dreifachbekanntmachung, Drei-/Einmonatsgrenzen, Dreiwochenabstände, Vinkulierungsalternative ab Empfang und Verlustigerklärung. Ausfallhaftung ausdrücklich auch für später eingeforderte Beträge präzisiert.",
-      "official_doknr": "BJNR010890965BJNE007200308",
-      "statutory_text_sha256": "609559dd9e084ae6164e58a0c11fc1781565e45a030cd08fdf23abb8f2e75910",
-      "commentary_sha256": "6438071bbd71c17fe21f8823e763e4c3fcf1b4603c0d936837f4715b8480c8db"
+      "assessment": "Sämtliche sechs Sätze geprüft. Ausdrückliche Auslassung der Einziehungsalternative Nummer 6 und genaue Bestands-/Veräußerungsquoten ergänzt. Erwerb und Besitz, Dritt- und Konzernzurechnung sowie Eigentumsverschaffung gegen Gegenwert erfasst.",
+      "official_doknr": "BJNR010890965BJNE008303307",
+      "statutory_text_sha256": "d90a4648a847410a4f4be104726560255bbdb7efaddd83f6ba327eba8ef2491f",
+      "commentary_sha256": "23656367f7407d282fb76f20de1c850a50f833b94ab10c56a5df69f289fe4a35"
     },
     {
-      "id": "p65",
+      "id": "p71e",
       "result": "reviewed_corrected",
-      "assessment": "Drei Absätze geprüft. Subsidiarität und Monatsvermutung, Zweijahresfrist ab Registeranmeldung zutreffend. Zwingenden Vorrang des Börsenverkaufs und Versteigerungsort, Zweiwochenfrist, Benachrichtigte und Untunlichkeitsausnahme ergänzt.",
-      "official_doknr": "BJNR010890965BJNE007302377",
-      "statutory_text_sha256": "c67d64b25102b60d2d2c873f3a1894acc262b88d5c0b512eb07230195588cbe2",
-      "commentary_sha256": "24be198e0b8a2bf83b93257520b3a185d22cfd778825b723648fc719bebcb94d"
+      "assessment": "Beide Absätze geprüft. Ausnahme auf die drei gesetzlich genannten Institutstypen präzisiert. Nichtigkeit des Grundgeschäfts und Unwirksamkeit der Pfandbestellung bei unvollständiger Einzahlung getrennt.",
+      "official_doknr": "BJNR010890965BJNE008403360",
+      "statutory_text_sha256": "4909cc8f0d06d89de04ab135e1d6e59458f94b862565f042f2d187853e188c9e",
+      "commentary_sha256": "41b213809e7ad360226550a05302b47ba1976adbd6ce70ebc0f76d3e026845d5"
     },
     {
-      "id": "p66",
-      "result": "reviewed_corrected",
-      "assessment": "Drei Absätze abgeglichen. Befreiungs- und Aufrechnungssperren einschließlich der Erweiterung in Absatz 2 sowie beide Kapitalherabsetzungswege zutreffend. Sachbezogene Abschlusscheckliste ergänzt.",
-      "official_doknr": "BJNR010890965BJNE007400308",
-      "statutory_text_sha256": "912aa2ab458e18512f79584dc7ad5de7667d5fa959b4f70bbb8ef9462e4b449d",
-      "commentary_sha256": "59ed5c1ae0348ab41aa0e59f401fd3bc0165a990b36113cefc846d0857832b2f"
-    },
-    {
-      "id": "p67",
-      "result": "reviewed_corrected",
-      "assessment": "Alle sieben Absätze vollständig geprüft. GbR-Änderungen, konkrete Investmentzuordnung, elektronisches Meldesystem, §-67d-Mitteilung, Kostenersatz, Ersatzeintragung und Ausnahme bei vorübergehender Intermediäreintragung präzisiert. Werbewiderspruch und Informationspflicht ausdrücklich erläutert.",
-      "official_doknr": "BJNR010890965BJNE007510360",
-      "statutory_text_sha256": "ed8b8ed19ca36227013a67673a39095d1665e72aaede67a7e06b876c4e1fb398",
-      "commentary_sha256": "1f6aef3dc31363a123f0daef6e829191a9e142e614c9cf623a90fc9dfdfde863"
-    },
-    {
-      "id": "p67a",
-      "result": "reviewed_corrected",
-      "assessment": "Sechs Absätze geprüft. EU-/EWR-Begriff des Intermediärs und Unterscheidung Ketten-/Letztintermediär ergänzt; beschränkte Übermittlung an ausdrückliche Verordnungsvoraussetzungen gebunden. Keine unbestätigte technische Frist beziffert.",
-      "official_doknr": "BJNR010890965BJNE057300360",
-      "statutory_text_sha256": "0ce771931c517e8173067db03b7da8f80c2b0341f54bec8050c778e8c9f308ac",
-      "commentary_sha256": "341b3615c93077d0360f8f99ee473718edbc1cb26f4dea04c87e01d91c6d9e14"
-    },
-    {
-      "id": "p67b",
+      "id": "p72",
       "result": "reviewed_no_change",
-      "assessment": "Beide Absätze und Verweisungen auf § 67a Absatz 2 Sätze 1 und 4 geprüft. Letztübermittlung, EU-Ausland und gesonderte Kostenfrage zutreffend; keine erfundene Versandfrist.",
-      "official_doknr": "BJNR010890965BJNE057400360",
-      "statutory_text_sha256": "41a81b681e294a339aef216cee164ffed5b83d0d745250a856d26c4c9dffb367",
-      "commentary_sha256": "40a69b036d472e0dc38ad797ee8e79a47474bda39bd74fde3e17f38d13cd2657"
+      "assessment": "Alle drei Absätze geprüft. Gerichtliches Aufgebot von Austausch und gesellschaftsseitiger Kraftloserklärung unterschieden; Folge nur für noch nicht fällige Inhabergewinnanteilscheine. Keine ungeprüften externen Verfahrensdetails behauptet.",
+      "official_doknr": "BJNR010890965BJNE008501140",
+      "statutory_text_sha256": "7aa8fea659c65a083e606ab05c81cd8cef8dcc7b48139afa9a07da29610a493a",
+      "commentary_sha256": "c0716a0694f7b977ef34a796ddefef2667e9cdfc0365e205d49d06f2e7c14ee7"
     },
     {
-      "id": "p67c",
-      "result": "reviewed_no_change",
-      "assessment": "Drei Absätze geprüft. Direkter/Kettenweg, Namensaktienweisungen, Aktionärsanweisungen, rechtzeitige Bündelung und EU-Ausland zutreffend; Absatz 3 verlangt Textform und Verlangen. § 123 im amtlichen XML nachgelesen.",
-      "official_doknr": "BJNR010890965BJNE057500360",
-      "statutory_text_sha256": "cfed999382bd929f1121be251bd362524b049243308c4d9f40b8103b0be08e9d",
-      "commentary_sha256": "64fb580f424e2d57edfbc4e5105f2f52359824c8b5f9d2d73d39b05230163e2f"
-    },
-    {
-      "id": "p67d",
+      "id": "p73",
       "result": "reviewed_corrected",
-      "assessment": "Alle fünf Absätze geprüft. Datenumfang, nicht eingetragene Gesellschaften und Mitberechtigte zutreffend; beauftragte Dritte und unverzüglicher gebündelter Antwortweg ergänzt. Keine ungeprüften technischen EU-Fristen behauptet.",
-      "official_doknr": "BJNR010890965BJNE057600360",
-      "statutory_text_sha256": "ba9b0ed11e43456c3bb34fe925879457011637eac3f38ada8bff24b773bc4446",
-      "commentary_sha256": "07071e03c9a9e440d7d006543910ad007623ae55e1b989817245cbbb6f661e57"
+      "assessment": "Alle vier Absätze geprüft. Beschwerde gegen Versagung von ausgeschlossener Anfechtung erteilter Genehmigung getrennt. Publikations-/Fristordnung gegen § 64 Absatz 2 geprüft, Ersatzaktien, berechtigte Hinterlegung und Gerichtsanzeige ergänzt; keine überholte Einschreibenpflicht eingeführt.",
+      "official_doknr": "BJNR010890965BJNE008602140",
+      "statutory_text_sha256": "813dbee55f44ab23a04aeeabf054416e0a63527dacce5ab67d7a4eb7d1dffc3b",
+      "commentary_sha256": "3f2202fcff821a3d43e2f674135fdfe917d7cc161be2ee69669fd5f29acc8f6f"
     },
     {
-      "id": "p67e",
+      "id": "p74",
       "result": "reviewed_no_change",
-      "assessment": "Vier Absätze geprüft. Zwecke, Kenntnis vom Ausscheiden als Speicherfristtrigger, Zwölfmonatsgrenze, Rechtsverfahrensausnahme nur für Gesellschaft, Offenlegungsprivileg und Berichtigungsadressaten zutreffend.",
-      "official_doknr": "BJNR010890965BJNE057700360",
-      "statutory_text_sha256": "b2f78e860dad91e9fac17ea732b81a406a7fdcabcc8fd6205b8d3ce426554eb0",
-      "commentary_sha256": "5989c6ff33f325eeb1e436255e079659fbe5c5192347ed9665e76cdabc3a83f5"
+      "assessment": "Beide Sätze geprüft. Umlaufuntauglichkeit, sichere Identifizierbarkeit, Herausgabe der alten Urkunde, Kostentragung und Vorschuss vollständig erfasst. Beispiel von Verlust und rechtlicher Unrichtigkeit getrennt.",
+      "official_doknr": "BJNR010890965BJNE008700308",
+      "statutory_text_sha256": "8879de6197dbd4502107395c6f60a028657cd1c60c0c00e591bbe50892397153",
+      "commentary_sha256": "2feabdb53366df56bc73f4181ee4700b0e5db3975fc236426ec525fb7423ca4d"
     },
     {
-      "id": "p67f",
+      "id": "p75",
       "result": "reviewed_no_change",
-      "assessment": "Drei Absätze samt beiden Kostenausnahmen und Ermächtigungsnummern geprüft. Offenlegung, tatsächliche grenzüberschreitende Mehrkosten und Pauschalermächtigung zutreffend. Keine konkreten ungeprüften Verordnungssätze behauptet.",
-      "official_doknr": "BJNR010890965BJNE057801125",
-      "statutory_text_sha256": "a65a56a6788aa96d3005b899b5b9300f5418ce286af56a11729c8645aab53b9b",
-      "commentary_sha256": "cd62fedd46d0d27807e66d4359c3cad6c249fc0e9d67f84cd8ad6cd52ddff5b2"
+      "assessment": "Beide Halbsätze geprüft. Widerspruch und Vorlage der Haupturkunde als unterschiedliche Bedingungen des Ausgabeverbots und Aushändigungsanspruchs erläutert. Bestehende thematische Checkliste sachbezogen.",
+      "official_doknr": "BJNR010890965BJNE008800308",
+      "statutory_text_sha256": "e77b22a0bb7929acafd5c558ced747b012d1988b096e656367a5689db17e30f3",
+      "commentary_sha256": "1d795e6d01449b845a5f5bf7533fb41b329cf836f6c7ce86961408ea4cba7069"
     },
     {
-      "id": "p68",
+      "id": "p76",
       "result": "reviewed_corrected",
-      "assessment": "Vier Absätze geprüft. Verweisung auf Wechselgesetz erfasst neben Form und Rechtsausweis auch Herausgabepflicht; diese ergänzt. Zustimmungszuständigkeit, Reihenprüfung ohne Unterschriftenprüfung und Zwischenscheine zutreffend.",
-      "official_doknr": "BJNR010890965BJNE007601311",
-      "statutory_text_sha256": "54f3e4d70cbedcda1e4d7164e1750bcdf747a11a667fe00de3f6bdadc0c713b7",
-      "commentary_sha256": "8f05a48c469e76acc84bee6d33ebd4d379482d9c34dfb5cd3d1d3f479d8baf65"
+      "assessment": "Absätze 1–4 einschließlich 3a geprüft. Betreuungs-/Verbotslagen, nur für Buchstabe e geltende Einjahresstrafe, Fünfjahresberechnung und unterschiedliche Auslandstatbestände präzisiert. Zielgrößen in vollen Personen, Nullbegründung und Fristen ergänzt; § 393a nachgelesen.",
+      "official_doknr": "BJNR010890965BJNE009110360",
+      "statutory_text_sha256": "f2cf07a316a65da4b7c5231f8b357e1b2326f266067b81ded5d581b8bc73dbcc",
+      "commentary_sha256": "ae6ed36e899f2291b01323ce03e69e20dc0042313e2781253167e552fd39e519"
     },
     {
-      "id": "p69",
-      "result": "reviewed_no_change",
-      "assessment": "Alle drei Absätze geprüft. Gemeinsamer Vertreter, Gesamtschuld und passive Empfangserleichterung bei fehlendem Vertreter unterschieden. Erbenmonatsfrist und § 8 Absatz 5 abgeglichen.",
-      "official_doknr": "BJNR010890965BJNE007700308",
-      "statutory_text_sha256": "8762630c14202453c29f42527bf7cb3fc77743e82af5cfe3090c14b32c3c44ea",
-      "commentary_sha256": "92378070c0e5b8c00133fe9fda46049477755876e36efa6f2c181fe5e0477435"
-    },
-    {
-      "id": "p70",
+      "id": "p77",
       "result": "reviewed_corrected",
-      "assessment": "Beide Sätze geprüft. Anspruch auf Übereignung nur gegen bezeichnete Institute; sämtliche Zurechnungsalternativen einschließlich Treuhänder und beider Bestandsübertragungen ergänzt. Konkrete Voraussetzungen der externen Übertragungsregeln nicht behauptet; §§ 122/142 abgeglichen.",
-      "official_doknr": "BJNR010890965BJNE007803360",
-      "statutory_text_sha256": "35503e53147127051c65f56caa71928d18f91e905560ff58b50c859f53006990",
-      "commentary_sha256": "486d62def7b80985e445512c5e28adc8141bb8f3c61da8aa0ee722c4e852d51f"
+      "assessment": "Beide Absätze geprüft. Unzulässiges Überstimmen der Mehrheit vom zulässigen Ressortzuschnitt getrennt; verbindliche Satzungsvorgaben zu Geschäftsordnungsfragen ergänzt. Einstimmigkeit nur für den Vorstandsbeschluss zur Geschäftsordnung.",
+      "official_doknr": "BJNR010890965BJNE009200308",
+      "statutory_text_sha256": "aeda24b95368f4bd15d449d322041a237f820a950b6dbe29c097cadd60ae1eb2",
+      "commentary_sha256": "fd436abae163efed91209a4763270a9e5fe24b61eae3f18ff65f0652ab735f4a"
+    },
+    {
+      "id": "p78",
+      "result": "reviewed_no_change",
+      "assessment": "Alle vier Absätze geprüft. Passive Ersatzvertretung bei Führungslosigkeit, Empfang durch ein Mitglied, Anschriften, satzungsmäßige Abweichungen und geschäftsbezogene Ermächtigung zutreffend. § 112 als Sonderfall nachgelesen.",
+      "official_doknr": "BJNR010890965BJNE009301140",
+      "statutory_text_sha256": "bbb32e7f4bca10a1a624dee87f476d89b34e262955e9d50f26aea98471edd203",
+      "commentary_sha256": "ea3e512c8ad34fb0718f1dc17192341d6c7094319df730d7edbfccb64957b015"
+    },
+    {
+      "id": "p79",
+      "result": "reviewed_no_change",
+      "assessment": "Weggefallener Platzhalter mit amtlichem Strich abgeglichen. Kein historischer Norminhalt als geltende Befugnis ausgegeben; Beispiel verweist richtig auf § 78.",
+      "official_doknr": "BJNR010890965BJNE009401140",
+      "statutory_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "commentary_sha256": "9f00d180b885d04d3b1c1cb0c44007be1b43d818066d37ab0442b977c3f7ae81"
+    },
+    {
+      "id": "p80",
+      "result": "reviewed_corrected",
+      "assessment": "Alle vier Absätze geprüft. Formunabhängige Geschäftsbriefe, ausgelöste Kapitalangaben, Ausnahme nur für Absatz 1 Sätze 1/2 und keine Ausnahme für Bestellscheine erfasst. Zweigniederlassungsregister, ausländisch bedingte Abweichungen und alle Abwickler präzisiert.",
+      "official_doknr": "BJNR010890965BJNE009504140",
+      "statutory_text_sha256": "246376ffca81f91a91a70e74711dec5297185659b0a6a1ce4dec3e31fb9d4eac",
+      "commentary_sha256": "9dd1fb5e0addd3e754c8808b0aded3c1c1f33d08b49a82629a60792f96df1f80"
+    },
+    {
+      "id": "p81",
+      "result": "reviewed_no_change",
+      "assessment": "Alle vier Absätze einschließlich Wegfallstelle geprüft. Anmeldung, Original/beglaubigte Abschrift, Versicherungen neuer Mitglieder und Belehrung zutreffend. § 37 Absatz 2 nachgelesen; Registerpublizität nicht ohne Rechtsgrund konkretisiert.",
+      "official_doknr": "BJNR010890965BJNE009604360",
+      "statutory_text_sha256": "2f0a011ccb5ef5b44774ab27ac956167d220c5bc0f10971e71a27300316669f2",
+      "commentary_sha256": "9b9536fb3fecd1cff047a902c60ceba60cc37d275542470498c5741d3a7c71e5"
+    },
+    {
+      "id": "p82",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft. Unbeschränkte Außenvertretung und rechtmäßige Innenbindung sauber getrennt. §§ 93, 111 und 179a im amtlichen Text nachgelesen; Missbrauch nur als nicht abschließend behandeltes Problem bezeichnet.",
+      "official_doknr": "BJNR010890965BJNE009700308",
+      "statutory_text_sha256": "a9a8960a2c2aca9bc929ce347581ba5b9872382990d676a7a70bcd939d91c40a",
+      "commentary_sha256": "42c6951ea60e76cf9241af9b8892c92f09ef5494128966052d13af2c5a0dd2e6"
+    },
+    {
+      "id": "p83",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft. Vorbereitung und Abschluss zustimmungsbedürftiger Verträge, maßnahmenspezifische Mehrheit und Ausführung innerhalb der HV-Zuständigkeit erfasst. § 119 Absatz 2 nachgelesen.",
+      "official_doknr": "BJNR010890965BJNE009800308",
+      "statutory_text_sha256": "541bac948b7e750b3dcd58c2be3ae8ccf5988f2286b7b2082ba8544390db9453",
+      "commentary_sha256": "002082b8997bd800f66e2064aefb5a9875e266f4c7f3a05401a923af5105e729"
+    },
+    {
+      "id": "p84",
+      "result": "reviewed_corrected",
+      "assessment": "Alle fünf Absätze einschließlich sämtlicher Sätze des Absatzes 3 geprüft. Mutterschutz ohne fingierte Dreimonatsfrist, wichtiger Grund gegen Widerruf, Drei-/Zwölfmonatsvarianten, unverändertes Amtsende und bedingte Quoten-/Mindestgrößenausnahmen präzisiert. Absatz 5 auf Montan-Mitbestimmung begrenzt. Keine externen MuSchG-Fristen ausgerechnet.",
+      "official_doknr": "BJNR010890965BJNE009902360",
+      "statutory_text_sha256": "292882b57d121c4761f86b1c37e22b948751f32de4e349215902453c62348801",
+      "commentary_sha256": "1426156fe034836298b4e14d0b33fcbb6f918b83031169f2c3a7553500e96ccf"
+    },
+    {
+      "id": "p85",
+      "result": "reviewed_corrected",
+      "assessment": "Absätze 1, 1a, 2 und 3 geprüft. Beschwerde gegen Bestellung ergänzt; vom gesonderten Vergütungsverfahren samt Rechtsbeschwerdeausschluss unterschieden. Dringlichkeit, Antrag, Quotenbindung, Amtsende und Vollstreckung zutreffend.",
+      "official_doknr": "BJNR010890965BJNE010002360",
+      "statutory_text_sha256": "2bd50017786295390bfe5d89f4dd9cab1d687c902bd612ccc3581d93a1766acd",
+      "commentary_sha256": "cc76e55f28f749b643da3e808a6342f91cc82738809dade8219a7d63baaff47c"
     }
   ],
   "limitations": [
-    "Genau die 20 zugewiesenen Einheiten geprüft; keine Gesamtbuchfreigabe oder externe anwaltliche Prüfung.",
-    "Beide vorhandenen zitierten amtlichen BGH-Volltexte vollständig gelesen; keine neue umfassende Rechtsprechungsrecherche und keine Behauptung vollständiger Folgeentscheidungsprüfung.",
-    "EU-Verordnung und externe Spezialgesetze nur im Umfang der im AktG enthaltenen Verweisungen erläutert; technische Fristen und Spezialtatbestände nicht eigenständig vollständig geprüft oder behauptet.",
-    "Aktuelle amtliche Konsolidierung sowie Artikel 23/24/64 der letzten ausgewiesenen Novelle geprüft; keine lückenlose Einzelkontrolle sämtlicher späteren Bundesgesetzblätter.",
-    "165 nicht zugewiesene Einheiten weiterhin ohne Kommentar; unveränderter Gesamtbuilder verweigert den Gesamtbuild. Nur das betroffene vollständige Kapitel wird als partieller Checkpoint neu gerendert."
+    "Genau 20 zugewiesene Einheiten geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Freigabe.",
+    "Keine dieser 20 Einheiten enthält eine konkrete Gerichtsentscheidung. Keine neue Rechtsprechungsrecherche oder Behauptung erschöpfender Fallrechtabdeckung; vorhandene Fallkarten außerhalb dieses Auftrags nicht erneut geprüft.",
+    "Externe Verfahrens- und Spezialgesetze nur anhand der ausdrücklichen AktG-Verweisungen beschrieben; keine vollständige Prüfung ihrer eigenständigen Voraussetzungen.",
+    "Aktuelle amtliche Konsolidierung, Versionsgleichheit und Inkrafttreten der letzten ausgewiesenen Novelle geprüft; keine lückenlose Auswertung sämtlicher späterer Bundesgesetzblätter.",
+    "165 außerhalb des Auftrags fehlende Kommentare verhindern den Gesamtbuild und die strenge Gesamtvalidierung. Kapitel 03/04 als ausdrücklich partieller Checkpoint im Builderformat gerendert."
   ],
-  "verified_at": "2026-10-20T23:16:11.919132+00:00",
+  "verified_at": "2026-10-20T23:18:48.797172+00:00",
   "statutory_text_agreement_assigned": 1.0,
   "source_xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
-  "full_book_complete": false,
-  "strict_validation": {
-    "repo": "Komentar-DE-AKTG-1965",
-    "units": 393,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 283359,
-    "errors": [
-      "krátký/chybějící komentář u 165 jednotek: ['p207(0<400)', 'p208(0<400)', 'p209(0<400)', 'p210(0<400)', 'p211(0<120)', 'p212(0<120)', 'p213(0<400)', 'p214(0<400)']"
-    ],
-    "warnings": [],
-    "ok": false
-  }
+  "full_book_complete": false
 }

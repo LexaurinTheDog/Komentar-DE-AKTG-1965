@@ -1,0 +1,50 @@
+{
+  "reviewed_ids": [
+    "p71",
+    "p71a",
+    "p71b",
+    "p71c",
+    "p71d",
+    "p71e",
+    "p72",
+    "p73",
+    "p74",
+    "p75",
+    "p76",
+    "p77",
+    "p78",
+    "p79",
+    "p80",
+    "p81",
+    "p82",
+    "p83",
+    "p84",
+    "p85"
+  ],
+  "units_reviewed": 20,
+  "corrected_ids": [
+    "p71",
+    "p71d",
+    "p71e",
+    "p73",
+    "p76",
+    "p77",
+    "p80",
+    "p84",
+    "p85"
+  ],
+  "outside_scope_commentary_changes": [],
+  "assigned_statutory_text_agreement": 1.0,
+  "source_expected_units": 393,
+  "source_parsed_units": 393,
+  "missing": [],
+  "duplicates": [],
+  "broken_local_links": [],
+  "repeated_long_sentences": [],
+  "checkpoint_rendered_chapters": [
+    3,
+    4
+  ],
+  "batch_checks_ok": true,
+  "full_book_complete": false
+}
