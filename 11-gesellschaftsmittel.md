@@ -59,6 +59,8 @@ Beispiel: Bei einer Million Euro Grundkapital und 180.000 Euro Kapital- und gese
 >
 > (6) Im Fall der Absätze 2 bis 5 gilt für das Zugänglichmachen der Bilanz und für die Erteilung von Abschriften § 175 Abs. 2 sinngemäß.
 
+*Quellenhinweis:* (+++ § 209: Zur Anwendung vgl. § 26g AktGEG +++)
+
 Die Bilanz soll belegen, dass die in Grundkapital umzuwandelnden Rücklagen tatsächlich vorhanden sind. Absatz 1 erlaubt die letzte Jahresbilanz nur bei Prüfung, Feststellung und uneingeschränktem Bestätigungsvermerk. Ihr Stichtag darf höchstens acht Monate vor der Registeranmeldung liegen. Entscheidend ist somit nicht allein, ob die Bilanz bei der Hauptversammlung noch hinreichend jung war. Verzögert sich die Anmeldung, kann die gewählte Grundlage unbrauchbar werden.
 
 Absatz 2 ermöglicht eine andere Bilanz, bindet sie aber an die bezeichneten aktien- und handelsrechtlichen Bilanzierungsregeln und dieselbe Achtmonatsgrenze. Absätze 3 und 4 sichern hierfür die Prüfung und den uneingeschränkten Vermerk. Die Wahl eines anderen Prüfers bleibt der Hauptversammlung möglich; ohne solche Wahl greift die gesetzliche Zuordnung zum zuletzt gewählten oder gerichtlich bestellten Abschlussprüfer. Die entsprechenden Verweisungen regeln insbesondere Prüferanforderungen, Informationszugang, Berichterstattung und Verantwortlichkeit. Bei Unternehmen von öffentlichem Interesse ist zusätzlich das ausdrücklich genannte unionsrechtliche Verbot bestimmter Nichtprüfungsleistungen zu beachten. Eine bloße interne Durchsicht ersetzt diesen Prüfungsauftrag nicht.
@@ -245,14 +247,6 @@ Beispiel: Ein Unternehmen hält Altaktien mit Anschaffungskosten von 30.000 Euro
 
 Die Vorschrift betrifft den Wertansatz der Beteiligung beim Inhaber und ergänzt die gesellschaftsrechtliche proportionale Zuteilung nach § 212. Sie ist keine allgemeine Bewertungsvorschrift für jeden späteren Verkauf und entscheidet nicht sämtliche steuerrechtlichen Folgen. In der Bestandsführung müssen ursprüngliche Erwerbskosten, Zuteilungsverhältnis und rechnerische Verteilung nachvollziehbar bleiben; ein Börsenkursrückgang nach der Maßnahme ist eine davon getrennte Bewertungsfrage.
 
-#### Erstes Buch — Aktiengesellschaft
-
-#### Sechster Teil — Satzungsänderung.
-Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung
-
-#### Zweiter Abschnitt — Maßnahmen der
-Kapitalbeschaffung
-
 #### Fünfter Unterabschnitt — Wandelschuldverschreibungen. Gewinnschuldverschreibungen
 
 ### § 221
@@ -269,8 +263,10 @@ Kapitalbeschaffung
 
 § 221 bindet Finanzierungsinstrumente mit Beteiligungs- oder Gewinnbezug an die Hauptversammlung. Absatz 1 erfasst auch die Gestaltung, bei der die Gesellschaft selbst ein Umtausch- oder Bezugsrecht besitzt. Bei Gewinnschuldverschreibungen muss die Rechtsstellung der Gläubiger mit Gewinnanteilen von Aktionären verknüpft sein; eine gewöhnliche verzinsliche Anleihe fällt nicht schon wegen ihrer Fremdfinanzierungsfunktion darunter. Die gesetzliche Kapitalmehrheit beträgt drei Viertel des vertretenen Grundkapitals. Anders als § 222 erlaubt die Norm der Satzung eine andere Kapitalmehrheit, daneben weitere Anforderungen. Bei mehreren stimmberechtigten Gattungen ist der Verweis auf § 182 Absatz 2 zu beachten.
 
-Absatz 2 begrenzt die Ermächtigung zur Ausgabe von Wandelschuldverschreibungen auf fünf Jahre. Er verlangt außerdem die Hinterlegung des Ausgabebeschlusses und der Ausgabeerklärung durch Vorstand und Aufsichtsratsvorsitzenden sowie einen Hinweis in den Gesellschaftsblättern. Für Genussrechte übernimmt Absatz 3 Absatz 1 sinngemäß. Absatz 4 schützt bei allen drei Instrumentgruppen den Zugang der Aktionäre durch ein Bezugsrecht; der Verweis auf § 186 verlangt bei dessen Ausschluss eine gesonderte Prüfung von Beschluss, Bericht und Voraussetzungen. § 193 Absatz 2 Nummer 4 stellt die Verbindung zur Bestimmung des Ausgabebetrags her.
+Absatz 2 begrenzt die Ermächtigung zur Ausgabe von Wandelschuldverschreibungen auf fünf Jahre. Er verlangt außerdem die Hinterlegung des Ausgabebeschlusses und der Ausgabeerklärung durch Vorstand und Aufsichtsratsvorsitzenden sowie einen Hinweis in den Gesellschaftsblättern. Für Genussrechte übernimmt Absatz 3 Absatz 1 sinngemäß. Absatz 4 schützt bei allen drei Instrumentgruppen den Zugang der Aktionäre durch ein Bezugsrecht; der Verweis auf § 186 verlangt bei dessen Ausschluss eine gesonderte Prüfung von Beschluss, Bericht und Voraussetzungen. Der Verweis auf § 193 Absatz 2 Nummer 4 betrifft bei entsprechender Anwendbarkeit die Aufteilung auf Geschäftsleitungsmitglieder und Arbeitnehmer sowie Erfolgsziele, Erwerbs- und Ausübungszeiträume und die mindestens vierjährige Wartezeit. Die Festlegung des Ausgabebetrags steht dagegen in § 193 Absatz 2 Nummer 3; beide Nummern dürfen nicht verwechselt werden.
 
 Eine Ermächtigung zur Anleiheausgabe schafft nicht von selbst die zur Bedienung der Wandlungsrechte benötigten Aktien. Dafür kann insbesondere bedingtes Kapital nach §§ 192 ff. erforderlich sein. Beispiel: Eine AG will einem Investor eine in Aktien wandelbare Anleihe exklusiv anbieten. Sie muss Ausgabeermächtigung, Bezugsrechtsausschluss und Bereitstellung der Aktien aufeinander abstimmen. Ein ausreichendes bedingtes Kapital ersetzt den Hauptversammlungsbeschluss nach § 221 ebenso wenig wie die Ausgabeermächtigung einen fehlenden Kapitalbeschluss.
+
+Rechtsschutz gegen eine kompetenzüberschreitende Umsetzung muss rechtzeitig gesucht werden. Im vollständig geprüften Urteil vom 7. Mai 2019 – II ZR 278/16, Randnummern 14–23, verlangte der BGH eine Unterlassungsklage ohne unangemessene Verzögerung. Maßgeblich sind Kenntnis beziehungsweise Kennenmüssen und Zumutbarkeit im Einzelfall; daraus folgt keine starre neue Monatsfrist. Die dortigen Schadensersatzbegehren scheiterten nach Randnummern 25–32 an unzureichender Schadensdarlegung, nicht an einer vom BGH allgemein festgelegten identischen Klagefrist. Die Entscheidung ersetzt keine Prüfung der heutigen Ausgabe- und Bezugsrechtsvoraussetzungen. [Fallkarte und Grenzen](authorities/BGH-II-ZR-278-16.md).
 
 Praktische Abschlusskontrolle zur Kapitalbeschaffung: Instrument und Zuständigkeit bestimmen, Bezugsrechte und Gattungsschutz prüfen, Kapitaldeckung und Registerschritte zuordnen sowie Ermächtigungsfristen und Veröffentlichungspflichten gesondert terminieren. Bei Gesellschaftsmitteln sind zusätzlich die Eintragung vor Ausgabe und die unveränderten gesamten Anschaffungskosten der Beteiligung zu kontrollieren.

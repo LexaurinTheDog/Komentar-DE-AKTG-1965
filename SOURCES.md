@@ -33,3 +33,5 @@ Prüfbatch §§ 151–179a: [Befunde](review-result-batch-010.json), [XML](sourc
 Prüfbatch §§ 180–198 einschließlich § 183a: [Befunde](review-result-batch-011.json), [XML](sources/review-p180-p198.xml), [Suchprotokoll](authorities/search-log-batch-011.json).
 
 Prüfbatch §§ 199–218: [Befunde](review-result-batch-012.json), [XML](sources/review-p199-p218.xml), [Fallkarte](authorities/BGH-II-ZR-141-21.md), [Suchprotokoll](authorities/search-log-batch-012.json).
+
+Prüfbatch §§ 219–238: [Befunde](review-result-batch-013.json), [amtliches XML](sources/review-p219-p238.xml), [Fallkarte](authorities/BGH-II-ZR-278-16.md), [Suchprotokoll](authorities/search-log-batch-013.json).

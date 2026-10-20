@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "preflight_local_date": "2026-10-21",
   "official_url": "https://www.gesetze-im-internet.de/aktg/",
-  "verified_at": "2026-10-20T23:50:43.659573+00:00",
+  "verified_at": "2026-10-20T23:51:25.985645+00:00",
   "version_evidence": {
     "decisive_date": "2026-10-19",
     "rechecked_local_date": "2026-10-21",
@@ -24,9 +24,10 @@
     "limitations": [
       "No comprehensive screening of all subsequent gazettes; current official consolidation and its latest listed amending enactment checked."
     ],
-    "latest_actual_fetch": "2026-10-20T23:43:54.197121+00:00",
+    "latest_actual_fetch": "2026-10-20T23:51:25.985645+00:00",
     "review_commencement_check": "Artikel 23 Nr. 1: 10.02.2026; Nr. 2–6: 10.01.2030; Artikel 24: 04.12.2026 (am Stichtag nicht wirksam).",
-    "author_batch_commencement_check": "Artikel 23 und 64 in sources/bgbl-2026-I-33.txt erneut gelesen: § 8 Absatz 7 seit 10.02.2026; Artikel 23 Nummern 2–6 erst 10.01.2030. Aktueller XML-Abruf identisch; keine neuere Änderung ausgewiesen."
+    "author_batch_commencement_check": "Artikel 23 und 64 in sources/bgbl-2026-I-33.txt erneut gelesen: § 8 Absatz 7 seit 10.02.2026; Artikel 23 Nummern 2–6 erst 10.01.2030. Aktueller XML-Abruf identisch; keine neuere Änderung ausgewiesen.",
+    "bounded_review_commencement_check": "Artikel 23 Nr. 1 und Artikel 64 Absatz 1: § 8 Absatz 7 seit 10.02.2026 wirksam. Artikel 23 Nr. 2–6 nach Artikel 64 Absatz 8 erst 10.01.2030; Artikel 24 nach Absatz 6 erst 04.12.2026. Keine Änderung der §§ 219–238 seit Intake im amtlichen XML."
   },
   "historical_versions_checked": {
     "intake_xml": "sources/intake-2026-10-01.xml",
@@ -37,7 +38,7 @@
     "duplicate_official_labels": [],
     "future_changes_checked_against_enactment": true,
     "scope": "Current consolidated XML, intake and final amendment; no concatenated historical versions.",
-    "bounded_recheck_xml": "sources/review-p199-p218.xml"
+    "bounded_recheck_xml": "sources/review-p219-p238.xml"
   },
   "annexes_checked": {
     "disposition": "Keine Anlage im amtlichen XML und im amtlichen Inhaltsverzeichnis ausgewiesen. Das weggefallene Vierte Buch ist als Gliederung erhalten; die amtliche XML enthält keine Einzelnummern §§ 339–393. Diese werden nicht als geltende Vorschriften erfunden.",
@@ -46,7 +47,7 @@
       "sources/recheck-2026-10-21-index.html"
     ],
     "unclassified_operative_text_records": [],
-    "bounded_raw_xml_recheck": "sources/review-p199-p218.xml"
+    "bounded_raw_xml_recheck": "sources/review-p219-p238.xml"
   },
   "coverage": {
     "expected": 393,
@@ -57,10 +58,12 @@
   },
   "unresolved_blockers": [],
   "limitations": [
-    "Aktuelle amtliche Konsolidierung und letzte ausgewiesene Novelle geprüft; keine vollständige Durchsicht aller späteren Gesetzblätter.",
-    "Begrenzter Autorenbatch p219–p238; keine Gesamtfreigabe."
+    "Genau p219–p238 geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Genehmigung.",
+    "Selektive Rechtsprechungsrecherche: ein amtlicher Entscheidungsvolltext gelesen und für p221 verwendet; keine erschöpfende Fallsuche.",
+    "Amtliche Konsolidierung und Inkrafttreten der letzten ausgewiesenen Novelle geprüft; keine lückenlose Durchsicht aller späteren Gesetzblätter.",
+    "133 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung; Kapitel 11 und begrenzter Teilcheckpoint §§ 222–238 gerendert."
   ],
   "full_book_complete": false,
-  "review_batch": "p199–p218 (20 Einheiten)",
+  "review_batch": "p219–p238 (20 Einheiten)",
   "author_batch_recheck": "sources/author-p219-p238-verification.json"
 }

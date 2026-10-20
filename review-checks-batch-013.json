@@ -1,0 +1,49 @@
+{
+  "reviewed_ids": [
+    "p219",
+    "p220",
+    "p221",
+    "p222",
+    "p223",
+    "p224",
+    "p225",
+    "p226",
+    "p227",
+    "p228",
+    "p229",
+    "p230",
+    "p231",
+    "p232",
+    "p233",
+    "p234",
+    "p235",
+    "p236",
+    "p237",
+    "p238"
+  ],
+  "corrected_ids": [
+    "p221",
+    "p222",
+    "p226",
+    "p229",
+    "p231"
+  ],
+  "outside_scope_commentary_changes": [],
+  "statutory_text_agreement": 1.0,
+  "expected": 393,
+  "parsed": 393,
+  "missing": [],
+  "duplicates": [],
+  "annexes": [],
+  "eingangsformel_present": true,
+  "broken_links": [],
+  "repeated_long_sentences": [],
+  "rendered_files": [
+    "11-gesellschaftsmittel.md",
+    "12-kapitalherabsetzung-p222-p238.md"
+  ],
+  "full_build_exit_code": 1,
+  "full_build_blocker": "133 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung; Kapitel 11 und begrenzter Teilcheckpoint §§ 222–238 gerendert.",
+  "batch_checks_ok": true,
+  "full_book_complete": false
+}
