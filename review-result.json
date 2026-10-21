@@ -3,217 +3,196 @@
   "task": "bounded_independent_second_pass",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p274",
-    "p275",
-    "p276",
-    "p277",
-    "p278",
-    "p279",
-    "p280",
-    "p281",
-    "p282",
-    "p283",
-    "p284",
-    "p285",
-    "p286",
-    "p287",
-    "p288",
-    "p289",
-    "p290",
-    "p291",
-    "p292",
-    "p293"
+    "p293a",
+    "p293b",
+    "p293c",
+    "p293d",
+    "p293e",
+    "p293f",
+    "p293g",
+    "p294",
+    "p295",
+    "p296",
+    "p297",
+    "p298",
+    "p299",
+    "p300",
+    "p301",
+    "p302",
+    "p303",
+    "p304",
+    "p305",
+    "p306"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p274",
+      "id": "p293a",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–3 vollständig geprüft: Berichtsumfang, Geheimhaltung und öffentlich beglaubigter allseitiger Verzicht zutreffend.",
+      "official_doknr": "BJNR010890965BJNE054700307",
+      "statutory_text_sha256": "d102875c8c8321e2c3f63be45bf38cc47134d3a23b1f6fba324b24b003f8b95f",
+      "commentary_sha256": "52683ec21b6721214bb29d4beab4bb4f8fbdce6b515bff80bcb20d9e725d78dd"
+    },
+    {
+      "id": "p293b",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft: Prüfung jeder vertragschließenden AG/KGaA, Vollbesitzausnahme und gesonderter allseitiger Verzicht richtig.",
+      "official_doknr": "BJNR010890965BJNE054801307",
+      "statutory_text_sha256": "285378ca742791492523362a988cb25cac7814d2be1d4acd9c5315bb71431d1b",
+      "commentary_sha256": "9a0bf79e688dd84557462f0b5cabfa1ac173f68aeedc1882e049af4bd597d2ee"
+    },
+    {
+      "id": "p293c",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze und Verweisungen geprüft: gemeinsame Bestellung, Sitzgericht, funktionelle Zuständigkeit und Vergütung zutreffend; private Beauftragung ersetzt Bestellung nicht.",
+      "official_doknr": "BJNR010890965BJNE054903140",
+      "statutory_text_sha256": "0e3ee41765024e14876553b3641bbcfb1a171037296dadb32f7d8881029410ca",
+      "commentary_sha256": "887bf6e8f0b2269b8544e8c0c227c62cc3464a57a376a3baee6a40e4590f58ce"
+    },
+    {
+      "id": "p293d",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft: genaue Zeitspanne der Unabhängigkeitsprüfung, konzernweiter Auskunftszugang und Verantwortlichkeit zutreffend.",
+      "official_doknr": "BJNR010890965BJNE055003360",
+      "statutory_text_sha256": "f1a17cfeeaa06fda95b5c1ed63cbff53f97644cd68f420e4f52f63a4caeb8ffb",
+      "commentary_sha256": "9374b645bf0b4293127413b6afeb7f3b2104e63769d4e8733d612ff1d0fa522e"
+    },
+    {
+      "id": "p293e",
+      "result": "reviewed_no_change",
+      "assessment": "Absatz 1 Nummern 1–3 und Absatz 2 geprüft; Methoden, Gewichtung und Ausnahmen vollständig. BGH Rn. 24–26 tragen allein fehlende Bindung im Spruchverfahren.",
+      "official_doknr": "BJNR010890965BJNE055100307",
+      "statutory_text_sha256": "4b37f7e75f13ba39ede37a17cedab27842055a9293500c65cf9e2bab0d5dbf92",
+      "commentary_sha256": "20572d04eba6fb6f053533f9b651a1e5b112a892b9a32daa2bce1242579bca9a"
+    },
+    {
+      "id": "p293f",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–3 geprüft: drei Rechnungslegungsjahre, kostenloser individueller Anspruch und zeitgleiche vollständige Internetzugänglichkeit zutreffend.",
+      "official_doknr": "BJNR010890965BJNE055201140",
+      "statutory_text_sha256": "cc97a68d90effc3b68b95769883a40a08cd7dd68c667cd3f1bc8ee56be80d936",
+      "commentary_sha256": "b2398e70faf6a7286370f7b86c864b2cc99f8d462a758c8b07f41644fa728302"
+    },
+    {
+      "id": "p293g",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–3 geprüft: Zugang während Versammlung, mündliche Erläuterung zu Beginn, Niederschriftsanlage und vertragsbezogenes Auskunftsrecht richtig.",
+      "official_doknr": "BJNR010890965BJNE055301140",
+      "statutory_text_sha256": "29a94a08ab0c8aa436d7ff37f2389d8f1a5b65df61811c4757b7d1d4b90b7314",
+      "commentary_sha256": "caae1af199304c9f67e9515ca2e6842fc4fbbd8860b59c12695679143518dab4"
+    },
+    {
+      "id": "p294",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft: Anmeldeinhalt, Ausnahme Teilgewinnverträge, Urkundsformen und konstitutive Eintragung richtig.",
+      "official_doknr": "BJNR010890965BJNE035801377",
+      "statutory_text_sha256": "596ea5b42516287fee4b890069d7cb301710cf1209b37c04aa50e16be76682af",
+      "commentary_sha256": "4327bcba6f73d0dcd045ec9e55f7c3a308fa3544744e482df9d49cc71a6e97b7"
+    },
+    {
+      "id": "p295",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft: sinngemäße Zustimmungskette und besonderer Sonderbeschluss samt Auskunft zutreffend; Spruchentscheidung abgegrenzt.",
+      "official_doknr": "BJNR010890965BJNE035901307",
+      "statutory_text_sha256": "0ed0dfbed33870c30f96f85a767c2e899e85dfad0f9daa5b630b2b23b39b9cfe",
+      "commentary_sha256": "13f110ac645cf7ddd68d456896c28fac6579c565b864e3b46fc54a9ddf846424"
+    },
+    {
+      "id": "p296",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft: Ende Abrechnungszeitraum, Rückwirkungsverbot, Schriftform und Sonderbeschluss richtig.",
+      "official_doknr": "BJNR010890965BJNE036000308",
+      "statutory_text_sha256": "699e9b519c7a4c41537d08d006bb7c879fc32837bd015466dfa42a1b8dd2b0fd",
+      "commentary_sha256": "0eecf8fa00ebca4caff8e6ef0326d7bafa995a374eb461915a4b1440331a410f"
+    },
+    {
+      "id": "p297",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–3 geprüft: Prognose wichtiger Grund, keine Schaffung eines freien Kündigungsrechts durch Absatz 2, Sonderbeschluss und Schriftform richtig.",
+      "official_doknr": "BJNR010890965BJNE036100308",
+      "statutory_text_sha256": "7800e66851c8d040ae4f5d30fd586f374c15b457e5179e0ecd7a377e1d133f3f",
+      "commentary_sha256": "29e75ac2178eb8541e31c0ecd504de3d9cf8f591702834546fa1bc3372fa37bf"
+    },
+    {
+      "id": "p298",
+      "result": "reviewed_no_change",
+      "assessment": "Gesamte Norm geprüft: Grund, Zeitpunkt, Unverzüglichkeit und deklaratorische Eintragung gegenüber § 294 richtig; Nachwirkungsfristen korrekt.",
+      "official_doknr": "BJNR010890965BJNE036200308",
+      "statutory_text_sha256": "89c8d3901c09d4102c8d08ffbbcb927c4d394085d0071085ba4b6d0202f6a60e",
+      "commentary_sha256": "0d01ef3f77659c39bffce38eb53907850373045b4167a27e08bb3ab7507356c2"
+    },
+    {
+      "id": "p299",
+      "result": "reviewed_no_change",
+      "assessment": "Gesamte Norm geprüft: Weisungsverbot für Änderung, Aufrechterhaltung und Beendigung; Verhandlungen und Mitgliedschaftsrechte angemessen abgegrenzt.",
+      "official_doknr": "BJNR010890965BJNE036300308",
+      "statutory_text_sha256": "0ac1d8dfcc49dd9514634e702617e2a3d33c52430cbbb261dbdfe06c0ba3d07e",
+      "commentary_sha256": "5509b0b122ce96d939935006a8c16f65f7d736b059dc3bbd12ef4ab9a4bc9928"
+    },
+    {
+      "id": "p300",
       "result": "reviewed_corrected",
-      "assessment": "Alle vier Absätze geprüft; Einstellung ausdrücklich auf Antrag des Schuldners präzisiert; Verteilungsbeginn und Registerwirkung zutreffend.",
-      "official_doknr": "BJNR010890965BJNE033201307",
-      "statutory_text_sha256": "49ddb39d2ecb21fd2ce0ae033eb53ec96f041436098d1dca3d3c0e19a19b811f",
-      "commentary_sha256": "8e9327b0ea4851b555db5878e438dc4d90728784f958cb6845d350e93a86700d"
+      "assessment": "Nummern 1–3 vollständig geprüft; Zielbetrag als ein Zehntel des Grundkapitals ausdrücklich ergänzt; Mindestbetrag und differenzierte Vertragstypen richtig.",
+      "official_doknr": "BJNR010890965BJNE036500308",
+      "statutory_text_sha256": "b83395c66bc363c8c6f166c440f7ea302a9784116d68ef860122bd6c9a170a2e",
+      "commentary_sha256": "49f20c93c6bae18b915e82c95369b0ef6ad3be80e93e67a031ebfb873a36ff23"
     },
     {
-      "id": "p275",
+      "id": "p301",
       "result": "reviewed_no_change",
-      "assessment": "Alle vier Absätze geprüft; abschließende Gründe, Einzelklageberechtigung, Heilungsvorrang, drei Monate, drei Jahre und Registerfolgen richtig.",
-      "official_doknr": "BJNR010890965BJNE033402140",
-      "statutory_text_sha256": "4d47fdbb04ead469f95c602f280754335fe7ba126c438df641500b4549a524b1",
-      "commentary_sha256": "7e912d66649769adb5acc4009c5de21e95dd684a556a81670153a5df8c55e971"
+      "assessment": "Beide Sätze geprüft; drei Abzüge und Herkunft während Vertragsdauer gebildeter anderer Gewinnrücklagen zutreffend; Rechenbeispiel 820.000 Euro richtig.",
+      "official_doknr": "BJNR010890965BJNE036601140",
+      "statutory_text_sha256": "e8cc0e0fb276b34dcad7a2cf9b74ca0b44cb8ab11455b778e366bea06b63fe9e",
+      "commentary_sha256": "02ecc1dd2a96cb57a7cd0f790a3f8bcd21c34d7e675d87ff4a32be01f43e6bb4"
     },
     {
-      "id": "p276",
-      "result": "reviewed_no_change",
-      "assessment": "Gesamter Heilungstatbestand und §§ 179/181 geprüft; Gegenstandsmangel und Registervollzug zutreffend.",
-      "official_doknr": "BJNR010890965BJNE033500308",
-      "statutory_text_sha256": "7cd337fbe946d4e8f2c39d3cdda6c19d63d9027c6f6fd59de81290fc0df6074d",
-      "commentary_sha256": "4ef4e46bd47fb19565330f4e1b8dff3a4e5edd9b8ce8472ea7b29cc34bc4ddc2"
-    },
-    {
-      "id": "p277",
-      "result": "reviewed_no_change",
-      "assessment": "Alle drei Absätze geprüft; Abwicklung, Geschäftswirksamkeit und bedarfsabhängige Einlagenpflicht richtig.",
-      "official_doknr": "BJNR010890965BJNE033600308",
-      "statutory_text_sha256": "455e46653573ca58163090bd935586c91749a18834bb2dc0b405b1bced648728",
-      "commentary_sha256": "89e47a4a597a980f2308e160230a3002d24b8b40bc927762dba9c0aef29b810a"
-    },
-    {
-      "id": "p278",
+      "id": "p302",
       "result": "reviewed_corrected",
-      "assessment": "Alle drei Absätze geprüft; sinnverkehrende Einschränkung der Anwendung des Ersten Buchs korrigiert: Anwendung soweit sich aus Sondervorschriften oder fehlendem Vorstand nichts anderes ergibt.",
-      "official_doknr": "BJNR010890965BJNE033800308",
-      "statutory_text_sha256": "e38b26366b5f3db37ed96e951e42f16316fc78c98b4d53cd782eddbb6c5a6b5a",
-      "commentary_sha256": "5b5e92948619903eecef2354bf4531da9cab7ed2428062b25b46300d89ff2451"
+      "assessment": "Absätze 1–4 geprüft: verschuldensunabhängiger Ausgleich, begrenzte Betriebsüberlassung, Sperre und Sonderzustimmung, Zehntelwiderspruch und zehnjährige Verjährung richtig; Verhältnis der Schutzstufen erläutert.",
+      "official_doknr": "BJNR010890965BJNE036704360",
+      "statutory_text_sha256": "e17dfcaf260d071aeea68ba496ac7823d10369d2da0c9d60e2e2282302eed7c3",
+      "commentary_sha256": "55f2f0c671964d70f1585c8d2d0e019d27fae8868753a59282a9ae51b536c561"
     },
     {
-      "id": "p279",
-      "result": "reviewed_no_change",
-      "assessment": "Beide Absätze geprüft; fortgeführte Firma und zusätzliche Haftungskennzeichnung bei fehlender natürlicher Person richtig.",
-      "official_doknr": "BJNR010890965BJNE033901307",
-      "statutory_text_sha256": "38f191aab4285e4fed8afde23ee266ff39d98fa16a4409db612240bf334b2b42",
-      "commentary_sha256": "f29950dafcda3eb2874c5693b8e3935ee3399ba76c5a0da0a6a27368307e4a60"
-    },
-    {
-      "id": "p280",
-      "result": "reviewed_no_change",
-      "assessment": "Alle drei Absätze geprüft; Beurkundung, Aktienangaben, Vollmachtsbeglaubigung, Beteiligung beider Gruppen und Gründerstellung richtig.",
-      "official_doknr": "BJNR010890965BJNE034002377",
-      "statutory_text_sha256": "2b3d797aeb919389b367f2f5a65af85b4b77d4c5a8054387acab387a444990d7",
-      "commentary_sha256": "28e24675ac364257edf04ff080e532bfdc1f42d60bf0c4c18d256e894b1a1365"
-    },
-    {
-      "id": "p281",
-      "result": "reviewed_no_change",
-      "assessment": "Alle drei Absätze einschließlich Wegfall geprüft; Personalangaben und gesonderte Festsetzung außergrundkapitaliger Einlagen richtig.",
-      "official_doknr": "BJNR010890965BJNE034101307",
-      "statutory_text_sha256": "a0a11f8b58376200c2c77c10fded5ee2d4cbabce817f3b928834bcdfc8ff810d",
-      "commentary_sha256": "cf84b788faa09e9c7a071ba66abdaa4627f94f75eac950af12edd9135a2cfe35"
-    },
-    {
-      "id": "p282",
-      "result": "reviewed_no_change",
-      "assessment": "Beide Sätze geprüft; persönlich haftende Gesellschafter und konkrete Vertretungsbefugnis im Register richtig unterschieden.",
-      "official_doknr": "BJNR010890965BJNE034200308",
-      "statutory_text_sha256": "dae4f0b39c8b0812ce188bb2949b1f6ab4c2d4ceda9a1e49b00b257c6fd492c0",
-      "commentary_sha256": "34c9e34ee13b43d49427e9d78fe2b857e8b958c1fbe62dfc062b1cb0870e029a"
-    },
-    {
-      "id": "p283",
-      "result": "reviewed_no_change",
-      "assessment": "Alle Nummern 1–14 einschließlich 11a geprüft; sinngemäße Pflichten und tatbestandliche Berichtsvoraussetzungen richtig.",
-      "official_doknr": "BJNR010890965BJNE034304360",
-      "statutory_text_sha256": "47048a3269bd0d06989c4ecd895396fe69b9ef502c876a7c5000aec9020ac87e",
-      "commentary_sha256": "925f08dacac5f8b8d58086ba38afb8c8625936b84340a74e9fdaca3670fe74a9"
-    },
-    {
-      "id": "p284",
-      "result": "reviewed_no_change",
-      "assessment": "Alle drei Absätze geprüft; ausdrückliche doppelte Einwilligung, begrenzte Befreiung, Ersatzalternativen und beide Verjährungsfristen richtig.",
-      "official_doknr": "BJNR010890965BJNE034401377",
-      "statutory_text_sha256": "92ee3e1f72e327b1555c5f611a458ea4da3d026c8094eb6d16adc8f6febb7f97",
-      "commentary_sha256": "9aa057f387aed3be271c74d5f55c81ec36f7ce1c8fcf67c31620ac7a21da5379"
-    },
-    {
-      "id": "p285",
+      "id": "p303",
       "result": "reviewed_corrected",
-      "assessment": "Alle drei Absätze und sechs Stimmverbote geprüft; Vertretungsverbot und Registerbeurkundung richtig; gesetzliche Minderheitsbefugnisse ausdrücklich ergänzt.",
-      "official_doknr": "BJNR010890965BJNE034500308",
-      "statutory_text_sha256": "ea78707aac57d0aeb00d64eece7ee2e44b412ad787a3610401f049d9ad5c5871",
-      "commentary_sha256": "fcae137f916a1f9ca43d4622801cb0de9d693c270602faeab50d8856edfce780"
+      "assessment": "Absätze 1–3 geprüft; wesentliche Ergänzung der richterrechtlichen Fünfjahresbegrenzung anhand gesamten BGH II ZR 361/13. Sechsmonatige Anmeldung, Sicherung statt Zahlung und Bürgschaftsausnahme klar getrennt.",
+      "official_doknr": "BJNR010890965BJNE036803360",
+      "statutory_text_sha256": "2fb48b667bf6b5636e2a3fb18118932aa53ce4f2e88860f65818fd373068ba63",
+      "commentary_sha256": "dbcebbab55c1379cae2b498677092be4f09dd651379108af41faea2ef7f8f67e"
     },
     {
-      "id": "p286",
-      "result": "reviewed_no_change",
-      "assessment": "Alle vier Absätze geprüft; Feststellung und Zustimmung, Einzahlungsforderung nur bei Zahlungspflicht, Kreditausweis und begrenzte Erleichterungen richtig. HGB §§ 268/285 gegengelesen.",
-      "official_doknr": "BJNR010890965BJNE034603140",
-      "statutory_text_sha256": "9976d355d74c76553f3082cbbd45fb57fb87ba233c51fa8a5e44fa2c0f8f0edb",
-      "commentary_sha256": "6da8bebba74c931f55acb0a9777f6819db745a9b5aa100749069c7619905466d"
-    },
-    {
-      "id": "p287",
+      "id": "p304",
       "result": "reviewed_corrected",
-      "assessment": "Alle drei Absätze geprüft; Beschlussausführung, Gruppenvertretung und Unvereinbarkeit richtig. Kostenhaftung präzisiert: zur Last fallende Kosten, nicht nur auferlegte Kosten.",
-      "official_doknr": "BJNR010890965BJNE034700308",
-      "statutory_text_sha256": "db88822adce63a56bb038cb07331801016fc85e19814dd67da0e121a83d7e9a4",
-      "commentary_sha256": "af07cd15ca702ab4933ec565fa115544795efa9a0399b3285080e9734c350333"
+      "assessment": "Absätze 1–4 geprüft; Bindung der gerichtlichen Festsetzung an vertraglich gewählten variablen Ausgleich ergänzt. Vollständiges Fehlen, Unangemessenheit und Kündigungsrecht abgegrenzt; BGH-Aussagen verifiziert.",
+      "official_doknr": "BJNR010890965BJNE037002377",
+      "statutory_text_sha256": "efacd12ffc65bb0ac5800f805f60e1995396769fe98d7f98a791645742264933",
+      "commentary_sha256": "26daf9a63328b6a128b704522d5e597f40ea5a2f124df51f4884d1dbaa0c506b"
     },
     {
-      "id": "p288",
-      "result": "reviewed_no_change",
-      "assessment": "Alle drei Absätze geprüft; individuelle und kumulative Sperre, sofortige Kreditrückgewähr sowie feste Vergütung und Herabsetzung richtig.",
-      "official_doknr": "BJNR010890965BJNE034801140",
-      "statutory_text_sha256": "41f9203535070be1ed885c4ce25c66dfe209d4a4075a65c3b48cb1c54f00163b",
-      "commentary_sha256": "2d746f422df807c4fad5953b871886b103030955d1521bf537d4fb7cae0fce20"
-    },
-    {
-      "id": "p289",
+      "id": "p305",
       "result": "reviewed_corrected",
-      "assessment": "Alle sechs Absätze geprüft; Ausscheidensbeschränkung nicht auf freiwilligen Austritt verengt; KG-Verweis, Rechtskraft, Gruppenbeschluss und Amtsregisterfälle richtig.",
-      "official_doknr": "BJNR010890965BJNE034903360",
-      "statutory_text_sha256": "730a04dcb561007346ddfe56a416b95d350f3a0d45161feab1e15d13b0c5dd0a",
-      "commentary_sha256": "be8015e0b774736b71ffebc91306e077402092c2c0e5ae41c7ace79fa3444fc4"
+      "assessment": "Absätze 1–5 einschließlich aller Nummern geprüft; Aktien der mit Mehrheit beteiligten Gesellschaft und vertragliche Wahl ergänzt, gerichtliche Bindung an Leistungsart nach Absatz 5 Satz 3 erklärt. Stichtag, Zinsen und Annahmefristen richtig.",
+      "official_doknr": "BJNR010890965BJNE037108360",
+      "statutory_text_sha256": "97375ba5f9e79cd0b7884e8906826e9ee814273dd7e07abd1db0e43b0d933f10",
+      "commentary_sha256": "4f1be312d3d54c20706cc6495abc39d4904e1e35e85da91eae897ca7a1b8ce49"
     },
     {
-      "id": "p290",
+      "id": "p306",
       "result": "reviewed_no_change",
-      "assessment": "Alle drei Absätze geprüft; Besetzung, Antrag jedes persönlich haftenden Gesellschafters und gerichtliche Ernennung nach Vermögenslosigkeitslöschung richtig.",
-      "official_doknr": "BJNR010890965BJNE035001307",
-      "statutory_text_sha256": "8d30cacadc765a1db9d253d247d831cc1f52a86bad1d9a46887b23c70338ac07",
-      "commentary_sha256": "8b5e5c2ceeacf96ca61173612be3a4b14c0941a1abee4f561f359a39f14cdf0d"
-    },
-    {
-      "id": "p291",
-      "result": "reviewed_no_change",
-      "assessment": "Alle drei Absätze geprüft; Leitung, vollständige Gewinnabführung, Rechnung eines anderen, Gleichordnung und Kapitalbindungsprivileg richtig.",
-      "official_doknr": "BJNR010890965BJNE035401140",
-      "statutory_text_sha256": "4087b9f747757e6b2bb7fe52704d4e4558e4943982578c42b24b59cdc278b648",
-      "commentary_sha256": "4ff75d3cb608c9c32c3ef6a09aa7a96021db5a0d692b195feab8e9fb68ec4c67"
-    },
-    {
-      "id": "p292",
-      "result": "reviewed_corrected",
-      "assessment": "Alle drei Absätze und Vertragstypen geprüft; auch teilweise Abführung des Gewinns einzelner Betriebe ausdrücklich ergänzt; Ausnahmen und Fehlerfolgen richtig.",
-      "official_doknr": "BJNR010890965BJNE035500308",
-      "statutory_text_sha256": "e5b2db51080671ef443467b99f3b1c877e43d07929f1cecb88de27a27e1068ed",
-      "commentary_sha256": "b34bc5cb1e2f7e16af01eb3a32235d388c105c6120c94beef13baff559896f77"
-    },
-    {
-      "id": "p293",
-      "result": "reviewed_corrected",
-      "assessment": "Alle vier Absätze einschließlich Wegfall geprüft; Zustimmung beider Seiten und Schriftform richtig, Mehrheits- und Verfahrensregeln der anderen Vertragsseite ergänzt. OLG-Volltext vollständig gelesen; Aussage, Fundstelle und Freigabegrenzen bestätigt.",
-      "official_doknr": "BJNR010890965BJNE035701307",
-      "statutory_text_sha256": "1e3a5f5da7d2381fce7124f5a6d8dd231df31a516590bcd66e5674218d247d59",
-      "commentary_sha256": "e5b7045c690dddae75fe3118c60a6ffa8c75efa3b0696ecf1e876cc1bb562011"
+      "assessment": "Amtlichen Wegfall geprüft; keine historische Zuständigkeit oder Frist als geltendes Recht übernommen; heutige Verweisung auf SpruchG richtig.",
+      "official_doknr": "BJNR010890965BJNE037202377",
+      "statutory_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "commentary_sha256": "538c6631c0b0457cdd8a56c5ce15c623197ff18db200160987155de6fd102d71"
     }
   ],
   "limitations": [
-    "Genau p274–p293 (20 Einheiten) im zweiten Durchgang geprüft; keine Gesamtbuchfreigabe, keine externe anwaltliche Genehmigung.",
-    "Selektive Rechtsprechung: OLG Brandenburg 6 AktG 1/23 im gesamten amtlichen Volltext gelesen; keine umfassende Folgeentscheidungsrecherche. Lokaler RII-Korpus: Suche nach genauer Geschäftsnummer ohne Treffer.",
-    "Aktuelle amtliche Konsolidierung, Intake und Art. 23/24 sowie 64 der letzten ausgewiesenen Novelle geprüft; keine lückenlose Durchsicht sämtlicher späterer Gesetzblätter.",
-    "73 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung."
+    "Genau die zugewiesenen 20 Einheiten geprüft; keine Gesamtbuchfreigabe oder externe anwaltliche Genehmigung.",
+    "Selektive Rechtsprechung; zwei amtliche BGH-Volltexte und lokale Korpusfassungen geprüft, keine vollständige Folgeentscheidungsrecherche.",
+    "Aktuelle amtliche Konsolidierung und jüngste ausgewiesene Novelle einschließlich Inkrafttreten geprüft; keine lückenlose Sichtung aller späteren Gesetzblätter.",
+    "Fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung."
   ],
-  "verified_at": "2026-10-21T00:20:08.791125+00:00",
-  "statutory_text_agreement_assigned": 1.0,
-  "full_book_complete": false,
-  "whole_book_validation": {
-    "repo": "Komentar-DE-AKTG-1965",
-    "units": 393,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 504097,
-    "errors": [
-      "krátký/chybějící komentář u 73 jednotek: ['p293a(0<400)', 'p293b(0<400)', 'p293c(0<400)', 'p293d(0<400)', 'p293e(0<400)', 'p293f(0<400)', 'p293g(0<400)', 'p294(0<400)']"
-    ],
-    "warnings": [],
-    "ok": false
-  },
-  "bounded_validation": {
-    "repo": "Komentar-DE-AKTG-1965",
-    "units": 20,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 35021,
-    "errors": [],
-    "warnings": [],
-    "ok": true
-  }
+  "verified_at": "2026-10-21T00:30:04.665530+00:00",
+  "full_book_complete": false
 }

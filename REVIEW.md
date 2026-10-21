@@ -191,3 +191,13 @@ OLG Brandenburg vom 11. Juli 2023, 6 AktG 1/23, vollständigen Tatbestand und s�
 Gesamtbuild und strikter Validator werden protokolliert; außerhalb des Auftrags fehlen 73 Kommentare. Die begrenzte Ausgabe wird gesondert mit unverändertem Validator geprüft. Prüfung auf wiederholte ganze Absätze und lokale Links; Mindestlänge allein ist kein Qualitätsnachweis. Keine Gesamtfreigabe oder externe Berufsprüfung.
 
 Validierung nach dem Inhaltscommit: begrenzte Ausgabe 20/20 Einheiten, Wortlautquote 1,0, keine Fehler; Gesamtprüfung Wortlautquote 1,0, ausschließlich 73 fehlende Kommentare außerhalb des Auftrags. [Begrenztes Ergebnis](review-validation-bounded-016.json), [Gesamtergebnis](review-validation-after-commit-batch-016.json).
+
+## Begrenzte zweite Durchsicht: §§ 293a–306
+
+21. Oktober 2026. Genau 20 zugewiesene Einheiten vollständig mit dem amtlichen XML verglichen, einschließlich des weggefallenen § 306. [Einzelbefunde](review-result-batch-017.json). Präzisiert: Zehntelziel der Rücklage (§ 300), Schutzstufen bei Verzicht auf Verlustübernahme (§ 302), Fünfjahresbegrenzung der Sicherung (§ 303), gerichtliche Bindung an variable Ausgleichsart (§ 304), Aktien der mit Mehrheit beteiligten Gesellschaft und Bindung der gerichtlichen Abfindungsart (§ 305). Kommentare außerhalb dieses Auftrags inhaltlich unverändert.
+
+Frischer amtlicher ZIP/XML-Abruf HTTP 200, Format und AktG-Kennung geprüft; XML identisch mit Intake und kanonischer Quelle. Art. 23/24 und 64 BGBl. 2026 I Nr. 33 gelesen: § 8 Absatz 7 seit 10. Februar 2026; Art. 23 Nr. 2–6 erst 10. Januar 2030, Art. 24 erst 4. Dezember 2026. Maßgeblicher Autorentag bleibt 19. Oktober 2026. Parser und vollständige Strukturprüfung erneut ausgeführt: Eingangsformel vorhanden; keine historischen Parallelfassungen, fehlenden Kennungen oder Anlagen. Keine lückenlose Sichtung aller späteren Gesetzblätter.
+
+BGH II ZB 12/21 (Rn. 1–63) und II ZR 361/13 (Rn. 1–25) vollständig gelesen, erneut amtlich abgerufen und mit nationalem lokalem Korpus abgeglichen. Vorinstanz und Parteivortrag von eigenen Entscheidungsgründen getrennt. Die Nachhaftungsfundstellen des Urteils von 2014 werden als historische HGB-Nummern gekennzeichnet; § 137 HGB und § 327 Absatz 4 AktG gegengelesen. [Neue Fallkarte](authorities/case-II-ZR-361-13.md), [Recherche](authorities/search-log-batch-017.json). Selektive Rechtsprechung.
+
+Gesamtbuilder und strikter Validator ausgeführt; fehlende Kommentare außerhalb des Auftrags verhindern Gesamtabschluss. Begrenzte Teilausgabe gesondert gebaut. Wortlaut, Vollständigkeit, lokale Links und Wiederholungen werden im technischen Bericht dokumentiert; Mindestlänge allein beweist keine rechtliche Qualität. Keine Gesamtbuchfreigabe und keine externe anwaltliche Genehmigung.

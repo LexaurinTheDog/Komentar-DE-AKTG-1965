@@ -45,3 +45,5 @@ Prüfbatch §§ 255b–273: [Befunde](review-result-batch-015.json), [amtliches 
 Zweite Durchsicht §§ 274–293: [Einzelbefunde](review-result-batch-016.json), [amtliches XML](sources/review-p274-p293.xml), [Abrufnachweis](sources/verification.json), [Fallkarte](authorities/case-OLG-BB-6-AktG-1-23.md).
 
 Autorenbatch §§ 293a–306: [amtlicher XML-Neuabruf](sources/author-p293a-p306.xml), [Prüfnachweis](sources/verification.json), [BGH II ZB 12/21](authorities/case-II-ZB-12-21.md), [Suchprotokoll](authorities/search-log-p293a-p306.json). Stichtag unverändert 19.10.2026; erneuter Abruf 21.10.2026. Selektive Volltextauswertung, keine Gesamtfreigabe.
+
+Zweite Durchsicht §§ 293a–306: [Einzelbefunde](review-result-batch-017.json), [XML](sources/review-p293a-p306.xml), [neue Fallkarte](authorities/case-II-ZR-361-13.md), [Recherche](authorities/search-log-batch-017.json).

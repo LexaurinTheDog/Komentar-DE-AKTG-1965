@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "preflight_local_date": "2026-10-21",
   "official_url": "https://www.gesetze-im-internet.de/aktg/",
-  "verified_at": "2026-10-21T00:17:57.911861+00:00",
+  "verified_at": "2026-10-21T00:28:06.328871+00:00",
   "version_evidence": {
     "decisive_date": "2026-10-19",
     "rechecked_local_date": "2026-10-21",
@@ -24,10 +24,10 @@
     "limitations": [
       "No comprehensive screening of all subsequent gazettes; current official consolidation and its latest listed amending enactment checked."
     ],
-    "latest_actual_fetch": "2026-10-21T00:17:57.911861+00:00",
+    "latest_actual_fetch": "2026-10-21T00:28:06.328871+00:00",
     "review_commencement_check": "Artikel 23 Nr. 1: 10.02.2026; Nr. 2–6: 10.01.2030; Artikel 24: 04.12.2026 (am Stichtag nicht wirksam).",
     "author_batch_commencement_check": "Artikel 23 und 64 in sources/bgbl-2026-I-33.txt erneut gelesen: § 8 Absatz 7 seit 10.02.2026; Artikel 23 Nummern 2–6 erst 10.01.2030. Aktueller XML-Abruf identisch; keine neuere Änderung ausgewiesen.",
-    "bounded_review_commencement_check": "Art. 23/24 und 64 BGBl. 2026 I Nr. 33 gelesen: Art. 23 Nr. 1 seit 10.02.2026; Nr. 2–6 erst 10.01.2030; Art. 24 erst 04.12.2026. Neue amtliche XML bytegleich mit Intake und kanonischer Quelle; keine Änderung der zugewiesenen §§."
+    "bounded_review_commencement_check": "Art. 23/24 und 64 BGBl. 2026 I Nr. 33 erneut gelesen: Art. 23 Nr. 1 seit 10.02.2026; Nr. 2–6 erst 10.01.2030; Art. 24 erst 04.12.2026. Zugewiesene Einheiten gegenüber Intake unverändert."
   },
   "historical_versions_checked": {
     "intake_xml": "sources/intake-2026-10-01.xml",
@@ -38,7 +38,7 @@
     "duplicate_official_labels": [],
     "future_changes_checked_against_enactment": true,
     "scope": "Current consolidated XML, intake and final amendment; no concatenated historical versions.",
-    "bounded_recheck_xml": "sources/review-p274-p293.xml"
+    "bounded_recheck_xml": "sources/review-p293a-p306.xml"
   },
   "annexes_checked": {
     "disposition": "Keine Anlage im amtlichen XML und im amtlichen Inhaltsverzeichnis ausgewiesen. Das weggefallene Vierte Buch ist als Gliederung erhalten; die amtliche XML enthält keine Einzelnummern §§ 339–393. Diese werden nicht als geltende Vorschriften erfunden.",
@@ -47,7 +47,7 @@
       "sources/recheck-2026-10-21-index.html"
     ],
     "unclassified_operative_text_records": [],
-    "bounded_raw_xml_recheck": "sources/review-p274-p293.xml"
+    "bounded_raw_xml_recheck": "sources/review-p293a-p306.xml"
   },
   "coverage": {
     "expected": 393,
@@ -58,13 +58,13 @@
   },
   "unresolved_blockers": [],
   "limitations": [
-    "Genau p274–p293 (20 Einheiten) im zweiten Durchgang geprüft; keine Gesamtbuchfreigabe, keine externe anwaltliche Genehmigung.",
-    "Selektive Rechtsprechung: OLG Brandenburg 6 AktG 1/23 im gesamten amtlichen Volltext gelesen; keine umfassende Folgeentscheidungsrecherche. Lokaler RII-Korpus: Suche nach genauer Geschäftsnummer ohne Treffer.",
-    "Aktuelle amtliche Konsolidierung, Intake und Art. 23/24 sowie 64 der letzten ausgewiesenen Novelle geprüft; keine lückenlose Durchsicht sämtlicher späterer Gesetzblätter.",
-    "73 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung."
+    "Genau die zugewiesenen 20 Einheiten geprüft; keine Gesamtbuchfreigabe oder externe anwaltliche Genehmigung.",
+    "Selektive Rechtsprechung; zwei amtliche BGH-Volltexte und lokale Korpusfassungen geprüft, keine vollständige Folgeentscheidungsrecherche.",
+    "Aktuelle amtliche Konsolidierung und jüngste ausgewiesene Novelle einschließlich Inkrafttreten geprüft; keine lückenlose Sichtung aller späteren Gesetzblätter.",
+    "Fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung."
   ],
   "full_book_complete": false,
-  "review_batch": "p274–p293 (20 Einheiten)",
+  "review_batch": "p293a–p306 (20 Einheiten)",
   "author_batch_recheck": "sources/author-p219-p238-verification.json",
   "author_batch_p239_p255a": {
     "complete": true,
