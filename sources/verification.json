@@ -97,6 +97,26 @@
       "path": "sources/author-p274-p293.xml",
       "format_validation": "ZIP member and XML parsed; jurabk AktG",
       "unchanged_from_canonical": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-21T00:41:46.044959+00:00",
+      "http_status": 200,
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "same_as_canonical": true,
+      "same_as_intake": true,
+      "format_validated": "ZIP CRC; XML jurabk=AktG",
+      "failed_attempt": {
+        "url": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.xml.zip",
+        "http_status": 404
+      },
+      "decisive_date": "2026-10-19",
+      "stand": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33",
+      "version_evidence": "Artikel 23/24 und 64 BGBl. 2026 I Nr. 33 erneut gelesen: Art. 23 Nr. 1 seit 10.02.2026; Nr. 2–6 erst 10.01.2030; Art. 24 erst 04.12.2026. Keine Änderung der zugewiesenen Einheiten seit Intake im aktuellen XML ausgewiesen.",
+      "limitations": [
+        "Aktuelle amtliche Konsolidierung und letzte ausgewiesene Novelle geprüft; keine lückenlose Sichtung sämtlicher späterer Gesetzblätter."
+      ]
     }
   ],
   "version_assessment": {

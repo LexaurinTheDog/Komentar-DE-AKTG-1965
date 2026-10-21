@@ -1,0 +1,7 @@
+# BVerwG, Urteil vom 18. September 2024 – 8 C 3.23
+
+ECLI:DE:BVerwG:2024:180924U8C3.23.0. Unterstützte Einheiten: §§ 394 und 395. [Amtlicher Volltext](https://www.bverwg.de/180924U8C3.23.0), [lokaler HTML-Snapshot](BVerwG-8-C-3-23.html), [nationaler Korpus](BVerwG-8-C-3-23-local.md), [Abruf und Hashes](fetch-p325-p399.json).
+
+Der Volltext wurde vollständig Rn. 1–21 gelesen. Gegenstand war kommunale Akteneinsicht. Die Revision des Oberbürgermeisters blieb erfolglos. Rn. 14–19 verneinen eine zusätzliche Voraussetzung besonders gesicherter Vertraulichkeit beim Berichtsempfänger und schließen den Gemeinderat nicht generell aus. Rn. 18 begrenzt den Empfang funktional auf Beteiligungsverwaltung oder -prüfung. Das Vorbringen des Beklagten in Rn. 4 ist keine Aussage des Gerichts. Die Anwendung des Landesrechts war nach Rn. 12 bindend; § 394 schafft selbst keinen allgemeinen kommunalen Akteneinsichtsanspruch.
+
+Grenzen: Keine allgemeine Freigabe vertraulicher Informationen zur Veröffentlichung. Berichtspflicht, Zuständigkeit und Berichtsrelevanz bleiben zu prüfen. Die verglichenen aktuellen §§ 394/395 bieten für den hier verwendeten Rechtssatz keinen abweichenden Wortlaut. Keine vollständige Folgeentscheidungsrecherche. Andere in der Entscheidung zitierte Urteile oder Literatur wurden hier nicht als selbständig geprüfte Autoritäten übernommen.

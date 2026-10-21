@@ -1,0 +1,177 @@
+{
+  "complete": true,
+  "task": "bounded_source_parser_preflight",
+  "decisive_date": "2026-10-19",
+  "preflight_local_date": "2026-10-21",
+  "official_url": "https://www.gesetze-im-internet.de/aktg/",
+  "verified_at": "2026-10-21T00:39:47.458122+00:00",
+  "version_evidence": {
+    "decisive_date": "2026-10-19",
+    "rechecked_local_date": "2026-10-21",
+    "timezone": "Europe/Prague",
+    "verified_at": "2026-10-20T23:05:09.121271+00:00",
+    "stand": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33",
+    "unchanged_since_prior_fetch": true,
+    "effective_p8_cent_rule_present": true,
+    "future_2030_publicity_additions_absent": {
+      "§ 120a": true,
+      "§ 130": true,
+      "§ 134b": true,
+      "§ 134c": true,
+      "§ 134d": true
+    },
+    "commencement_evidence": "sources/bgbl-2026-I-33.txt: Artikel 23 (Seite 36), Artikel 64 Absätze 1 und 8 (Seiten 64–65)",
+    "limitations": [
+      "No comprehensive screening of all subsequent gazettes; current official consolidation and its latest listed amending enactment checked."
+    ],
+    "latest_actual_fetch": "2026-10-21T00:28:06.328871+00:00",
+    "review_commencement_check": "Artikel 23 Nr. 1: 10.02.2026; Nr. 2–6: 10.01.2030; Artikel 24: 04.12.2026 (am Stichtag nicht wirksam).",
+    "author_batch_commencement_check": "Artikel 23 und 64 in sources/bgbl-2026-I-33.txt erneut gelesen: § 8 Absatz 7 seit 10.02.2026; Artikel 23 Nummern 2–6 erst 10.01.2030. Aktueller XML-Abruf identisch; keine neuere Änderung ausgewiesen.",
+    "bounded_review_commencement_check": "Art. 23/24 und 64 BGBl. 2026 I Nr. 33 erneut gelesen: Nr. 1 seit 10.02.2026; Nr. 2–6 erst 10.01.2030; Art. 24 erst 04.12.2026. XML identisch mit Intake; keine Änderung der geprüften Einheiten."
+  },
+  "historical_versions_checked": {
+    "intake_xml": "sources/intake-2026-10-01.xml",
+    "current_xml": "sources/aktg.xml",
+    "recheck_xml": "sources/recheck-2026-10-21.xml",
+    "sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+    "identical": true,
+    "duplicate_official_labels": [],
+    "future_changes_checked_against_enactment": true,
+    "scope": "Current consolidated XML, intake and final amendment; no concatenated historical versions.",
+    "bounded_recheck_xml": "sources/review-p307-p324.xml"
+  },
+  "annexes_checked": {
+    "disposition": "Keine Anlage im amtlichen XML und im amtlichen Inhaltsverzeichnis ausgewiesen. Das weggefallene Vierte Buch ist als Gliederung erhalten; die amtliche XML enthält keine Einzelnummern §§ 339–393. Diese werden nicht als geltende Vorschriften erfunden.",
+    "evidence": [
+      "sources/aktg.xml",
+      "sources/recheck-2026-10-21-index.html"
+    ],
+    "unclassified_operative_text_records": [],
+    "bounded_raw_xml_recheck": "sources/review-p307-p324.xml"
+  },
+  "coverage": {
+    "expected": 393,
+    "parsed": 393,
+    "missing": [],
+    "duplicates": [],
+    "repair": "Eingangsformel bereits repariert und im frischen amtlichen XML erneut nachgewiesen."
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Genau die zugewiesenen 20 Einheiten geprüft; keine Gesamtbuchfreigabe oder externe anwaltliche Genehmigung.",
+    "Selektive Rechtsprechung; zwei amtliche BGH-Volltexte und lokale Korpusfassungen geprüft, keine vollständige Folgeentscheidungsrecherche.",
+    "Aktuelle amtliche Konsolidierung und jüngste ausgewiesene Novelle einschließlich Inkrafttreten geprüft; keine lückenlose Sichtung aller späteren Gesetzblätter.",
+    "Fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung."
+  ],
+  "full_book_complete": false,
+  "review_batch": "p307–p324 (einschließlich p320a und p320b)",
+  "author_batch_recheck": "sources/author-p219-p238-verification.json",
+  "author_batch_p239_p255a": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/aktg/",
+    "verified_at": "2026-10-20T23:54:37.374338+00:00",
+    "version_evidence": "Frischer amtlicher XML-Abruf identisch mit kanonischem XML und Intake; Artikel 23 und 64 BGBl. 2026 I Nr. 33 gelesen. Artikel 23 Nr. 1 seit 10.02.2026, Nr. 2–6 erst 10.01.2030; Artikel 24 erst 04.12.2026. Keine Änderung der zugewiesenen §§ seit Intake ausgewiesen.",
+    "historical_versions_checked": [
+      "sources/intake-2026-10-01.xml",
+      "sources/aktg.xml",
+      "sources/author-p239-p255a.xml"
+    ],
+    "annexes_checked": "Keine als Anlage bezeichnete operative Einheit im amtlichen XML; Gliederung und Textdatensätze überprüft. Weggefallenes Viertes Buch enthält keine einzeln nummerierten geltenden §§ 339–393.",
+    "coverage_evidence": "completeness-author-p239-p255a.json",
+    "unresolved_blockers": [],
+    "limitations": [
+      "Amtliche Konsolidierung und zuletzt ausgewiesene Novelle geprüft; keine lückenlose Prüfung aller späteren Gesetzblätter."
+    ]
+  },
+  "author_batch_p255b_p273": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/aktg/",
+    "verified_at": "2026-10-21T00:06:02.148802+00:00",
+    "version_evidence": "Amtlicher XML-Abruf identisch mit kanonischem XML und Intake. Artikel 23 und Artikel 64 BGBl. 2026 I Nr. 33 erneut gelesen: Nr. 1 seit 10.02.2026, Nr. 2–6 erst 10.01.2030; Artikel 24 erst 04.12.2026. Keine neue Änderung in amtlicher Konsolidierung ausgewiesen.",
+    "historical_versions_checked": [
+      "sources/intake-2026-10-01.xml",
+      "sources/aktg.xml",
+      "sources/author-p255b-p273.xml"
+    ],
+    "annexes_checked": "Keine Anlage in amtlichen Normbezeichnungen oder Textdatensätzen. Weggefallenes Viertes Buch ist Gliederung, ohne einzeln aufgeführte §§ 339–393. Eingangsformel vollständig vorhanden.",
+    "coverage_evidence": "completeness-author-p255b-p273.json",
+    "unresolved_blockers": [],
+    "limitations": [
+      "Keine lückenlose Durchsicht aller späteren Gesetzblätter."
+    ]
+  },
+  "author_batch_p274_p293": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/aktg/",
+    "verified_at": "2026-10-21T00:14:51.103690+00:00",
+    "version_evidence": "Neuer amtlicher XML-Abruf identisch. Art. 23 und 64 BGBl. 2026 I Nr. 33 gelesen: Nr. 1 seit 10.02.2026, Nr. 2–6 erst 10.01.2030; Art. 24 erst 04.12.2026. Keine Änderung der zugewiesenen Einheiten seit Intake ausgewiesen.",
+    "historical_versions_checked": [
+      "sources/intake-2026-10-01.xml",
+      "sources/aktg.xml",
+      "sources/author-p274-p293.xml"
+    ],
+    "annexes_checked": "Amtliches XML: keine Anlagen, keine unklassifizierten operativen Texte; weggefallenes Viertes Buch ohne einzelne §§ 339–393; Eingangsformel vorhanden.",
+    "coverage_evidence": "completeness-author-p274-p293.json",
+    "unresolved_blockers": [],
+    "limitations": [
+      "Keine lückenlose Durchsicht aller späteren Gesetzblätter."
+    ]
+  },
+  "author_batch_p293a_p306": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/aktg/",
+    "verified_at": "2026-10-21T00:21:52.849870+00:00",
+    "version_evidence": "Frischer amtlicher ZIP/XML-Abruf identisch mit kanonischem XML und Intake. Art. 23/24 und 64 BGBl. 2026 I Nr. 33 gelesen: Art. 23 Nr. 1 seit 10.02.2026, Nr. 2–6 erst 10.01.2030; Art. 24 erst 04.12.2026. Keine Änderung dieser Einheiten seit Intake ausgewiesen.",
+    "historical_versions_checked": [
+      "sources/intake-2026-10-01.xml",
+      "sources/aktg.xml",
+      "sources/author-p293a-p306.xml"
+    ],
+    "annexes_checked": "Amtliches XML auf Normbezeichnungen, Gliederung und unklassifizierte Textdatensätze geprüft. Keine Anlagen, keine historischen doppelten Normnummern. Eingangsformel vorhanden; weggefallenes Viertes Buch ohne einzeln bezeichnete §§ 339–393.",
+    "coverage_evidence": "completeness-author-p293a-p306.json",
+    "unresolved_blockers": [],
+    "limitations": [
+      "Aktuelle amtliche Konsolidierung und jüngste ausgewiesene Novelle geprüft, keine lückenlose Sichtung aller späteren Gesetzblätter."
+    ]
+  },
+  "author_batch_p307_p324": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/aktg/",
+    "verified_at": "2026-10-21T00:32:06.159508+00:00",
+    "version_evidence": "sources/bgbl-2026-I-33.txt, Art. 23/24 und 64 erneut gelesen: Art. 23 Nr. 1 seit 10.02.2026; Nr. 2–6 erst 10.01.2030; Art. 24 erst 04.12.2026. Keine Änderung dieser Einheiten seit Intake.",
+    "historical_versions_checked": [
+      "sources/intake-2026-10-01.xml",
+      "sources/aktg.xml",
+      "sources/author-p307-p324.xml"
+    ],
+    "annexes_checked": "Keine Anlagen in amtlichen Normbezeichnungen; keine unklassifizierten operativen Textdatensätze. Weggefallenes Viertes Buch ist Gliederung, keine erfundenen Einzelnummern §§ 339–393.",
+    "coverage_evidence": "completeness-author-p307-p324.json",
+    "unresolved_blockers": [],
+    "limitations": [
+      "Aktuelle amtliche Konsolidierung und jüngste ausgewiesene Novelle geprüft; keine lückenlose Sichtung aller späteren Gesetzblätter."
+    ]
+  },
+  "author_batch_p325_p399": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/aktg/",
+    "verified_at": "2026-10-21T00:41:46.044959+00:00",
+    "version_evidence": "Artikel 23/24 und 64 BGBl. 2026 I Nr. 33 erneut gelesen: Art. 23 Nr. 1 seit 10.02.2026; Nr. 2–6 erst 10.01.2030; Art. 24 erst 04.12.2026. Keine Änderung der zugewiesenen Einheiten seit Intake im aktuellen XML ausgewiesen.",
+    "historical_versions_checked": [
+      "sources/intake-2026-10-01.xml",
+      "sources/aktg.xml",
+      "sources/author-p325-p399.xml"
+    ],
+    "annexes_checked": "Keine Anlage oder Anhang und keine unklassifizierten operativen Textdatensätze im amtlichen XML. Gemeinsame leere Nummer §§ 329–336 erhalten; §§ 337/338 als weggefallene/leere Nummern. Weggefallenes Viertes Buch enthält keine einzelnen §§ 339–393.",
+    "coverage_evidence": "completeness-author-p325-p399.json",
+    "unresolved_blockers": [],
+    "limitations": [
+      "Aktuelle amtliche Konsolidierung und letzte ausgewiesene Novelle geprüft; keine lückenlose Sichtung sämtlicher späterer Gesetzblätter."
+    ]
+  }
+}

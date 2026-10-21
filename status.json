@@ -1,49 +1,23 @@
 {
-  "stage": "reviewing",
+  "stage": "authoring_batch_checkpoint",
   "decisive_date": "2026-10-19",
   "total_units": 393,
-  "completed_units": 360,
-  "remaining_units": 33,
+  "completed_units": 380,
+  "remaining_units": 13,
   "validation_result": {
     "whole_book_ok": false,
-    "reason": "53 fehlende Kommentare außerhalb dieses begrenzten Prüfauftrags",
+    "reason": "13 fehlende Kommentare außerhalb dieses Autorenauftrags",
     "verbatim_ratio": 1.0,
-    "coverage": {
-      "expected": 393,
-      "parsed": 393,
-      "missing": [],
-      "duplicates": []
-    },
     "bounded_units": 20,
-    "bounded_technical_checks": "review-checks-batch-017.json",
-    "strict_validation": "review-validation-after-commit-batch-017.json",
-    "bounded_strict_validation": "review-validation-bounded-017.json"
+    "bounded_technical_checks": "completeness-author-p325-p399.json",
+    "bounded_strict_validation": "validation-author-p325-p399-bounded.json",
+    "strict_validation": "validation-author-p325-p399.json"
   },
   "independent_review": false,
-  "checkpoint": "review-result-batch-016.json",
-  "updated_at": "2026-10-21T00:36:41.164711+00:00",
+  "checkpoint": "author-result-p325-p399.json",
+  "updated_at": "2026-10-21T00:46:22.796423+00:00",
   "complete": false,
   "remaining_unit_ids": [
-    "p325",
-    "p326",
-    "p327",
-    "p327a",
-    "p327b",
-    "p327c",
-    "p327d",
-    "p327e",
-    "p327f",
-    "p328",
-    "p329-336",
-    "p337",
-    "p338",
-    "p393a",
-    "p394",
-    "p395",
-    "p396",
-    "p397",
-    "p398",
-    "p399",
     "p400",
     "p401",
     "p402",
@@ -81,10 +55,9 @@
     "KORE302052021"
   ],
   "remaining_limitations": [
-    "Genau die 20 zugewiesenen Einheiten p255b–p273 einschließlich p261a geprüft; keine Gesamtbuchfreigabe.",
-    "Selektive Rechtsprechung: beide zitierten BGH-Volltexte gelesen und amtlichem XML gegenübergestellt; keine erschöpfende Folgeentscheidungsrecherche.",
-    "Aktuelle amtliche Konsolidierung und Inkrafttreten der letzten ausgewiesenen Novelle geprüft; keine lückenlose Durchsicht aller späteren Gesetzblätter.",
-    "93 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung."
+    "13 Einheiten außerhalb des Auftrags unkommentiert.",
+    "Dieser Autorenbatch bedarf einer eigenständigen zweiten Durchsicht.",
+    "Selektive Rechtsprechungsrecherche."
   ],
   "preflight_complete": true,
   "bounded_author_result": "eingangsformel-result.json",
@@ -155,26 +128,26 @@
     "ok": false
   },
   "last_author_batch": [
-    "p219",
-    "p220",
-    "p221",
-    "p222",
-    "p223",
-    "p224",
-    "p225",
-    "p226",
-    "p227",
-    "p228",
-    "p229",
-    "p230",
-    "p231",
-    "p232",
-    "p233",
-    "p234",
-    "p235",
-    "p236",
-    "p237",
-    "p238"
+    "p325",
+    "p326",
+    "p327",
+    "p327a",
+    "p327b",
+    "p327c",
+    "p327d",
+    "p327e",
+    "p327f",
+    "p328",
+    "p329-336",
+    "p337",
+    "p338",
+    "p393a",
+    "p394",
+    "p395",
+    "p396",
+    "p397",
+    "p398",
+    "p399"
   ],
   "author_batch_p255b_p273": {
     "stage": "bounded_batch_drafted",
@@ -409,5 +382,8 @@
   "limitations": [
     "Batch p307–p324: 20/20 kommentiert und technisch validiert; Gesamtband weiterhin 33 fehlende Kommentare.",
     "Autorenkontrolle ist keine unabhängige Zweitprüfung."
+  ],
+  "case_law_sources_last_batch": [
+    "authorities/case-BVerwG-8-C-3-23.md"
   ]
 }

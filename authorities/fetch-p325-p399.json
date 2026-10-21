@@ -1,0 +1,14 @@
+{
+  "url": "https://ssl.bverwg.de/de/180924U8C3.23.0",
+  "http_status": 200,
+  "accessed_at": "2026-10-21T00:46:22.796423+00:00",
+  "path": "authorities/BVerwG-8-C-3-23.html",
+  "sha256": "8ea0bf67635ad3dd2ab57d924b431b14fd413dbb79752e5724abe903439d090c",
+  "format_validated": "HTML mit Entscheidungsgründen und Aktenzeichen; gesamter Text Rn. 1–21 gelesen; mit lokalem nationalem Korpus abgeglichen.",
+  "failed_attempt": {
+    "url": "https://www.bverwg.de/180924U8C3.23.0",
+    "http_status": 403
+  },
+  "local_source": "/Volumes/LaCie/law-intake/eu/de/rii/rii-wbre202500014.md",
+  "local_sha256": "c84a299aff914b5a2acdcd32e2d66e2f4026464de43663fbff06146de4ed59fa"
+}

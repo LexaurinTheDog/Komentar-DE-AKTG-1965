@@ -1,0 +1,19 @@
+{
+  "verified_at": "2026-10-21T00:46:22.796423+00:00",
+  "queries": [
+    "site.bundesgerichtshof.de \"II ZB 18/09\" \"19. Juli 2010\"",
+    "site.bundesgerichtshof.de \"394\" \"395\" Aufsichtsrat Bericht",
+    "rg 8 C 3.23|II ZB 18/09|327a|Squeeze in nationalem rii/manifest.jsonl"
+  ],
+  "local_matches": [
+    "WBRE202500014",
+    "KORE308342010"
+  ],
+  "selected_full_texts": [
+    "BVerwG 8 C 3.23 Rn. 1–21"
+  ],
+  "not_cited": [
+    "BGH II ZB 18/09: nur als Suchtreffer ermittelt, in diesem Batch kein Volltextstudium"
+  ],
+  "limitations": "Selektive Recherche; keine Behauptung erschöpfender Fallabdeckung. Für übrige Einheiten kein zusätzlicher verifizierter fallspezifischer Nachweis übernommen."
+}
