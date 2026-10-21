@@ -1,0 +1,8 @@
+{
+  "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300272023.zip",
+  "http_status": 200,
+  "accessed_at": "2026-10-21T00:21:53.155927+00:00",
+  "sha256": "6ba470f6f1d7e8a1711cd90fad160c78254162dcc7207286516132b4f7da2d26",
+  "xml_sha256": "809baf5c3b66bad2cabc460b09bf0ed8c71ce58347e882898d320856a10f936a",
+  "format": "valid ZIP and parsed judicial XML"
+}

@@ -1,0 +1,11 @@
+{
+  "scope": "p293a–p306; selective authority research",
+  "queries": ["site.rechtsprechung-im-internet.de § 303 AktG II ZR 2014 fünf Jahre", "site.rechtsprechung-im-internet.de § 305 AktG Börsenkurs II ZB", "local rg II ZB 12/21 /Volumes/LaCie/law-intake/eu/de/rii"],
+  "local_match": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore300272023.md",
+  "official_full_text_read": "KORE300272023.xml; Rn. 1–63, Tenor, Leitsätze",
+  "official_download": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300272023.zip",
+  "failed_access": "BGH PDF nr=133143 returned 403 in browser; official RII ZIP succeeded with HTTP 200",
+  "uncited_discovery": "Search found II ZR 361/13 only indirectly; no holding from this unverified full text incorporated into § 303 commentary.",
+  "other_units": "No further sufficiently verified specific decision selected for §§ 293a–293d, 293f–303 or repealed § 306; explanation rests on statutory text.",
+  "limitations": "No exhaustive jurisprudence or subsequent-citation search; search snippets and commercial annotations not used as authority."
+}

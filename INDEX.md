@@ -2,7 +2,7 @@
 
 [Einleitung](00-einleitung.md)
 
-228 von 393 amtlichen Datensätzen sind kommentiert. Die folgenden Kapitel sind enthalten; der Rest des Gesamtvorhabens ist offen.
+340 von 393 amtlichen Datensätzen sind kommentiert. Die folgenden Kapitel sind enthalten; der Rest des Gesamtvorhabens ist offen.
 
 - [Grundlagen und Unternehmensverbindungen](01-grundlagen.md)
 - [Gründung und Nachgründung](02-gruendung.md)
@@ -14,7 +14,10 @@
 - [Rechnungslegung und Gewinnverwendung](08-rechnungslegung.md)
 - [Satzungsänderung und ordentliche Kapitalerhöhung](09-satzung-kapitalerhoehung.md)
 - [Bedingtes und genehmigtes Kapital](10-bedingtes-genehmigtes-kapital.md)
-
-- [Arbeitsstand §§ 207–218](11-gesellschaftsmittel-p207-p218.md)
-
-[Geprüfter Teilcheckpoint §§ 274–293](checkpoint-p274-p293/INDEX.md) — genau 20 Einheiten, keine Gesamtausgabe.
+- [Kapitalerhöhung aus Gesellschaftsmitteln und Schuldverschreibungen](11-gesellschaftsmittel.md)
+- [Kapitalherabsetzung und Einziehung](12-kapitalherabsetzung.md)
+- [Beschlussmängel und zusätzliche Aktien](13-beschlussmaengel.md)
+- [Abschlussmängel und Sonderprüfung](14-abschlusskontrolle.md)
+- [Auflösung, Abwicklung und Nichtigkeit](15-aufloesung.md)
+- [Kommanditgesellschaft auf Aktien](16-kgaa.md)
+- [Unternehmensverträge und Gläubigerschutz](17-unternehmensvertraege.md)

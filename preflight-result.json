@@ -119,5 +119,23 @@
     "limitations": [
       "Keine lückenlose Durchsicht aller späteren Gesetzblätter."
     ]
+  },
+  "author_batch_p293a_p306": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/aktg/",
+    "verified_at": "2026-10-21T00:21:52.849870+00:00",
+    "version_evidence": "Frischer amtlicher ZIP/XML-Abruf identisch mit kanonischem XML und Intake. Art. 23/24 und 64 BGBl. 2026 I Nr. 33 gelesen: Art. 23 Nr. 1 seit 10.02.2026, Nr. 2–6 erst 10.01.2030; Art. 24 erst 04.12.2026. Keine Änderung dieser Einheiten seit Intake ausgewiesen.",
+    "historical_versions_checked": [
+      "sources/intake-2026-10-01.xml",
+      "sources/aktg.xml",
+      "sources/author-p293a-p306.xml"
+    ],
+    "annexes_checked": "Amtliches XML auf Normbezeichnungen, Gliederung und unklassifizierte Textdatensätze geprüft. Keine Anlagen, keine historischen doppelten Normnummern. Eingangsformel vorhanden; weggefallenes Viertes Buch ohne einzeln bezeichnete §§ 339–393.",
+    "coverage_evidence": "completeness-author-p293a-p306.json",
+    "unresolved_blockers": [],
+    "limitations": [
+      "Aktuelle amtliche Konsolidierung und jüngste ausgewiesene Novelle geprüft, keine lückenlose Sichtung aller späteren Gesetzblätter."
+    ]
   }
 }

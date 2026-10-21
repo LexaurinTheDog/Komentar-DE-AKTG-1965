@@ -43,3 +43,5 @@ Ergänzender Querverweisabgleich für Prüfbatch 014: UmwG §§ 20/72a, HGB §§
 Prüfbatch §§ 255b–273: [Befunde](review-result-batch-015.json), [amtliches XML](sources/review-p255b-p273.xml), [Fallkarte Abschluss](authorities/case-II-ZR-56-18-batch.md), [Fallkarte Nachtragsabwicklung](authorities/case-II-ZB-19-15-batch.md).
 
 Zweite Durchsicht §§ 274–293: [Einzelbefunde](review-result-batch-016.json), [amtliches XML](sources/review-p274-p293.xml), [Abrufnachweis](sources/verification.json), [Fallkarte](authorities/case-OLG-BB-6-AktG-1-23.md).
+
+Autorenbatch §§ 293a–306: [amtlicher XML-Neuabruf](sources/author-p293a-p306.xml), [Prüfnachweis](sources/verification.json), [BGH II ZB 12/21](authorities/case-II-ZB-12-21.md), [Suchprotokoll](authorities/search-log-p293a-p306.json). Stichtag unverändert 19.10.2026; erneuter Abruf 21.10.2026. Selektive Volltextauswertung, keine Gesamtfreigabe.
