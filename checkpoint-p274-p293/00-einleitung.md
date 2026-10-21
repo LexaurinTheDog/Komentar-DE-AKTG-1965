@@ -1,0 +1,3 @@
+# Einleitung
+
+Diese abgegrenzte Teilausgabe kommentiert §§ 274–293: Fortsetzung und Gesellschaftsnichtigkeit, KGaA sowie Arten und Zustimmungserfordernisse von Unternehmensverträgen. Sie setzt die Arbeit am Gesamtband fort. Gesetzeswortlaut und redaktionelle Hinweise stammen aus dem amtlichen XML; die Beispiele sind fiktiv. Ein amtlicher Entscheidungs-Volltext wurde für die Abgrenzung der Schriftform in § 293 ausgewertet. Die Recherche ist selektiv und behauptet keine vollständige Erfassung der Rechtsprechung. Interne Verweise außerhalb der Teilausgabe beziehen sich auf den Gesamttext des AktG.
