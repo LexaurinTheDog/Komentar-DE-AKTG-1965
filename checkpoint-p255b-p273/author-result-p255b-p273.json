@@ -232,9 +232,10 @@
     "repo": "Komentar-DE-AKTG-1965",
     "units": 393,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 468241,
+    "commentary_chars": 468320,
     "errors": [
-      "krátký/chybějící komentář u 93 jednotek: ['p274(0<400)', 'p275(0<400)', 'p276(0<400)', 'p277(0<400)', 'p278(0<400)', 'p279(0<400)', 'p280(0<400)', 'p281(0<400)']"
+      "krátký/chybějící komentář u 93 jednotek: ['p274(0<400)', 'p275(0<400)', 'p276(0<400)', 'p277(0<400)', 'p278(0<400)', 'p279(0<400)', 'p280(0<400)', 'p281(0<400)']",
+      "necommitnuté změny v repu"
     ],
     "warnings": [],
     "ok": false
@@ -243,5 +244,15 @@
     "Gesamtbuild bleibt wegen 93 fehlender Kommentare außerhalb dieser Aufgabe gesperrt.",
     "Selektive Rechtsprechungsrecherche; keine erschöpfende Folgeentscheidungsprüfung.",
     "Autorenprüfung ist keine unabhängige Zweitprüfung."
-  ]
+  ],
+  "bounded_validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 37015,
+    "errors": [],
+    "warnings": [],
+    "ok": true,
+    "scope": "build-p255b-p273; actual strict validator run after checkpoint commit"
+  }
 }

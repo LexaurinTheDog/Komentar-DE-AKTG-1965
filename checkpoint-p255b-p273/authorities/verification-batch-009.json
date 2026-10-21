@@ -1,9 +1,0 @@
-{
-  "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300312026.zip",
-  "http_status": 200,
-  "accessed_at": "2026-10-20T23:30:46.680705+00:00",
-  "path": "authorities/KORE300312026.zip",
-  "sha256": "f2c8b7edd4e3df4ff3340de9260f13058a6b97150f51f8e5b1b46a5fcb0be108",
-  "xml_sha256": "885d8349ed2833cb96978a62686acacf3573cd545882dc5584314a9eb91db16a",
-  "format_validated": "ZIP opened; XML parsed; docket verified"
-}

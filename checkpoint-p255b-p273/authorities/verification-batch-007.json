@@ -1,8 +1,0 @@
-{
-  "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2002/II_ZR_155-02.pdf?__blob=publicationFile&v=1",
-  "http_status": 200,
-  "accessed_at": "2026-10-20T23:23:58.254549+00:00",
-  "sha256": "125056c8fe59d2935d1bcdcc8ef2419329cfb5af121da8ef7bcae9c3b7781c0c",
-  "path": "authorities/II-ZR-155-02.pdf",
-  "format_validated": "PDF signature; pdftotext and matching docket/date checked separately"
-}
