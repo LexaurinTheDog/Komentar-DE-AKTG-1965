@@ -2,7 +2,7 @@
 
 [Einleitung](00-einleitung.md)
 
-340 von 393 amtlichen Datensätzen sind kommentiert. Die folgenden Kapitel sind enthalten; der Rest des Gesamtvorhabens ist offen.
+360 von 393 amtlichen Datensätzen sind kommentiert. Die folgenden Kapitel sind enthalten; der Rest des Gesamtvorhabens ist offen.
 
 - [Grundlagen und Unternehmensverbindungen](01-grundlagen.md)
 - [Gründung und Nachgründung](02-gruendung.md)
@@ -21,3 +21,4 @@
 - [Auflösung, Abwicklung und Nichtigkeit](15-aufloesung.md)
 - [Kommanditgesellschaft auf Aktien](16-kgaa.md)
 - [Unternehmensverträge und Gläubigerschutz](17-unternehmensvertraege.md)
+- [Außenstehende Aktionäre und Konzernverantwortung](18-konzernverantwortung.md)

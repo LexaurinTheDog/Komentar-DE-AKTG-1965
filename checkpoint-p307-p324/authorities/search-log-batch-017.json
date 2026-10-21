@@ -1,0 +1,13 @@
+{
+  "verified_at": "2026-10-21T00:30:04.665530+00:00",
+  "queries": [
+    "site.rechtsprechung-im-internet.de \"§ 303\" \"fünf\" \"II ZR\"",
+    "rg \"II ZR 361/13|II ZB 12/21\" /Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl"
+  ],
+  "full_text_read": [
+    "BGH II ZR 361/13 Rn. 1–25",
+    "BGH II ZB 12/21 Rn. 1–63"
+  ],
+  "snapshots": "fetch-case-review017.json",
+  "limits": "Selektive Rechtsprechung; zwei amtliche BGH-Volltexte und lokale Korpusfassungen geprüft, keine vollständige Folgeentscheidungsrecherche."
+}

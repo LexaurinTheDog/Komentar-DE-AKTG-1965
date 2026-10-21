@@ -1,0 +1,25 @@
+{
+  "rejected": [
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2009-9-21&Gericht=bgh&anz=7&nr=49583&pos=0",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "accessed_at": "2026-10-20T23:33:45.935001+00:00",
+      "path": "authorities/rejected-II-ZR-174-08.html",
+      "sha256": "281961cebd3b4212b77895e8e7f8c997abfa0177dc58fed68a27acae668ccc35",
+      "format_validated": false,
+      "result": "Expected PDF, received HTML; rejected, no authority relied on"
+    }
+  ],
+  "verified": [
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300562019.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-20T23:34:02.649611+00:00",
+      "path": "authorities/KORE300562019.zip",
+      "sha256": "cc11e6ba594cc45bb44fb56fdad01ba085e8c9ece0d35c96a8939e36b2dca129",
+      "xml_sha256": "64bf111b87076307d142551931707af4e1c803a433ceca6a16f3d8d51f3c6c5c",
+      "format_validated": "ZIP opened; XML parsed; docket verified"
+    }
+  ]
+}

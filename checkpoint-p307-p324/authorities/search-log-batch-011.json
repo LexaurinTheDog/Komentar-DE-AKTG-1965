@@ -1,0 +1,21 @@
+{
+  "verified_at": "2026-10-20T23:39:54.721703+00:00",
+  "queries": [
+    "site.rechtsprechung-im-internet.de \"186\" \"Bezugsrecht\" \"2024\"",
+    "site.bundesgerichtshof.de \"II ZR 141/21\"",
+    "local rg: II ZR 141/21 in /Volumes/LaCie/law-intake/eu/de/rii (abgebrochen wegen ausbleibender Ausgabe; kein ausgewerteter Volltext)"
+  ],
+  "selected": [],
+  "rejected": [
+    {
+      "candidate": "BGH 23.05.2023 II ZR 141/21",
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=133953&Blank=1.pdf",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "evidence": "authorities/II-ZR-141-21-response",
+      "reason": "HTML statt PDF; kein vollständig verifizierter Entscheidungsinhalt"
+    }
+  ],
+  "supported_units": [],
+  "limitations": "Selektive Fallrecherche: II ZR 141/21 als möglicher § 186/203-Fall gefunden, amtlicher PDF-Abruf lieferte HTML und wurde verworfen. Kein neuer Fall ohne vollständig verifizierten Entscheidungsinhalt zitiert; keine erschöpfende Rechtsprechungsprüfung."
+}

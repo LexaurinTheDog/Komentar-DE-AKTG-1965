@@ -1,0 +1,21 @@
+{
+  "verified_at": "2026-10-20T23:35:55.716384+00:00",
+  "queries": [
+    "web: site.bundesgerichtshof.de \"II ZR 185/19\" \"179a\" (kein verwendeter Treffer)",
+    "web: site.bundesgerichtshof.de \"II ZR 174/08\" Entsprechenserklärung",
+    "web: site.rechtsprechung-im-internet.de \"II ZR 185/19\" (kein verwendeter Treffer)",
+    "local rg: II ZR 174/08, II ZR 185/19 und II ZR 364/18 im nationalen Korpusmanifest"
+  ],
+  "selected": "KORE300562019, II ZR 364/18",
+  "read_in_full": [
+    "Rn. 1–52 und Tenor: lokaler Volltext gegen amtliches XML abgeglichen"
+  ],
+  "rejected": [
+    "II ZR 174/08: erwartetes PDF lieferte HTML; nicht verwendet",
+    "II ZR 364/13: vollständig gelesen, insolvenzrechtliche Kostenentscheidung, sachlich unpassend und nicht zitiert"
+  ],
+  "supported_units": [
+    "p179a"
+  ],
+  "limitations": "Selektive Fallrecherche: II ZR 364/18 vollständig gelesen, nur für § 179a verwendet. Für die übrigen Einheiten kein gesonderter hinreichend verifizierter Fall ausgewählt; fehlgeschlagener PDF-Abruf als HTML verworfen. Keine vollständige spätere Rechtsprechungskette."
+}

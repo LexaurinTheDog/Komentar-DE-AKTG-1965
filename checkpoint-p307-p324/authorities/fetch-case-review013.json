@@ -1,0 +1,11 @@
+{
+  "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301252019.zip",
+  "http_status": 200,
+  "content_type": "application/zip",
+  "accessed_at": "2026-10-20T23:51:49.884182+00:00",
+  "sha256": "f437c93d5e326a0476847413f100f0bc5860bf0d01acb83f986c363ef8642603",
+  "xml_sha256": "bc158dca8b5ebf566b063f1587de9b05e46aab03141bae93bc8ee6ba5f26158e",
+  "path": "authorities/KORE301252019.zip",
+  "xml_path": "authorities/KORE301252019.xml",
+  "format_validated": "ZIP opened; expected XML member parsed; docket matched"
+}

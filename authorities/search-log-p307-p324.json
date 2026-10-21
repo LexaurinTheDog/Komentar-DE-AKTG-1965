@@ -1,0 +1,9 @@
+{
+  "scope": "Author batch p307–p324, selective research",
+  "queries": ["site.rechtsprechung-im-internet.de § 317 AktG Nachteil", "site.rechtsprechung-im-internet.de § 320b", "local rg § 317 / § 320b / II ZR 102/07 / II ZR 273/11 in /Volumes/LaCie/law-intake/eu/de/rii"],
+  "discovery": "Local corpus identified directly relevant BGH II ZR 141/09, KORE305682011; internet search did not produce a better direct primary result for § 320b.",
+  "full_text_read": "Official ZIP downloaded HTTP 200, XML validated; full decision Rn. 1–56 with Tenor and facts read and checked against local national corpus.",
+  "selected_authority": "BGH 31.05.2011 II ZR 141/09; supports p311 and p317",
+  "not_selected": "Other decisions found in local search were not used as holdings without full-text verification. No separate sufficiently verified decision selected for remaining technical and procedural units.",
+  "limits": "Selective research; no exhaustive case-law or subsequent-treatment search. No third-party commercial annotations used."
+}

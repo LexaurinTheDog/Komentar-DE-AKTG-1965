@@ -1,0 +1,15 @@
+# BGH, Urteil vom 31. Mai 2011 – II ZR 141/09
+
+Gericht: Bundesgerichtshof, II. Zivilsenat. Amtliche Dokumentnummer KORE305682011; das ECLI-Feld des bereitgestellten XML ist leer. [Amtliche Fundstelle](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE305682011), [gesicherter Volltext](KORE305682011.xml), [Abrufnachweis](verification-p307-p324.json). Der gesamte Text mit Tenor, Sachverhalt und Entscheidungsgründen Rn. 1–56 wurde gelesen; die lokale nationale Korpusfassung wurde zum Abgleich verwendet.
+
+Die Deutsche Telekom AG verlangte im Zusammenhang mit der Platzierung von Altaktien in den USA Ersatz von Vergleichs- und Rechtsverteidigungskosten. Die Vorinstanz hatte die Klage abgewiesen, unter anderem unter Berufung auf eigene Interessen der Gesellschaft und § 317 Absatz 2. Diese Auffassung ist in Rn. 9–11 wiedergegeben und ist nicht die Auffassung des BGH. Der BGH hob das Berufungsurteil auf und verwies zurück; er entschied nicht abschließend über den gesamten Zahlungsanspruch.
+
+Für die kommentierten §§ 311 und 317 sind folgende Aussagen relevant:
+
+- Rn. 25–27: Unspezifische, nicht messbare Platzierungsvorteile kompensieren in der konkreten Konstellation die Übernahme des Prospekthaftungsrisikos nicht. Die gewünschte Freistellung war verweigert worden.
+- Rn. 30–33: Ein öffentlich-rechtlicher Rechtsträger kann herrschendes Unternehmen sein. Der Vergleich nach § 317 Absatz 2 trägt die Entlastung hier nicht, weil ein unabhängiger Vorstand die nach § 57 unzulässige Risikoübernahme nicht hätte vornehmen dürfen.
+- Rn. 36–38: Nachteil kann eine konkrete Gefährdung der Vermögens- und Ertragslage sein, nicht erst die spätere Zahlung. Hier fehlte eine vollwertige Freistellung.
+- Rn. 39–40: Zur Veranlassung durch die Beklagte zu 1 fehlten Feststellungen. Das Verhalten eines von ihr abhängigen Unternehmens war ihr nicht ohne Weiteres zuzurechnen. Der BGH verweist allerdings für die konkreten Umstände, insbesondere unmittelbare Verhandlungsbeteiligung, auf Anschein oder Vermutung. Keine allgemeine unwiderlegliche Vermutung aus bloßer Konzernzugehörigkeit.
+- Rn. 48: § 311 lässt einen zeitlich gestreckten Ausgleich bis zum Geschäftsjahresende beziehungsweise die rechtzeitige Gewährung eines Ausgleichsanspruchs zu. Da hier beides fehlte, entfiel die Sperrwirkung gegenüber dem Rückgewähranspruch aus §§ 57, 62. Die zusätzliche Frage fehlender Ausgleichsbereitschaft ließ der BGH offen.
+
+Die Entscheidung betrifft einen besonderen Altaktienverkauf und ein Prospekthaftungsrisiko; sie ist kein allgemeines Verbot jeder Risikoverlagerung im Konzern. Rn. 36, 39, 47 und 53–56 zeigen offene Feststellungen zu Veranlassung, Schaden, Prozessführungsbefugnis und Kostenhöhe. Die Einzelheiten des damaligen US-Rechts, Versicherungsrechts und KfW-Rechts werden nicht als heutige Rechtslage übernommen. Für die hier verwendeten Grundsätze wurde der aktuelle Wortlaut der §§ 311 und 317 mit dem amtlichen XML abgeglichen; die letzte ausgewiesene Novelle 2026 ändert diese Normen nicht. Keine vollständige Recherche späterer Fortentwicklungen oder aller einschlägigen Entscheidungen.

@@ -480,6 +480,24 @@
       "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
       "same_as_canonical": true,
       "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-21T00:32:06.159508+00:00",
+      "http_status": 200,
+      "path": "sources/author-p307-p324.zip",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_path": "sources/author-p307-p324.xml",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "same_as_canonical": true,
+      "same_as_intake": true,
+      "format_validated": "ZIP CRC and XML parsing; jurabk=AktG",
+      "decisive_date": "2026-10-19",
+      "stand": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33",
+      "version_evidence": "sources/bgbl-2026-I-33.txt, Art. 23/24 und 64 erneut gelesen: Art. 23 Nr. 1 seit 10.02.2026; Nr. 2–6 erst 10.01.2030; Art. 24 erst 04.12.2026. Keine Änderung dieser Einheiten seit Intake.",
+      "limitations": [
+        "Aktuelle amtliche Konsolidierung und jüngste ausgewiesene Novelle geprüft; keine lückenlose Sichtung aller späteren Gesetzblätter."
+      ]
     }
   ],
   "bgh_search_batch_007": [

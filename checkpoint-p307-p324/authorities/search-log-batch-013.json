@@ -1,0 +1,21 @@
+{
+  "verified_at": "2026-10-20T23:53:42.690479+00:00",
+  "queries": [
+    "site.rechtsprechung-im-internet.de \"Kapitalherabsetzung\" \"229\"",
+    "site.rechtsprechung-im-internet.de \"221\" \"Wandelschuldverschreibungen\"",
+    "site.bundesgerichtshof.de \"Kapitalherabsetzung\" \"II ZR\" \"229\"",
+    "site.rechtsprechung-im-internet.de \"II ZR 278/16\"",
+    "rg \"II ZR 278/16|II ZR 79/04|II ZR 278/96\" /Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl"
+  ],
+  "selected": [
+    "BGH 07.05.2019 II ZR 278/16"
+  ],
+  "full_text_read": true,
+  "primary_xml": "authorities/KORE301252019.xml",
+  "local_corpus_fulltext": "authorities/KORE301252019-intake.md",
+  "all_substantive_paragraphs_match_local": true,
+  "supported_units": [
+    "p221"
+  ],
+  "limitations": "Selektive Rechtsprechungsrecherche: ein amtlicher Entscheidungsvolltext gelesen und für p221 verwendet; keine erschöpfende Fallsuche."
+}

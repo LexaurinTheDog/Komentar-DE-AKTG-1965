@@ -1,0 +1,18 @@
+{
+  "searched_at": "2026-10-20T23:59:06.446063+00:00",
+  "queries": [
+    "site.rechtsprechung-im-internet.de § 243 Abs. 4 II ZR Hauptversammlung Information",
+    "site.rechtsprechung-im-internet.de § 250 Aufsichtsrat Wahl Nichtigkeit"
+  ],
+  "local_corpus_checked": "Vorhandene Fallkarten und p149/p255b im lokalen Titelbestand; kein für diesen Batch neu verifizierter Gerichtsfall.",
+  "official_fetch": {
+    "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2013-2&Gericht=bgh&file=dokument.pdf&linked=urt&nr=63682",
+    "http_status": 200,
+    "content_type": "text/html;charset=utf-8",
+    "response_path": "authorities/failed-II-ZR-56-12-response.bin",
+    "sha256": "590088144d4d52084456fbb4fc04ed662de66e39e481a6062329d854d45062b1",
+    "is_pdf": false
+  },
+  "disposition": "Volltext nicht als PDF verfügbar; Suchtreffer nicht als Autorität übernommen. Keine Fallkarte und kein materielles Rechtsprechungszitat für diesen Batch.",
+  "supported_units": []
+}

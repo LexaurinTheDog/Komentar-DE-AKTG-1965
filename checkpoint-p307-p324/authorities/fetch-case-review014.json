@@ -1,0 +1,11 @@
+{
+  "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE305862010.zip",
+  "http_status": 200,
+  "content_type": "application/zip",
+  "accessed_at": "2026-10-21T00:00:19.477531+00:00",
+  "sha256": "9070698a68e7756ba3e5bf48bddaff8441f50e370212b72e93244432dedbbd35",
+  "xml_sha256": "3fb309ba0eeb173f673eafcea71964d04523e7f8753722de3ef0ff8b84a512e4",
+  "path": "authorities/KORE305862010.zip",
+  "xml_path": "authorities/KORE305862010.xml",
+  "format_validated": "ZIP opened; parsed XML; docket matched"
+}

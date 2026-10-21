@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-10-20T23:50:43.659573+00:00",
+  "queries": [
+    "site.rechtsprechung-im-internet.de \"221\" \"Wandelschuldverschreibungen\"",
+    "site.bundesgerichtshof.de \"237\" \"Einziehung\" \"Aktien\"",
+    "rg Wandelschuldverschreib|Einziehung von Aktien|vereinfachte Kapitalherabsetzung /Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl"
+  ],
+  "local_manifest_matches": 0,
+  "selected_cases": [],
+  "disposition": "Suchtreffer nur als Hinweise geprüft; kein Entscheidungsvolltext für diesen Batch gelesen oder als Autorität zitiert. BFH STRE201710017 betrifft steuerliche Fragen; ältere Bezugsrechtsfälle ohne geprüften Volltext nicht übernommen.",
+  "limitations": "Begrenzte Recherche, keine erschöpfende Rechtsprechungsabdeckung; kein Fall wird aus einem Suchsnippet abgeleitet."
+}

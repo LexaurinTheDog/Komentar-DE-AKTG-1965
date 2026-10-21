@@ -1,0 +1,20 @@
+{
+  "queries": [
+    "site:rechtsprechung-im-internet.de KGaA § 285 persönlich haftenden Gesellschafter",
+    "site:rechtsprechung-im-internet.de § 293 Unternehmensvertrag Zustimmung Hauptversammlung"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_search": "rg -l § 284/285/291/293 AktG in lokalen md; zahlreiche Treffer, keine zusätzlichen Fälle aus bloßen Treffern zitiert",
+  "full_text_read": "OLG Brandenburg 11.07.2023 – 6 AktG 1/23, amtlicher Volltext, Tatbestand und sämtliche Gründe",
+  "supported_units": [
+    "p293"
+  ],
+  "rejected_response": {
+    "path": "authorities/p274-p293-case-response.bin",
+    "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-1&Gericht=bgh&anz=292&nr=132884&pos=16",
+    "http_status": 200,
+    "format": "HTML instead of requested PDF; not relied on",
+    "sha256": "e7e3d304c57d4615a0327d06f233ccc6b801a49b98f9b31970677826f13920cc"
+  },
+  "limitations": "Selektiv; für übrige zugewiesene Einheiten keine weitere hinreichend relevante Entscheidung im begrenzten Rechercheumfang verifiziert."
+}

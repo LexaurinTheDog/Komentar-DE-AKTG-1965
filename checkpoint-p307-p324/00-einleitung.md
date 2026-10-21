@@ -1,0 +1,3 @@
+# Einleitung
+
+Diese Teilausgabe erläutert Vertragsbeendigung zum Minderheitenschutz, Leitungsmacht und Konzernverantwortung, Abhängigkeitsbericht, Sonderprüfung sowie die Eingliederung bis einschließlich Rücklagen und Verlustausgleich. § 324 ist keine vollständige Darstellung aller Eingliederungsfolgen; die anschließenden Vorschriften bleiben Teil des Gesamtvorhabens. Die Kommentarblöcke wurden einzeln am amtlichen Wortlaut entwickelt. Gesetzeswortlaut und Kommentar sind getrennt; Beispiele sind fiktiv. Verweise auf Vorschriften außerhalb dieser Teilausgabe beziehen sich auf das gesamte AktG. Die BGH-Recherche ist selektiv und erhebt keinen Vollständigkeitsanspruch.

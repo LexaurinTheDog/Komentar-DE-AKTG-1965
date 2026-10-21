@@ -1,0 +1,35 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301422016.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-19T18:32:03.696386+00:00",
+    "path": "authorities/KORE301422016.zip",
+    "sha256": "2c5505a1263f5344c6508bdc44e373800a421f8444c2d60234dda7f3c6656ae3",
+    "format_validated": "ZIP and parsed XML",
+    "members": [
+      "jb-KORE301422016.xml"
+    ]
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300612013.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-19T18:32:03.862908+00:00",
+    "path": "authorities/KORE300612013.zip",
+    "sha256": "98fc176d9ef2d251e20c1d4d12977be89f6ae8c009a08d2d5f53802091c123f3",
+    "format_validated": "ZIP and parsed XML",
+    "members": [
+      "jb-KORE300612013.xml"
+    ]
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE302052021.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-19T18:39:06.997192+00:00",
+    "path": "authorities/KORE302052021.zip",
+    "sha256": "77a8db07adc4ee22ab9fdde26889d905efdac2a70f0ac282f40d76197df46a9e",
+    "format_validated": "ZIP and XML",
+    "members": [
+      "jb-KORE302052021.xml"
+    ]
+  }
+]

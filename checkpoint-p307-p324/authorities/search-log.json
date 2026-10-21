@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-19",
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "steps": [
+    {
+      "query": "II ZR 225/20, II ZR 452/17, II ZR 108/21",
+      "result": "Exact docket screening; III ZR 225/20 excluded as unrelated. II ZR 452/17 concerns GmbH; not cited."
+    },
+    {
+      "query": "metadata norms § 20, § 27, § 57, § 62, § 67 AktG",
+      "result": "Initial broad regex had unrelated statutory matches; screened by AktG and actual texts. Selected KORE301422016 and KORE300612013."
+    },
+    {
+      "query": "site.recht.bund.de Aktiengesetz 2026 Änderung; site.bundesgerichtshof.de II ZR 9/21",
+      "result": "Official consolidation and last amendment identified. II ZR 9/21 not used; full text not read."
+    },
+    {
+      "query": "II ZR 225/20 exact local full text",
+      "result": "KORE302052021 read in full and fetched as official ZIP/XML."
+    }
+  ],
+  "read_in_full": [
+    "KORE301422016",
+    "KORE300612013",
+    "KORE302052021"
+  ],
+  "unit_support": {
+    "p20": [
+      "KORE301422016"
+    ],
+    "p57": [
+      "KORE300612013"
+    ],
+    "p62": [
+      "KORE301422016",
+      "KORE300612013"
+    ],
+    "p112": [
+      "KORE300612013"
+    ],
+    "p113": [
+      "KORE302052021"
+    ],
+    "p114": [
+      "KORE302052021"
+    ]
+  },
+  "not_claimed": "No exhaustive per-unit or subsequent-citation research. Units without a case reference have no separately selected verified authority in this draft."
+}
