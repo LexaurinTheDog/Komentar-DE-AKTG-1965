@@ -189,3 +189,5 @@ Amtlicher ZIP-Abruf HTTP 200, Format und AktG-Kennung geprüft; identischer XML-
 OLG Brandenburg vom 11. Juli 2023, 6 AktG 1/23, vollständigen Tatbestand und sämtliche Gründe erneut gelesen, frischer amtlicher Abruf identisch. Die Schriftformaussage zu § 293 trägt; Freigabemaßstab und konkrete Zinsanpassung begrenzen ihre Tragweite. HGB-Verweisungen anhand des vorhandenen amtlichen XML gegengelesen. [Fallkarte](authorities/case-OLG-BB-6-AktG-1-23.md), [Recherche](authorities/search-log-batch-016.json).
 
 Gesamtbuild und strikter Validator werden protokolliert; außerhalb des Auftrags fehlen 73 Kommentare. Die begrenzte Ausgabe wird gesondert mit unverändertem Validator geprüft. Prüfung auf wiederholte ganze Absätze und lokale Links; Mindestlänge allein ist kein Qualitätsnachweis. Keine Gesamtfreigabe oder externe Berufsprüfung.
+
+Validierung nach dem Inhaltscommit: begrenzte Ausgabe 20/20 Einheiten, Wortlautquote 1,0, keine Fehler; Gesamtprüfung Wortlautquote 1,0, ausschließlich 73 fehlende Kommentare außerhalb des Auftrags. [Begrenztes Ergebnis](review-validation-bounded-016.json), [Gesamtergebnis](review-validation-after-commit-batch-016.json).

@@ -1,0 +1,2 @@
+exit_code=1
+CHYBÍ komentář k 73 jednotkám, např.: ['p293a', 'p293b', 'p293c', 'p293d', 'p293e', 'p293f', 'p293g', 'p294', 'p295', 'p296']

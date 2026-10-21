@@ -195,5 +195,25 @@
   ],
   "verified_at": "2026-10-21T00:20:08.791125+00:00",
   "statutory_text_agreement_assigned": 1.0,
-  "full_book_complete": false
+  "full_book_complete": false,
+  "whole_book_validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 393,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 504097,
+    "errors": [
+      "krátký/chybějící komentář u 73 jednotek: ['p293a(0<400)', 'p293b(0<400)', 'p293c(0<400)', 'p293d(0<400)', 'p293e(0<400)', 'p293f(0<400)', 'p293g(0<400)', 'p294(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "bounded_validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 35021,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  }
 }
