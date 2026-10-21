@@ -114,7 +114,10 @@
     ],
     "units_reviewed": 20,
     "complete": true,
-    "evidence": "review-result-batch-019.json"
+    "evidence": "review-result-batch-019.json",
+    "strict_validation": "review-validation-bounded-019.json",
+    "strict_validation_ok": false,
+    "whole_book_validation_ok": false
   },
   "validation": {
     "repo": "Komentar-DE-AKTG-1965",
