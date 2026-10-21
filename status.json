@@ -1,66 +1,58 @@
 {
-  "stage": "reviewing",
+  "stage": "author_batch_complete_pending_second_pass",
   "decisive_date": "2026-10-19",
   "total_units": 393,
-  "completed_units": 380,
-  "remaining_units": 13,
+  "completed_units": 393,
+  "remaining_units": 0,
   "validation_result": {
-    "whole_book_ok": false,
-    "reason": "13 fehlende Kommentare außerhalb dieses Autorenauftrags",
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 393,
     "verbatim_ratio": 1.0,
-    "bounded_units": 20,
-    "bounded_technical_checks": "completeness-author-p325-p399.json",
-    "bounded_strict_validation": "validation-author-p325-p399-bounded.json",
-    "strict_validation": "validation-author-p325-p399.json"
+    "commentary_chars": 651284,
+    "errors": [],
+    "warnings": [],
+    "ok": true
   },
   "independent_review": false,
-  "checkpoint": "author-result-p325-p399.json",
-  "updated_at": "2026-10-21T00:49:52.050009+00:00",
+  "checkpoint": "author-result-p400-p410.json",
+  "updated_at": "2026-10-21T00:56:23.861165+00:00",
   "complete": false,
-  "remaining_unit_ids": [
-    "p400",
-    "p401",
-    "p402",
-    "p403",
-    "p404",
-    "p404a",
-    "p405",
-    "p406",
-    "p407",
-    "p407a",
-    "p408",
-    "p409",
-    "p410"
-  ],
-  "commentary_chars": 272569,
-  "completed_chapters": 10,
+  "remaining_unit_ids": [],
+  "commentary_chars": 651284,
+  "completed_chapters": 20,
   "total_chapters": 20,
-  "commented_scope": "Eingangsformel und §§ 1–206, including inserted and explicit empty/grouped slots",
+  "commented_scope": "Eingangsformel und sämtliche 392 nummerierten amtlichen Datensätze; §§ 400–410 neu in diesem Autorenbatch",
   "source_checks": {
     "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
-    "accessed_at": "2026-10-21T00:17:57.911861+00:00",
+    "accessed_at": "2026-10-21T00:51:27.884483+00:00",
     "http_status": 200,
-    "content_type": "application/zip",
-    "path": "sources/review-p274-p293.zip",
-    "xml_path": "sources/review-p274-p293.xml",
     "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
     "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
-    "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
     "same_as_canonical": true,
-    "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    "same_as_intake": true,
+    "format_validated": "ZIP CRC and XML jurabk=AktG",
+    "decisive_date": "2026-10-19",
+    "stand": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33",
+    "version_evidence": "sources/bgbl-2026-I-33.txt, Artikel 23/24 und 64: Nr. 1 wirksam seit 10.02.2026; Art. 23 Nr. 2–6 erst 10.01.2030, Art. 24 erst 04.12.2026.",
+    "limitations": [
+      "Keine lückenlose Sichtung sämtlicher späterer Gesetzblätter."
+    ],
+    "path": "sources/author-p400-p410.zip",
+    "xml_path": "sources/author-p400-p410.xml"
   },
   "case_law_sources": [
     "KORE301422016",
     "KORE300612013",
-    "KORE302052021"
+    "KORE302052021",
+    "OLG München 31.07.2024 – 7 U 351/23 e"
   ],
   "remaining_limitations": [
-    "13 Einheiten außerhalb des Auftrags unkommentiert.",
-    "Dieser Autorenbatch bedarf einer eigenständigen zweiten Durchsicht.",
-    "Selektive Rechtsprechungsrecherche."
+    "Eigenständige zweite Durchsicht der 13 Einheiten ausstehend.",
+    "Selektive Rechtsprechungsrecherche; lokaler Corpusabgleich nur Manifest.",
+    "Keine vollständige Sichtung sämtlicher späterer Gesetzblätter."
   ],
   "preflight_complete": true,
-  "bounded_author_result": "eingangsformel-result.json",
+  "bounded_author_result": "author-result-p400-p410.json",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,

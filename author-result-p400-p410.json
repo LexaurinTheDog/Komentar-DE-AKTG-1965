@@ -1,0 +1,44 @@
+{
+  "task": "bounded_authoring",
+  "complete": true,
+  "assigned_ids": [
+    "p400",
+    "p401",
+    "p402",
+    "p403",
+    "p404",
+    "p404a",
+    "p405",
+    "p406",
+    "p407",
+    "p407a",
+    "p408",
+    "p409",
+    "p410"
+  ],
+  "completed_units": 13,
+  "full_book_complete": false,
+  "independent_review": false,
+  "output_commit": "b4540a46a4cc1897d970125ac8c505e50038bd0a",
+  "validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 393,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 651284,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "source_evidence": "sources/author-p400-p410-verification.json",
+  "completeness": "completeness-author-p400-p410.json",
+  "links": "links-author-p400-p410.json",
+  "case_cards": [
+    "cases/olg-muenchen-2024-07-31.md"
+  ],
+  "limitations": [
+    "Eigenständige zweite Durchsicht der 13 Einheiten ausstehend.",
+    "Selektive Rechtsprechungsrecherche; lokaler Corpusabgleich nur Manifest.",
+    "Keine vollständige Sichtung sämtlicher späterer Gesetzblätter."
+  ],
+  "updated_at": "2026-10-21T00:56:23.861165+00:00"
+}
