@@ -1,4 +1,4 @@
-# Eingliederung, Ausschluss und wechselseitige Beteiligung
+# Kommentarkapitel 19 — Eingliederung, Ausschluss und wechselseitige Beteiligung
 
 #### Drittes Buch — Verbundene Unternehmen
 
@@ -237,8 +237,6 @@ Absatz 4 schützt Gläubiger hinsichtlich der bis zum Ende begründeten Verbindl
 
 Beispiel: Die Hauptgesellschaft verkauft eine einzige Tochteraktie an einen Dritten. Bereits der Verlust der vollständigen Inhaberschaft beendet die Eingliederung. Eine vorher begründete Lieferverbindlichkeit kann weiterhin der Nachhaftung unterliegen; für ihre Durchsetzung sind Fälligkeit, Bekanntmachung und fristwahrende Maßnahmen gesondert festzuhalten. Eine erst danach neu begründete Schuld fällt nicht allein wegen früherer Konzernzugehörigkeit unter Absatz 4.
 
-#### Drittes Buch — Verbundene Unternehmen
-
 #### Vierter Teil — Ausschluss von Minderheitsaktionären
 
 ### § 327a — Übertragung von Aktien gegen Barabfindung
@@ -360,8 +358,6 @@ Der dritte Satz erfasst den besonderen Fall, dass eine Abfindung überhaupt nich
 Beispiel: Ein ausgeschiedener Aktionär hält die angebotenen 40 Euro für zu niedrig, akzeptiert aber die Durchführung des Ausschlusses. Er muss für die Erhöhung den dafür vorgesehenen Antrag stellen; eine allein auf den vermeintlich zu niedrigen Wert gestützte Anfechtung führt nicht zur Aufhebung des Beschlusses.
 
 **Prüfliste zum Ausschluss:** Kapitalschwelle und Zurechnung belegen; Bewertungsstichtag beachten; Bankgewährleistung vor Einberufung sichern; vollständige Berichte rechtzeitig bereitstellen; Registervoraussetzungen prüfen; Eintragung, Bekanntmachung und Zahlung unterscheiden; Bewertungs- und sonstige Beschlussmängel dem passenden Verfahren zuordnen.
-
-#### Drittes Buch — Verbundene Unternehmen
 
 #### Fünfter Teil — Wechselseitig
 beteiligte Unternehmen

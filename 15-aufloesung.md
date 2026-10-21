@@ -54,13 +54,6 @@ Für Insolvenzeröffnung, rechtskräftige Ablehnung mangels Masse und rechtskrä
 
 Beispiel: Die Hauptversammlung beschließt wirksam die freiwillige Auflösung. Der Vorstand kann nicht auf eine automatische Eintragung wie bei Insolvenzeröffnung vertrauen, sondern muss anmelden. Werden zugleich andere Personen als Abwickler bestellt, sind deren Bestellung und Vertretungsbefugnis mit den nach § 266 erforderlichen Urkunden ebenfalls registerrechtlich zu behandeln.
 
-#### Erstes Buch — Aktiengesellschaft
-
-#### Achter Teil — Auflösung und Nichtigerklärung
-der Gesellschaft
-
-#### Erster Abschnitt — Auflösung
-
 #### Zweiter Unterabschnitt — Abwicklung
 
 ### § 264 — Notwendigkeit der Abwicklung
@@ -274,11 +267,6 @@ Prüfliste zum Abwicklungsabschluss: Auflösungsgrund und Registerzuständigkeit
 Absatz 2 erweitert die Möglichkeit auf genau bezeichnete Fälle: Bei Insolvenz genügt die bloße Hoffnung auf Sanierung nicht. Erforderlich ist eine Einstellung des Verfahrens auf Antrag des Schuldners oder die Aufhebung nach Bestätigung eines auf Fortbestand gerichteten Insolvenzplans. Bei gerichtlich festgestelltem Satzungsmangel muss spätestens gleichzeitig eine heilende Satzungsänderung beschlossen werden. Die Vorschrift eröffnet damit keine beliebige Fortsetzung nach jedem Auflösungsgrund des § 262.
 
 Die Abwickler melden die Fortsetzung an und weisen nach Absatz 3 nach, dass noch keine Verteilung begonnen hat. Absatz 4 macht die Registereintragung zur Wirksamkeitsvoraussetzung. Im Satzungsmangelfall müssen beide Beschlüsse eingetragen sein; ihre gemeinsame Eintragung soll eine isolierte, noch nicht geheilte Fortsetzung verhindern. Beispiel: Nach freiwilliger Auflösung findet eine AG einen neuen Investor. Solange nur Gläubiger bezahlt, aber keine Liquidationserlöse an Aktionäre verteilt wurden, kommt eine Fortsetzung in Betracht. Der Investitionsvertrag allein beendet die Abwicklung nicht; Beschluss, Nachweis und Registervollzug bleiben erforderlich.
-
-#### Erstes Buch — Aktiengesellschaft
-
-#### Achter Teil — Auflösung und Nichtigerklärung
-der Gesellschaft
 
 #### Zweiter Abschnitt — Nichtigerklärung der
 Gesellschaft

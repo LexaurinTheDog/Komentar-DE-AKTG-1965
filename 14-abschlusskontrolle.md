@@ -1,5 +1,15 @@
 # Kommentarkapitel 14 — Abschlussmängel und Sonderprüfung
 
+#### Erstes Buch — Aktiengesellschaft
+
+#### Siebenter Teil — Nichtigkeit von
+Hauptversammlungsbeschlüssen und des festgestellten
+Jahresabschlusses. Sonderprüfung wegen unzulässiger
+Unterbewertung
+
+#### Zweiter Abschnitt — Nichtigkeit des
+festgestellten Jahresabschlusses
+
 ### § 256 — Nichtigkeit
 
 **Wortlaut der Vorschrift:**
@@ -84,6 +94,9 @@ Hauptversammlung
 Anfechtbar bleiben nach Maßgabe des § 243 Fehler des Feststellungsbeschlusses, etwa eine rechtswidrige Beschränkung der Teilnahme. Ob ein Informationsmangel den gesetzlichen Relevanzmaßstab erfüllt, ist eigenständig zu prüfen. Die Verweisung in Absatz 2 übernimmt unter anderem Anfechtungsbefugnis, Klagefrist, Verfahrensregeln und Urteilswirkungen. Ein Feststellungsakt von Vorstand und Aufsichtsrat wird durch § 257 nicht zu einem Hauptversammlungsbeschluss.
 
 Die Frist beginnt mit der Beschlussfassung auch dann, wenn eine erneute Abschlussprüfung erforderlich wird. Aktionäre dürfen deshalb das Ergebnis der Nachprüfung nicht abwarten, wenn sie einen bereits erkennbaren Verfahrensfehler verfolgen wollen. Beispiel: Die Hauptversammlung stellt einen nachträglich geänderten Abschluss fest; zugleich wird einem stimmberechtigten Aktionär unberechtigt der Zutritt versagt. Die erneute Prüfung verschiebt die Anfechtungsfrist wegen dieses Zutrittsfehlers nicht. Die materielle Richtigkeit eines Bilanzpostens ist gesondert nach § 256 zu beurteilen.
+
+#### Dritter Abschnitt — Sonderprüfung wegen
+unzulässiger Unterbewertung
 
 ### § 258 — Bestellung der Sonderprüfer
 

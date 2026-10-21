@@ -225,3 +225,5 @@ BVerwG 8 C 3.23 vollständig Rn. 1–21 am neu abgerufenen amtlichen XML und nat
 Die Durchsicht beschränkt sich auf diese 20 Einheiten. Gesamtbuilder und strikter Validator werden zusätzlich als Diagnose ausgeführt; fehlende Kommentare außerhalb des Auftrags bleiben davon unberührt. Der gesonderte Teilcheckpoint wird aufgebaut und strikt geprüft. Keine Gesamtbuchfreigabe, keine externe anwaltliche Genehmigung.
 
 Ergebnis dieses Teilauftrags: strikte Validierung des 20-Einheiten-Checkpoints bestanden (Wortlautquote 1,0, keine Fehler); Gesamtvalidierung meldet ausschließlich 13 fehlende Kommentare außerhalb dieses Auftrags. [Teilvalidierung](review-validation-bounded-019.json), [Gesamtstandsdiagnose](review-validation-batch-019.json).
+
+Autorenbatch §§ 400–410 (13 Einheiten): [eigene Kontrolle](AUTHOR-CHECK-p400-p410.md), [maschinenlesbare Abdeckung](completeness-author-p400-p410.json). Alle zugewiesenen Texte am Wortlaut kontrolliert; eigenständige zweite Durchsicht dieses Batches weiterhin erforderlich. Keine Gesamtfreigabe.

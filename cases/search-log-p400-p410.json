@@ -1,0 +1,20 @@
+{
+  "accessed_at": "2026-10-21T00:55:37.246082+00:00",
+  "queries": [
+    "site.bundesgerichtshof.de \"AktG\" \"404\" \"Geheimnis\"",
+    "site.rechtsprechung-im-internet.de \"AktG\" \"401\"",
+    "rg -i §.?404 AktG|§.?401 AktG|7 U 351/23|Geheimhaltungspflicht /Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl"
+  ],
+  "local_manifest_hits": 0,
+  "full_text_read": [
+    "OLG München 31.07.2024 – 7 U 351/23 e, Tatbestand und Gründe Rn. 1–108"
+  ],
+  "cited_units": [
+    "p404"
+  ],
+  "other_units": "Kein zusätzlicher hinreichend relevanter verifizierter Volltext aufgenommen.",
+  "limitations": [
+    "Selektive Suche, keine erschöpfende Rechtsprechungs- oder Folgeentscheidungsrecherche.",
+    "Lokaler Abgleich auf Manifestdaten beschränkt."
+  ]
+}

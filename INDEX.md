@@ -1,24 +1,23 @@
-# INDEX — Unvollständiger Arbeitsentwurf zum Aktiengesetz
+# INDEX — Kommentar zum Aktiengesetz
 
-[Einleitung](00-einleitung.md)
-
-360 von 393 amtlichen Datensätzen sind kommentiert. Die folgenden Kapitel sind enthalten; der Rest des Gesamtvorhabens ist offen.
-
-- [Grundlagen und Unternehmensverbindungen](01-grundlagen.md)
-- [Gründung und Nachgründung](02-gruendung.md)
-- [Aktionäre, Aktienregister und eigene Aktien](03-aktionaere.md)
-- [Vorstand und Organhaftung](04-vorstand.md)
-- [Aufsichtsrat und schädlicher Einfluss](05-aufsichtsrat.md)
-- [Hauptversammlung und Vorbereitung](06-hauptversammlung-vorbereitung.md)
-- [Mitwirkung, Sonderprüfung und Rechtsverfolgung](07-hauptversammlung-rechte.md)
-- [Rechnungslegung und Gewinnverwendung](08-rechnungslegung.md)
-- [Satzungsänderung und ordentliche Kapitalerhöhung](09-satzung-kapitalerhoehung.md)
-- [Bedingtes und genehmigtes Kapital](10-bedingtes-genehmigtes-kapital.md)
-- [Kapitalerhöhung aus Gesellschaftsmitteln und Schuldverschreibungen](11-gesellschaftsmittel.md)
-- [Kapitalherabsetzung und Einziehung](12-kapitalherabsetzung.md)
-- [Beschlussmängel und zusätzliche Aktien](13-beschlussmaengel.md)
-- [Abschlussmängel und Sonderprüfung](14-abschlusskontrolle.md)
-- [Auflösung, Abwicklung und Nichtigkeit](15-aufloesung.md)
-- [Kommanditgesellschaft auf Aktien](16-kgaa.md)
-- [Unternehmensverträge und Gläubigerschutz](17-unternehmensvertraege.md)
-- [Außenstehende Aktionäre und Konzernverantwortung](18-konzernverantwortung.md)
+- [00-einleitung.md](00-einleitung.md) — Geltungsstand, Methode und Benutzung
+- [01-grundlagen.md](01-grundlagen.md) — Kommentarkapitel 01: Grundlagen und Unternehmensverbindungen
+- [02-gruendung.md](02-gruendung.md) — Kommentarkapitel 02: Gründung und Nachgründung
+- [03-aktionaere.md](03-aktionaere.md) — Kommentarkapitel 03: Aktionäre, Aktienregister und eigene Aktien
+- [04-vorstand.md](04-vorstand.md) — Kommentarkapitel 04: Vorstand und Organhaftung
+- [05-aufsichtsrat.md](05-aufsichtsrat.md) — Kommentarkapitel 05: Aufsichtsrat und schädlicher Einfluss
+- [06-hauptversammlung-vorbereitung.md](06-hauptversammlung-vorbereitung.md) — Kommentarkapitel 06: Hauptversammlung und Vorbereitung
+- [07-hauptversammlung-rechte.md](07-hauptversammlung-rechte.md) — Kommentarkapitel 07: Mitwirkung, Sonderprüfung und Rechtsverfolgung
+- [08-rechnungslegung.md](08-rechnungslegung.md) — Kommentarkapitel 08: Rechnungslegung und Gewinnverwendung
+- [09-satzung-kapitalerhoehung.md](09-satzung-kapitalerhoehung.md) — Kommentarkapitel 09: Satzungsänderung und ordentliche Kapitalerhöhung
+- [10-bedingtes-genehmigtes-kapital.md](10-bedingtes-genehmigtes-kapital.md) — Kommentarkapitel 10: Bedingtes und genehmigtes Kapital
+- [11-gesellschaftsmittel.md](11-gesellschaftsmittel.md) — Kommentarkapitel 11: Kapitalerhöhung aus Gesellschaftsmitteln und Schuldverschreibungen
+- [12-kapitalherabsetzung.md](12-kapitalherabsetzung.md) — Kommentarkapitel 12: Kapitalherabsetzung und Einziehung
+- [13-beschlussmaengel.md](13-beschlussmaengel.md) — Kommentarkapitel 13: Beschlussmängel und zusätzliche Aktien
+- [14-abschlusskontrolle.md](14-abschlusskontrolle.md) — Kommentarkapitel 14: Abschlussmängel und Sonderprüfung
+- [15-aufloesung.md](15-aufloesung.md) — Kommentarkapitel 15: Auflösung, Abwicklung und Nichtigkeit
+- [16-kgaa.md](16-kgaa.md) — Kommentarkapitel 16: Kommanditgesellschaft auf Aktien
+- [17-unternehmensvertraege.md](17-unternehmensvertraege.md) — Kommentarkapitel 17: Unternehmensverträge und Gläubigerschutz
+- [18-konzernverantwortung.md](18-konzernverantwortung.md) — Kommentarkapitel 18: Außenstehende Aktionäre und Konzernverantwortung
+- [19-eingliederung-ausschluss.md](19-eingliederung-ausschluss.md) — Kommentarkapitel 19: Eingliederung, Ausschluss und wechselseitige Beteiligung
+- [20-sonder-schluss.md](20-sonder-schluss.md) — Kommentarkapitel 20: Öffentliche Beteiligung, Sanktionen und Schlussvorschriften

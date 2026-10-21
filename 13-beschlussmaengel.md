@@ -1,5 +1,17 @@
 # Kommentarkapitel 13 — Beschlussmängel und zusätzliche Aktien
 
+#### Erstes Buch — Aktiengesellschaft
+
+#### Siebenter Teil — Nichtigkeit von
+Hauptversammlungsbeschlüssen und des festgestellten
+Jahresabschlusses. Sonderprüfung wegen unzulässiger
+Unterbewertung
+
+#### Erster Abschnitt — Nichtigkeit von
+Hauptversammlungsbeschlüssen
+
+#### Erster Unterabschnitt — Allgemeines
+
 ### § 241 — Nichtigkeitsgründe
 
 **Wortlaut der Vorschrift:**
@@ -242,6 +254,9 @@ Die Verweisung auf § 246a eröffnet dessen Anwendung nur innerhalb seines eigen
 Absatz 2 schreibt die Verbindung mehrerer Nichtigkeitsprozesse vor, während die Verbindung von Nichtigkeits- und Anfechtungsprozessen möglich ist. Damit können unterschiedliche rechtliche Einordnungen desselben Beschlusses in einer koordinierten Entscheidung behandelt werden.
 
 Beispiel: Ein Aktionär erhebt zwei Monate nach der Versammlung Klage wegen eines behaupteten schweren Beurkundungsmangels. Die Anfechtungsfrist allein erledigt den Fall nicht. Zu prüfen sind der Tatbestand des § 241 Nummer 2 und eine mögliche Heilung nach § 242 Absatz 1. Die Benennung als Nichtigkeitsklage macht einen lediglich einfachen Verfahrensfehler nicht automatisch zum Nichtigkeitsgrund.
+
+#### Zweiter Unterabschnitt — Nichtigkeit
+bestimmter Hauptversammlungsbeschlüsse
 
 ### § 250 — Nichtigkeit der Wahl von Aufsichtsratsmitgliedern
 

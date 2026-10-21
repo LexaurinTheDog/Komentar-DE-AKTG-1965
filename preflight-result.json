@@ -194,5 +194,20 @@
     "limitations": [
       "Aktuelle amtliche Konsolidierung und letzte ausgewiesene Novelle geprüft; keine lückenlose Sichtung sämtlicher späterer Gesetzblätter."
     ]
+  },
+  "author_p400_p410": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+    "verified_at": "2026-10-21T00:51:27.884483+00:00",
+    "version_evidence": "sources/bgbl-2026-I-33.txt, Artikel 23/24 und 64: Nr. 1 wirksam seit 10.02.2026; Art. 23 Nr. 2–6 erst 10.01.2030, Art. 24 erst 04.12.2026.",
+    "historical_versions_checked": [
+      "sources/intake-2026-10-01.xml",
+      "sources/aktg.xml",
+      "sources/author-p400-p410.xml"
+    ],
+    "annexes_checked": "Keine Anlage/Anhang im amtlichen XML; sämtliche Normdatensätze und strukturellen Datensätze geprüft. Sammelstelle §§ 329–336 und leere/weggefallene Stellen bleiben erhalten; Eingangsformel vorhanden.",
+    "coverage": "completeness-author-p400-p410.json",
+    "unresolved_blockers": []
   }
 }
