@@ -3,9 +3,7 @@
   "units": 20,
   "verbatim_ratio": 1.0,
   "commentary_chars": 35622,
-  "errors": [
-    "necommitnuté změny v repu"
-  ],
+  "errors": [],
   "warnings": [],
-  "ok": false
+  "ok": true
 }

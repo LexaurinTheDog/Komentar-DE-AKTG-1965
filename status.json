@@ -116,7 +116,7 @@
     "complete": true,
     "evidence": "review-result-batch-019.json",
     "strict_validation": "review-validation-bounded-019.json",
-    "strict_validation_ok": false,
+    "strict_validation_ok": true,
     "whole_book_validation_ok": false
   },
   "validation": {
