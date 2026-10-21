@@ -1,0 +1,29 @@
+{
+  "searched_at": "2026-10-21T00:06:02.148802+00:00",
+  "queries": [
+    "site:bundesgerichtshof.de § 256 II ZR Jahresabschluss Nichtigkeit",
+    "site:bundesgerichtshof.de § 273 Abwicklungsmaßnahmen"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_matches": [
+    "rii-kore621152020.md",
+    "rii-kore302702017.md"
+  ],
+  "official_bgh_web_fetch": "PDF fetch via browsing returned 403; official RII ZIP/XML retrieval succeeded.",
+  "full_texts_read": {
+    "KORE621152020": {
+      "paragraphs": 73,
+      "fresh_xml_normalized_paragraph_matches": 73
+    },
+    "KORE302702017": {
+      "paragraphs": 22,
+      "fresh_xml_normalized_paragraph_matches": 22
+    }
+  },
+  "supported_units": [
+    "p256",
+    "p273"
+  ],
+  "remaining_units": "Keine zusätzliche hinreichend relevante Entscheidung im begrenzten Rechercheumfang verifiziert; keine erfundenen Fallverweise.",
+  "limitations": "Selektiv, keine Vollständigkeitsbehauptung."
+}

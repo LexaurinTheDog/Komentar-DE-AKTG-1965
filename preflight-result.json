@@ -84,5 +84,23 @@
     "limitations": [
       "Amtliche Konsolidierung und zuletzt ausgewiesene Novelle geprüft; keine lückenlose Prüfung aller späteren Gesetzblätter."
     ]
+  },
+  "author_batch_p255b_p273": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/aktg/",
+    "verified_at": "2026-10-21T00:06:02.148802+00:00",
+    "version_evidence": "Amtlicher XML-Abruf identisch mit kanonischem XML und Intake. Artikel 23 und Artikel 64 BGBl. 2026 I Nr. 33 erneut gelesen: Nr. 1 seit 10.02.2026, Nr. 2–6 erst 10.01.2030; Artikel 24 erst 04.12.2026. Keine neue Änderung in amtlicher Konsolidierung ausgewiesen.",
+    "historical_versions_checked": [
+      "sources/intake-2026-10-01.xml",
+      "sources/aktg.xml",
+      "sources/author-p255b-p273.xml"
+    ],
+    "annexes_checked": "Keine Anlage in amtlichen Normbezeichnungen oder Textdatensätzen. Weggefallenes Viertes Buch ist Gliederung, ohne einzeln aufgeführte §§ 339–393. Eingangsformel vollständig vorhanden.",
+    "coverage_evidence": "completeness-author-p255b-p273.json",
+    "unresolved_blockers": [],
+    "limitations": [
+      "Keine lückenlose Durchsicht aller späteren Gesetzblätter."
+    ]
   }
 }

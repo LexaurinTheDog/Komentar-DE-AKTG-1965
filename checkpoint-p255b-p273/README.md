@@ -1,0 +1,3 @@
+# Begrenzter Autorencheckpoint §§ 255b–273
+
+Genau 20 kommentierte Einheiten. Kein vollständiger Band. Amtlicher Text unverändert gegenüber dem entscheidenden Stichtag 19.10.2026, Abruf erneut am 21.10.2026. Stand: Art. 23 G vom 4.2.2026 I Nr. 33, künftiges Inkrafttreten berücksichtigt. [Amtliche Quelle](https://www.gesetze-im-internet.de/aktg/). Originalkommentar © 2026 Vojtěch Říha, Apache-2.0; amtlicher Gesetzes- und Entscheidungstext getrennt von eigener Erläuterung. Selektive Rechtsprechung mit Fallkarten und Volltextnachweisen. Autorenentwurf ohne unabhängige Zweitprüfung, keine Rechtsberatung. [Prüfnachweis](author-result-p255b-p273.json).

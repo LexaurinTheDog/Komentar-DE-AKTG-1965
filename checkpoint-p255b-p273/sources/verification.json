@@ -1,0 +1,481 @@
+{
+  "decisive_date": "2026-10-19",
+  "fetches": [
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-19T18:24:47.369766+00:00",
+      "http_status": 200,
+      "path": "sources/aktg.zip",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "content_type": "application/zip",
+      "bytes": 140159,
+      "zip_members": [
+        "BJNR010890965.xml"
+      ],
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/",
+      "accessed_at": "2026-10-19T18:24:47.608930+00:00",
+      "http_status": 200,
+      "path": "sources/index.html",
+      "sha256": "ba682e51e232d273e465e84f250e3a583c094aef054430ee8c010260bc0bb54e",
+      "content_type": "text/html",
+      "bytes": 86032
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.html",
+      "accessed_at": "2026-10-19T18:24:48.040323+00:00",
+      "http_status": 200,
+      "path": "sources/gesamt.html",
+      "sha256": "ee89b3141fcf64224f308506e3104205e485d6758127b44af86c9ef04bab8415",
+      "content_type": "text/html",
+      "bytes": 828034
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile&v=1",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T18:25:44.784628+00:00",
+      "path": "sources/bgbl-2026-I-33.pdf",
+      "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+      "format_validated": "PDF signature"
+    },
+    {
+      "url": "https://www.recht.bund.de/eli/bund/bgbl-1/2026/33",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/33/VO",
+      "http_status": 200,
+      "path": "sources/bgbl-2026-I-33-index.html",
+      "accessed_at": "2026-10-19T18:48:14.799255+00:00",
+      "sha256": "6d5b61d2b10f04dc95360f687d95dc257de26837b71dc5867d365f00922db8e5",
+      "expected_format": "HTML",
+      "contains_expected_title": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:42:30.699877+00:00",
+      "http_status": 200,
+      "path": "sources/author-p207-p218.xml",
+      "sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "response_sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "format_validation": "ZIP parsed; expected member; XML parsed; jurabk AktG",
+      "matches_canonical_xml": true,
+      "scope": "p207-p218 author checkpoint; commencement evidence retained from preflight"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:49:42.005861+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/author-p219-p238.zip",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_path": "sources/author-p219-p238.xml",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "matches_canonical": true,
+      "validated_format": "ZIP containing parsed AktG XML"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-21T00:06:02.148802+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "path": "sources/author-p255b-p273.zip",
+      "xml_path": "sources/author-p255b-p273.xml",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "matches_canonical": true,
+      "validated_format": "ZIP with parsed AktG XML",
+      "version_records": [
+        "StandZuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+      ]
+    }
+  ],
+  "version_assessment": {
+    "decisive_date": "2026-10-19",
+    "official_stand": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33",
+    "checked_at": "2026-10-19",
+    "evidence": [
+      "sources/aktg.xml",
+      "sources/gesamt.html",
+      "sources/bgbl-2026-I-33.pdf",
+      "sources/bgbl-2026-I-33.txt"
+    ],
+    "commencement": {
+      "article_23_number_1": "2026-02-10; Artikel 64 Absatz 1; Verkündung 2026-02-09",
+      "article_23_numbers_2_to_6": "2030-01-10; Artikel 64 Absatz 8; nicht als am Stichtag geltender Text eingearbeitet"
+    },
+    "since_intake": "Amtliche XML bytegleich zur gesicherten Intake-XML. Kein abweichender Textstand auf der aktuellen amtlichen Gesamtausgabe festgestellt.",
+    "limitations": "Die aktuelle amtliche Konsolidierung und die letzte ausgewiesene Änderung wurden geprüft. Keine vollständige Auswertung jedes nachfolgenden Bundesgesetzblatts auf redaktionell noch nicht eingearbeitete Änderungen."
+  },
+  "intake_sha256": "28db7b2b3f8039d63f828f4d185c20d84ea012444f5318f8a97636d60d3a8508",
+  "intake_xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+  "xml_unchanged_since_intake": true,
+  "rechecks": [
+    {
+      "verified_at": "2026-10-20T23:04:14.275251+00:00",
+      "fetches": [
+        {
+          "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+          "accessed_at": "2026-10-20T23:04:14.275416+00:00",
+          "path": "sources/recheck-2026-10-21.zip",
+          "http_status": 200,
+          "final_url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+          "content_type": "application/zip",
+          "bytes": 140159,
+          "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+          "zip_members": [
+            "BJNR010890965.xml"
+          ],
+          "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+          "same_as_canonical": true,
+          "format_validated": "zip"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aktg/",
+          "accessed_at": "2026-10-20T23:04:14.630729+00:00",
+          "path": "sources/recheck-2026-10-21-index.html",
+          "http_status": 200,
+          "final_url": "https://www.gesetze-im-internet.de/aktg/",
+          "content_type": "text/html",
+          "bytes": 86032,
+          "sha256": "ba682e51e232d273e465e84f250e3a583c094aef054430ee8c010260bc0bb54e",
+          "format_validated": "html"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.html",
+          "accessed_at": "2026-10-20T23:04:14.797842+00:00",
+          "path": "sources/recheck-2026-10-21-gesamt.html",
+          "http_status": 200,
+          "final_url": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.html",
+          "content_type": "text/html",
+          "bytes": 828034,
+          "sha256": "ee89b3141fcf64224f308506e3104205e485d6758127b44af86c9ef04bab8415",
+          "format_validated": "html"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile&v=1",
+          "accessed_at": "2026-10-20T23:04:15.864175+00:00",
+          "path": "sources/recheck-2026-10-21-bgbl-33.pdf",
+          "http_status": 200,
+          "final_url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile&v=1",
+          "content_type": "application/pdf",
+          "bytes": 1222431,
+          "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+          "format_validated": "pdf"
+        }
+      ]
+    },
+    {
+      "verified_at": "2026-10-20T23:07:18.434538+00:00",
+      "fetches": [
+        {
+          "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+          "accessed_at": "2026-10-20T23:07:18.434780+00:00",
+          "path": "sources/recheck-2026-10-21.zip",
+          "http_status": 200,
+          "final_url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+          "content_type": "application/zip",
+          "bytes": 140159,
+          "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+          "zip_members": [
+            "BJNR010890965.xml"
+          ],
+          "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+          "same_as_canonical": true,
+          "format_validated": "zip"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aktg/",
+          "accessed_at": "2026-10-20T23:07:18.648124+00:00",
+          "path": "sources/recheck-2026-10-21-index.html",
+          "http_status": 200,
+          "final_url": "https://www.gesetze-im-internet.de/aktg/",
+          "content_type": "text/html",
+          "bytes": 86032,
+          "sha256": "ba682e51e232d273e465e84f250e3a583c094aef054430ee8c010260bc0bb54e",
+          "format_validated": "html"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.html",
+          "accessed_at": "2026-10-20T23:07:18.843172+00:00",
+          "path": "sources/recheck-2026-10-21-gesamt.html",
+          "http_status": 200,
+          "final_url": "https://www.gesetze-im-internet.de/aktg/BJNR010890965.html",
+          "content_type": "text/html",
+          "bytes": 828034,
+          "sha256": "ee89b3141fcf64224f308506e3104205e485d6758127b44af86c9ef04bab8415",
+          "format_validated": "html"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile&v=1",
+          "accessed_at": "2026-10-20T23:07:19.239196+00:00",
+          "path": "sources/recheck-2026-10-21-bgbl-33.pdf",
+          "http_status": 200,
+          "final_url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile&v=1",
+          "content_type": "application/pdf;charset=UTF-8",
+          "bytes": 1222431,
+          "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+          "format_validated": "pdf"
+        }
+      ]
+    }
+  ],
+  "preflight_assessment": {
+    "decisive_date": "2026-10-19",
+    "rechecked_local_date": "2026-10-21",
+    "timezone": "Europe/Prague",
+    "verified_at": "2026-10-20T23:05:09.121271+00:00",
+    "stand": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33",
+    "unchanged_since_prior_fetch": true,
+    "effective_p8_cent_rule_present": true,
+    "future_2030_publicity_additions_absent": {
+      "§ 120a": true,
+      "§ 130": true,
+      "§ 134b": true,
+      "§ 134c": true,
+      "§ 134d": true
+    },
+    "commencement_evidence": "sources/bgbl-2026-I-33.txt: Artikel 23 (Seite 36), Artikel 64 Absätze 1 und 8 (Seiten 64–65)",
+    "limitations": [
+      "No comprehensive screening of all subsequent gazettes; current official consolidation and its latest listed amending enactment checked."
+    ]
+  },
+  "bounded_unit_checks": [
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:06:13.150073+00:00",
+      "http_status": 200,
+      "path": "sources/eingangsformel-check.zip",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "content_type": "application/zip",
+      "format_validated": "ZIP opened; XML parsed; jurabk AktG verified",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "same_as_canonical": true,
+      "version_evidence": "Unchanged from canonical XML; commencement analysis in preflight-result.json and sources/bgbl-2026-I-33.txt; decisive date remains 2026-10-19"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:09:39.053019+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p20-p37.zip",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; AktG XML parsed; bytewise canonical comparison",
+      "same_as_canonical": true,
+      "reviewed_scope": "p20–p37 including p33a and p36a"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:12:31.069633+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p37a-p56.zip",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_path": "sources/review-p37a-p56.xml",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP containing parsed AktG XML",
+      "same_as_canonical": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:14:57.893588+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p57-p70.zip",
+      "xml_path": "sources/review-p57-p70.xml",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+      "same_as_canonical": true,
+      "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:16:54.043273+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p71-p85.zip",
+      "xml_path": "sources/review-p71-p85.xml",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+      "same_as_canonical": true,
+      "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:19:27.625390+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p86-p104.zip",
+      "xml_path": "sources/review-p86-p104.xml",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+      "same_as_canonical": true,
+      "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:22:16.966461+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p105-p120.zip",
+      "xml_path": "sources/review-p105-p120.xml",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+      "same_as_canonical": true,
+      "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:26:53.039364+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p120a-p134b.zip",
+      "xml_path": "sources/review-p120a-p134b.xml",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+      "same_as_canonical": true,
+      "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:30:46.395250+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p134c-p150a.zip",
+      "xml_path": "sources/review-p134c-p150a.xml",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+      "same_as_canonical": true,
+      "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:33:10.119177+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p151-p179a.zip",
+      "xml_path": "sources/review-p151-p179a.xml",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+      "same_as_canonical": true,
+      "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:37:28.257935+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p180-p198.zip",
+      "xml_path": "sources/review-p180-p198.xml",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+      "same_as_canonical": true,
+      "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:43:54.197121+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p199-p218.zip",
+      "xml_path": "sources/review-p199-p218.xml",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+      "same_as_canonical": true,
+      "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-20T23:51:25.985645+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p219-p238.zip",
+      "xml_path": "sources/review-p219-p238.xml",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+      "same_as_canonical": true,
+      "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-21T00:00:12.085612+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p239-p255a.zip",
+      "xml_path": "sources/review-p239-p255a.xml",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+      "same_as_canonical": true,
+      "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    }
+  ],
+  "bgh_search_batch_007": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html?resourceId=373186&input_=373178&pageLocale=de&templateQueryString=155%2F02&startDate=2004-04-26&endDate=2004-04-26",
+      "resolved_url": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html?resourceId=373186&input_=373178&pageLocale=de&templateQueryString=155%2F02&startDate=2004-04-26&endDate=2004-04-26",
+      "accessed_at": "2026-10-20T23:25:59.224348+00:00",
+      "http_status": 200,
+      "path": "sources/bgh-gelatine-search.html",
+      "sha256": "c290c8254bbd38c74f130cfab81664d50e5ed009a91c1828ea71f33cffe27849",
+      "format_validated": "HTML; official BGH decision-search page; legacy endpoint redirects to current search"
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/list.py?Gericht=bgh&Art=en&Datum=2004-4-26",
+      "resolved_url": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html",
+      "accessed_at": "2026-10-20T23:26:00.089332+00:00",
+      "http_status": 200,
+      "path": "sources/bgh-2004-04-26-index.html",
+      "sha256": "0210b085ce0acec9c4df88a06d6a782b9ee3c4f0e680a1cc3c4e3d9c8e34705d",
+      "format_validated": "HTML; official BGH decision-search page; legacy endpoint redirects to current search"
+    }
+  ],
+  "review014_cross_references": [
+    {
+      "url": "https://www.gesetze-im-internet.de/umwg_1995/xml.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T00:02:11.804363+00:00",
+      "content_type": "application/zip",
+      "sha256": "d3e2d9ee97b0c06ef577b8549b925c3613f0f256c1ff7ab6a72ffdc250efb2d8",
+      "xml_sha256": "211ff91490d17f3570cd749c5eebf2cc7fc8a29c31c061cff6abadb0f2fba03f",
+      "xml_path": "sources/review014-umwg_1995.xml",
+      "format_validated": "ZIP opened and statutory XML parsed",
+      "version_evidence": "Zuletzt geändert durch Art. 17 G v. 23.10.2024 I Nr. 323"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/wp_gangv/xml.zip",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T00:02:12.131649+00:00",
+      "content_type": "application/zip",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "xml_path": "sources/review014-hgb.xml",
+      "format_validated": "ZIP opened and statutory XML parsed",
+      "version_evidence": "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/wp_gangebv/xml.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T00:02:34.992585+00:00",
+      "content_type": "application/zip",
+      "sha256": "7b0ffaa1a55df765922d9be696af7abb8e9b1b773fb54a05d96c63795a662bf0",
+      "xml_sha256": "8bfc795607bb5b8ae2a32d189962072031688f465985d86cbba142245e1e87f7",
+      "xml_path": "sources/review014-wp_gangebv.xml",
+      "format_validated": "ZIP opened and XML parsed"
+    }
+  ]
+}

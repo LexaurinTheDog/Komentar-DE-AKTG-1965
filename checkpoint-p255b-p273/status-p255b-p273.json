@@ -1,0 +1,15 @@
+{
+  "stage": "bounded_batch_drafted",
+  "completed_units": 20,
+  "total_statutory_units": 393,
+  "case_law_sources": [
+    "BGH II ZR 56/18, 21.04.2020, Rn. 1–73",
+    "BGH II ZB 19/15, 22.11.2016, Rn. 1–22"
+  ],
+  "full_book_complete": false,
+  "limitations": [
+    "Gesamtbuild bleibt wegen 93 fehlender Kommentare außerhalb dieser Aufgabe gesperrt.",
+    "Selektive Rechtsprechungsrecherche; keine erschöpfende Folgeentscheidungsprüfung.",
+    "Autorenprüfung ist keine unabhängige Zweitprüfung."
+  ]
+}

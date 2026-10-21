@@ -1,0 +1,247 @@
+{
+  "complete": true,
+  "task": "bounded_authoring",
+  "assigned_ids": [
+    "p255b",
+    "p256",
+    "p257",
+    "p258",
+    "p259",
+    "p260",
+    "p261",
+    "p261a",
+    "p262",
+    "p263",
+    "p264",
+    "p265",
+    "p266",
+    "p267",
+    "p268",
+    "p269",
+    "p270",
+    "p271",
+    "p272",
+    "p273"
+  ],
+  "completed_units": 20,
+  "checks": [
+    {
+      "id": "p255b",
+      "chars": 2415,
+      "text_equal_official": true,
+      "references": [
+        "255b",
+        "255a",
+        "35",
+        "255"
+      ]
+    },
+    {
+      "id": "p256",
+      "chars": 2885,
+      "text_equal_official": true,
+      "references": [
+        "173",
+        "249"
+      ]
+    },
+    {
+      "id": "p257",
+      "chars": 1618,
+      "text_equal_official": true,
+      "references": [
+        "257",
+        "243",
+        "256",
+        "243",
+        "257",
+        "256"
+      ]
+    },
+    {
+      "id": "p258",
+      "chars": 2064,
+      "text_equal_official": true,
+      "references": [
+        "258",
+        "256",
+        "340f",
+        "142"
+      ]
+    },
+    {
+      "id": "p259",
+      "chars": 1939,
+      "text_equal_official": true,
+      "references": [
+        "259",
+        "258",
+        "261",
+        "145",
+        "260"
+      ]
+    },
+    {
+      "id": "p260",
+      "chars": 1959,
+      "text_equal_official": true,
+      "references": [
+        "260",
+        "259",
+        "259",
+        "258",
+        "259",
+        "247"
+      ]
+    },
+    {
+      "id": "p261",
+      "chars": 1958,
+      "text_equal_official": true,
+      "references": [
+        "261",
+        "58"
+      ]
+    },
+    {
+      "id": "p261a",
+      "chars": 1754,
+      "text_equal_official": true,
+      "references": [
+        "260",
+        "259",
+        "258"
+      ]
+    },
+    {
+      "id": "p262",
+      "chars": 1694,
+      "text_equal_official": true,
+      "references": [
+        "263",
+        "264"
+      ]
+    },
+    {
+      "id": "p263",
+      "chars": 1395,
+      "text_equal_official": true,
+      "references": [
+        "263",
+        "262",
+        "266",
+        "266"
+      ]
+    },
+    {
+      "id": "p264",
+      "chars": 1558,
+      "text_equal_official": true,
+      "references": [
+        "273"
+      ]
+    },
+    {
+      "id": "p265",
+      "chars": 1869,
+      "text_equal_official": true,
+      "references": [
+        "76"
+      ]
+    },
+    {
+      "id": "p266",
+      "chars": 1438,
+      "text_equal_official": true,
+      "references": [
+        "266",
+        "265",
+        "37",
+        "269"
+      ]
+    },
+    {
+      "id": "p267",
+      "chars": 1345,
+      "text_equal_official": true,
+      "references": [
+        "25",
+        "272",
+        "272"
+      ]
+    },
+    {
+      "id": "p268",
+      "chars": 1872,
+      "text_equal_official": true,
+      "references": [
+        "88"
+      ]
+    },
+    {
+      "id": "p269",
+      "chars": 1850,
+      "text_equal_official": true,
+      "references": [
+        "266"
+      ]
+    },
+    {
+      "id": "p270",
+      "chars": 1696,
+      "text_equal_official": true,
+      "references": []
+    },
+    {
+      "id": "p271",
+      "chars": 1558,
+      "text_equal_official": true,
+      "references": [
+        "272"
+      ]
+    },
+    {
+      "id": "p272",
+      "chars": 1520,
+      "text_equal_official": true,
+      "references": [
+        "272",
+        "267",
+        "271"
+      ]
+    },
+    {
+      "id": "p273",
+      "chars": 2628,
+      "text_equal_official": true,
+      "references": [
+        "265",
+        "273"
+      ]
+    }
+  ],
+  "statutory_text_agreement": 1.0,
+  "duplicate_long_paragraphs": 0,
+  "whole_book_complete": false,
+  "independent_review": false,
+  "case_sources": [
+    "BGH II ZR 56/18, 21.04.2020, Rn. 1–73",
+    "BGH II ZB 19/15, 22.11.2016, Rn. 1–22"
+  ],
+  "validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 393,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 468241,
+    "errors": [
+      "krátký/chybějící komentář u 93 jednotek: ['p274(0<400)', 'p275(0<400)', 'p276(0<400)', 'p277(0<400)', 'p278(0<400)', 'p279(0<400)', 'p280(0<400)', 'p281(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "limitations": [
+    "Gesamtbuild bleibt wegen 93 fehlender Kommentare außerhalb dieser Aufgabe gesperrt.",
+    "Selektive Rechtsprechungsrecherche; keine erschöpfende Folgeentscheidungsprüfung.",
+    "Autorenprüfung ist keine unabhängige Zweitprüfung."
+  ]
+}

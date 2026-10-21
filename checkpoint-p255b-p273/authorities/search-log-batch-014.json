@@ -1,0 +1,22 @@
+{
+  "verified_at": "2026-10-21T00:01:57.159371+00:00",
+  "queries": [
+    "site.bundesgerichtshof.de \"II ZR\" \"245\" \"Mitglieder\" \"2010\"",
+    "site.bundesgerichtshof.de \"II ZR 225/07\"",
+    "site.rechtsprechung-im-internet.de \"II ZR 24/09\"",
+    "rg \"II ZR 24/09\" /Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl"
+  ],
+  "selected": [
+    "BGH 21.06.2010 II ZR 24/09"
+  ],
+  "full_text_read": true,
+  "primary_xml": "authorities/KORE305862010.xml",
+  "local_corpus_fulltext": "authorities/KORE305862010-intake.md",
+  "all_substantive_paragraphs_match_local": true,
+  "supported_units": [
+    "p243",
+    "p245",
+    "p246"
+  ],
+  "limitations": "Selektive Recherche: BGH II ZR 24/09 vollständig gelesen und amtlich abgeglichen; keine erschöpfende Fall- oder Folgeentscheidungsrecherche."
+}

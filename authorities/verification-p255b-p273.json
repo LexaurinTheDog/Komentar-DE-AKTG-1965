@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE302702017.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:06:33.776352+00:00",
+    "path": "authorities/KORE302702017-batch.zip",
+    "sha256": "62885ac7cade00d02cd62317eaa76d2e447a3fd00dcac8728084765b2a65702c",
+    "xml_sha256": "4b839fd57ed2cf49d76d6731903e712f0397e352ccfd54995ff0618845bab98b",
+    "format": "parsed ZIP with XML"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE621152020.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:06:33.935762+00:00",
+    "path": "authorities/KORE621152020-batch.zip",
+    "sha256": "d9cb58be92a6d871c5d0b404072c6c22e8897aa1555ab135f5a7160b80735ecc",
+    "xml_sha256": "e97a8b71f83bec286f5c54e236e0b250a201ad0afbac37cbe4f8948323101d24",
+    "format": "parsed ZIP with XML"
+  }
+]

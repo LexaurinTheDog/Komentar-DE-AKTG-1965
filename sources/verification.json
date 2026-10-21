@@ -72,6 +72,21 @@
       "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
       "matches_canonical": true,
       "validated_format": "ZIP containing parsed AktG XML"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-21T00:06:02.148802+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "path": "sources/author-p255b-p273.zip",
+      "xml_path": "sources/author-p255b-p273.xml",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "matches_canonical": true,
+      "validated_format": "ZIP with parsed AktG XML",
+      "version_records": [
+        "StandZuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+      ]
     }
   ],
   "version_assessment": {
