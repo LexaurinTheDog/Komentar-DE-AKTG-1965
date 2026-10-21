@@ -1,0 +1,198 @@
+{
+  "complete": true,
+  "task": "bounded_independent_second_pass",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p307",
+    "p308",
+    "p309",
+    "p310",
+    "p311",
+    "p312",
+    "p313",
+    "p314",
+    "p315",
+    "p316",
+    "p317",
+    "p318",
+    "p319",
+    "p320",
+    "p320a",
+    "p320b",
+    "p321",
+    "p322",
+    "p323",
+    "p324"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p307",
+      "result": "reviewed_no_change",
+      "assessment": "Gesamte Norm: ursprüngliches Fehlen Außenstehender, späterer Eintritt und gesetzlicher spätester Endtermin richtig; keine rückwirkende Unwirksamkeit.",
+      "official_doknr": "BJNR010890965BJNE037300308",
+      "statutory_text_sha256": "c7eb891eee6966e064886281da729a6832d5f3726b15319607f70e8d1709528f",
+      "commentary_sha256": "924fd13d6d98129af74da21bdeab6fd525fff08dd16fe0483f7a5f02da324376"
+    },
+    {
+      "id": "p308",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–3: Vertragsgrundlage, Konzernnutzen, offensichtlicher Nutzenmangel und Wiederholungsverfahren einschließlich Aufsichtsratszustimmung vollständig.",
+      "official_doknr": "BJNR010890965BJNE037600308",
+      "statutory_text_sha256": "d0ace77af13ebf36005cc7e0f7062a47efa7ebf65a9002be8998bf8543b806ee",
+      "commentary_sha256": "7aa98607c9554fa2f5f48780610a574d236759cc4fec5bb1f7e04c167a9f691c"
+    },
+    {
+      "id": "p309",
+      "result": "reviewed_corrected",
+      "assessment": "Absätze 1–5: Sorgfalt, Gesamtschuld, begrenzte Beweislast, Verzichtssperre, Insolvenz und Verfolgungsrechte geprüft; Bezugsgröße der Zehntelminderheit ausdrücklich präzisiert.",
+      "official_doknr": "BJNR010890965BJNE037701307",
+      "statutory_text_sha256": "97267be9eb5b7e7f2c1e3c767030c2f98ea4baff293ecc535a3a4b1982eae48e",
+      "commentary_sha256": "c62769266bae8bc4ffea29b0c22b30159fa0d602b6694e9df138498beee38d77"
+    },
+    {
+      "id": "p310",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–4: eigene Pflichtverletzung, keine Entlastung durch Aufsichtsratsbilligung, gebotene Weisungsbefolgung und eigenständige Umsetzungsfehler richtig getrennt.",
+      "official_doknr": "BJNR010890965BJNE037800308",
+      "statutory_text_sha256": "56587d8bae4935c87501af4ee53ee0faa9ad2c83fc3c71427163ea51e23d8e33",
+      "commentary_sha256": "9a6785775baee956e26976f8f837e084eb2ebad1748e8837011176db58134785"
+    },
+    {
+      "id": "p311",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–3: Veranlassung, Nachteil, tatsächlicher oder rechtlich gesicherter Ausgleich und Related-Party-Regeln geprüft; BGH Rn. 25–27, 37–40 und 48 tragen Aussagen.",
+      "official_doknr": "BJNR010890965BJNE038001360",
+      "statutory_text_sha256": "760383f7c3b418b755604f53ee8d37426a8410866a942d0fd164fdbb57756a24",
+      "commentary_sha256": "db865ca853e0ad140980551ff352203515cdb56d390ee51c29feb134102493ef"
+    },
+    {
+      "id": "p312",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–3: Dreimonatsfrist, Geschäfts- und Maßnahmenumfang einschließlich Unterlassungen, Rechenschaft und zeitpunktbezogene Schlusserklärung vollständig.",
+      "official_doknr": "BJNR010890965BJNE038100308",
+      "statutory_text_sha256": "2b9f92ebc6a070f95ef929c25da6ca09ae50bd79f4f729fdfeece1551520eb45",
+      "commentary_sha256": "4798bf852966de855718e7ffeefbfe522d3692947e64789b56bac4274f531735"
+    },
+    {
+      "id": "p313",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–5 mit sämtlichen Nummern: asymmetrischer Prüfungsmaßstab, HGB-Verweisung, Berichtsverfahren und Varianten des Vermerks geprüft.",
+      "official_doknr": "BJNR010890965BJNE038201305",
+      "statutory_text_sha256": "c7a2d172d0d3d99f66aee124c8917132e580f7d4582f434256656489c03ff1d9",
+      "commentary_sha256": "b9fcd500b931a6021288ca4eea713f8a0732d5f26cef3cf2a0146dbd258b3649"
+    },
+    {
+      "id": "p314",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–4: Vorlage und Ausschusslösung, eigene Prüfung, Hauptversammlungsbericht, Schlussaussage und Prüferteilnahme richtig.",
+      "official_doknr": "BJNR010890965BJNE038302377",
+      "statutory_text_sha256": "86ff00c67167aefbcd9321a06845f7c0c8f3754d2e271435b1e3633c14ebb4a0",
+      "commentary_sha256": "01a5227e532a5797abb9a3cfc9f847fe49dd795013675c54eea2d8dc5fa11ec6"
+    },
+    {
+      "id": "p315",
+      "result": "reviewed_corrected",
+      "assessment": "Alle drei Anlassgruppen und sonstiger Verdachtsantrag geprüft; Schwellenwert aus § 142 Absatz 2 ausdrücklich beziffert. Mindesthaltedauer, Gericht und Beschwerde zutreffend.",
+      "official_doknr": "BJNR010890965BJNE038405140",
+      "statutory_text_sha256": "8a5dc76787c9771f4bafda68b6410f5032f54f13d68f2eeaa5ef2cd35788d444",
+      "commentary_sha256": "03bf6d3980b643214eb3d5bc89e60feeb69dae5f80e1c59643e37789af8ba799"
+    },
+    {
+      "id": "p316",
+      "result": "reviewed_no_change",
+      "assessment": "Gesamte Norm: allein Berichtssystem §§ 312–315 ausgenommen; kein Weisungsrecht und keine Wiederbegründung ausgeschlossener Berichtspflichten durch § 318.",
+      "official_doknr": "BJNR010890965BJNE038500308",
+      "statutory_text_sha256": "6b71a3a53d88ee45f107dc9fb08fa0a6a7f714d73dbf7dbffddeb80416eb92a6",
+      "commentary_sha256": "3961b1021841dd8414f3908497985151a53aae2a0ab7bc752a80a1b7bb63441d"
+    },
+    {
+      "id": "p317",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–4: Ausgleichsfrist, Gesellschaftsschaden und eigener Aktionärsschaden, Drittvergleich, Vertretergesamtschuld und Verweisungen geprüft; BGH-Fallgrenzen richtig.",
+      "official_doknr": "BJNR010890965BJNE038600308",
+      "statutory_text_sha256": "a4094ca92e9cea77920e6a37d620cd8fccbc8d2135e948443e4499feb3ab9bd0",
+      "commentary_sha256": "3f209480185d6f01568459ef151bf931cc75f61e78b4da229c414fda1ae8b9f8"
+    },
+    {
+      "id": "p318",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–4: besondere Berichts- und Kontrollpflichtverletzungen, Beweislast, gesetzmäßiger Hauptversammlungsbeschluss und Gläubigerschutz geprüft.",
+      "official_doknr": "BJNR010890965BJNE038700308",
+      "statutory_text_sha256": "d096ac10c8f16b34f94dca6b617c2fe7763902180e23dd20fc17375c00004ae2",
+      "commentary_sha256": "4702da81aebde0f8f7da9bdc3822ecdd59515d4775e05bfa691a2254da69a8fe"
+    },
+    {
+      "id": "p319",
+      "result": "reviewed_corrected",
+      "assessment": "Absätze 1–7 einschließlich Freigabealternativen: Vollbesitz, Zustimmung und Information, Anmeldung und konstitutive Eintragung geprüft. Nachweis muss Besitz seit Einberufungsbekanntmachung betreffen; präzisiert.",
+      "official_doknr": "BJNR010890965BJNE038903140",
+      "statutory_text_sha256": "4ff74e5041c1e7f1792d28485b6e0d8030e8ce7aa4bccc59cc8e5fb324123101",
+      "commentary_sha256": "dfe0a9fe8604121210dc7b43e154334868108ee7574b656811f970880fd0dfde"
+    },
+    {
+      "id": "p320",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–4 und weggefallene Absätze 5–7: 95-Prozent-Berechnung, Angebot, gerichtlich bestellte Prüfung und beidseitige Information vollständig.",
+      "official_doknr": "BJNR010890965BJNE039005140",
+      "statutory_text_sha256": "1f67e0caea4dea4a920cefe724fcab0f50bf19960dc4693ce05e0b1b009ec94a",
+      "commentary_sha256": "c8b7be7c19dd956631ec48a5722783479f9c16b3c8fbe688f584441fe91b6df3"
+    },
+    {
+      "id": "p320a",
+      "result": "reviewed_corrected",
+      "assessment": "Beide Sätze: gesetzlicher Übergang bei Eintragung und Funktionswechsel der Urkunden geprüft. Pauschale Aussage zum Dividendenrecht eingegrenzt: bereits verselbständigte Zahlungsansprüche gesondert prüfen.",
+      "official_doknr": "BJNR010890965BJNE055400307",
+      "statutory_text_sha256": "52a6f02f7567bd408c7075598135c8559425f0a3b77440f0e304375155f0e382",
+      "commentary_sha256": "daf072f1c42c49b1dfb8a091cac0a90367e0eac0201c7d90523a8e495ce54573"
+    },
+    {
+      "id": "p320b",
+      "result": "reviewed_no_change",
+      "assessment": "Absatz 1 sämtliche Sätze, Absatz 2 und weggefallener Absatz 3: Abfindungsart, Wahl nur bei abhängiger Hauptgesellschaft, Umtauschverhältnis, Stichtag, Zinsen und Spruchverfahren richtig.",
+      "official_doknr": "BJNR010890965BJNE055503140",
+      "statutory_text_sha256": "1855ac7f3a9b16f420d4723f5edcfa7341d10df81bf387aebf5f48222dbcc2b2",
+      "commentary_sha256": "3abea428898b074b1a9f96cfb4146845fa0dc860a646512eabcce0d3b470edba"
+    },
+    {
+      "id": "p321",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze: Forderungsbegründung vor Bekanntmachung, sechsmonatige Anmeldung, Vorrang verlangbarer Befriedigung und privilegierte Deckungsmasse richtig.",
+      "official_doknr": "BJNR010890965BJNE039102360",
+      "statutory_text_sha256": "8fef74c0d27b36264bc4d178dd903feddf181f7bbe0fa286fc96ce95de663b5a",
+      "commentary_sha256": "2de0a53c7d0da424c5ee02ebfae33460b7e050b786cae7757d2403cba566e60e"
+    },
+    {
+      "id": "p322",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–4: Alt- und Neuverbindlichkeiten, unmittelbare Gesamtschuld, Einwendungen, vorläufige Verweigerungsrechte und eigener Vollstreckungstitel geprüft.",
+      "official_doknr": "BJNR010890965BJNE039200308",
+      "statutory_text_sha256": "3ed0ce8ae71d07f2a57ef8aa5f66e52015610753c2b7c7cd42f39a5db7a13b30",
+      "commentary_sha256": "426f43ac2d49aa1211d723eedcc5d693036cf17112047d6a7d3e481969e46e97"
+    },
+    {
+      "id": "p323",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze mit sämtlichen Verweisungen: gesetzliche Leitungsmacht, begrenzte Übernahme von § 308, Verantwortlichkeit und spezielle Kapitalbindungsausnahme richtig.",
+      "official_doknr": "BJNR010890965BJNE039300308",
+      "statutory_text_sha256": "70bd576b00a1cb09d2c3f1f140c26d48837edf3dfc353ac858dc59e27f0f9861",
+      "commentary_sha256": "12d713ca79d4f94f0ab7bc55d052b106a0b9df6a668810ac6d4de07489f149e1"
+    },
+    {
+      "id": "p324",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–3: Rücklagenausnahme, genau abgegrenzte Vertragserleichterung, Schriftform, Bilanzgewinnlimit, Vertragsende und Verlustüberhang geprüft; Beispiel rechnerisch richtig.",
+      "official_doknr": "BJNR010890965BJNE039400308",
+      "statutory_text_sha256": "271ece387acda526b3117c455fd58a4d707999f91f6b70091cc25fd8aa9245dc",
+      "commentary_sha256": "ecd74dc4a7b945761ca8c161a533b0dce052e81698c35f28128fdc4633b34177"
+    }
+  ],
+  "limitations": [
+    "Genau 20 zugewiesene Einheiten geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Genehmigung.",
+    "Selektive Rechtsprechung: BGH II ZR 141/09 vollständig geprüft; keine vollständige Folgeentscheidungsrecherche und keine zusätzlichen fallspezifischen Entscheidungen für die übrigen Einheiten behauptet.",
+    "Aktuelle amtliche Konsolidierung und letzte ausgewiesene Novelle einschließlich Inkrafttreten geprüft; keine lückenlose Sichtung sämtlicher späteren Gesetzblätter.",
+    "Gesamtbuch außerhalb dieses Auftrags weiterhin unvollständig."
+  ],
+  "verified_at": "2026-10-21T00:39:47.458122+00:00",
+  "full_book_complete": false
+}

@@ -1,5 +1,3 @@
-# Quellen und Nachweise
+# Quellen des geprüften Teilcheckpoints
 
-[Amtliche Konsolidierung](https://www.gesetze-im-internet.de/aktg/), [gesichertes XML](sources/author-p307-p324.xml), [Abrufnachweis mit Hashes](sources/author-p307-p324-verification.json), [Vorprüfung](preflight-result.json), [Vollständigkeitsabgleich](completeness-author-p307-p324.json). Stand: Art. 23 G vom 4.2.2026 I Nr. 33; Textstichtag des Titels 19.10.2026, erneuter Abruf 21.10.2026. [Novelle einschließlich Inkrafttreten](sources/bgbl-2026-I-33.txt), Art. 23/24 und 64. Die spätere Wirksamkeit weiterer Änderungen ist berücksichtigt. Kein lückenloses Screening aller späteren Gesetzblätter.
-
-[BGH 31.05.2011 – II ZR 141/09](authorities/case-II-ZR-141-09.md), [amtlicher Volltext](authorities/KORE305682011.xml), [Abruf](authorities/verification-p307-p324.json), [Suchprotokoll](authorities/search-log-p307-p324.json). Die Suche ist selektiv; nicht jede technische Vorschrift erhält einen Rechtsprechungsbeleg. Kein ungeprüfter fremder Leitsatz wird als eigene oder amtliche Aussage ausgegeben. Originalkommentar unter Apache-2.0; amtliche Texte unterliegen ihrer gesonderten Behandlung.
+[Amtlicher AktG-XML-Abruf](sources/review-p307-p324.xml), [Abrufprotokoll](sources/verification.json), [Vollständigkeit und Wortlaut](review-checks-batch-018.json), [Einzelprüfung](review-result-batch-018.json), [BGH-Fallkarte](authorities/case-II-ZR-141-09.md), [BGH-Abruf](authorities/fetch-review018.json).

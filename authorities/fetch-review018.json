@@ -1,0 +1,31 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+    "path": "sources/review-p307-p324.zip",
+    "accessed_at": "2026-10-21T00:38:05.500765+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+    "format_validated": "zip"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE305682011.xml",
+    "path": "authorities/rejected-index-review018.xml",
+    "accessed_at": "2026-10-21T00:38:16.621153+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "79da427a8ea02521b749930115ffdb8d1476a5ba113c7c2ad531bff60b5684f7",
+    "format_validated": false,
+    "rejection": "XML is items index, not decision; rejected as full text"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE305682011.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:38:39.130876+00:00",
+    "path": "authorities/KORE305682011-review018.zip",
+    "sha256": "803914b94da439d8b0ecc8ec9e7030cfff0e056c3e788aeaefe62d1eea3fea90",
+    "xml_path": "authorities/KORE305682011-review018.xml",
+    "xml_sha256": "8213ceb4b2ff81b71d3c536d9a2ea580e3a92ac0d8eb64d6355c796bc96c3742",
+    "format_validated": "ZIP; decision docket checked"
+  }
+]

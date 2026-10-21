@@ -47,3 +47,5 @@ Zweite Durchsicht §§ 274–293: [Einzelbefunde](review-result-batch-016.json),
 Autorenbatch §§ 293a–306: [amtlicher XML-Neuabruf](sources/author-p293a-p306.xml), [Prüfnachweis](sources/verification.json), [BGH II ZB 12/21](authorities/case-II-ZB-12-21.md), [Suchprotokoll](authorities/search-log-p293a-p306.json). Stichtag unverändert 19.10.2026; erneuter Abruf 21.10.2026. Selektive Volltextauswertung, keine Gesamtfreigabe.
 
 Zweite Durchsicht §§ 293a–306: [Einzelbefunde](review-result-batch-017.json), [XML](sources/review-p293a-p306.xml), [neue Fallkarte](authorities/case-II-ZR-361-13.md), [Recherche](authorities/search-log-batch-017.json).
+
+Zweite Durchsicht §§ 307–324: [Einzelbefunde](review-result-batch-018.json), [XML](sources/review-p307-p324.xml), [BGH-Abruf](authorities/fetch-review018.json).
