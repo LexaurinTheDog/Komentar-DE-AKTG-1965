@@ -1,0 +1,66 @@
+{
+  "verified_at": "2026-10-21T00:59:58.076111+00:00",
+  "reviewed_ids": [
+    "p400",
+    "p401",
+    "p402",
+    "p403",
+    "p404",
+    "p404a",
+    "p405",
+    "p406",
+    "p407",
+    "p407a",
+    "p408",
+    "p409",
+    "p410"
+  ],
+  "full_text_read": [
+    "OLG München 31.07.2024 – 7 U 351/23 e, Rn. 1–108"
+  ],
+  "official_snapshot": "sources/olg-muenchen-review020.html",
+  "local_corpus_search": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "query": "§\\s*404\\s*(Abs[^A]*|)AktG|§\\s*401\\s*(Abs[^A]*|)AktG|§\\s*403\\s*(Abs[^A]*|)AktG",
+    "method": "Volltextsuche über lokale Markdown-Entscheidungen, Trefferkontexte gelesen",
+    "matches": [
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-jure160008551.md",
+        "sha256": "6d590c6e17e29d111dc80a34ac2c97c3a8edaae52e8d5fbf84d7a195c8446660"
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-jure160008547.md",
+        "sha256": "b31e0ce4d338ff8384acb764818ee3b1a3b8a51adc378e9ed77bc309a01e26c9"
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-jure160010634.md",
+        "sha256": "8cdfd05570c50b428c81f82de9bb259e090f439034a673ba6f2b5fd9373adfa3"
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-jure160010992.md",
+        "sha256": "0ab12a5c7fc94b5fb6e2ce1d045b53c2e01e87fed4f8c46190dce8a7d46e39ad"
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore301832022.md",
+        "sha256": "cd6b58e038dfd2b598ce9a38bd3359844f65218a1dbaf2165ad1dbbebe13e3e7"
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore302002017.md",
+        "sha256": "c9f7c7c192ae140d3d16eb7ab783943846bcf5b24440686536b707729e1ecd74"
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore303832016.md",
+        "sha256": "4a3e32223d62c0d5ba70d8017719348bcfd125926dc653dbe4289ee9cf7d05ab"
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore316622013.md",
+        "sha256": "69078b474f8c5e6fa9c3b58284990c65222d5b777c60a5758432ce6072d48d8f"
+      }
+    ],
+    "disposition": "Treffer vorwiegend zivilrechtliche Schweigepflicht/Wissenszurechnung; nur Kontextsichtung, kein zusätzlicher Volltext abschließend validiert oder als Autorität aufgenommen."
+  },
+  "limitations": [
+    "Selektive Suche; keine vollständige Folgeentscheidungsrecherche.",
+    "Kontextsichtung lokaler Kandidaten ist keine Volltextvalidierung; daraus keine zusätzlichen Rechtssätze übernommen."
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+    "path": "sources/review-p400-p410.zip",
+    "accessed_at": "2026-10-21T00:57:01.691902+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+    "format_validated": "ZIP CRC and AktG XML"
+  },
+  {
+    "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2024-N-22085",
+    "path": "sources/olg-muenchen-review020.html",
+    "accessed_at": "2026-10-21T00:57:04.522238+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "d02c9e9525b7ab0450d78fd03fa3852db1a3d4d1ffd7fbeac2c91e1755243034",
+    "format_validated": "expected HTML identity confirmed"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/aktg/",
+    "path": "sources/review020-index.html",
+    "accessed_at": "2026-10-21T00:57:04.770868+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "sha256": "ba682e51e232d273e465e84f250e3a583c094aef054430ee8c010260bc0bb54e",
+    "format_validated": "expected HTML identity confirmed"
+  }
+]

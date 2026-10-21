@@ -597,6 +597,51 @@
           "format_validated": "ZIP and parsed XML; jurisdiction/title or docket verified"
         }
       ]
+    },
+    {
+      "batch": "review020",
+      "fetches": [
+        {
+          "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+          "path": "sources/review-p400-p410.zip",
+          "accessed_at": "2026-10-21T00:57:01.691902+00:00",
+          "http_status": 200,
+          "content_type": "application/zip",
+          "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+          "format_validated": "ZIP CRC and AktG XML"
+        },
+        {
+          "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2024-N-22085",
+          "path": "sources/olg-muenchen-review020.html",
+          "accessed_at": "2026-10-21T00:57:04.522238+00:00",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "sha256": "d02c9e9525b7ab0450d78fd03fa3852db1a3d4d1ffd7fbeac2c91e1755243034",
+          "format_validated": "expected HTML identity confirmed"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aktg/",
+          "path": "sources/review020-index.html",
+          "accessed_at": "2026-10-21T00:57:04.770868+00:00",
+          "http_status": 200,
+          "content_type": "text/html",
+          "sha256": "ba682e51e232d273e465e84f250e3a583c094aef054430ee8c010260bc0bb54e",
+          "format_validated": "expected HTML identity confirmed"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/owig_1968/xml.zip",
+          "path": "sources/review020-owig.zip",
+          "http_status": 200,
+          "sha256": "45dcbbb7f8b562e36a94e8fbdf8a850fbd262631a04d22f9d6301d3214f1fb3d",
+          "xml_sha256": "565be49468363a54cdc41a5adca6ba84c7c93e1d9d41725e7629843d7ab64f3f",
+          "accessed_at": "2026-10-21T00:57:45.750806+00:00",
+          "format_validated": "ZIP CRC and parsed statutory XML",
+          "failed_initial_url": "https://www.gesetze-im-internet.de/owig/__10.html",
+          "initial_status": 404
+        }
+      ],
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "version_evidence": "Art. 23/24 und 64 BGBl. 2026 I Nr. 33; aktuelle XML identisch mit kanonischer Quelle und Intake."
     }
   ],
   "bgh_search_batch_007": [

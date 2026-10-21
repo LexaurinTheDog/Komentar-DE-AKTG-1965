@@ -1,0 +1,135 @@
+{
+  "complete": true,
+  "task": "bounded_independent_second_pass",
+  "units_reviewed": 13,
+  "reviewed_ids": [
+    "p400",
+    "p401",
+    "p402",
+    "p403",
+    "p404",
+    "p404a",
+    "p405",
+    "p406",
+    "p407",
+    "p407a",
+    "p408",
+    "p409",
+    "p410"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p400",
+      "result": "reviewed_no_change",
+      "assessment": "Absatz 1 Nummern 1/2 und Absatz 2: unterschiedliche Täterkreise, Informationsformen, HGB-Subsidiarität und Verschweigen erheblicher Umstände richtig; kein allgemeiner Falschangabentatbestand behauptet.",
+      "official_doknr": "BJNR010890965BJNE051302360",
+      "statutory_text_sha256": "f96e38d8dd03a673f015dd20e4c39a329b3c260179c11d2f6e37ccaa7105fc87",
+      "commentary_sha256": "9d268d14e604abaa464ac2f581026e85a60e17fe3cfbf3a7e8991a5df8801471"
+    },
+    {
+      "id": "p401",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1/2 mit § 92 Absatz 1 abgeglichen: Verlustanzeige und Einberufung, keine Insolvenzstrafnorm; ausdrückliche Fahrlässigkeitsalternative und beide Strafrahmen richtig.",
+      "official_doknr": "BJNR010890965BJNE051402140",
+      "statutory_text_sha256": "db14830b05ec2e0ad74a5c6bd0ff4cae383019610b91c275495b3fe09c28ead3",
+      "commentary_sha256": "6c71abcf87497ff934b3d3e8d2e537cf960e2a3d08efee9b9b37cec7875b75ff"
+    },
+    {
+      "id": "p402",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–3: Herstellung/Verfälschung und Gebrauch getrennt, Urkundensubsidiarität und Versuch erfasst; kein notwendiger Abstimmungserfolg behauptet.",
+      "official_doknr": "BJNR010890965BJNE051501377",
+      "statutory_text_sha256": "148335dd382da06e2fbaec0c3990684722173b8d1dc1efb707b208c2f6968816",
+      "commentary_sha256": "2c217b741bd7f012efd1d0c7289178c00edb69d694827c24da7dbf57b5756f10"
+    },
+    {
+      "id": "p403",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1/2: Prüfer/Gehilfen, falsches Ergebnis und erhebliche Auslassung unterschieden; qualifizierendes Entgelt/Absichten und Strafrahmen richtig. Verweise auf Prüfungsarten am AktG geprüft.",
+      "official_doknr": "BJNR010890965BJNE051600308",
+      "statutory_text_sha256": "1fc997cd585abb8343d18ba285df0000edc3241404bf1fc3bb3bc790507d204f",
+      "commentary_sha256": "69397314bba4025c267923b807b553a4b6017aa670a92153531d44e13df11d12"
+    },
+    {
+      "id": "p404",
+      "result": "reviewed_corrected",
+      "assessment": "Absätze 1–3: Geheimnis und Funktionsbezug, Offenbarung und eigenständige Verwertung, HGB-Vorrang und Organzuständigkeit geprüft. Numerische Strafrahmen ergänzt. OLG-Volltext Rn. 1–108 bestätigt eng begrenzte Verwendung; kein strafrechtlicher Freispruch und keine pauschale Archivierungserlaubnis.",
+      "official_doknr": "BJNR010890965BJNE051701377",
+      "statutory_text_sha256": "280f158dd6d6c171c29f6f0eb90ac7d92ffa9d665ce07d93aa670090a2fa08eb",
+      "commentary_sha256": "e3b3d090fef4d6ddf50e637afdd2921b7799d37f3dcd37ac0b743874ba02e41a"
+    },
+    {
+      "id": "p404a",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze und jeweils Nummern 1/2: Ausschuss/Aufsichtsrat, Unternehmensstatus, Vorteil und beharrliche Wiederholung korrekt unterschieden; Verweis auf Mitteilung nur unter § 407a-Voraussetzungen.",
+      "official_doknr": "BJNR010890965BJNE057102360",
+      "statutory_text_sha256": "61481e3fdd30af1edd8dd7009e6ef9a0bef56fe636ed8a7c6caf1ecb62cc8d96",
+      "commentary_sha256": "907d0edd611218613bcae24b5e0f4f6eebc2108673646915635ea542207e14dd"
+    },
+    {
+      "id": "p405",
+      "result": "reviewed_corrected",
+      "assessment": "Alle Absätze und sämtliche Nummern/Buchstaben geprüft. Materiell ungenaue Verkürzung von Absatz 3 Nummer 2 korrigiert: strafbewehrte Benutzung statt bloßes Verschaffen. Grundsätzliches Vorsatzerfordernis nach frisch amtlich geprüftem § 10 OWiG ergänzt; Leichtfertigkeit nur nach Absatz 3a. Cent-Ausnahme, Bußgeldrahmen und begrenzte Behördenzuständigkeit richtig.",
+      "official_doknr": "BJNR010890965BJNE051808360",
+      "statutory_text_sha256": "82355005d27f6b959ee2b2c6b1876ed2f319af8d19aa42fa033ebc9552d0a35b",
+      "commentary_sha256": "ab53a1b8993ff47daadf13cec10e1f34003ded34b5f499b12bc550a0b919650f"
+    },
+    {
+      "id": "p406",
+      "result": "reviewed_no_change",
+      "assessment": "Amtlicher Strich erhalten; keine operative Vorschrift oder historischer Straftatbestand erfunden.",
+      "official_doknr": "BJNR010890965BJNE051902140",
+      "statutory_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "commentary_sha256": "7a408c99ef800ba55104ecaa75e5225b7ae1f276556c1beef1920ca048fd8473"
+    },
+    {
+      "id": "p407",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze mit Katalog und Ausschlüssen geprüft: Registergericht, begrenzter Kreis der Organpflichten, 5.000 Euro je Zwangsgeld und ausgeschlossene Anmeldungen richtig; Beispiel § 90 gegenüber § 181 passt.",
+      "official_doknr": "BJNR010890965BJNE052008360",
+      "statutory_text_sha256": "a450f8476276535c0257c3bb3c5784fb066a6a1aa3bc51a367b9c011a53f47c3",
+      "commentary_sha256": "0635eb9519dc03d8ae97c7e1037dfafd11fc75758ef146c163f55e53a2ea58e2"
+    },
+    {
+      "id": "p407a",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze: alle einschlägigen Bußgeldentscheidungen, Strafverfahren erst bei öffentlicher Klage, abschließende Entscheidung und Rechtsmittelhinweis richtig; keine Rechtskraftbedingung erfunden.",
+      "official_doknr": "BJNR010890965BJNE057201360",
+      "statutory_text_sha256": "355f0de8538c2688aaf590b0615401c8bf7c682bef945f57a0ce9f1e42e3dd1e",
+      "commentary_sha256": "2487c1870eea452ec8c749de36261ebe2f53754c91439f8d994fb69451f06e61"
+    },
+    {
+      "id": "p408",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Sätze: §§ 399–407 und funktionale Zuordnung zu persönlich haftenden Gesellschaftern richtig; § 407a nicht unbemerkt in Bereich einbezogen; keine automatische strafrechtliche Erfolgshaftung.",
+      "official_doknr": "BJNR010890965BJNE052100308",
+      "statutory_text_sha256": "c99effe9d4fd62b132d489b2beab52ae64374799b22bedca773f100a5ad72802",
+      "commentary_sha256": "f54f3831807ff36aeab9a1ade5b2f7f56099829a816311fc0e73a7b675fa7b5b"
+    },
+    {
+      "id": "p409",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Sätze: Gesetz und Rechtsverordnung sowie historische Überleitung getrennt; keine heutige Berliner Sonderausnahme behauptet. Historischer Rahmen ausdrücklich nicht vollständig rekonstruiert.",
+      "official_doknr": "BJNR010890965BJNE052200308",
+      "statutory_text_sha256": "15ac9b052cdfe5df974df53586bba3b23acbce9fe539a60e0c6db6e76792d88a",
+      "commentary_sha256": "36cf53f12d35d3a76a5abc7b6c671b183ebc56e50ffb11f74b6017541d40c446"
+    },
+    {
+      "id": "p410",
+      "result": "reviewed_no_change",
+      "assessment": "Einziger Satz mit Ursprungsdatum 01.01.1966 richtig; spätere Novellen haben eigene Wirkungstermine. Art. 23/24 und 64 BGBl. 2026 I Nr. 33 erneut gelesen; 2030-Regeln nicht vorgezogen.",
+      "official_doknr": "BJNR010890965BJNE052300308",
+      "statutory_text_sha256": "df9cc567756d14db210ae073a6b7f6177e4a8d5740fc9ce9c7520465e2566c9e",
+      "commentary_sha256": "c9c19aac0e493224874597b14673849d2bc349e065201b24d70ec5badaedb08b"
+    }
+  ],
+  "limitations": [
+    "Genau 13 zugewiesene Einheiten geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Genehmigung.",
+    "Selektive Rechtsprechung: OLG München 7 U 351/23 e Rn. 1–108 vollständig gelesen; keine erschöpfende Folgeentscheidungsrecherche. Für die übrigen Einheiten keine zusätzliche verifizierte Entscheidung aufgenommen.",
+    "Aktuelle amtliche Konsolidierung und letzte ausgewiesene Novelle einschließlich Inkrafttreten geprüft; keine lückenlose Sichtung sämtlicher späteren Gesetzblätter.",
+    "Technische Wortlaut-, Längen- und Wiederholungsprüfungen ersetzen keine juristische Bewertung."
+  ],
+  "verified_at": "2026-10-21T00:59:14.897251+00:00",
+  "full_book_complete": false
+}

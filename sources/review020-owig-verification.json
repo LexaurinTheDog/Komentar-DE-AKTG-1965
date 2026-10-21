@@ -1,0 +1,11 @@
+{
+  "url": "https://www.gesetze-im-internet.de/owig_1968/xml.zip",
+  "path": "sources/review020-owig.zip",
+  "http_status": 200,
+  "sha256": "45dcbbb7f8b562e36a94e8fbdf8a850fbd262631a04d22f9d6301d3214f1fb3d",
+  "xml_sha256": "565be49468363a54cdc41a5adca6ba84c7c93e1d9d41725e7629843d7ab64f3f",
+  "accessed_at": "2026-10-21T00:57:45.750806+00:00",
+  "format_validated": "ZIP CRC and parsed statutory XML",
+  "failed_initial_url": "https://www.gesetze-im-internet.de/owig/__10.html",
+  "initial_status": 404
+}

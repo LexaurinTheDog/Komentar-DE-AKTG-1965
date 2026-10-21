@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "preflight_local_date": "2026-10-21",
   "official_url": "https://www.gesetze-im-internet.de/aktg/",
-  "verified_at": "2026-10-21T00:49:52.050009+00:00",
+  "verified_at": "2026-10-21T00:59:14.897251+00:00",
   "version_evidence": {
     "decisive_date": "2026-10-19",
     "rechecked_local_date": "2026-10-21",
@@ -24,7 +24,7 @@
     "limitations": [
       "No comprehensive screening of all subsequent gazettes; current official consolidation and its latest listed amending enactment checked."
     ],
-    "latest_actual_fetch": "2026-10-21T00:47:47.187061+00:00",
+    "latest_actual_fetch": "2026-10-21T00:57:01.691902+00:00",
     "review_commencement_check": "Artikel 23 Nr. 1: 10.02.2026; Nr. 2–6: 10.01.2030; Artikel 24: 04.12.2026 (am Stichtag nicht wirksam).",
     "author_batch_commencement_check": "Artikel 23 und 64 in sources/bgbl-2026-I-33.txt erneut gelesen: § 8 Absatz 7 seit 10.02.2026; Artikel 23 Nummern 2–6 erst 10.01.2030. Aktueller XML-Abruf identisch; keine neuere Änderung ausgewiesen.",
     "bounded_review_commencement_check": "Art. 23/24 und 64 BGBl. 2026 I Nr. 33 erneut gelesen: Art. 23 Nr. 1 seit 10.02.2026, Nr. 2–6 erst 10.01.2030; Art. 24 erst 04.12.2026. Aktuelles XML identisch mit Intake und kanonischer Quelle; keine Änderungen der geprüften Normen ausgewiesen."
@@ -38,7 +38,7 @@
     "duplicate_official_labels": [],
     "future_changes_checked_against_enactment": true,
     "scope": "Current consolidated XML, intake and final amendment; no concatenated historical versions.",
-    "bounded_recheck_xml": "sources/review-p325-p399.xml"
+    "bounded_recheck_xml": "sources/review-p400-p410.xml"
   },
   "annexes_checked": {
     "disposition": "Keine Anlage im amtlichen XML und im amtlichen Inhaltsverzeichnis ausgewiesen. Das weggefallene Vierte Buch ist als Gliederung erhalten; die amtliche XML enthält keine Einzelnummern §§ 339–393. Diese werden nicht als geltende Vorschriften erfunden.",
@@ -47,7 +47,7 @@
       "sources/recheck-2026-10-21-index.html"
     ],
     "unclassified_operative_text_records": [],
-    "bounded_raw_xml_recheck": "sources/review-p325-p399.xml"
+    "bounded_raw_xml_recheck": "sources/review-p400-p410.xml"
   },
   "coverage": {
     "expected": 393,
@@ -58,33 +58,26 @@
   },
   "unresolved_blockers": [],
   "limitations": [
-    "Genau 20 zugewiesene Einheiten geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Genehmigung.",
-    "Selektive Rechtsprechung: BVerwG 8 C 3.23 vollständig Rn. 1–21 geprüft; keine vollständige Folgeentscheidungsrecherche und keine zusätzliche fallspezifische Autorität für die übrigen Einheiten behauptet.",
+    "Genau 13 zugewiesene Einheiten geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Genehmigung.",
+    "Selektive Rechtsprechung: OLG München 7 U 351/23 e Rn. 1–108 vollständig gelesen; keine erschöpfende Folgeentscheidungsrecherche. Für die übrigen Einheiten keine zusätzliche verifizierte Entscheidung aufgenommen.",
     "Aktuelle amtliche Konsolidierung und letzte ausgewiesene Novelle einschließlich Inkrafttreten geprüft; keine lückenlose Sichtung sämtlicher späteren Gesetzblätter.",
-    "Außerhalb des Auftrags fehlen weiterhin Kommentare; technische Längenchecks ersetzen keine juristische Bewertung."
+    "Technische Wortlaut-, Längen- und Wiederholungsprüfungen ersetzen keine juristische Bewertung."
   ],
   "full_book_complete": false,
   "review_batch": [
-    "p325",
-    "p326",
-    "p327",
-    "p327a",
-    "p327b",
-    "p327c",
-    "p327d",
-    "p327e",
-    "p327f",
-    "p328",
-    "p329-336",
-    "p337",
-    "p338",
-    "p393a",
-    "p394",
-    "p395",
-    "p396",
-    "p397",
-    "p398",
-    "p399"
+    "p400",
+    "p401",
+    "p402",
+    "p403",
+    "p404",
+    "p404a",
+    "p405",
+    "p406",
+    "p407",
+    "p407a",
+    "p408",
+    "p409",
+    "p410"
   ],
   "author_batch_recheck": "sources/author-p219-p238-verification.json",
   "author_batch_p239_p255a": {

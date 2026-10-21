@@ -227,3 +227,17 @@ Die Durchsicht beschränkt sich auf diese 20 Einheiten. Gesamtbuilder und strikt
 Ergebnis dieses Teilauftrags: strikte Validierung des 20-Einheiten-Checkpoints bestanden (Wortlautquote 1,0, keine Fehler); Gesamtvalidierung meldet ausschließlich 13 fehlende Kommentare außerhalb dieses Auftrags. [Teilvalidierung](review-validation-bounded-019.json), [Gesamtstandsdiagnose](review-validation-batch-019.json).
 
 Autorenbatch §§ 400–410 (13 Einheiten): [eigene Kontrolle](AUTHOR-CHECK-p400-p410.md), [maschinenlesbare Abdeckung](completeness-author-p400-p410.json). Alle zugewiesenen Texte am Wortlaut kontrolliert; eigenständige zweite Durchsicht dieses Batches weiterhin erforderlich. Keine Gesamtfreigabe.
+
+## Begrenzte zweite Durchsicht: 13 Einheiten §§ 400–410
+
+21. Oktober 2026. Vollständig geprüft: §§ 400, 401, 402, 403, 404, 404a, 405, 406, 407, 407a, 408, 409, 410. Jede Einheit anhand des amtlichen XML einschließlich aller Absätze, Nummern und Buchstaben gegengelesen. [Einzelbefunde und genaue IDs](review-result-batch-020.json), [Wortlaut und Vollständigkeit](review-checks-batch-020.json).
+
+§ 404: konkrete Strafrahmen ergänzt. § 405: Benutzung der durch besondere Vorteile beschafften Aktien als Tatbestandsmerkmal des Absatzes 3 Nummer 2 klargestellt; bloße Beschaffung genügt nicht. Grundsätzliches Vorsatzerfordernis nach amtlich verifiziertem § 10 OWiG ergänzt; Leichtfertigkeit bleibt Besonderheit des Absatzes 3a. Die anderen elf Erläuterungen nach inhaltlicher Prüfung erhalten.
+
+Frischer amtlicher ZIP-Abruf HTTP 200, ZIP-CRC und XML-Kennung validiert. Amtliches XML identisch mit Intake und kanonischer Quelle; alle 393 Einheiten einschließlich Eingangsformel vorhanden, keine Doppelungen, Anlagen oder unklassifizierten operativen Textdatensätze. Maßgeblicher Autorentag bleibt 19. Oktober 2026. Art. 23/24 und 64 BGBl. 2026 I Nr. 33 gelesen: Art. 23 Nr. 1 seit 10. Februar 2026, Nr. 2–6 erst 10. Januar 2030; Art. 24 erst 4. Dezember 2026. Keine zukünftige Regelung als geltend behandelt. [Abrufnachweise](sources/review-p400-p410-verification.json).
+
+OLG München 7 U 351/23 e im neu abgerufenen amtlichen Volltext vollständig Rn. 1–108 geprüft. Begrenzte zivilrechtliche Aussage zu fehlender Offenbarung und Verwertung bestätigt; Klägerbehauptungen und Vorinstanz nicht als eigene Feststellungen des Senats behandelt. Keine strafgerichtliche Entscheidung oder allgemeine Erlaubnis privater E-Mail-Archivierung. [Fallkarte](cases/olg-muenchen-2024-07-31.md). Selektive Recherche, keine vollständige Folgeprüfung.
+
+Diese Prüfung betrifft ausschließlich die 13 zugewiesenen Einheiten. Ein erfolgreicher Gesamtbuild und strikter Validator sind zusätzliche technische Prüfungen; sie bescheinigen keine Gesamtbuchfreigabe oder externe anwaltliche Genehmigung.
+
+Ergänzender [lokaler Volltext-Suchnachweis](cases/search-log-review020.json): acht Kandidatendateien mit Normnennung gefunden und Trefferkontexte gesichtet. Diese Kandidaten wurden nicht als zusätzliche verifizierte Autoritäten übernommen; die Hauptfundstelle bleibt der vollständig gelesene OLG-Volltext.

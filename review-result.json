@@ -1,198 +1,135 @@
 {
   "complete": true,
   "task": "bounded_independent_second_pass",
-  "units_reviewed": 20,
+  "units_reviewed": 13,
   "reviewed_ids": [
-    "p325",
-    "p326",
-    "p327",
-    "p327a",
-    "p327b",
-    "p327c",
-    "p327d",
-    "p327e",
-    "p327f",
-    "p328",
-    "p329-336",
-    "p337",
-    "p338",
-    "p393a",
-    "p394",
-    "p395",
-    "p396",
-    "p397",
-    "p398",
-    "p399"
+    "p400",
+    "p401",
+    "p402",
+    "p403",
+    "p404",
+    "p404a",
+    "p405",
+    "p406",
+    "p407",
+    "p407a",
+    "p408",
+    "p409",
+    "p410"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p325",
+      "id": "p400",
       "result": "reviewed_no_change",
-      "assessment": "Leere amtliche Nummer richtig erhalten; keine materielle Regelung erfunden, Verweis auf §§ 323/324 und 326 zutreffend.",
-      "official_doknr": "BJNR010890965BJNE039500308",
+      "assessment": "Absatz 1 Nummern 1/2 und Absatz 2: unterschiedliche Täterkreise, Informationsformen, HGB-Subsidiarität und Verschweigen erheblicher Umstände richtig; kein allgemeiner Falschangabentatbestand behauptet.",
+      "official_doknr": "BJNR010890965BJNE051302360",
+      "statutory_text_sha256": "f96e38d8dd03a673f015dd20e4c39a329b3c260179c11d2f6e37ccaa7105fc87",
+      "commentary_sha256": "9d268d14e604abaa464ac2f581026e85a60e17fe3cfbf3a7e8991a5df8801471"
+    },
+    {
+      "id": "p401",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1/2 mit § 92 Absatz 1 abgeglichen: Verlustanzeige und Einberufung, keine Insolvenzstrafnorm; ausdrückliche Fahrlässigkeitsalternative und beide Strafrahmen richtig.",
+      "official_doknr": "BJNR010890965BJNE051402140",
+      "statutory_text_sha256": "db14830b05ec2e0ad74a5c6bd0ff4cae383019610b91c275495b3fe09c28ead3",
+      "commentary_sha256": "6c71abcf87497ff934b3d3e8d2e537cf960e2a3d08efee9b9b37cec7875b75ff"
+    },
+    {
+      "id": "p402",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1–3: Herstellung/Verfälschung und Gebrauch getrennt, Urkundensubsidiarität und Versuch erfasst; kein notwendiger Abstimmungserfolg behauptet.",
+      "official_doknr": "BJNR010890965BJNE051501377",
+      "statutory_text_sha256": "148335dd382da06e2fbaec0c3990684722173b8d1dc1efb707b208c2f6968816",
+      "commentary_sha256": "2c217b741bd7f012efd1d0c7289178c00edb69d694827c24da7dbf57b5756f10"
+    },
+    {
+      "id": "p403",
+      "result": "reviewed_no_change",
+      "assessment": "Absätze 1/2: Prüfer/Gehilfen, falsches Ergebnis und erhebliche Auslassung unterschieden; qualifizierendes Entgelt/Absichten und Strafrahmen richtig. Verweise auf Prüfungsarten am AktG geprüft.",
+      "official_doknr": "BJNR010890965BJNE051600308",
+      "statutory_text_sha256": "1fc997cd585abb8343d18ba285df0000edc3241404bf1fc3bb3bc790507d204f",
+      "commentary_sha256": "69397314bba4025c267923b807b553a4b6017aa670a92153531d44e13df11d12"
+    },
+    {
+      "id": "p404",
+      "result": "reviewed_corrected",
+      "assessment": "Absätze 1–3: Geheimnis und Funktionsbezug, Offenbarung und eigenständige Verwertung, HGB-Vorrang und Organzuständigkeit geprüft. Numerische Strafrahmen ergänzt. OLG-Volltext Rn. 1–108 bestätigt eng begrenzte Verwendung; kein strafrechtlicher Freispruch und keine pauschale Archivierungserlaubnis.",
+      "official_doknr": "BJNR010890965BJNE051701377",
+      "statutory_text_sha256": "280f158dd6d6c171c29f6f0eb90ac7d92ffa9d665ce07d93aa670090a2fa08eb",
+      "commentary_sha256": "e3b3d090fef4d6ddf50e637afdd2921b7799d37f3dcd37ac0b743874ba02e41a"
+    },
+    {
+      "id": "p404a",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze und jeweils Nummern 1/2: Ausschuss/Aufsichtsrat, Unternehmensstatus, Vorteil und beharrliche Wiederholung korrekt unterschieden; Verweis auf Mitteilung nur unter § 407a-Voraussetzungen.",
+      "official_doknr": "BJNR010890965BJNE057102360",
+      "statutory_text_sha256": "61481e3fdd30af1edd8dd7009e6ef9a0bef56fe636ed8a7c6caf1ecb62cc8d96",
+      "commentary_sha256": "907d0edd611218613bcae24b5e0f4f6eebc2108673646915635ea542207e14dd"
+    },
+    {
+      "id": "p405",
+      "result": "reviewed_corrected",
+      "assessment": "Alle Absätze und sämtliche Nummern/Buchstaben geprüft. Materiell ungenaue Verkürzung von Absatz 3 Nummer 2 korrigiert: strafbewehrte Benutzung statt bloßes Verschaffen. Grundsätzliches Vorsatzerfordernis nach frisch amtlich geprüftem § 10 OWiG ergänzt; Leichtfertigkeit nur nach Absatz 3a. Cent-Ausnahme, Bußgeldrahmen und begrenzte Behördenzuständigkeit richtig.",
+      "official_doknr": "BJNR010890965BJNE051808360",
+      "statutory_text_sha256": "82355005d27f6b959ee2b2c6b1876ed2f319af8d19aa42fa033ebc9552d0a35b",
+      "commentary_sha256": "ab53a1b8993ff47daadf13cec10e1f34003ded34b5f499b12bc550a0b919650f"
+    },
+    {
+      "id": "p406",
+      "result": "reviewed_no_change",
+      "assessment": "Amtlicher Strich erhalten; keine operative Vorschrift oder historischer Straftatbestand erfunden.",
+      "official_doknr": "BJNR010890965BJNE051902140",
       "statutory_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
-      "commentary_sha256": "b4c89eb118c72996047739f73b266f1762048bb370e03b9cea028a4ccedb470e"
+      "commentary_sha256": "7a408c99ef800ba55104ecaa75e5225b7ae1f276556c1beef1920ca048fd8473"
     },
     {
-      "id": "p326",
+      "id": "p407",
       "result": "reviewed_no_change",
-      "assessment": "Erweiterter Informationsgegenstand und fortgeltende Grenzen des § 131 einschließlich Tagesordnung und Verweigerungsgründen zutreffend; kein selbständiges allgemeines Akteneinsichtsrecht.",
-      "official_doknr": "BJNR010890965BJNE039600308",
-      "statutory_text_sha256": "2d9267457af2a264df4052f0895eeb6ebc84016dae36d54ab75718f6006e8fca",
-      "commentary_sha256": "8dbbdfb14aeb516c70814a874925a5f711de59a8f305b706c20f7de75dc12228"
+      "assessment": "Beide Absätze mit Katalog und Ausschlüssen geprüft: Registergericht, begrenzter Kreis der Organpflichten, 5.000 Euro je Zwangsgeld und ausgeschlossene Anmeldungen richtig; Beispiel § 90 gegenüber § 181 passt.",
+      "official_doknr": "BJNR010890965BJNE052008360",
+      "statutory_text_sha256": "a450f8476276535c0257c3bb3c5784fb066a6a1aa3bc51a367b9c011a53f47c3",
+      "commentary_sha256": "0635eb9519dc03d8ae97c7e1037dfafd11fc75758ef146c163f55e53a2ea58e2"
     },
     {
-      "id": "p327",
-      "result": "reviewed_corrected",
-      "assessment": "Alle vier Endgründe, Mitteilung in Textform und Registeranmeldung geprüft. Nachhaftung korrigiert: fristgebundene Fälligkeit und Sicherungsmaßnahmen sowie Beginn mit Bekanntmachung ausdrücklich verbunden; Anerkenntnis und BGB-Verweisung erhalten.",
-      "official_doknr": "BJNR010890965BJNE039703125",
-      "statutory_text_sha256": "c7d58f622585a490b98b2be54119c3a81757dd7da776a272695abbe0b0d9b93c",
-      "commentary_sha256": "30148033652c59d148e68c9f469629575148de5214e01c6103ca16ae1c692dcd"
-    },
-    {
-      "id": "p327a",
+      "id": "p407a",
       "result": "reviewed_no_change",
-      "assessment": "95-Prozent-Kapitalschwelle, § 16 Absätze 2/4, KGaA-Ausnahme und konstitutiver Übergang richtig. Stimmmehrheit ersetzt Beteiligungsquote nicht.",
-      "official_doknr": "BJNR010890965BJNE055600377",
-      "statutory_text_sha256": "28e07dc61e5d6e93ff1e41dfb43981d1d3a25e50efd6d22fa1a93e63f67d3c97",
-      "commentary_sha256": "a09c1d179b49edfbd13903158694211f6b18cf3e1a7799bcc38cc1846578fb1f"
+      "assessment": "Beide Absätze: alle einschlägigen Bußgeldentscheidungen, Strafverfahren erst bei öffentlicher Klage, abschließende Entscheidung und Rechtsmittelhinweis richtig; keine Rechtskraftbedingung erfunden.",
+      "official_doknr": "BJNR010890965BJNE057201360",
+      "statutory_text_sha256": "355f0de8538c2688aaf590b0615401c8bf7c682bef945f57a0ce9f1e42e3dd1e",
+      "commentary_sha256": "2487c1870eea452ec8c749de36261ebe2f53754c91439f8d994fb69451f06e61"
     },
     {
-      "id": "p327b",
+      "id": "p408",
       "result": "reviewed_no_change",
-      "assessment": "Alle drei Absätze: Hauptaktionär legt Abfindung fest; Stichtag Beschlussfassung, gesetzlicher Zinsbeginn bei Bekanntmachung und Bankgewährleistung vor Einberufung korrekt.",
-      "official_doknr": "BJNR010890965BJNE055702140",
-      "statutory_text_sha256": "ca84a9508739e4dc486082dff54130e9ca1fac074f9e190865bcc16f7ce8c3fb",
-      "commentary_sha256": "15cc2c6e36e6bd0df5aa4317c4d30248f70ff08cfab547b03dbbbf23eb8e0d42"
+      "assessment": "Beide Sätze: §§ 399–407 und funktionale Zuordnung zu persönlich haftenden Gesellschaftern richtig; § 407a nicht unbemerkt in Bereich einbezogen; keine automatische strafrechtliche Erfolgshaftung.",
+      "official_doknr": "BJNR010890965BJNE052100308",
+      "statutory_text_sha256": "c99effe9d4fd62b132d489b2beab52ae64374799b22bedca773f100a5ad72802",
+      "commentary_sha256": "f54f3831807ff36aeab9a1ade5b2f7f56099829a816311fc0e73a7b675fa7b5b"
     },
     {
-      "id": "p327c",
-      "result": "reviewed_corrected",
-      "assessment": "Absätze 1–5 vollständig geprüft. Identitätsangaben konkretisiert; begründetes Weglassen und einstimmiger formgebundener Berichtsverzicht sowie Prüfungsberichtsinhalt ergänzt. Internetalternative setzt gleiche Unterlagen und gleichen Zeitraum voraus.",
-      "official_doknr": "BJNR010890965BJNE055802140",
-      "statutory_text_sha256": "8096dffd390605ce54bed90e6ab0555a1ed9935c206afecbeba2a2240ceb0cf2",
-      "commentary_sha256": "bc988ce51ae536a0d4f8857c13f95b44d553b67a1c636419c9326abdbda4ecd2"
-    },
-    {
-      "id": "p327d",
+      "id": "p409",
       "result": "reviewed_no_change",
-      "assessment": "Beide Sätze geprüft: Unterlagenzugang zwingend, zusätzliche mündliche Erläuterung im Ermessen des Vorstands; virtuelle Versammlungsform nicht mit Verlesung verwechselt.",
-      "official_doknr": "BJNR010890965BJNE055901140",
-      "statutory_text_sha256": "9013c70409f32bb9b465df913a83af84803a36a38fdcc10d87c93dd2484fc62a",
-      "commentary_sha256": "c439c8462c264931b62e1a58fc9e7a7dfac644228b4d82596dd6b10b3e93a796"
+      "assessment": "Beide Sätze: Gesetz und Rechtsverordnung sowie historische Überleitung getrennt; keine heutige Berliner Sonderausnahme behauptet. Historischer Rahmen ausdrücklich nicht vollständig rekonstruiert.",
+      "official_doknr": "BJNR010890965BJNE052200308",
+      "statutory_text_sha256": "15ac9b052cdfe5df974df53586bba3b23acbce9fe539a60e0c6db6e76792d88a",
+      "commentary_sha256": "36cf53f12d35d3a76a5abc7b6c671b183ebc56e50ffb11f74b6017541d40c446"
     },
     {
-      "id": "p327e",
-      "result": "reviewed_corrected",
-      "assessment": "Alle Absätze geprüft. Negativerklärung und zulässige Alternativen nach § 319 Absätze 5/6 präzisiert; Registereintragung, Urkundenfunktion und Zinsbeginn zutreffend getrennt.",
-      "official_doknr": "BJNR010890965BJNE056000377",
-      "statutory_text_sha256": "e470f2c94cb93f4699752761811dac5b4043c7b5beb20750c0f855090879bf6c",
-      "commentary_sha256": "ca19a1a55ad321ad51d980b1c432080c568223192910791304c3ba3966dc084a"
-    },
-    {
-      "id": "p327f",
+      "id": "p410",
       "result": "reviewed_no_change",
-      "assessment": "Alle drei Sätze geprüft: Ausschluss bestimmter Anfechtungsgründe und Spruchverfahren richtig abgegrenzt; fehlendes Angebot nicht fälschlich von Anfang an jedem Beschlussmängelverfahren entzogen.",
-      "official_doknr": "BJNR010890965BJNE056101377",
-      "statutory_text_sha256": "f42f05bfdd41958ed42c65d7e778d86a2f9cf275bb9a04a1ba2152873e689dac",
-      "commentary_sha256": "d53e2e9d87b46c8ec2f7a37ea9965e0c3b0b8b59d11ec933761a29aa5f5415ae"
-    },
-    {
-      "id": "p328",
-      "result": "reviewed_corrected",
-      "assessment": "Absätze 1–4 und § 19 geprüft. Echte Auslassung behoben: § 19 Absatz 4 schließt herrschende/abhängige Unternehmen aus. Priorität erfordert Mitteilung vor beiden Ereignissen; keine Ausnahme von Absatz 3. Viertelgrenze und besondere Wahlsperre getrennt.",
-      "official_doknr": "BJNR010890965BJNE039902125",
-      "statutory_text_sha256": "fc0ed2ff09a88ff76e6bd243b21872546a676e34d6d4df04735412e798d76eff",
-      "commentary_sha256": "aa856e16fd47299b8b6a49b73c85869c1a5efcb7e524ec12a53f253711da4d92"
-    },
-    {
-      "id": "p329-336",
-      "result": "reviewed_no_change",
-      "assessment": "Gemeinsame amtliche Nummer ohne Textkörper richtig erhalten; keine acht historischen Einzeltexte erfunden.",
-      "official_doknr": "BJNR010890965BJNE040100308",
-      "statutory_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "commentary_sha256": "b67e05553222caf056deac7542f1ad14ed8a134d3190c3d7fcfb5d2844b95b87"
-    },
-    {
-      "id": "p337",
-      "result": "reviewed_no_change",
-      "assessment": "Wegfall ausdrücklich erhalten; keine historische Rechnungslegungsvorschrift als geltend behandelt.",
-      "official_doknr": "BJNR010890965BJNE053302377",
-      "statutory_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
-      "commentary_sha256": "34996b8e20e03187717e054b387000c0ad11be70253014866bc4ed754f5f11ef"
-    },
-    {
-      "id": "p338",
-      "result": "reviewed_no_change",
-      "assessment": "Amtlicher Strich richtig erhalten; weder aktuelle Pflicht noch Befreiung aus leerer Nummer abgeleitet.",
-      "official_doknr": "BJNR010890965BJNE041000308",
-      "statutory_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
-      "commentary_sha256": "0321a05eea17a439af0742354e06099dfd9b6941931e72e44fa9c7f979c5c199"
-    },
-    {
-      "id": "p393a",
-      "result": "reviewed_corrected",
-      "assessment": "Absatz 1 Nummern 1–3 und Buchstaben a/b, Sondervermögen und Gleichstellung geprüft. Inlandssitz ergänzt; konkrete Organquoten und abgesenkte Vorstandsschwelle klargestellt; übersehene Rechtsfolge aus Absatz 3 Satz 2 ergänzt.",
-      "official_doknr": "BJNR010890965BJNE058900360",
-      "statutory_text_sha256": "303caa505fe05626c808dd095667beb7937a5d72dc194e5f2238a4117d3287b9",
-      "commentary_sha256": "6cdd7081ca788275c0682d8a7db6a324e1ef5c8f3c7a91e7b5aa4ff77118d9b4"
-    },
-    {
-      "id": "p394",
-      "result": "reviewed_no_change",
-      "assessment": "Alle drei Sätze sowie BVerwG Rn. 14–19 geprüft: Berichtspflicht und Berichtsrelevanz entscheidend; keine zusätzliche Gewähr besonderer Vertraulichkeit, keine allgemeine Öffentlichkeitsfreigabe.",
-      "official_doknr": "BJNR010890965BJNE050501123",
-      "statutory_text_sha256": "601ffa2829761d06e2e49840df2d248dfb53b1e9bd337cc626d678e70848c46b",
-      "commentary_sha256": "e21647689f5619ea43c2e6f047052b32b6f565927c94fd25b4d981318a2c23a5"
-    },
-    {
-      "id": "p395",
-      "result": "reviewed_no_change",
-      "assessment": "Absätze 1/2 und BVerwG Rn. 18 geprüft: funktionaler Empfängerkreis, dienstlicher Verkehr und Veröffentlichungsverbot richtig; Freistellung des Absenders nicht mit Empfängerpflicht verwechselt.",
-      "official_doknr": "BJNR010890965BJNE050600308",
-      "statutory_text_sha256": "3e1e4832f30c775cb933eeb9fe9fda01e926496e8ae6dd285042e09ba4583553",
-      "commentary_sha256": "eea9dad3fd30504a4bbca178611295b1e93f51097b22cf7ff03f7bbc4dbe9231"
-    },
-    {
-      "id": "p396",
-      "result": "reviewed_no_change",
-      "assessment": "Absätze 1/2 vollständig: Gemeinwohlgefahr durch gesetzwidriges Verwaltungshandeln, ausgebliebene Abberufung, Behördenantrag, Sitzgericht und Abwicklung richtig.",
-      "official_doknr": "BJNR010890965BJNE050800308",
-      "statutory_text_sha256": "0a3367c8341e6f61dde95bb3495ec2c0ac81b3ead8aafb3ac6d3a09bdc2348bc",
-      "commentary_sha256": "3353d68b3d96228bcad3821cfbcc7673ad648d408c5e7ffdc200519c6c8dfe56"
-    },
-    {
-      "id": "p397",
-      "result": "reviewed_no_change",
-      "assessment": "Gesamte Vorschrift geprüft: erhobene Auflösungsklage, Antrag derselben obersten Landesbehörde und erforderliche vorläufige Anordnung korrekt; keine automatische Suspendierung der Organe.",
-      "official_doknr": "BJNR010890965BJNE050900308",
-      "statutory_text_sha256": "e288aafc8280ee19387497be9ba87b486d8601024873978eb6ea2478950d6112",
-      "commentary_sha256": "f3725d5a90ec585aca93a739d0c614b7545e4f03a97bf15fa123742c7b9a9a30"
-    },
-    {
-      "id": "p398",
-      "result": "reviewed_no_change",
-      "assessment": "Beide Sätze geprüft: Mitteilung und sachlich begrenzte Registereintragung zutreffend unterschieden; kein universeller konstitutiver Registervorbehalt behauptet.",
-      "official_doknr": "BJNR010890965BJNE051000308",
-      "statutory_text_sha256": "fce777f6c0448a7b90cd304be3d845ce03fc8f18b6956f7cc847934606834677",
-      "commentary_sha256": "fcca5c4bbcad57b5d2f73acd193351a6b880d72096a2471610740c980053142a"
-    },
-    {
-      "id": "p399",
-      "result": "reviewed_corrected",
-      "assessment": "Absatz 1 Nummern 1–6 und Absatz 2 geprüft: Kontexte und Täterstellungen differenziert; Zeichnung des neuen Kapitals in Nummer 4 ergänzt. Vorsatzfrage und materielle Richtigkeit vorsichtig getrennt; keine ungeprüfte Strafentscheidung zitiert.",
-      "official_doknr": "BJNR010890965BJNE051205123",
-      "statutory_text_sha256": "a4c8522da369625fbb7847567ee98c1ac605d38d9d6f48b366b3436da3043855",
-      "commentary_sha256": "5d83b7532440493f747317753fe1a34c3133d8135a80925e6a427fd4026cf4e9"
+      "assessment": "Einziger Satz mit Ursprungsdatum 01.01.1966 richtig; spätere Novellen haben eigene Wirkungstermine. Art. 23/24 und 64 BGBl. 2026 I Nr. 33 erneut gelesen; 2030-Regeln nicht vorgezogen.",
+      "official_doknr": "BJNR010890965BJNE052300308",
+      "statutory_text_sha256": "df9cc567756d14db210ae073a6b7f6177e4a8d5740fc9ce9c7520465e2566c9e",
+      "commentary_sha256": "c9c19aac0e493224874597b14673849d2bc349e065201b24d70ec5badaedb08b"
     }
   ],
   "limitations": [
-    "Genau 20 zugewiesene Einheiten geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Genehmigung.",
-    "Selektive Rechtsprechung: BVerwG 8 C 3.23 vollständig Rn. 1–21 geprüft; keine vollständige Folgeentscheidungsrecherche und keine zusätzliche fallspezifische Autorität für die übrigen Einheiten behauptet.",
+    "Genau 13 zugewiesene Einheiten geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Genehmigung.",
+    "Selektive Rechtsprechung: OLG München 7 U 351/23 e Rn. 1–108 vollständig gelesen; keine erschöpfende Folgeentscheidungsrecherche. Für die übrigen Einheiten keine zusätzliche verifizierte Entscheidung aufgenommen.",
     "Aktuelle amtliche Konsolidierung und letzte ausgewiesene Novelle einschließlich Inkrafttreten geprüft; keine lückenlose Sichtung sämtlicher späteren Gesetzblätter.",
-    "Außerhalb des Auftrags fehlen weiterhin Kommentare; technische Längenchecks ersetzen keine juristische Bewertung."
+    "Technische Wortlaut-, Längen- und Wiederholungsprüfungen ersetzen keine juristische Bewertung."
   ],
-  "verified_at": "2026-10-21T00:49:52.050009+00:00",
+  "verified_at": "2026-10-21T00:59:14.897251+00:00",
   "full_book_complete": false
 }

@@ -55,3 +55,5 @@ Autorenbatch §§ 325–399 (20 Einheiten): [amtlicher Abruf](sources/author-p32
 Zweite Durchsicht §§ 325–399 (genau 20 Einheiten): [Einzelbefunde](review-result-batch-019.json), [amtlicher Abruf](sources/review-p325-p399-verification.json), [XML](sources/review-p325-p399.xml), [BVerwG-Prüfprotokoll](authorities/search-log-batch-019.json).
 
 Autorenbatch §§ 400–410: [amtlicher Neuabruf](sources/author-p400-p410-verification.json), [XML](sources/author-p400-p410.xml), [Vollständigkeit](completeness-author-p400-p410.json), [Fallkarte](cases/olg-muenchen-2024-07-31.md), [selektives Suchprotokoll](cases/search-log-p400-p410.json). Portalredaktion im Rohsnapshot ist keine übernommene amtliche Urteilsbegründung.
+
+Zweite Durchsicht §§ 400–410, genau 13 Einheiten: [Einzelbefunde](review-result-batch-020.json), [aktuelles amtliches XML](sources/review-p400-p410.xml), [Abrufe](sources/review-p400-p410-verification.json), [OWiG-Nachweis](sources/review020-owig-verification.json), [Fallkarte](cases/olg-muenchen-2024-07-31.md).

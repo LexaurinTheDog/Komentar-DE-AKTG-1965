@@ -1,5 +1,5 @@
 {
-  "stage": "author_batch_complete_pending_second_pass",
+  "stage": "reviewing",
   "decisive_date": "2026-10-19",
   "total_units": 393,
   "completed_units": 393,
@@ -15,7 +15,7 @@
   },
   "independent_review": false,
   "checkpoint": "author-result-p400-p410.json",
-  "updated_at": "2026-10-21T00:56:23.861165+00:00",
+  "updated_at": "2026-10-21T00:59:14.897251+00:00",
   "complete": false,
   "remaining_unit_ids": [],
   "commentary_chars": 651284,
@@ -47,9 +47,10 @@
     "OLG München 31.07.2024 – 7 U 351/23 e"
   ],
   "remaining_limitations": [
-    "Eigenständige zweite Durchsicht der 13 Einheiten ausstehend.",
-    "Selektive Rechtsprechungsrecherche; lokaler Corpusabgleich nur Manifest.",
-    "Keine vollständige Sichtung sämtlicher späterer Gesetzblätter."
+    "Genau 13 zugewiesene Einheiten geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Genehmigung.",
+    "Selektive Rechtsprechung: OLG München 7 U 351/23 e Rn. 1–108 vollständig gelesen; keine erschöpfende Folgeentscheidungsrecherche. Für die übrigen Einheiten keine zusätzliche verifizierte Entscheidung aufgenommen.",
+    "Aktuelle amtliche Konsolidierung und letzte ausgewiesene Novelle einschließlich Inkrafttreten geprüft; keine lückenlose Sichtung sämtlicher späteren Gesetzblätter.",
+    "Technische Wortlaut-, Längen- und Wiederholungsprüfungen ersetzen keine juristische Bewertung."
   ],
   "preflight_complete": true,
   "bounded_author_result": "author-result-p400-p410.json",
@@ -83,33 +84,23 @@
   },
   "latest_bounded_review": {
     "reviewed_ids": [
-      "p325",
-      "p326",
-      "p327",
-      "p327a",
-      "p327b",
-      "p327c",
-      "p327d",
-      "p327e",
-      "p327f",
-      "p328",
-      "p329-336",
-      "p337",
-      "p338",
-      "p393a",
-      "p394",
-      "p395",
-      "p396",
-      "p397",
-      "p398",
-      "p399"
+      "p400",
+      "p401",
+      "p402",
+      "p403",
+      "p404",
+      "p404a",
+      "p405",
+      "p406",
+      "p407",
+      "p407a",
+      "p408",
+      "p409",
+      "p410"
     ],
-    "units_reviewed": 20,
+    "units_reviewed": 13,
     "complete": true,
-    "evidence": "review-result-batch-019.json",
-    "strict_validation": "review-validation-bounded-019.json",
-    "strict_validation_ok": true,
-    "whole_book_validation_ok": false
+    "evidence": "review-result-batch-020.json"
   },
   "validation": {
     "repo": "Komentar-DE-AKTG-1965",

@@ -1,0 +1,2 @@
+returncode=0
+OK: /Volumes/LaCie/open-commentary/de/Komentar-DE-AKTG-1965 — 393 jednotek, 20 kapitol
