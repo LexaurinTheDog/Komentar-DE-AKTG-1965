@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/umwg_1995/xml.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:02:11.804363+00:00",
+    "content_type": "application/zip",
+    "sha256": "d3e2d9ee97b0c06ef577b8549b925c3613f0f256c1ff7ab6a72ffdc250efb2d8",
+    "xml_sha256": "211ff91490d17f3570cd749c5eebf2cc7fc8a29c31c061cff6abadb0f2fba03f",
+    "xml_path": "sources/review014-umwg_1995.xml",
+    "format_validated": "ZIP opened and statutory XML parsed",
+    "version_evidence": "Zuletzt geändert durch Art. 17 G v. 23.10.2024 I Nr. 323"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/wp_gangv/xml.zip",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:02:12.131649+00:00",
+    "content_type": "application/zip",
+    "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "xml_path": "sources/review014-hgb.xml",
+    "format_validated": "ZIP opened and statutory XML parsed",
+    "version_evidence": "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/wp_gangebv/xml.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:02:34.992585+00:00",
+    "content_type": "application/zip",
+    "sha256": "7b0ffaa1a55df765922d9be696af7abb8e9b1b773fb54a05d96c63795a662bf0",
+    "xml_sha256": "8bfc795607bb5b8ae2a32d189962072031688f465985d86cbba142245e1e87f7",
+    "xml_path": "sources/review014-wp_gangebv.xml",
+    "format_validated": "ZIP opened and XML parsed"
+  }
+]

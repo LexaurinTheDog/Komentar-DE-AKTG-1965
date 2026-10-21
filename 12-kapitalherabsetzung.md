@@ -115,14 +115,6 @@ Absatz 2 sichert den Zusammenhang durch eine Frist mit Nichtigkeitsfolge: Beide 
 
 Beispiel: Eine AG senkt ihr Grundkapital sanierungsbedingt unter 50.000 Euro und beschließt gleichzeitig eine Bareinlagenerhöhung auf 100.000 Euro. Sie muss nicht nur Zeichnung und Einzahlung organisieren, sondern den vollständigen Registervollzug innerhalb der Frist erreichen. Für die vereinfachte Herabsetzung gilt § 228 über § 229 Absatz 3 entsprechend. Werden zusätzlich die bilanziellen Rückwirkungsregeln der §§ 234 und 235 genutzt, ist deren kürzere Dreimonatsfrist gesondert zu beachten; die Sechsmonatsregel schafft dafür keinen Aufschub.
 
-#### Erstes Buch — Aktiengesellschaft
-
-#### Sechster Teil — Satzungsänderung.
-Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung
-
-#### Dritter Abschnitt — Maßnahmen der
-Kapitalherabsetzung
-
 #### Zweiter Unterabschnitt — Vereinfachte
 Kapitalherabsetzung
 
@@ -244,14 +236,6 @@ Beispiel: Die Hauptversammlung hat bei gleichzeitiger Herabsetzung und Erhöhung
 
 Praktische Abschlusskontrolle zur vereinfachten Herabsetzung: Verlust- und Rücklagenrechnung vor Beschluss prüfen, Zweck und Verwendung dokumentieren, Ausschüttungssperren getrennt berechnen und bei rückwirkendem Abschluss die Hauptversammlungszuständigkeit, Finanzierungsnachweise, Dreimonatsfrist sowie Offenlegungsfreigabe in einem abgestimmten Terminplan erfassen.
 
-#### Erstes Buch — Aktiengesellschaft
-
-#### Sechster Teil — Satzungsänderung.
-Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung
-
-#### Dritter Abschnitt — Maßnahmen der
-Kapitalherabsetzung
-
 #### Dritter Unterabschnitt — Kapitalherabsetzung durch Einziehung von Aktien. Ausnahme für Stückaktien
 
 ### § 237 — Voraussetzungen
@@ -314,14 +298,6 @@ Beispiel: Der Herabsetzungsbeschluss wird am 10. Juni eingetragen, die bestimmte
 Absatz 2 gestattet, die Anmeldung und Eintragung der Durchführung mit derjenigen des Herabsetzungsbeschlusses zu verbinden. Das vereinfacht den Registerverkehr, beseitigt aber keine materiellen Voraussetzungen der Einziehung. Insbesondere ist zwischen einem bereits vollzogenen Einziehungsvorgang und der bloßen Absicht, Aktien später einzuziehen, zu unterscheiden. Die zusammengefasste Anmeldung darf nicht den Eindruck erwecken, eine noch ausstehende Durchführung sei bereits erfolgt. Der Zeitpunkt der Kapitalherabsetzung richtet sich nach § 238; § 239 schafft hierfür keinen beliebigen Ersatzzeitpunkt.
 
 Beispiel: Die Satzung ordnet die Einziehung bestimmter Aktien bei Eintritt eines festgelegten Ereignisses an. Nachdem dieses eingetreten und die Einziehung wirksam geworden ist, muss der Vorstand die Durchführung anmelden. Er darf die Anmeldung nicht mit dem Argument unterlassen, ein neuer Hauptversammlungsbeschluss sei entbehrlich gewesen. Für die Praxis sind Einziehungsgrundlage, betroffene Aktien, Wirksamkeitszeitpunkt und Registeranmeldung getrennt zu dokumentieren.
-
-#### Erstes Buch — Aktiengesellschaft
-
-#### Sechster Teil — Satzungsänderung.
-Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung
-
-#### Dritter Abschnitt — Maßnahmen der
-Kapitalherabsetzung
 
 #### Vierter Unterabschnitt — Ausweis der
 Kapitalherabsetzung

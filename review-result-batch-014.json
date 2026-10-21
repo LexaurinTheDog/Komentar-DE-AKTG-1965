@@ -1,0 +1,211 @@
+{
+  "complete": true,
+  "task": "bounded_independent_second_pass",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p239",
+    "p240",
+    "p241",
+    "p242",
+    "p243",
+    "p244",
+    "p245",
+    "p246",
+    "p246a",
+    "p247",
+    "p248",
+    "p248a",
+    "p249",
+    "p250",
+    "p251",
+    "p252",
+    "p253",
+    "p254",
+    "p255",
+    "p255a"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p239",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft; Vorstandsanmeldung auch bei angeordneter Zwangseinziehung und Verbindung der Anmeldungen zutreffend.",
+      "official_doknr": "BJNR010890965BJNE028600308",
+      "statutory_text_sha256": "279ce89b29c0f8fcf773d7c7348257014d3ccca269b1c9288a1702acc31e5ad9",
+      "commentary_sha256": "def270ab88fbfea43b4c0d5dea0c7f55dd238f6d7763852c6e28694a646fb362"
+    },
+    {
+      "id": "p240",
+      "result": "reviewed_no_change",
+      "assessment": "Alle vier Sätze und drei Verwendungszwecke geprüft; Ausweis und auf Anhangangabe begrenzte Größenbefreiung richtig.",
+      "official_doknr": "BJNR010890965BJNE028801360",
+      "statutory_text_sha256": "10a4ea59335d53c5ac7aa2ac00fd74ccfccb80b9ac8a0ccbab2934ecdad0be06",
+      "commentary_sha256": "cbed3ef61c30de890834631fa84f42d9eea38e445ab693057a189813e897f63e"
+    },
+    {
+      "id": "p241",
+      "result": "reviewed_corrected",
+      "assessment": "Alle sechs Nummern geprüft; Einberufungstatbestände präzisiert; Abgrenzung zu Anfechtung und Sondernichtigkeit zutreffend.",
+      "official_doknr": "BJNR010890965BJNE029204125",
+      "statutory_text_sha256": "94c4232c3f4ac11509819b2eaf588e9dfcb1a999f39eb6b985ac6f6f00f6e62d",
+      "commentary_sha256": "5afc9d1a9b771f7903453c00bc10ae2f93584b45e3f000906000c54ab1f2cd5d"
+    },
+    {
+      "id": "p242",
+      "result": "reviewed_no_change",
+      "assessment": "Alle drei Absätze geprüft; Registerheilung, dreijährige Frist, rechtshängige Klage, Genehmigung und Freigabewirkung zutreffend.",
+      "official_doknr": "BJNR010890965BJNE029305125",
+      "statutory_text_sha256": "9e8b9754d393d39715b1d100918846f70d7d9774a3d95ad9dbabf7d0d4a5a70a",
+      "commentary_sha256": "a9b4b2338004affef0b3963d328fe52f12a3a2b58b327b83b10e1dbc0d12ee59"
+    },
+    {
+      "id": "p243",
+      "result": "reviewed_corrected",
+      "assessment": "Alle vier Absätze und fünf Ausschlusstatbestände geprüft; konkrete Relevanzprüfung durch verifizierten BGH-Fall erläutert.",
+      "official_doknr": "BJNR010890965BJNE029405125",
+      "statutory_text_sha256": "0c314076a3399230e0343d8e83d693e0af03fe7815fac3dacf11be0706c11db5",
+      "commentary_sha256": "308f4050e1856602eda8a0bfed76088837d7cd6bed275398c2f92728f1bea8a1"
+    },
+    {
+      "id": "p244",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Sätze geprüft; Bestand des Bestätigungsbeschlusses und fortbestehendes Interesse für Zwischenzeit zutreffend getrennt.",
+      "official_doknr": "BJNR010890965BJNE029500308",
+      "statutory_text_sha256": "7159bdd6e5fb5dcd740d3ca75b2365513abb2b082570eec92a55d2e1275bbc91",
+      "commentary_sha256": "dec6c099126d7890f669ca49a1129d012ca38b0dddc14c77a398b7ddf8e3c46d"
+    },
+    {
+      "id": "p245",
+      "result": "reviewed_corrected",
+      "assessment": "Alle fünf Nummern und virtuelle Teilnahme geprüft; unzulässige Verengung auf eigene Haftungsgefahr des Klägers korrigiert; Zustimmungsfall mit Grenzen ergänzt.",
+      "official_doknr": "BJNR010890965BJNE029602125",
+      "statutory_text_sha256": "74da9b37dc55c54e8f35c13343a60c853ada310b50f866f8608280eeded2ce58",
+      "commentary_sha256": "38136d9a04cc2e9d8072acb04ae9078c8d22037dc04bdab1906407c2c9df91aa"
+    },
+    {
+      "id": "p246",
+      "result": "reviewed_corrected",
+      "assessment": "Alle vier Absätze geprüft; Nachschieben von Gründen anhand verifizierter Entscheidung präzisiert; Zuständigkeit, Vertretung, Verbindung und Nebenintervention richtig.",
+      "official_doknr": "BJNR010890965BJNE029705123",
+      "statutory_text_sha256": "bf3827e16467c5d2f8081285a7d4b91e64fcb0c8532eeea8c4529dfa0de0b8cc",
+      "commentary_sha256": "fe500d4d7e420644cb77087e27ad322714071698fca959fb263975c8e95e3d62"
+    },
+    {
+      "id": "p246a",
+      "result": "reviewed_corrected",
+      "assessment": "Alle vier Absätze und drei Freigabealternativen geprüft; ergänzende Verfahrensverweisungen nach Absatz 1 erklärt.",
+      "official_doknr": "BJNR010890965BJNE056404125",
+      "statutory_text_sha256": "55c17d806ebac9b44005ed20db0efbc153b148e2041d111ae63fbeaef9cb3c19",
+      "commentary_sha256": "177f9787c4facf1ebe97bb9f28f893966a44e6b0dc027787bd517f3cb57a2df2"
+    },
+    {
+      "id": "p247",
+      "result": "reviewed_no_change",
+      "assessment": "Alle drei Absätze geprüft; flexible Obergrenze, persönliche Teilwertbegünstigung, Gebührenfolgen und Antragszeitpunkt richtig.",
+      "official_doknr": "BJNR010890965BJNE029801308",
+      "statutory_text_sha256": "4ae8577654788636bab48b14ab5f0276af8527c812b79c6344939476b2e8e61a",
+      "commentary_sha256": "0346b99dd5081ec35462db16c9795a3c649c6404654d4e8dcb5fe40beb64532c"
+    },
+    {
+      "id": "p248",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft; Rechtskraft, Drittwirkung, Registerpublizität und notariell bescheinigter Satzungstext richtig.",
+      "official_doknr": "BJNR010890965BJNE029900308",
+      "statutory_text_sha256": "d3356d7170c794867c93418499c98984f18ae0a8f8fd7dc70416dde302caea5b",
+      "commentary_sha256": "a6008d5166bd84cd507cae273657b6edf3518826c0e2207feff99f0f5b2b0479"
+    },
+    {
+      "id": "p248a",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Sätze und verwiesenen § 149 Absätze 2/3 geprüft; Börsennotierung, Nebenvereinbarungen und Wirksamkeitsfolgen richtig.",
+      "official_doknr": "BJNR010890965BJNE056500377",
+      "statutory_text_sha256": "0ac349f597cdc08b83f5f0851402a578826baf2577edf6656a5435166f8ab286",
+      "commentary_sha256": "27634f5439c9f25e32802d00fe92da2c7a5e8177d5d19f53769ce90c127c643d"
+    },
+    {
+      "id": "p249",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze und verwiesenen UmwG-Bestandsschutz geprüft; keine Übernahme der allgemeinen Monatsfrist; Prozessverbindung zutreffend.",
+      "official_doknr": "BJNR010890965BJNE030003140",
+      "statutory_text_sha256": "ef4aa31d02d73a2b26c5f224569969420e8fb9dfdb2c1b44d3abae66bec67988",
+      "commentary_sha256": "f9155787788685ac160ddfd3fc89a93b7e21d4fcdcad12942f216096f5ed07ee"
+    },
+    {
+      "id": "p250",
+      "result": "reviewed_corrected",
+      "assessment": "Alle drei Absätze und jeweils fünf Nummern geprüft; Gruppen parteifähiger Arbeitnehmervertretungen ausdrücklich erläutert.",
+      "official_doknr": "BJNR010890965BJNE030205360",
+      "statutory_text_sha256": "138fd7d2a57e1b2aa73e3ca18bc126ba317d6b0b54def6b3739ed8ef982d12fd",
+      "commentary_sha256": "e76a06ecbf2eace05dddf5361028560f7e83e4c38dfb143a0db6a615331bc8d5"
+    },
+    {
+      "id": "p251",
+      "result": "reviewed_no_change",
+      "assessment": "Alle drei Absätze geprüft; beschränkte Übernahme des § 245, besondere Montan-Befugnisse und Urteilswirkung nach § 252 zutreffend.",
+      "official_doknr": "BJNR010890965BJNE030310125",
+      "statutory_text_sha256": "d7e303ceb25572f3e4228ce7482a3346ce8c30944789ee568db0768903a10b77",
+      "commentary_sha256": "e664eb549e6e4933da26cef5f08287b6c58559422e579b35bdbfba4647b4b63b"
+    },
+    {
+      "id": "p252",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft; abweichende Adressatenkreise bei Nichtigkeitsfeststellung und Wahlanfechtung richtig.",
+      "official_doknr": "BJNR010890965BJNE030402307",
+      "statutory_text_sha256": "582227db5fe1f15bf8b6493c52a958b685e2cb5d817b5cd5ddb286e8c82125dc",
+      "commentary_sha256": "4ba42d5c073bac421cc72300b3f5d8e024334f3a11c6a4991dd0b9178fcbbe5d"
+    },
+    {
+      "id": "p253",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft; abgeleitete Nichtigkeit, Grenze ihrer Geltendmachung und besondere weitere Gründe richtig.",
+      "official_doknr": "BJNR010890965BJNE030500308",
+      "statutory_text_sha256": "9c1e90749d48ce5189f475f8d2a8b8d7ae696f494dfa8d3d0fc7fec9c153276b",
+      "commentary_sha256": "39ea6a4f8a16dadc666b837bd1a0fe45d649733ab465567e3172394a22aca177"
+    },
+    {
+      "id": "p254",
+      "result": "reviewed_corrected",
+      "assessment": "Beide Absätze geprüft; vier Prozent auf um nicht eingeforderte Einlagen gekürzte Kapitalbasis präzisiert; Quorum und Frist richtig.",
+      "official_doknr": "BJNR010890965BJNE030603377",
+      "statutory_text_sha256": "6d060e78aacc848253759f8285300e0f10a9d87afc5e1e3617e5862d8e6bde63",
+      "commentary_sha256": "4218d4bd967a0f9660b5a8436ae4e42fb154389f379c49e7f09f78fd3ef4466d"
+    },
+    {
+      "id": "p255",
+      "result": "reviewed_corrected",
+      "assessment": "Alle sieben Absätze und Börsenkursausnahmen geprüft; niedriger Einlagewert als Voraussetzung des Ausgleichs ausdrücklich ergänzt; amtliche fehlerhafte Satzverweisung offengelegt.",
+      "official_doknr": "BJNR010890965BJNE030702360",
+      "statutory_text_sha256": "513048c48e18e2dd0dcdec0020e05d02111eacb72ece7d8eefbc403647bf30c0",
+      "commentary_sha256": "6e4403aa8d7520ac888343fda8d9cf52a905f8e76cb7e65e0480af0499feffab"
+    },
+    {
+      "id": "p255a",
+      "result": "reviewed_corrected",
+      "assessment": "Alle sieben Absätze geprüft; amtlich auf Absätze 3/4 begrenzte Zinsverweisung präzisiert und Auslegungsbedarf zu Absatz 5 offengelegt; Monatsfrist, Spitzen und Beschaffungsrisiko richtig.",
+      "official_doknr": "BJNR010890965BJNE059300360",
+      "statutory_text_sha256": "310a678dbe88b1a534be6deb3afd8d192bc0b3e126916f94e1afa5bab0348873",
+      "commentary_sha256": "a411441a890fa587770fc901619fd19ff35311275c68a26f3679554335865562"
+    }
+  ],
+  "limitations": [
+    "Genau p239–p255a (20 Einheiten) geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Genehmigung.",
+    "Selektive Recherche: BGH II ZR 24/09 vollständig gelesen und amtlich abgeglichen; keine erschöpfende Fall- oder Folgeentscheidungsrecherche.",
+    "Amtliche Konsolidierung und Inkrafttreten der letzten ausgewiesenen Novelle geprüft; keine lückenlose Durchsicht aller späteren Gesetzblätter.",
+    "113 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung; vollständiges Kapitel 12 und ausdrücklich begrenzte Auszüge neu gerendert.",
+    "Redaktionelle Verweisungsprobleme in § 255 Absatz 5 und § 255a Absatz 6 offengelegt; kein gerichtliches Auslegungsergebnis vorgetäuscht."
+  ],
+  "verified_at": "2026-10-21T00:01:57.159371+00:00",
+  "statutory_text_agreement_assigned": 1.0,
+  "full_book_complete": false,
+  "whole_book_validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 393,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 431305,
+    "errors": [
+      "krátký/chybějící komentář u 113 jednotek: ['p255b(0<400)', 'p256(0<400)', 'p257(0<400)', 'p258(0<400)', 'p259(0<400)', 'p260(0<400)', 'p261(0<400)', 'p261a(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  }
+}

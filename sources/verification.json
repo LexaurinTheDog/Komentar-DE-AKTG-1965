@@ -390,6 +390,19 @@
       "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
       "same_as_canonical": true,
       "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+      "accessed_at": "2026-10-21T00:00:12.085612+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p239-p255a.zip",
+      "xml_path": "sources/review-p239-p255a.xml",
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+      "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+      "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
+      "same_as_canonical": true,
+      "version_evidence": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33"
     }
   ],
   "bgh_search_batch_007": [
@@ -410,6 +423,44 @@
       "path": "sources/bgh-2004-04-26-index.html",
       "sha256": "0210b085ce0acec9c4df88a06d6a782b9ee3c4f0e680a1cc3c4e3d9c8e34705d",
       "format_validated": "HTML; official BGH decision-search page; legacy endpoint redirects to current search"
+    }
+  ],
+  "review014_cross_references": [
+    {
+      "url": "https://www.gesetze-im-internet.de/umwg_1995/xml.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T00:02:11.804363+00:00",
+      "content_type": "application/zip",
+      "sha256": "d3e2d9ee97b0c06ef577b8549b925c3613f0f256c1ff7ab6a72ffdc250efb2d8",
+      "xml_sha256": "211ff91490d17f3570cd749c5eebf2cc7fc8a29c31c061cff6abadb0f2fba03f",
+      "xml_path": "sources/review014-umwg_1995.xml",
+      "format_validated": "ZIP opened and statutory XML parsed",
+      "version_evidence": "Zuletzt geändert durch Art. 17 G v. 23.10.2024 I Nr. 323"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/wp_gangv/xml.zip",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T00:02:12.131649+00:00",
+      "content_type": "application/zip",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "xml_path": "sources/review014-hgb.xml",
+      "format_validated": "ZIP opened and statutory XML parsed",
+      "version_evidence": "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/wp_gangebv/xml.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T00:02:34.992585+00:00",
+      "content_type": "application/zip",
+      "sha256": "7b0ffaa1a55df765922d9be696af7abb8e9b1b773fb54a05d96c63795a662bf0",
+      "xml_sha256": "8bfc795607bb5b8ae2a32d189962072031688f465985d86cbba142245e1e87f7",
+      "xml_path": "sources/review014-wp_gangebv.xml",
+      "format_validated": "ZIP opened and XML parsed"
     }
   ]
 }

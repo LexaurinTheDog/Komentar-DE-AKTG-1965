@@ -35,3 +35,7 @@ Prüfbatch §§ 180–198 einschließlich § 183a: [Befunde](review-result-batch
 Prüfbatch §§ 199–218: [Befunde](review-result-batch-012.json), [XML](sources/review-p199-p218.xml), [Fallkarte](authorities/BGH-II-ZR-141-21.md), [Suchprotokoll](authorities/search-log-batch-012.json).
 
 Prüfbatch §§ 219–238: [Befunde](review-result-batch-013.json), [amtliches XML](sources/review-p219-p238.xml), [Fallkarte](authorities/BGH-II-ZR-278-16.md), [Suchprotokoll](authorities/search-log-batch-013.json).
+
+Prüfbatch §§ 239–255a: [Befunde](review-result-batch-014.json), [amtliches XML](sources/review-p239-p255a.xml), [Fallkarte](authorities/case-II-ZR-24-09.md), [Suchprotokoll](authorities/search-log-batch-014.json).
+
+Ergänzender Querverweisabgleich für Prüfbatch 014: UmwG §§ 20/72a, HGB §§ 267/316 und WpÜG-Angebotsverordnung § 5 aus amtlichem XML gelesen; [Abrufnachweise](sources/review014-crossref-verification.json). Ein zunächst falsch angesetzter Verordnungspfad lieferte HTTP 404; der richtige amtliche Pfad wurde anschließend erfolgreich abgerufen.

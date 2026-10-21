@@ -1,14 +1,4 @@
-# Autorencheckpoint §§ 239–255a — genau 20 zugewiesene Einheiten; kein vollständiger Band
-
-#### Erstes Buch — Aktiengesellschaft
-
-#### Sechster Teil — Satzungsänderung.
-Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung
-
-#### Dritter Abschnitt — Maßnahmen der
-Kapitalherabsetzung
-
-#### Dritter Unterabschnitt — Kapitalherabsetzung durch Einziehung von Aktien. Ausnahme für Stückaktien
+# Geprüfter Teilcheckpoint §§ 239–255a — 20 Einheiten
 
 ### § 239 — Anmeldung der Durchführung
 
@@ -24,18 +14,7 @@ Absatz 2 gestattet, die Anmeldung und Eintragung der Durchführung mit derjenige
 
 Beispiel: Die Satzung ordnet die Einziehung bestimmter Aktien bei Eintritt eines festgelegten Ereignisses an. Nachdem dieses eingetreten und die Einziehung wirksam geworden ist, muss der Vorstand die Durchführung anmelden. Er darf die Anmeldung nicht mit dem Argument unterlassen, ein neuer Hauptversammlungsbeschluss sei entbehrlich gewesen. Für die Praxis sind Einziehungsgrundlage, betroffene Aktien, Wirksamkeitszeitpunkt und Registeranmeldung getrennt zu dokumentieren.
 
-#### Erstes Buch — Aktiengesellschaft
-
-#### Sechster Teil — Satzungsänderung.
-Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung
-
-#### Dritter Abschnitt — Maßnahmen der
-Kapitalherabsetzung
-
-#### Vierter Unterabschnitt — Ausweis der
-Kapitalherabsetzung
-
-### § 240
+### § 240 — 
 
 **Wortlaut der Vorschrift:**
 
@@ -52,25 +31,11 @@ Kapitalherabsetzung
 >
 > verwandt werden. Ist die Gesellschaft eine kleine Kapitalgesellschaft (§ 267 Absatz 1 des Handelsgesetzbuchs), braucht sie Satz 3 nicht anzuwenden.
 
-*Quellenhinweis:* (+++ § 240: Zur Anwendung vgl. § 26g AktGEG +++)
-
 § 240 macht sichtbar, dass eine Kapitalherabsetzung die bilanzielle Darstellung verändert, ohne dadurch einen operativen Geschäftserfolg zu schaffen. Der gewonnene Betrag muss in der Gewinn- und Verlustrechnung als eigener Ertrag aus der Kapitalherabsetzung hinter den Entnahmen aus Gewinnrücklagen stehen. Die gesonderte Darstellung verhindert, dass die Maßnahme im laufenden Ergebnis aufgeht. Ebenso muss die Einstellung in die Kapitalrücklage nach §§ 229 Absatz 1 und 232 gesondert bezeichnet werden. Ein frei gewählter Sammelposten würde die gesetzlich verlangte Unterscheidung verdecken.
 
 Die Anhangangabe verlangt eine betragsmäßige Zuordnung zu drei Verwendungszwecken: Ausgleich von Wertminderungen, Deckung sonstiger Verluste und Einstellung in die Kapitalrücklage. Sie erfasst sowohl die durch Kapitalherabsetzung als auch die durch Auflösung von Gewinnrücklagen gewonnenen Beträge. Die Ausweispflicht ersetzt nicht die materiellen Verwendungsbindungen der vereinfachten Herabsetzung. Was bilanziell gesondert gezeigt wird, ist deshalb noch nicht an Aktionäre ausschüttbar.
 
 Kleine Kapitalgesellschaften im Sinne der ausdrücklich genannten HGB-Vorschrift sind nur von Satz 3, also dieser Anhangserläuterung, befreit. Die beiden gesonderten Ausweise bleiben bestehen. Beispiel: Eine kleine AG verwendet den Herabsetzungsbetrag teilweise zur Verlustdeckung und teilweise zur Kapitalrücklage. Sie darf die besondere Anhangaufschlüsselung weglassen, aber nicht auch die gesetzlich bezeichneten Ergebnisposten. Abschlusskontrolle: Herabsetzungsbeschluss und Buchungen abstimmen, jede Verwendung zuordnen und die Größenbefreiung ausschließlich auf die dafür vorgesehene Angabe anwenden.
-
-#### Erstes Buch — Aktiengesellschaft
-
-#### Siebenter Teil — Nichtigkeit von
-Hauptversammlungsbeschlüssen und des festgestellten
-Jahresabschlusses. Sonderprüfung wegen unzulässiger
-Unterbewertung
-
-#### Erster Abschnitt — Nichtigkeit von
-Hauptversammlungsbeschlüssen
-
-#### Erster Unterabschnitt — Allgemeines
 
 ### § 241 — Nichtigkeitsgründe
 
@@ -98,7 +63,7 @@ Hauptversammlungsbeschlüssen
 
 § 241 grenzt die besonders schweren Beschlussmängel von der Anfechtbarkeit nach § 243 ab. Die Aufzählung ist innerhalb ihres Anwendungsbereichs abschließend; zusätzlich bleiben die eingangs genannten besonderen Nichtigkeitsvorschriften maßgeblich. Nicht jeder Gesetzes- oder Satzungsverstoß vernichtet einen Beschluss von selbst. Für bestimmte Beschlussarten, insbesondere Aufsichtsratswahlen und Gewinnverwendung, sind außerdem die Sonderregeln der §§ 250 und 253 voranzustellen.
 
-Nummer 1 erfasst genau bezeichnete Einberufungsverstöße und nicht sämtliche Fehler der Einladung. Nummer 2 betrifft die gesetzlich bezeichneten Beurkundungsmängel. Bei Nummer 3 kommt es entweder auf die Unvereinbarkeit mit dem Wesen der AG oder auf einen durch den Beschlussinhalt bewirkten Verstoß gegen überwiegend gläubigerschützende oder öffentliche Interessen schützende Vorschriften an. Die bloße Verletzung individueller Aktionärsinteressen reicht für diese zweite Alternative nicht. Auch Nummer 4 knüpft an den Inhalt an; ein missbilligtes Verhalten einzelner Beteiligter macht den Beschluss nicht ohne Prüfung seines Inhalts sittenwidrig.
+Nummer 1 erfasst genau bezeichnete Einberufungsverstöße und nicht sämtliche Fehler der Einladung: Einberufungszuständigkeit (§ 121 Absatz 2), die Pflichtangaben nach Absatz 3 Satz 1, die Einberufungsform nach Absatz 4 und bei virtuellen Versammlungen Absatz 4b Satz 1 sind gesondert zu prüfen. Nummer 2 betrifft die gesetzlich bezeichneten Beurkundungsmängel. Bei Nummer 3 kommt es entweder auf die Unvereinbarkeit mit dem Wesen der AG oder auf einen durch den Beschlussinhalt bewirkten Verstoß gegen überwiegend gläubigerschützende oder öffentliche Interessen schützende Vorschriften an. Die bloße Verletzung individueller Aktionärsinteressen reicht für diese zweite Alternative nicht. Auch Nummer 4 knüpft an den Inhalt an; ein missbilligtes Verhalten einzelner Beteiligter macht den Beschluss nicht ohne Prüfung seines Inhalts sittenwidrig.
 
 Nummern 5 und 6 erfassen rechtskräftige gerichtliche Vernichtung beziehungsweise registergerichtliche Löschung. Sie stehen neben den schon ursprünglich bestehenden Mängeln. Heilungsmöglichkeiten nach § 242 sind gesondert zu prüfen; die Bezeichnung als nichtig schließt sie nicht aus.
 
@@ -151,7 +116,7 @@ Beispiel: Ein eingetragener Beschluss leidet an einem von § 241 Nummer 3 erfass
 >
 > (4) Wegen unrichtiger, unvollständiger oder verweigerter Erteilung von Informationen kann nur angefochten werden, wenn ein objektiv urteilender Aktionär die Erteilung der Information als wesentliche Voraussetzung für die sachgerechte Wahrnehmung seiner Teilnahme- und Mitgliedschaftsrechte angesehen hätte. Auf unrichtige, unvollständige oder unzureichende Informationen in der Hauptversammlung über die Ermittlung, Höhe oder Angemessenheit von Ausgleich, Abfindung, Zuzahlung oder über sonstige Kompensationen kann eine Anfechtungsklage nicht gestützt werden, wenn das Gesetz für Bewertungsrügen ein Spruchverfahren vorsieht.
 
-Die Anfechtung nach Absatz 1 ist das allgemeine Mittel gegen gesetzes- oder satzungswidrige Hauptversammlungsbeschlüsse. Sie verlangt die rechtzeitige Klage eines nach § 245 Befugten. Absatz 2 ergänzt den Schutz gegen zweckgerichtete Sondervorteile: Ein Aktionär muss durch seine Stimmrechtsausübung für sich oder einen Dritten einen Vorteil zum Schaden der Gesellschaft oder anderer Aktionäre erstreben; außerdem muss der Beschluss hierfür geeignet sein. Die Gewährung eines angemessenen Ausgleichs für den Schaden der anderen Aktionäre schließt diese besondere Anfechtung aus. Ein bloßer Interessengegensatz belegt noch nicht sämtliche Merkmale.
+Die Anfechtung nach Absatz 1 ist das allgemeine Mittel gegen gesetzes- oder satzungswidrige Hauptversammlungsbeschlüsse. Nicht jeder Verfahrensverstoß trägt dabei jeden Beschlussangriff. BGH, Urteil vom 21. Juni 2010 – II ZR 24/09, Rn. 20–29 und 32–35, prüft anhand des Schutzzwecks die Relevanz für die Mitgliedschaftsrechte: Ein nicht ordnungsgemäß festgestellter Aufsichtsratsbericht war für Entlastung und Wiederwahl erheblich, im konkreten Fall dagegen etwa nicht für die künftige Aufsichtsratsvergütung. Eine rechnerische Auswirkung auf das Abstimmungsergebnis ist damit nicht gleichzusetzen ([Fallkarte](authorities/case-II-ZR-24-09.md)). Sie verlangt die rechtzeitige Klage eines nach § 245 Befugten. Absatz 2 ergänzt den Schutz gegen zweckgerichtete Sondervorteile: Ein Aktionär muss durch seine Stimmrechtsausübung für sich oder einen Dritten einen Vorteil zum Schaden der Gesellschaft oder anderer Aktionäre erstreben; außerdem muss der Beschluss hierfür geeignet sein. Die Gewährung eines angemessenen Ausgleichs für den Schaden der anderen Aktionäre schließt diese besondere Anfechtung aus. Ein bloßer Interessengegensatz belegt noch nicht sämtliche Merkmale.
 
 Absatz 3 enthält differenzierte Ausschlüsse. Bei den in Nummern 1 bis 3 bezeichneten technischen Störungen kann grobe Fahrlässigkeit oder Vorsatz der Gesellschaft die Anfechtung eröffnen; die Satzung darf den Verschuldensmaßstab verschärfen. Die übrigen aufgezählten Ausschlüsse, etwa bestimmte Übermittlungs- und Internetpublizitätsfehler oder Gründe des besonderen Abschlussprüferverfahrens, sind davon zu trennen. Eine bewusste Verweigerung von Beteiligungsrechten ist auch nicht schon deshalb eine privilegierte technische Störung, weil die Versammlung elektronisch stattfindet.
 
@@ -198,9 +163,9 @@ Beispiel: Eine AG bestätigt einen wegen eines Verfahrensfehlers angefochtenen B
 
 Nummer 2 schützt den nicht erschienenen Aktionär bei unberechtigter Nichtzulassung, fehlerhafter Einberufung oder mangelhafter Bekanntmachung des Beschlussgegenstands. Von ihm kann kein Widerspruch in einer Versammlung verlangt werden, an der er unter diesen Voraussetzungen nicht teilgenommen hat. Nummer 3 eröffnet bei Sondervorteilen nach § 243 Absatz 2 jedem rechtzeitig beteiligten Aktionär die Anfechtung; das besondere Erfordernis des Erwerbs vor Tagesordnungsbekanntmachung bleibt bestehen.
 
-Der Vorstand als Organ ist nach Nummer 4 unabhängig von eigener Aktionärsstellung befugt. Einzelne Vorstands- und Aufsichtsratsmitglieder erhalten dagegen nach Nummer 5 eine Befugnis bei drohender Strafbarkeit, Ordnungswidrigkeit oder Ersatzpflicht durch die Ausführung. Ihre allgemeine Ablehnung des Beschlusses reicht nicht.
+Der Vorstand als Organ ist nach Nummer 4 unabhängig von eigener Aktionärsstellung befugt. Jedes einzelne Vorstands- und Aufsichtsratsmitglied erhält nach Nummer 5 eine Befugnis, wenn die Ausführung für Mitglieder eines dieser Organe zu Strafbarkeit, einer Ordnungswidrigkeit oder Ersatzpflicht führen würde. Der Wortlaut verlangt nicht, dass gerade das klagende Mitglied selbst betroffen wäre. Die allgemeine Ablehnung des Beschlusses reicht dagegen nicht. Auch ein erklärter Widerspruch sichert nicht stets die Klagebefugnis: BGH, Urteil vom 21. Juni 2010 – II ZR 24/09, Rn. 36–38, versagt sie bei Zustimmung in Kenntnis der gerügten vorbereitenden Mängel. Die Behandlung erst nach der Stimmabgabe entstandener Fehler und die allgemeine Bedeutung fehlender Mangelkenntnis ließ der BGH offen ([Fallkarte](authorities/case-II-ZR-24-09.md)).
 
-Beispiel: Eine elektronisch zugeschaltete Aktionärin hält ihre Aktien seit Jahren und stimmt gegen einen Beschluss. Unterlässt sie den Widerspruch zur Niederschrift, ist Nummer 1 trotz Gegenstimme nicht erfüllt. Ein Aufsichtsratsmitglied, das denselben Beschluss für wirtschaftlich unklug hält, kann wiederum Nummer 5 nur beanspruchen, wenn gerade die Ausführung die dort beschriebene persönliche Rechtsfolge auslösen würde. Berechtigung und Beschlussmangel sind jeweils eigenständig zu prüfen.
+Beispiel: Eine elektronisch zugeschaltete Aktionärin hält ihre Aktien seit Jahren und stimmt gegen einen Beschluss. Unterlässt sie den Widerspruch zur Niederschrift, ist Nummer 1 trotz Gegenstimme nicht erfüllt. Ein Aufsichtsratsmitglied, das denselben Beschluss für wirtschaftlich unklug hält, kann wiederum Nummer 5 nur beanspruchen, wenn gerade die Ausführung für Vorstands- oder Aufsichtsratsmitglieder eine der dort beschriebenen Rechtsfolgen auslösen würde. Berechtigung und Beschlussmangel sind jeweils eigenständig zu prüfen.
 
 ### § 246 — Anfechtungsklage
 
@@ -214,7 +179,7 @@ Beispiel: Eine elektronisch zugeschaltete Aktionärin hält ihre Aktien seit Jah
 >
 > (4) Der Vorstand hat die Erhebung der Klage unverzüglich in den Gesellschaftsblättern bekanntzumachen. Ein Aktionär kann sich als Nebenintervenient nur innerhalb eines Monats nach der Bekanntmachung an der Klage beteiligen.
 
-Absatz 1 setzt eine Monatsfrist ab Beschlussfassung. Die spätere Kenntnis vom Fehler oder eine spätere Bekanntmachung des Ergebnisses eröffnet nach dieser Regel keinen neuen Fristbeginn. Zur rechtzeitigen Klageerhebung gehören die prozessualen Zustellungsregeln; der bloße Entwurf einer Klageschrift oder eine Beanstandung gegenüber dem Vorstand wahrt die Frist nicht. Die Prüfung der Berechtigung nach § 245 und der tragenden Anfechtungsgründe muss deshalb unmittelbar nach der Versammlung beginnen.
+Absatz 1 setzt eine Monatsfrist ab Beschlussfassung. Die spätere Kenntnis vom Fehler oder eine spätere Bekanntmachung des Ergebnisses eröffnet nach dieser Regel keinen neuen Fristbeginn. Zur rechtzeitigen Klageerhebung gehören die prozessualen Zustellungsregeln; der bloße Entwurf einer Klageschrift oder eine Beanstandung gegenüber dem Vorstand wahrt die Frist nicht. Die Prüfung der Berechtigung nach § 245 und der tragenden Anfechtungsgründe muss deshalb unmittelbar nach der Versammlung beginnen. Der tatsächliche Kern der geltend gemachten Mängel muss innerhalb der Frist vorgetragen werden; eine vorsorgliche Klage eröffnet keinen zeitlich unbegrenzten Austausch der Anfechtungsgründe. BGH, Urteil vom 21. Juni 2010 – II ZR 24/09, Rn. 30–31, hält den im Gesamtzusammenhang der fristgerechten Klageschrift erkennbaren Sachverhalt für ausreichend und grenzt ihn vom unzulässigen Nachschieben neuer Gründe ab ([Fallkarte](authorities/case-II-ZR-24-09.md)).
 
 Beklagte ist nach Absatz 2 die Gesellschaft, grundsätzlich gemeinsam vertreten durch Vorstand und Aufsichtsrat. Bei Klage des Vorstands oder eines Vorstandsmitglieds vertritt der Aufsichtsrat, bei Klage eines Aufsichtsratsmitglieds der Vorstand. Die Sondervertretung vermeidet die Vertretung der beklagten Gesellschaft durch die klagende Seite. Absatz 3 konzentriert das Verfahren beim Landgericht des Gesellschaftssitzes, gegebenenfalls dessen Kammer für Handelssachen, und verweist für landesrechtliche Zuständigkeitskonzentrationen auf § 148 Absatz 2. Mehrere Anfechtungsprozesse müssen verbunden werden.
 
@@ -243,7 +208,7 @@ Beispiel: Zwei Aktionäre greifen denselben Beschluss beim zuständigen Gericht 
 >
 > (4) Erweist sich die Klage als begründet, so ist die Gesellschaft, die den Beschluss erwirkt hat, verpflichtet, dem Antragsgegner den Schaden zu ersetzen, der ihm aus einer auf dem Beschluss beruhenden Eintragung des Hauptversammlungsbeschlusses entstanden ist. Nach der Eintragung lassen Mängel des Beschlusses seine Durchführung unberührt; die Beseitigung dieser Wirkung der Eintragung kann auch nicht als Schadensersatz verlangt werden.
 
-Das Freigabeverfahren schützt die Durchführung bestimmter registerbedürftiger Maßnahmen trotz Beschlussmängelklage. Absatz 1 beschränkt den Anwendungsbereich auf die bezeichnete Satzungsermächtigung zur virtuellen Hauptversammlung, Kapitalbeschaffung und Kapitalherabsetzung nach §§ 182–240 sowie Unternehmensverträge. Es ist kein allgemeines Instrument für jeden angefochtenen Hauptversammlungsbeschluss. Auf Antrag der Gesellschaft entscheidet ein Senat des Oberlandesgerichts am Gesellschaftssitz über Eintragungshindernis und Bestandsschutz der Eintragung.
+Das Freigabeverfahren schützt die Durchführung bestimmter registerbedürftiger Maßnahmen trotz Beschlussmängelklage. Absatz 1 beschränkt den Anwendungsbereich auf die bezeichnete Satzungsermächtigung zur virtuellen Hauptversammlung, Kapitalbeschaffung und Kapitalherabsetzung nach §§ 182–240 sowie Unternehmensverträge. Es ist kein allgemeines Instrument für jeden angefochtenen Hauptversammlungsbeschluss. Auf Antrag der Gesellschaft entscheidet ein Senat des Oberlandesgerichts am Gesellschaftssitz über Eintragungshindernis und Bestandsschutz der Eintragung. Absatz 1 übernimmt die Streitwertregel des § 247, die ausdrücklich bezeichneten ZPO-Regeln zur Prozessvollmacht und ergänzend das erstinstanzliche landgerichtliche Verfahren. Die Zuständigkeit des Oberlandesgerichts macht das Verfahren daher nicht zu einer gewöhnlichen Berufung.
 
 Absatz 2 enthält drei alternative Freigabegründe. Unzulässigkeit oder offensichtliche Unbegründetheit der Klage ist von der Beteiligungsschwelle zu unterscheiden. Für diese muss der Kläger binnen einer Woche nach Zustellung des Antrags durch die gesetzlich bezeichneten Belege nachweisen, seit Bekanntmachung der Einberufung mindestens 1.000 Euro anteiliges Grundkapital zu halten. Gemeint ist kein Börsenwert. Die dritte Alternative verlangt eine konkrete Abwägung wesentlicher Nachteile; eine besondere Schwere des Rechtsverstoßes steht dieser Freigabealternative entgegen. Eine bloße Behauptung dringenden Finanzierungsbedarfs ersetzt die Darlegung nicht.
 
@@ -260,8 +225,6 @@ Beispiel: Ein Aktionär klagt gegen eine Kapitalerhöhung, während eine verbind
 > (2) Macht eine Partei glaubhaft, daß die Belastung mit den Prozeßkosten nach dem gemäß Absatz 1 bestimmten Streitwert ihre wirtschaftliche Lage erheblich gefährden würde, so kann das Prozeßgericht auf ihren Antrag anordnen, daß ihre Verpflichtung zur Zahlung von Gerichtskosten sich nach einem ihrer Wirtschaftslage angepaßten Teil des Streitwerts bemißt. Die Anordnung hat zur Folge, daß die begünstigte Partei die Gebühren ihres Rechtsanwalts ebenfalls nur nach diesem Teil des Streitwerts zu entrichten hat. Soweit ihr Kosten des Rechtsstreits auferlegt werden oder soweit sie diese übernimmt, hat sie die von dem Gegner entrichteten Gerichtsgebühren und die Gebühren seines Rechtsanwalts nur nach dem Teil des Streitwerts zu erstatten. Soweit die außergerichtlichen Kosten dem Gegner auferlegt oder von ihm übernommen werden, kann der Rechtsanwalt der begünstigten Partei seine Gebühren von dem Gegner nach dem für diesen geltenden Streitwert beitreiben.
 >
 > (3) Der Antrag nach Absatz 2 kann vor der Geschäftsstelle des Prozeßgerichts zur Niederschrift erklärt werden. Er ist vor der Verhandlung zur Hauptsache anzubringen. Später ist er nur zulässig, wenn der angenommene oder festgesetzte Streitwert durch das Prozeßgericht heraufgesetzt wird. Vor der Entscheidung über den Antrag ist der Gegner zu hören.
-
-*Quellenhinweis:* (+++ § 247 Abs. 2 u. 3: Zur Anwendung vgl. § 72 Abs. 2 GNotKG +++)
 
 Der Streitwert einer Beschlussanfechtung folgt nicht schlicht dem Depotwert des Klägers oder dem gesamten Grundkapital. Absatz 1 verlangt eine Ermessensentscheidung nach den Umständen und der Bedeutung für beide Parteien. Grundsätzlich darf der Wert ein Zehntel des Grundkapitals, höchstens 500.000 Euro, nicht überschreiten; eine darüber hinausgehende Festsetzung setzt eine entsprechend höhere Bedeutung für den Kläger voraus. Die Schwelle ist deshalb weder ein fester Regelstreitwert noch eine ausnahmslos absolute Obergrenze.
 
@@ -315,19 +278,6 @@ Absatz 2 schreibt die Verbindung mehrerer Nichtigkeitsprozesse vor, während die
 
 Beispiel: Ein Aktionär erhebt zwei Monate nach der Versammlung Klage wegen eines behaupteten schweren Beurkundungsmangels. Die Anfechtungsfrist allein erledigt den Fall nicht. Zu prüfen sind der Tatbestand des § 241 Nummer 2 und eine mögliche Heilung nach § 242 Absatz 1. Die Benennung als Nichtigkeitsklage macht einen lediglich einfachen Verfahrensfehler nicht automatisch zum Nichtigkeitsgrund.
 
-#### Erstes Buch — Aktiengesellschaft
-
-#### Siebenter Teil — Nichtigkeit von
-Hauptversammlungsbeschlüssen und des festgestellten
-Jahresabschlusses. Sonderprüfung wegen unzulässiger
-Unterbewertung
-
-#### Erster Abschnitt — Nichtigkeit von
-Hauptversammlungsbeschlüssen
-
-#### Zweiter Unterabschnitt — Nichtigkeit
-bestimmter Hauptversammlungsbeschlüsse
-
 ### § 250 — Nichtigkeit der Wahl von Aufsichtsratsmitgliedern
 
 **Wortlaut der Vorschrift:**
@@ -372,7 +322,7 @@ bestimmter Hauptversammlungsbeschlüsse
 
 Absatz 1 schützt die gesetzliche Zusammensetzung und persönliche Amtsfähigkeit: Nummer 1 erfasst Verstöße gegen die genannten Status- und Zusammensetzungsregeln; Nummer 2 die Missachtung verbindlicher montanmitbestimmungsrechtlicher Wahlvorschläge. Nummer 3 betrifft die gesetzliche Höchstzahl der Mandate, Nummer 4 die fehlende Eignung nach § 100 Absätzen 1 und 2 gerade bei Beginn der Amtszeit und Nummer 5 den Verstoß gegen § 96 Absatz 2. Eine bloß unzweckmäßige Personalauswahl ist keiner dieser Tatbestände.
 
-Absatz 2 verleiht den genau bezeichneten Arbeitnehmervertretungen und Organisationen Parteifähigkeit. Dabei sind die betriebliche Ebene, die Konzernstellung und die Beteiligung von Beschäftigten anderer Unternehmen an der Aufsichtsratswahl zu unterscheiden. Nicht jeder beliebige Betriebsrat erhält hierdurch allgemein eine Stellung für jede AG. Absatz 3 ergänzt den Kreis der Kläger und übernimmt ausgewählte Verfahrensregeln; die allgemeine Anfechtungsfrist wird nicht importiert. Nichtigkeit kann auch außerhalb einer solchen Klage geltend gemacht werden. Für die besondere Reichweite des Urteils ist § 252 Absatz 1 maßgeblich.
+Absatz 2 verleiht den genau bezeichneten Arbeitnehmervertretungen und Organisationen Parteifähigkeit. Erfasst sind nach Nummern 1 und 2 die bezeichneten Betriebsrats- und Sprecherausschussvertretungen der Gesellschaft einschließlich der dort genannten Konzernebene; Nummern 3 und 4 betreffen entsprechende Vertretungen anderer Unternehmen mit wahlbeteiligten Arbeitnehmern. Nummer 5 erfasst dort vertretene Gewerkschaften und deren Spitzenorganisationen. Dabei sind die betriebliche Ebene, die Konzernstellung und die Beteiligung von Beschäftigten anderer Unternehmen an der Aufsichtsratswahl zu unterscheiden. Nicht jeder beliebige Betriebsrat erhält hierdurch allgemein eine Stellung für jede AG. Absatz 3 ergänzt den Kreis der Kläger und übernimmt ausgewählte Verfahrensregeln; die allgemeine Anfechtungsfrist wird nicht importiert. Nichtigkeit kann auch außerhalb einer solchen Klage geltend gemacht werden. Für die besondere Reichweite des Urteils ist § 252 Absatz 1 maßgeblich.
 
 Beispiel: Die Hauptversammlung wählt eine Person, die bei Amtsbeginn eine persönliche Voraussetzung des § 100 Absatz 2 nicht erfüllt. Der Fehler ist anhand der gesetzlichen Unvereinbarkeit und des maßgeblichen Beginns zu prüfen. Es genügt weder der pauschale Hinweis auf mangelnde Erfahrung noch die Annahme, jede Wahl werde mit Ablauf eines Monats unanfechtbar und deshalb wirksam.
 
@@ -436,7 +386,7 @@ Bilanzgewinns
 >
 > (2) Für die Anfechtung gelten die §§ 244 bis 246, 247 bis 248a. Die Anfechtungsfrist beginnt auch dann mit der Beschlußfassung, wenn der Jahresabschluß nach § 316 Abs. 3 des Handelsgesetzbuchs erneut zu prüfen ist. Zu einer Anfechtung nach Absatz 1 sind Aktionäre nur befugt, wenn ihre Anteile zusammen den zwanzigsten Teil des Grundkapitals oder den anteiligen Betrag von 500.000 Euro erreichen.
 
-§ 254 schützt die Minderheit vor sachlich nicht notwendiger Gewinnthesaurierung. Absatz 1 setzt mehrere Merkmale voraus: Die Hauptversammlung muss aus einem nicht schon gesetzlich oder satzungsmäßig verteilungsgebunden ausgeschlossenen Bilanzgewinn Rücklagen bilden oder Gewinn vortragen. Diese Zurückhaltung darf bei vernünftiger kaufmännischer Beurteilung nicht erforderlich sein, um die Lebens- und Widerstandsfähigkeit der Gesellschaft für einen wirtschaftlich und finanziell übersehbaren Zeitraum zu sichern. Dadurch muss eine Ausschüttung von mindestens vier Prozent des Grundkapitals abzüglich noch nicht eingeforderter Einlagen verhindert werden.
+§ 254 schützt die Minderheit vor sachlich nicht notwendiger Gewinnthesaurierung. Absatz 1 setzt mehrere Merkmale voraus: Die Hauptversammlung muss aus einem nicht schon gesetzlich oder satzungsmäßig verteilungsgebunden ausgeschlossenen Bilanzgewinn Rücklagen bilden oder Gewinn vortragen. Diese Zurückhaltung darf bei vernünftiger kaufmännischer Beurteilung nicht erforderlich sein, um die Lebens- und Widerstandsfähigkeit der Gesellschaft für einen wirtschaftlich und finanziell übersehbaren Zeitraum zu sichern. Dadurch muss eine Ausschüttung von mindestens vier Prozent der um noch nicht eingeforderte Einlagen verminderten Grundkapitalbasis verhindert werden. Bei einer Basis von einer Million Euro sind dies 40.000 Euro; zunächst die vier Prozent des ungekürzten Grundkapitals zu berechnen und danach sämtliche nicht eingeforderten Einlagen abzuziehen, würde die Schwelle verfälschen.
 
 Die Vierprozentgrenze ist keine vom Gewinn unabhängige garantierte Dividende. Ebenso beweist eine hohe Liquidität allein noch nicht, dass jede Rücklagenbildung unnötig ist. Maßgeblich sind nachvollziehbare wirtschaftliche und finanzielle Bedürfnisse im überschaubaren Planungszeitraum. Die Tatbestandsmerkmale verlangen einen Zusammenhang zwischen der nicht notwendigen Thesaurierung und dem Unterschreiten der Ausschüttungsschwelle.
 
@@ -475,7 +425,7 @@ Beispiel: Die Mehrheit stellt den gesamten ausschüttungsfähigen Gewinn ohne tr
 
 § 255 trennt bei Kapitalerhöhungen gegen Einlagen die Kontrolle des Beschlusses von der Korrektur eines unangemessen niedrigen Einlagewerts. Nach Absatz 1 bleibt die Anfechtung nach § 243 grundsätzlich eröffnet. Absatz 2 schließt jedoch sowohl § 243 Absatz 2 als Anfechtungsgrund als auch die Rüge eines unangemessen niedrigen auf die Aktie entfallenden Einlagewerts aus. Andere Gesetzes- oder Satzungsverstöße werden dadurch nicht allgemein immunisiert. Das Verfahren richtet sich nach Absatz 3 nach §§ 244–248a.
 
-Absatz 4 gibt bei ganz oder teilweise ausgeschlossenem Bezugsrecht einen Anspruch auf bare Ausgleichszahlung, soweit der Aktionär vom Bezugsrecht ausgeschlossen und sein Wirksamkeitsangriff nach Absatz 2 abgeschnitten ist. Ausgenommen ist ein Bezugsrechtsausschluss nach § 186 Absatz 3 Satz 4. Die Sonderwege der §§ 255a und 255b bleiben vorbehalten. Die Bewertungskorrektur führt also grundsätzlich nicht zur Beseitigung der Kapitalerhöhung.
+Absatz 4 gibt bei ganz oder teilweise ausgeschlossenem Bezugsrecht und unangemessen niedrigem auf eine Aktie entfallendem Einlagewert einen Anspruch auf bare Ausgleichszahlung, soweit der Aktionär vom Bezugsrecht ausgeschlossen und sein Wirksamkeitsangriff nach Absatz 2 abgeschnitten ist. Ausgenommen ist ein Bezugsrechtsausschluss nach § 186 Absatz 3 Satz 4. Die Sonderwege der §§ 255a und 255b bleiben vorbehalten. Die Bewertungskorrektur führt also grundsätzlich nicht zur Beseitigung der Kapitalerhöhung.
 
 Für börsennotierte Gesellschaften knüpft Absatz 5 den Aktienwert an den Börsenkurs und lässt den Ausgleich bei nicht wesentlicher Unterschreitung entfallen. Diese Anknüpfung hat wichtige Grenzen: einschlägige Verstöße gegen die Veröffentlichung von Insiderinformationen, kursrelevante Marktmanipulation und die gesetzlich kombinierte geringe Handelsdichte mit starken Kurssprüngen. Bei Insider- und Manipulationsverstößen bleiben fehlende oder nur unwesentliche Auswirkungen auf den errechneten Kurs wiederum unbeachtlich. Der Referenzkurs wird nach den ausdrücklich entsprechend anwendbaren Regeln der WpÜG-Angebotsverordnung berechnet; Bezugspunkt ist der Tag vor der Ausgabeentscheidung. Ist dessen Tageskurs niedriger, geht dieser vor. Eine selbst gewählte Momentaufnahme ersetzt die gesetzliche Berechnung nicht.
 
@@ -513,6 +463,6 @@ Absatz 2 schützt die Anspruchsberechtigten vor einer Entwertung durch zwischenz
 
 Absatz 3 ordnet Geldzuzahlung für Spitzen und bei unmöglich gewordener Aktiengewährung an. Absatz 4 schützt Aktionäre, die infolge einer späteren strukturverändernden Maßnahme ausgeschieden sind, durch Geldentschädigung unter Berücksichtigung ihrer Abfindung. Absatz 5 ergänzt einen Ausgleich entgangener Gewinne oder Leistungen nach § 304. Diese Positionen sind getrennt zu ermitteln; der Aktienausgleich allein deckt sie nicht automatisch ab.
 
-Absatz 6 übernimmt die Bewertungs- und Verfahrensregeln des § 255 Absätze 5–7, nimmt dessen allgemeinen Zinsbeginn aber aus. Für die dort bezeichneten Geldansprüche kommt es auf die hypothetische Fälligkeit von Abfindung, Gewinnausschüttung oder wiederkehrender Leistung an. Bei Abwicklung nach § 255b endet der Zinslauf mit dem Empfang der bezeichneten Leistungen durch den Treuhänder. Absatz 7 legt das Beschaffungsrisiko der Gesellschaft auf; Schwierigkeiten der Aktienbeschaffung dürfen nicht einfach den Berechtigten zugeschoben werden.
+Absatz 6 übernimmt die Bewertungs- und Verfahrensregeln des § 255 Absätze 5–7, nimmt dessen allgemeinen Zinsbeginn aber aus. Für die in Absatz 6 Satz 2 ausdrücklich auf Absätze 3 und 4 bezogenen Geldansprüche kommt es auf die dort bezeichnete hypothetische Fälligkeit von Abfindung, Gewinnausschüttung oder wiederkehrender Leistung an. Auffällig ist, dass die Worte zu Gewinnausschüttung und wiederkehrender Leistung inhaltlich auch Absatz 5 berühren, der Verweis diesen Absatz jedoch nicht nennt. Der amtliche Verweis wird hier nicht stillschweigend auf Absatz 5 umgeschrieben; die Zuordnung und Verzinsung dieser Nebenentschädigung bedürfen einer eigenständigen Auslegung. Bei Abwicklung nach § 255b endet der Zinslauf mit dem Empfang der bezeichneten Leistungen durch den Treuhänder. Absatz 7 legt das Beschaffungsrisiko der Gesellschaft auf; Schwierigkeiten der Aktienbeschaffung dürfen nicht einfach den Berechtigten zugeschoben werden.
 
 Beispiel: Bis zur rechtskräftigen Ausgleichsentscheidung hat die AG eine weitere Kapitalerhöhung aus Gesellschaftsmitteln vorgenommen und Dividenden gezahlt. Bei der Abrechnung müssen die zusätzlich zustehenden Aktien und die entgangenen Ausschüttungen gesondert berücksichtigt werden. Prüfliste für den Aktienausgleich: ursprüngliche Beschlussbestimmung, Anspruchsbestand, sämtliche Zwischenmaßnahmen, nachzuholende Bezugsrechte samt Monatsfrist, Spitzen, ausgeschiedene Berechtigte, Geldnebenleistungen und zutreffender Zinszeitraum.
