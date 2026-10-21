@@ -1,4 +1,4 @@
-# INDEX — Begrenzter Autorencheckpoint §§ 274–293
+# INDEX — Geprüfter Teilcheckpoint §§ 274–293
 
 - [00-einleitung.md](00-einleitung.md) — Geltungsstand, Methode und Benutzung
 - [15-aufloesung.md](15-aufloesung.md) — Kommentarkapitel 15: Auflösung, Abwicklung und Nichtigkeit

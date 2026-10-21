@@ -2,8 +2,8 @@
   "stage": "reviewing",
   "decisive_date": "2026-10-19",
   "total_units": 393,
-  "completed_units": 300,
-  "remaining_units": 93,
+  "completed_units": 320,
+  "remaining_units": 73,
   "validation_result": {
     "ok": false,
     "verbatim_ratio": 1.0,
@@ -11,9 +11,9 @@
       "repo": "Komentar-DE-AKTG-1965",
       "units": 393,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 469263,
+      "commentary_chars": 503706,
       "errors": [
-        "krátký/chybějící komentář u 93 jednotek: ['p274(0<400)', 'p275(0<400)', 'p276(0<400)', 'p277(0<400)', 'p278(0<400)', 'p279(0<400)', 'p280(0<400)', 'p281(0<400)']"
+        "krátký/chybějící komentář u 73 jednotek: ['p293a(0<400)', 'p293b(0<400)', 'p293c(0<400)', 'p293d(0<400)', 'p293e(0<400)', 'p293f(0<400)', 'p293g(0<400)', 'p294(0<400)']"
       ],
       "warnings": [],
       "ok": false
@@ -22,37 +22,17 @@
       "repo": "Komentar-DE-AKTG-1965",
       "units": 20,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 37771,
+      "commentary_chars": 34630,
       "errors": [],
       "warnings": [],
       "ok": true
     }
   },
   "independent_review": false,
-  "checkpoint": "review-result-batch-015.json",
-  "updated_at": "2026-10-21T00:11:00.102044+00:00",
+  "checkpoint": "review-result-batch-016.json",
+  "updated_at": "2026-10-21T00:20:08.791125+00:00",
   "complete": false,
   "remaining_unit_ids": [
-    "p274",
-    "p275",
-    "p276",
-    "p277",
-    "p278",
-    "p279",
-    "p280",
-    "p281",
-    "p282",
-    "p283",
-    "p284",
-    "p285",
-    "p286",
-    "p287",
-    "p288",
-    "p289",
-    "p290",
-    "p291",
-    "p292",
-    "p293",
     "p293a",
     "p293b",
     "p293c",
@@ -187,30 +167,30 @@
   },
   "latest_bounded_review": {
     "reviewed_ids": [
-      "p255b",
-      "p256",
-      "p257",
-      "p258",
-      "p259",
-      "p260",
-      "p261",
-      "p261a",
-      "p262",
-      "p263",
-      "p264",
-      "p265",
-      "p266",
-      "p267",
-      "p268",
-      "p269",
-      "p270",
-      "p271",
-      "p272",
-      "p273"
+      "p274",
+      "p275",
+      "p276",
+      "p277",
+      "p278",
+      "p279",
+      "p280",
+      "p281",
+      "p282",
+      "p283",
+      "p284",
+      "p285",
+      "p286",
+      "p287",
+      "p288",
+      "p289",
+      "p290",
+      "p291",
+      "p292",
+      "p293"
     ],
     "units_reviewed": 20,
     "complete": true,
-    "evidence": "review-result-batch-015.json"
+    "evidence": "review-result-batch-016.json"
   },
   "validation": {
     "verbatim_ratio": 1.0,
@@ -256,5 +236,68 @@
     "statutory_text_agreement": 1.0,
     "report": "author-result-p255b-p273.json",
     "whole_book_complete": false
+  },
+  "author_batch_p274_p293": {
+    "kind": "author",
+    "complete": true,
+    "assigned_ids": [
+      "p274",
+      "p275",
+      "p276",
+      "p277",
+      "p278",
+      "p279",
+      "p280",
+      "p281",
+      "p282",
+      "p283",
+      "p284",
+      "p285",
+      "p286",
+      "p287",
+      "p288",
+      "p289",
+      "p290",
+      "p291",
+      "p292",
+      "p293"
+    ],
+    "completed_units": 20,
+    "commentary_chars": 34630,
+    "stage": "bounded_batch_drafted_technical_validation",
+    "full_book_complete": false,
+    "source_verification": "sources/author-p274-p293-verification.json",
+    "completeness": "completeness-author-p274-p293.json",
+    "case_law_sources": [
+      "authorities/case-OLG-BB-6-AktG-1-23.md"
+    ],
+    "validation_result": {
+      "repo": "Komentar-DE-AKTG-1965",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 34630,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "whole_book_validation": {
+      "repo": "Komentar-DE-AKTG-1965",
+      "units": 393,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 503706,
+      "errors": [
+        "krátký/chybějící komentář u 73 jednotek: ['p293a(0<400)', 'p293b(0<400)', 'p293c(0<400)', 'p293d(0<400)', 'p293e(0<400)', 'p293f(0<400)', 'p293g(0<400)', 'p294(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "limitations": [
+      "73 comments outside assigned scope remain absent.",
+      "Selective case-law research.",
+      "Independent second pass remains pending.",
+      "Official consolidation and latest listed amendment checked, no exhaustive subsequent gazette screening."
+    ],
+    "output_commit": "088f353",
+    "updated_at": "2026-10-21T00:17:20.939693+00:00"
   }
 }

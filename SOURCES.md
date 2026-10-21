@@ -41,3 +41,5 @@ Prüfbatch §§ 239–255a: [Befunde](review-result-batch-014.json), [amtliches 
 Ergänzender Querverweisabgleich für Prüfbatch 014: UmwG §§ 20/72a, HGB §§ 267/316 und WpÜG-Angebotsverordnung § 5 aus amtlichem XML gelesen; [Abrufnachweise](sources/review014-crossref-verification.json). Ein zunächst falsch angesetzter Verordnungspfad lieferte HTTP 404; der richtige amtliche Pfad wurde anschließend erfolgreich abgerufen.
 
 Prüfbatch §§ 255b–273: [Befunde](review-result-batch-015.json), [amtliches XML](sources/review-p255b-p273.xml), [Fallkarte Abschluss](authorities/case-II-ZR-56-18-batch.md), [Fallkarte Nachtragsabwicklung](authorities/case-II-ZB-19-15-batch.md).
+
+Zweite Durchsicht §§ 274–293: [Einzelbefunde](review-result-batch-016.json), [amtliches XML](sources/review-p274-p293.xml), [Abrufnachweis](sources/verification.json), [Fallkarte](authorities/case-OLG-BB-6-AktG-1-23.md).

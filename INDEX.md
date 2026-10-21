@@ -16,3 +16,5 @@
 - [Bedingtes und genehmigtes Kapital](10-bedingtes-genehmigtes-kapital.md)
 
 - [Arbeitsstand §§ 207–218](11-gesellschaftsmittel-p207-p218.md)
+
+[Geprüfter Teilcheckpoint §§ 274–293](checkpoint-p274-p293/INDEX.md) — genau 20 Einheiten, keine Gesamtausgabe.

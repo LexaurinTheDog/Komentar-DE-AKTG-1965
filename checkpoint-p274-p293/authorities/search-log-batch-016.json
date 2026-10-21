@@ -1,0 +1,13 @@
+{
+  "verified_at": "2026-10-21T00:20:08.791125+00:00",
+  "primary_source": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/22303",
+  "full_text_read": true,
+  "primary_snapshot": "authorities/OLG-BB-6-AktG-1-23-review016.html",
+  "query": "rg -l \"6 AktG 1/23\" /Volumes/LaCie/law-intake/eu/de/rii -g \"*.md\"",
+  "local_corpus_result": "Keine Treffer für genaue Geschäftsnummer; amtlicher Landesvolltext verwendet.",
+  "supported_units": [
+    "p293"
+  ],
+  "other_assigned_units": "Keine weitere Entscheidung hinzugefügt; keine Einzelrecherche zu jeder technischen Norm behauptet.",
+  "limitations": "Selektive Rechtsprechung: OLG Brandenburg 6 AktG 1/23 im gesamten amtlichen Volltext gelesen; keine umfassende Folgeentscheidungsrecherche. Lokaler RII-Korpus: Suche nach genauer Geschäftsnummer ohne Treffer."
+}

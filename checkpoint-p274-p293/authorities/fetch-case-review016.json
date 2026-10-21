@@ -1,0 +1,10 @@
+{
+  "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/22303",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "accessed_at": "2026-10-21T00:18:47.241326+00:00",
+  "sha256": "e933d0500e5fbd196bf35d31a0a986a834bd771e911457e914e2a9dcd95a1b04",
+  "path": "authorities/OLG-BB-6-AktG-1-23-review016.html",
+  "format_validated": "HTML with docket and court reasons, not challenge",
+  "prior_snapshot_sha256": "e933d0500e5fbd196bf35d31a0a986a834bd771e911457e914e2a9dcd95a1b04"
+}
