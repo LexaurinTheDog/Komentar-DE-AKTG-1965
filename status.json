@@ -22,7 +22,7 @@
       "repo": "Komentar-DE-AKTG-1965",
       "units": 20,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 37958,
+      "commentary_chars": 37771,
       "errors": [],
       "warnings": [],
       "ok": true
@@ -153,8 +153,7 @@
     "Genau die 20 zugewiesenen Einheiten p255b–p273 einschließlich p261a geprüft; keine Gesamtbuchfreigabe.",
     "Selektive Rechtsprechung: beide zitierten BGH-Volltexte gelesen und amtlichem XML gegenübergestellt; keine erschöpfende Folgeentscheidungsrecherche.",
     "Aktuelle amtliche Konsolidierung und Inkrafttreten der letzten ausgewiesenen Novelle geprüft; keine lückenlose Durchsicht aller späteren Gesetzblätter.",
-    "93 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung.",
-    "Auffällige Satzverweisung in § 255b Absatz 5 offengelegt; keine gerichtliche Klärung behauptet."
+    "93 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung."
   ],
   "preflight_complete": true,
   "bounded_author_result": "eingangsformel-result.json",
