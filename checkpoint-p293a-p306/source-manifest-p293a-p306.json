@@ -1,0 +1,45 @@
+{
+  "scope": "p293a–p306",
+  "files": [
+    {
+      "path": "sources/author-p293a-p306.xml",
+      "bytes": 700066,
+      "sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea"
+    },
+    {
+      "path": "sources/author-p293a-p306.zip",
+      "bytes": 140159,
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d"
+    },
+    {
+      "path": "sources/verification.json",
+      "bytes": 25768,
+      "sha256": "e5abd42a2811a68d696a0ddae59d2fe6bf034478b2b4694a80566b45d237b459"
+    },
+    {
+      "path": "authorities/KORE300272023.xml",
+      "bytes": 79699,
+      "sha256": "809baf5c3b66bad2cabc460b09bf0ed8c71ce58347e882898d320856a10f936a"
+    },
+    {
+      "path": "authorities/KORE300272023.zip",
+      "bytes": 18520,
+      "sha256": "6ba470f6f1d7e8a1711cd90fad160c78254162dcc7207286516132b4f7da2d26"
+    },
+    {
+      "path": "authorities/case-II-ZB-12-21.md",
+      "bytes": 3017,
+      "sha256": "156813ffd5906ac918845b072707c35b5e1e29e398e084377c515b1363a9c3f8"
+    },
+    {
+      "path": "authorities/verification-p293a-p306.json",
+      "bytes": 384,
+      "sha256": "823a69d17f9515ded18f77e796ce88fb839def660d427810b46521f0f716bcf7"
+    },
+    {
+      "path": "authorities/search-log-p293a-p306.json",
+      "bytes": 1111,
+      "sha256": "0060d14f728ca63d8703c4f6dd3bcca8135e56b489d18a7b7393b9a893bf837b"
+    }
+  ]
+}
