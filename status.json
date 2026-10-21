@@ -1,5 +1,5 @@
 {
-  "stage": "reviewing",
+  "stage": "drafted_technical_validation",
   "decisive_date": "2026-10-19",
   "total_units": 393,
   "completed_units": 393,
@@ -14,14 +14,14 @@
     "ok": true
   },
   "independent_review": false,
-  "checkpoint": "author-result-p400-p410.json",
-  "updated_at": "2026-10-21T00:59:14.897251+00:00",
-  "complete": false,
+  "checkpoint": "finalization-result.json",
+  "updated_at": "2026-10-21T01:01:39.240183+00:00",
+  "complete": true,
   "remaining_unit_ids": [],
-  "commentary_chars": 651284,
+  "commentary_chars": 651924,
   "completed_chapters": 20,
   "total_chapters": 20,
-  "commented_scope": "Eingangsformel und sämtliche 392 nummerierten amtlichen Datensätze; §§ 400–410 neu in diesem Autorenbatch",
+  "commented_scope": "Eingangsformel und alle 392 nummerierten amtlichen Datensätze",
   "source_checks": {
     "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
     "accessed_at": "2026-10-21T00:51:27.884483+00:00",
@@ -41,87 +41,33 @@
     "xml_path": "sources/author-p400-p410.xml"
   },
   "case_law_sources": [
-    "KORE301422016",
-    "KORE300612013",
-    "KORE302052021",
-    "OLG München 31.07.2024 – 7 U 351/23 e"
+    "authorities/BGH-II-ZR-141-21.md",
+    "authorities/BGH-II-ZR-278-16.md",
+    "authorities/case-BVerwG-8-C-3-23.md",
+    "authorities/case-II-ZB-10-25.md",
+    "authorities/case-II-ZB-12-21.md",
+    "authorities/case-II-ZB-19-15-batch.md",
+    "authorities/case-II-ZB-28-12.md",
+    "authorities/case-II-ZR-141-09.md",
+    "authorities/case-II-ZR-155-02.md",
+    "authorities/case-II-ZR-179-12.md",
+    "authorities/case-II-ZR-225-20.md",
+    "authorities/case-II-ZR-24-09.md",
+    "authorities/case-II-ZR-268-14.md",
+    "authorities/case-II-ZR-361-13.md",
+    "authorities/case-II-ZR-364-18.md",
+    "authorities/case-II-ZR-56-18-batch.md",
+    "authorities/case-OLG-BB-6-AktG-1-23.md",
+    "cases/olg-muenchen-2024-07-31.md"
   ],
   "remaining_limitations": [
-    "Genau 13 zugewiesene Einheiten geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Genehmigung.",
-    "Selektive Rechtsprechung: OLG München 7 U 351/23 e Rn. 1–108 vollständig gelesen; keine erschöpfende Folgeentscheidungsrecherche. Für die übrigen Einheiten keine zusätzliche verifizierte Entscheidung aufgenommen.",
-    "Aktuelle amtliche Konsolidierung und letzte ausgewiesene Novelle einschließlich Inkrafttreten geprüft; keine lückenlose Sichtung sämtlicher späteren Gesetzblätter.",
-    "Technische Wortlaut-, Längen- und Wiederholungsprüfungen ersetzen keine juristische Bewertung."
+    "Selektive Rechtsprechungsrecherche; keine erschöpfende Folgeentscheidungsprüfung.",
+    "Amtliche Konsolidierung und zuletzt ausgewiesene Novelle einschließlich Inkrafttreten geprüft; keine lückenlose Sichtung sämtlicher späteren Gesetzblätter.",
+    "Abschlussmontage auf Grundlage der dokumentierten Einzelprüfungen; keine zusätzliche unabhängige Durchsicht durch diesen Finalisierungslauf und keine externe anwaltliche Freigabe.",
+    "Technische Prüfungen belegen keine juristische Fehlerfreiheit."
   ],
   "preflight_complete": true,
   "bounded_author_result": "author-result-p400-p410.json",
-  "bounded_review": {
-    "complete": true,
-    "units_reviewed": 20,
-    "reviewed_ids": [
-      "Eingangsformel",
-      "p1",
-      "p2",
-      "p3",
-      "p4",
-      "p5",
-      "p6",
-      "p7",
-      "p8",
-      "p9",
-      "p10",
-      "p11",
-      "p12",
-      "p13",
-      "p14",
-      "p15",
-      "p16",
-      "p17",
-      "p18",
-      "p19"
-    ],
-    "evidence": "review-result.json",
-    "full_book_review_complete": false
-  },
-  "latest_bounded_review": {
-    "reviewed_ids": [
-      "p400",
-      "p401",
-      "p402",
-      "p403",
-      "p404",
-      "p404a",
-      "p405",
-      "p406",
-      "p407",
-      "p407a",
-      "p408",
-      "p409",
-      "p410"
-    ],
-    "units_reviewed": 13,
-    "complete": true,
-    "evidence": "review-result-batch-020.json",
-    "validation_result": {
-      "repo": "Komentar-DE-AKTG-1965",
-      "units": 393,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 651924,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    }
-  },
-  "validation": {
-    "repo": "Komentar-DE-AKTG-1965",
-    "units": 393,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 586163,
-    "errors": [
-      "krátký/chybějící komentář u 33 jednotek: ['p325(0<120)', 'p326(0<400)', 'p327(0<400)', 'p327a(0<400)', 'p327b(0<400)', 'p327c(0<400)', 'p327d(0<400)', 'p327e(0<400)']"
-    ],
-    "warnings": [],
-    "ok": false
-  },
   "last_author_batch": [
     "p325",
     "p326",
@@ -380,5 +326,84 @@
   ],
   "case_law_sources_last_batch": [
     "authorities/case-BVerwG-8-C-3-23.md"
-  ]
+  ],
+  "historical_status_before_finalization": {
+    "validation": {
+      "repo": "Komentar-DE-AKTG-1965",
+      "units": 393,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 586163,
+      "errors": [
+        "krátký/chybějící komentář u 33 jednotek: ['p325(0<120)', 'p326(0<400)', 'p327(0<400)', 'p327a(0<400)', 'p327b(0<400)', 'p327c(0<400)', 'p327d(0<400)', 'p327e(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "remaining_limitations": [
+      "Genau 13 zugewiesene Einheiten geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Genehmigung.",
+      "Selektive Rechtsprechung: OLG München 7 U 351/23 e Rn. 1–108 vollständig gelesen; keine erschöpfende Folgeentscheidungsrecherche. Für die übrigen Einheiten keine zusätzliche verifizierte Entscheidung aufgenommen.",
+      "Aktuelle amtliche Konsolidierung und letzte ausgewiesene Novelle einschließlich Inkrafttreten geprüft; keine lückenlose Sichtung sämtlicher späteren Gesetzblätter.",
+      "Technische Wortlaut-, Längen- und Wiederholungsprüfungen ersetzen keine juristische Bewertung."
+    ],
+    "bounded_review": {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "Eingangsformel",
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5",
+        "p6",
+        "p7",
+        "p8",
+        "p9",
+        "p10",
+        "p11",
+        "p12",
+        "p13",
+        "p14",
+        "p15",
+        "p16",
+        "p17",
+        "p18",
+        "p19"
+      ],
+      "evidence": "review-result.json",
+      "full_book_review_complete": false
+    },
+    "latest_bounded_review": {
+      "reviewed_ids": [
+        "p400",
+        "p401",
+        "p402",
+        "p403",
+        "p404",
+        "p404a",
+        "p405",
+        "p406",
+        "p407",
+        "p407a",
+        "p408",
+        "p409",
+        "p410"
+      ],
+      "units_reviewed": 13,
+      "complete": true,
+      "evidence": "review-result-batch-020.json",
+      "validation_result": {
+        "repo": "Komentar-DE-AKTG-1965",
+        "units": 393,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 651924,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      }
+    }
+  },
+  "finalization_complete": true,
+  "ledger_second_pass_coverage_complete": true,
+  "review_basis": "batch-review-ledger.json"
 }

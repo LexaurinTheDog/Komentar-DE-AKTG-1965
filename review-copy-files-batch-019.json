@@ -1,0 +1,23 @@
+[
+  "REVIEW.md",
+  "SOURCES.md",
+  "review-result.json",
+  "review-result-batch-019.json",
+  "review-before-batch-019.json",
+  "review-checks-batch-019.json",
+  "review-build-batch-019.txt",
+  "preflight-result.json",
+  "status.json",
+  "sources/verification.json",
+  "sources/review-p325-p399-verification.json",
+  "sources/review-p325-p399.xml",
+  "sources/review-p325-p399.zip",
+  "authorities/WBRE202500014-review019.zip",
+  "authorities/WBRE202500014-review019.xml",
+  "authorities/case-BVerwG-8-C-3-23.md",
+  "authorities/search-log-batch-019.json",
+  "source-manifest.json",
+  "19-eingliederung-ausschluss.md",
+  "20-sonder-schluss-teilcheckpoint-p329-p399.md",
+  "checkpoints/p325-p399"
+]

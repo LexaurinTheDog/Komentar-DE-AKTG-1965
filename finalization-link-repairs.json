@@ -1,0 +1,772 @@
+[
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "audit.json",
+    "new": "../audit.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "validation.json",
+    "new": "../validation.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-result-batch-002.json",
+    "new": "../review-result-batch-002.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-result-batch-001.json",
+    "new": "../review-result-batch-001.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-batch-validation.json",
+    "new": "../review-batch-validation.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-result-batch-003.json",
+    "new": "../review-result-batch-003.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-result-batch-004.json",
+    "new": "../review-result-batch-004.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-result-batch-005.json",
+    "new": "../review-result-batch-005.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "sources/review-p71-p85.xml",
+    "new": "../sources/review-p71-p85.xml"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-result-batch-006.json",
+    "new": "../review-result-batch-006.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "sources/review-p86-p104.xml",
+    "new": "../sources/review-p86-p104.xml"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-result-batch-007.json",
+    "new": "../review-result-batch-007.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "authorities/case-II-ZR-155-02.md",
+    "new": "../authorities/case-II-ZR-155-02.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "authorities/search-log-batch-007.json",
+    "new": "../authorities/search-log-batch-007.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "sources/review-p105-p120.xml",
+    "new": "../sources/review-p105-p120.xml"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-result-batch-008.json",
+    "new": "../review-result-batch-008.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-checks-batch-008.json",
+    "new": "../review-checks-batch-008.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "authorities/case-II-ZB-28-12.md",
+    "new": "../authorities/case-II-ZB-28-12.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "authorities/search-log-batch-008.json",
+    "new": "../authorities/search-log-batch-008.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "sources/review-p120a-p134b.xml",
+    "new": "../sources/review-p120a-p134b.xml"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-result-batch-009.json",
+    "new": "../review-result-batch-009.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-checks-batch-009.json",
+    "new": "../review-checks-batch-009.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "authorities/case-II-ZB-10-25.md",
+    "new": "../authorities/case-II-ZB-10-25.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-result-batch-010.json",
+    "new": "../review-result-batch-010.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-checks-batch-010.json",
+    "new": "../review-checks-batch-010.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "authorities/case-II-ZR-364-18.md",
+    "new": "../authorities/case-II-ZR-364-18.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-result-batch-011.json",
+    "new": "../review-result-batch-011.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-checks-batch-011.json",
+    "new": "../review-checks-batch-011.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "authorities/search-log-batch-011.json",
+    "new": "../authorities/search-log-batch-011.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-result-batch-012.json",
+    "new": "../review-result-batch-012.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-checks-batch-012.json",
+    "new": "../review-checks-batch-012.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "authorities/BGH-II-ZR-141-21.md",
+    "new": "../authorities/BGH-II-ZR-141-21.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "authorities/search-log-batch-012.json",
+    "new": "../authorities/search-log-batch-012.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-result-batch-013.json",
+    "new": "../review-result-batch-013.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-checks-batch-013.json",
+    "new": "../review-checks-batch-013.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "authorities/BGH-II-ZR-278-16.md",
+    "new": "../authorities/BGH-II-ZR-278-16.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "authorities/search-log-batch-013.json",
+    "new": "../authorities/search-log-batch-013.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-result-batch-014.json",
+    "new": "../review-result-batch-014.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "review-checks-batch-014.json",
+    "new": "../review-checks-batch-014.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "authorities/case-II-ZR-24-09.md",
+    "new": "../authorities/case-II-ZR-24-09.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/REVIEW.md",
+    "old": "authorities/search-log-batch-014.json",
+    "new": "../authorities/search-log-batch-014.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/gesamt.html",
+    "new": "../sources/gesamt.html"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/aktg.xml",
+    "new": "../sources/aktg.xml"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/aktg.zip",
+    "new": "../sources/aktg.zip"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/index.html",
+    "new": "../sources/index.html"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/bgbl-2026-I-33.pdf",
+    "new": "../sources/bgbl-2026-I-33.pdf"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/bgbl-2026-I-33.txt",
+    "new": "../sources/bgbl-2026-I-33.txt"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/intake-2026-10-01.md",
+    "new": "../sources/intake-2026-10-01.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/intake-2026-10-01.xml",
+    "new": "../sources/intake-2026-10-01.xml"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/intake-2026-10-01.zip",
+    "new": "../sources/intake-2026-10-01.zip"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/case-II-ZR-268-14.md",
+    "new": "../authorities/case-II-ZR-268-14.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/case-II-ZR-179-12.md",
+    "new": "../authorities/case-II-ZR-179-12.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/case-II-ZR-225-20.md",
+    "new": "../authorities/case-II-ZR-225-20.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/verification.json",
+    "new": "../authorities/verification.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/search-log.json",
+    "new": "../authorities/search-log.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/change-map.json",
+    "new": "../sources/change-map.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "review-result-batch-007.json",
+    "new": "../review-result-batch-007.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/review-p105-p120.xml",
+    "new": "../sources/review-p105-p120.xml"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/case-II-ZR-155-02.md",
+    "new": "../authorities/case-II-ZR-155-02.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/search-log-batch-007.json",
+    "new": "../authorities/search-log-batch-007.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/verification-batch-007.json",
+    "new": "../authorities/verification-batch-007.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "review-result-batch-008.json",
+    "new": "../review-result-batch-008.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/review-p120a-p134b.xml",
+    "new": "../sources/review-p120a-p134b.xml"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/case-II-ZB-28-12.md",
+    "new": "../authorities/case-II-ZB-28-12.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/search-log-batch-008.json",
+    "new": "../authorities/search-log-batch-008.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "review-result-batch-009.json",
+    "new": "../review-result-batch-009.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/review-p134c-p150a.xml",
+    "new": "../sources/review-p134c-p150a.xml"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/case-II-ZB-10-25.md",
+    "new": "../authorities/case-II-ZB-10-25.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/search-log-batch-009.json",
+    "new": "../authorities/search-log-batch-009.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "review-result-batch-010.json",
+    "new": "../review-result-batch-010.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/review-p151-p179a.xml",
+    "new": "../sources/review-p151-p179a.xml"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/case-II-ZR-364-18.md",
+    "new": "../authorities/case-II-ZR-364-18.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/search-log-batch-010.json",
+    "new": "../authorities/search-log-batch-010.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "review-result-batch-011.json",
+    "new": "../review-result-batch-011.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/review-p180-p198.xml",
+    "new": "../sources/review-p180-p198.xml"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/search-log-batch-011.json",
+    "new": "../authorities/search-log-batch-011.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "review-result-batch-012.json",
+    "new": "../review-result-batch-012.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/review-p199-p218.xml",
+    "new": "../sources/review-p199-p218.xml"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/BGH-II-ZR-141-21.md",
+    "new": "../authorities/BGH-II-ZR-141-21.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/search-log-batch-012.json",
+    "new": "../authorities/search-log-batch-012.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "review-result-batch-013.json",
+    "new": "../review-result-batch-013.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/review-p219-p238.xml",
+    "new": "../sources/review-p219-p238.xml"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/BGH-II-ZR-278-16.md",
+    "new": "../authorities/BGH-II-ZR-278-16.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/search-log-batch-013.json",
+    "new": "../authorities/search-log-batch-013.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "review-result-batch-014.json",
+    "new": "../review-result-batch-014.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/review-p239-p255a.xml",
+    "new": "../sources/review-p239-p255a.xml"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/case-II-ZR-24-09.md",
+    "new": "../authorities/case-II-ZR-24-09.md"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "authorities/search-log-batch-014.json",
+    "new": "../authorities/search-log-batch-014.json"
+  },
+  {
+    "file": "checkpoint-p255b-p273/SOURCES.md",
+    "old": "sources/review014-crossref-verification.json",
+    "new": "../sources/review014-crossref-verification.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/gesamt.html",
+    "new": "../../sources/gesamt.html"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/aktg.xml",
+    "new": "../../sources/aktg.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/aktg.zip",
+    "new": "../../sources/aktg.zip"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/index.html",
+    "new": "../../sources/index.html"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/bgbl-2026-I-33.pdf",
+    "new": "../../sources/bgbl-2026-I-33.pdf"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/bgbl-2026-I-33.txt",
+    "new": "../../sources/bgbl-2026-I-33.txt"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/intake-2026-10-01.md",
+    "new": "../../sources/intake-2026-10-01.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/intake-2026-10-01.xml",
+    "new": "../../sources/intake-2026-10-01.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/intake-2026-10-01.zip",
+    "new": "../../sources/intake-2026-10-01.zip"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/case-II-ZR-268-14.md",
+    "new": "../../authorities/case-II-ZR-268-14.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/case-II-ZR-179-12.md",
+    "new": "../../authorities/case-II-ZR-179-12.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/case-II-ZR-225-20.md",
+    "new": "../../authorities/case-II-ZR-225-20.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/verification.json",
+    "new": "../../authorities/verification.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/search-log.json",
+    "new": "../../authorities/search-log.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/change-map.json",
+    "new": "../../sources/change-map.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "review-result-batch-007.json",
+    "new": "../../review-result-batch-007.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/review-p105-p120.xml",
+    "new": "../../sources/review-p105-p120.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/case-II-ZR-155-02.md",
+    "new": "../../authorities/case-II-ZR-155-02.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/search-log-batch-007.json",
+    "new": "../../authorities/search-log-batch-007.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/verification-batch-007.json",
+    "new": "../../authorities/verification-batch-007.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "review-result-batch-008.json",
+    "new": "../../review-result-batch-008.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/review-p120a-p134b.xml",
+    "new": "../../sources/review-p120a-p134b.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/case-II-ZB-28-12.md",
+    "new": "../../authorities/case-II-ZB-28-12.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/search-log-batch-008.json",
+    "new": "../../authorities/search-log-batch-008.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "review-result-batch-009.json",
+    "new": "../../review-result-batch-009.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/review-p134c-p150a.xml",
+    "new": "../../sources/review-p134c-p150a.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/case-II-ZB-10-25.md",
+    "new": "../../authorities/case-II-ZB-10-25.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/search-log-batch-009.json",
+    "new": "../../authorities/search-log-batch-009.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "review-result-batch-010.json",
+    "new": "../../review-result-batch-010.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/review-p151-p179a.xml",
+    "new": "../../sources/review-p151-p179a.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/case-II-ZR-364-18.md",
+    "new": "../../authorities/case-II-ZR-364-18.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/search-log-batch-010.json",
+    "new": "../../authorities/search-log-batch-010.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "review-result-batch-011.json",
+    "new": "../../review-result-batch-011.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/review-p180-p198.xml",
+    "new": "../../sources/review-p180-p198.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/search-log-batch-011.json",
+    "new": "../../authorities/search-log-batch-011.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "review-result-batch-012.json",
+    "new": "../../review-result-batch-012.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/review-p199-p218.xml",
+    "new": "../../sources/review-p199-p218.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/BGH-II-ZR-141-21.md",
+    "new": "../../authorities/BGH-II-ZR-141-21.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/search-log-batch-012.json",
+    "new": "../../authorities/search-log-batch-012.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "review-result-batch-013.json",
+    "new": "../../review-result-batch-013.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/review-p219-p238.xml",
+    "new": "../../sources/review-p219-p238.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/BGH-II-ZR-278-16.md",
+    "new": "../../authorities/BGH-II-ZR-278-16.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/search-log-batch-013.json",
+    "new": "../../authorities/search-log-batch-013.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "review-result-batch-014.json",
+    "new": "../../review-result-batch-014.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/review-p239-p255a.xml",
+    "new": "../../sources/review-p239-p255a.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/case-II-ZR-24-09.md",
+    "new": "../../authorities/case-II-ZR-24-09.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/search-log-batch-014.json",
+    "new": "../../authorities/search-log-batch-014.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/review014-crossref-verification.json",
+    "new": "../../sources/review014-crossref-verification.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "review-result-batch-015.json",
+    "new": "../../review-result-batch-015.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/review-p255b-p273.xml",
+    "new": "../../sources/review-p255b-p273.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/case-II-ZR-56-18-batch.md",
+    "new": "../../authorities/case-II-ZR-56-18-batch.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/case-II-ZB-19-15-batch.md",
+    "new": "../../authorities/case-II-ZB-19-15-batch.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "review-result-batch-016.json",
+    "new": "../../review-result-batch-016.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/review-p274-p293.xml",
+    "new": "../../sources/review-p274-p293.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/case-OLG-BB-6-AktG-1-23.md",
+    "new": "../../authorities/case-OLG-BB-6-AktG-1-23.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/author-p293a-p306.xml",
+    "new": "../../sources/author-p293a-p306.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/case-II-ZB-12-21.md",
+    "new": "../../authorities/case-II-ZB-12-21.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/search-log-p293a-p306.json",
+    "new": "../../authorities/search-log-p293a-p306.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "review-result-batch-017.json",
+    "new": "../../review-result-batch-017.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/review-p293a-p306.xml",
+    "new": "../../sources/review-p293a-p306.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/case-II-ZR-361-13.md",
+    "new": "../../authorities/case-II-ZR-361-13.md"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/search-log-batch-017.json",
+    "new": "../../authorities/search-log-batch-017.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "review-result-batch-018.json",
+    "new": "../../review-result-batch-018.json"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "sources/review-p307-p324.xml",
+    "new": "../../sources/review-p307-p324.xml"
+  },
+  {
+    "file": "checkpoints/p325-p399/SOURCES.md",
+    "old": "authorities/fetch-review018.json",
+    "new": "../../authorities/fetch-review018.json"
+  }
+]

@@ -1,0 +1,117 @@
+{
+  "cc": "de",
+  "lang": "de",
+  "repo": "Komentar-DE-AKTG-1965",
+  "repo_dir": "/Volumes/LaCie/open-commentary/de/Komentar-DE-AKTG-1965",
+  "title": "Kommentar zum Aktiengesetz",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-AKTG-1965/sources/aktg-canonical.md",
+  "intro_file": "00-einleitung.md",
+  "intro_desc": "Geltungsstand, Methode und Benutzung",
+  "labels": {
+    "text": "Wortlaut der Vorschrift",
+    "chapter": "Kommentarkapitel",
+    "notes": "Quellenhinweis"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "grundlagen",
+      "title": "Grundlagen und Unternehmensverbindungen"
+    },
+    {
+      "n": 2,
+      "slug": "gruendung",
+      "title": "Gründung und Nachgründung"
+    },
+    {
+      "n": 3,
+      "slug": "aktionaere",
+      "title": "Aktionäre, Aktienregister und eigene Aktien"
+    },
+    {
+      "n": 4,
+      "slug": "vorstand",
+      "title": "Vorstand und Organhaftung"
+    },
+    {
+      "n": 5,
+      "slug": "aufsichtsrat",
+      "title": "Aufsichtsrat und schädlicher Einfluss"
+    },
+    {
+      "n": 6,
+      "slug": "hauptversammlung-vorbereitung",
+      "title": "Hauptversammlung und Vorbereitung"
+    },
+    {
+      "n": 7,
+      "slug": "hauptversammlung-rechte",
+      "title": "Mitwirkung, Sonderprüfung und Rechtsverfolgung"
+    },
+    {
+      "n": 8,
+      "slug": "rechnungslegung",
+      "title": "Rechnungslegung und Gewinnverwendung"
+    },
+    {
+      "n": 9,
+      "slug": "satzung-kapitalerhoehung",
+      "title": "Satzungsänderung und ordentliche Kapitalerhöhung"
+    },
+    {
+      "n": 10,
+      "slug": "bedingtes-genehmigtes-kapital",
+      "title": "Bedingtes und genehmigtes Kapital"
+    },
+    {
+      "n": 11,
+      "slug": "gesellschaftsmittel",
+      "title": "Kapitalerhöhung aus Gesellschaftsmitteln und Schuldverschreibungen"
+    },
+    {
+      "n": 12,
+      "slug": "kapitalherabsetzung",
+      "title": "Kapitalherabsetzung und Einziehung"
+    },
+    {
+      "n": 13,
+      "slug": "beschlussmaengel",
+      "title": "Beschlussmängel und zusätzliche Aktien"
+    },
+    {
+      "n": 14,
+      "slug": "abschlusskontrolle",
+      "title": "Abschlussmängel und Sonderprüfung"
+    },
+    {
+      "n": 15,
+      "slug": "aufloesung",
+      "title": "Auflösung, Abwicklung und Nichtigkeit"
+    },
+    {
+      "n": 16,
+      "slug": "kgaa",
+      "title": "Kommanditgesellschaft auf Aktien"
+    },
+    {
+      "n": 17,
+      "slug": "unternehmensvertraege",
+      "title": "Unternehmensverträge und Gläubigerschutz"
+    },
+    {
+      "n": 18,
+      "slug": "konzernverantwortung",
+      "title": "Außenstehende Aktionäre und Konzernverantwortung"
+    },
+    {
+      "n": 19,
+      "slug": "eingliederung-ausschluss",
+      "title": "Eingliederung, Ausschluss und wechselseitige Beteiligung"
+    },
+    {
+      "n": 20,
+      "slug": "sonder-schluss",
+      "title": "Öffentliche Beteiligung, Sanktionen und Schlussvorschriften"
+    }
+  ]
+}

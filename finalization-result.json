@@ -1,0 +1,23 @@
+{
+  "task": "finalize",
+  "assembled_at": "2026-10-21T01:01:12.826317+00:00",
+  "ledger_batches": 20,
+  "ledger_reviewed_units": 393,
+  "commentary_hash_mismatches": [],
+  "new_units_authored": 0,
+  "new_units_reviewed": 0,
+  "limitations": [
+    "Selektive Rechtsprechungsrecherche; keine erschöpfende Folgeentscheidungsprüfung.",
+    "Amtliche Konsolidierung und zuletzt ausgewiesene Novelle einschließlich Inkrafttreten geprüft; keine lückenlose Sichtung sämtlicher späteren Gesetzblätter.",
+    "Abschlussmontage auf Grundlage der dokumentierten Einzelprüfungen; keine zusätzliche unabhängige Durchsicht durch diesen Finalisierungslauf und keine externe anwaltliche Freigabe.",
+    "Technische Prüfungen belegen keine juristische Fehlerfreiheit."
+  ],
+  "complete": true,
+  "assembly_complete": true,
+  "whole_book_professional_approval": false,
+  "raw_xml_agreement": 1.0,
+  "missing_identifiers": [],
+  "duplicate_identifiers": [],
+  "broken_local_links": [],
+  "repeated_long_sentences": []
+}
