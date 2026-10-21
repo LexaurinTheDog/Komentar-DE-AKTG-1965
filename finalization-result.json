@@ -19,5 +19,14 @@
   "missing_identifiers": [],
   "duplicate_identifiers": [],
   "broken_local_links": [],
-  "repeated_long_sentences": []
+  "repeated_long_sentences": [],
+  "validation_result": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 393,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 651924,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  }
 }
