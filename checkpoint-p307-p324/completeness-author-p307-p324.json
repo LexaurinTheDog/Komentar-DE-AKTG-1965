@@ -872,5 +872,92 @@
     "Vollständigkeit gegenüber amtlichem XML; keine Garantie amtlicher redaktioneller Fehlerfreiheit.",
     "Autorenkontrolle, keine unabhängige Zweitprüfung."
   ],
-  "ok": true
+  "ok": true,
+  "change_map": {
+    "from": "sources/intake-2026-10-01.xml",
+    "to": "sources/author-p307-p324.xml",
+    "raw_identical": true,
+    "assigned_units": [
+      {
+        "id": "p307",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p308",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p309",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p310",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p311",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p312",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p313",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p314",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p315",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p316",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p317",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p318",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p319",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p320",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p320a",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p320b",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p321",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p322",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p323",
+        "disposition": "unchanged"
+      },
+      {
+        "id": "p324",
+        "disposition": "unchanged"
+      }
+    ]
+  }
 }

@@ -1,0 +1,80 @@
+{
+  "stage": "bounded_batch_drafted",
+  "assigned_ids": [
+    "p307",
+    "p308",
+    "p309",
+    "p310",
+    "p311",
+    "p312",
+    "p313",
+    "p314",
+    "p315",
+    "p316",
+    "p317",
+    "p318",
+    "p319",
+    "p320",
+    "p320a",
+    "p320b",
+    "p321",
+    "p322",
+    "p323",
+    "p324"
+  ],
+  "completed_units": 20,
+  "total_units": 393,
+  "total_commented_units": 360,
+  "remaining_units": 33,
+  "source_check": {
+    "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+    "accessed_at": "2026-10-21T00:32:06.159508+00:00",
+    "http_status": 200,
+    "path": "sources/author-p307-p324.zip",
+    "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+    "xml_path": "sources/author-p307-p324.xml",
+    "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+    "same_as_canonical": true,
+    "same_as_intake": true,
+    "format_validated": "ZIP CRC and XML parsing; jurabk=AktG",
+    "decisive_date": "2026-10-19",
+    "stand": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33",
+    "version_evidence": "sources/bgbl-2026-I-33.txt, Art. 23/24 und 64 erneut gelesen: Art. 23 Nr. 1 seit 10.02.2026; Nr. 2–6 erst 10.01.2030; Art. 24 erst 04.12.2026. Keine Änderung dieser Einheiten seit Intake.",
+    "limitations": [
+      "Aktuelle amtliche Konsolidierung und jüngste ausgewiesene Novelle geprüft; keine lückenlose Sichtung aller späteren Gesetzblätter."
+    ]
+  },
+  "case_law_sources": [
+    "BGH 31.05.2011 II ZR 141/09, Rn. 1–56"
+  ],
+  "completeness_ok": true,
+  "full_book_complete": false,
+  "independent_review": false,
+  "updated_at": "2026-10-21T00:36:41.164711+00:00",
+  "limitations": [
+    "Keine unabhängige Zweitprüfung dieses Batches.",
+    "Selektive Rechtsprechung, keine vollständige Recherche späterer Fortentwicklungen.",
+    "Gesamtband hat noch fehlende Kommentare außerhalb des Auftrags."
+  ],
+  "validation_result": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 42275,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "full_book_validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 393,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 586163,
+    "errors": [
+      "krátký/chybějící komentář u 33 jednotek: ['p325(0<120)', 'p326(0<400)', 'p327(0<400)', 'p327a(0<400)', 'p327b(0<400)', 'p327c(0<400)', 'p327d(0<400)', 'p327e(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "output_checkpoint": "/Volumes/LaCie/open-commentary/de/Komentar-DE-AKTG-1965/checkpoint-p307-p324"
+}
