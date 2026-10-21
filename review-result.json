@@ -3,207 +3,206 @@
   "task": "bounded_independent_second_pass",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p239",
-    "p240",
-    "p241",
-    "p242",
-    "p243",
-    "p244",
-    "p245",
-    "p246",
-    "p246a",
-    "p247",
-    "p248",
-    "p248a",
-    "p249",
-    "p250",
-    "p251",
-    "p252",
-    "p253",
-    "p254",
-    "p255",
-    "p255a"
+    "p255b",
+    "p256",
+    "p257",
+    "p258",
+    "p259",
+    "p260",
+    "p261",
+    "p261a",
+    "p262",
+    "p263",
+    "p264",
+    "p265",
+    "p266",
+    "p267",
+    "p268",
+    "p269",
+    "p270",
+    "p271",
+    "p272",
+    "p273"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p239",
-      "result": "reviewed_no_change",
-      "assessment": "Beide Absätze geprüft; Vorstandsanmeldung auch bei angeordneter Zwangseinziehung und Verbindung der Anmeldungen zutreffend.",
-      "official_doknr": "BJNR010890965BJNE028600308",
-      "statutory_text_sha256": "279ce89b29c0f8fcf773d7c7348257014d3ccca269b1c9288a1702acc31e5ad9",
-      "commentary_sha256": "def270ab88fbfea43b4c0d5dea0c7f55dd238f6d7763852c6e28694a646fb362"
-    },
-    {
-      "id": "p240",
-      "result": "reviewed_no_change",
-      "assessment": "Alle vier Sätze und drei Verwendungszwecke geprüft; Ausweis und auf Anhangangabe begrenzte Größenbefreiung richtig.",
-      "official_doknr": "BJNR010890965BJNE028801360",
-      "statutory_text_sha256": "10a4ea59335d53c5ac7aa2ac00fd74ccfccb80b9ac8a0ccbab2934ecdad0be06",
-      "commentary_sha256": "cbed3ef61c30de890834631fa84f42d9eea38e445ab693057a189813e897f63e"
-    },
-    {
-      "id": "p241",
+      "id": "p255b",
       "result": "reviewed_corrected",
-      "assessment": "Alle sechs Nummern geprüft; Einberufungstatbestände präzisiert; Abgrenzung zu Anfechtung und Sondernichtigkeit zutreffend.",
-      "official_doknr": "BJNR010890965BJNE029204125",
-      "statutory_text_sha256": "94c4232c3f4ac11509819b2eaf588e9dfcb1a999f39eb6b985ac6f6f00f6e62d",
-      "commentary_sha256": "5afc9d1a9b771f7903453c00bc10ae2f93584b45e3f000906000c54ab1f2cd5d"
+      "assessment": "Alle sechs Absätze geprüft; Sacheinlage, Rechtskraft, Treuhänder, Registerbelege und Ausnahmen zutreffend. Richtige Verweisung auf die monatliche Bezugsrechtsausübungsfrist nach § 255a Absatz 2 Satz 3 erläutert.",
+      "official_doknr": "BJNR010890965BJNE059400360",
+      "statutory_text_sha256": "a1352296bb941cb650c1dcb2df6baba531948d9244148ef20459f85fab74622c",
+      "commentary_sha256": "06c0212fe59775dab3e017cc75f52c71b7f73e6843db06d3a30f1220d00900dd"
     },
     {
-      "id": "p242",
+      "id": "p256",
       "result": "reviewed_no_change",
-      "assessment": "Alle drei Absätze geprüft; Registerheilung, dreijährige Frist, rechtshängige Klage, Genehmigung und Freigabewirkung zutreffend.",
-      "official_doknr": "BJNR010890965BJNE029305125",
-      "statutory_text_sha256": "9e8b9754d393d39715b1d100918846f70d7d9774a3d95ad9dbabf7d0d4a5a70a",
-      "commentary_sha256": "a9b4b2338004affef0b3963d328fe52f12a3a2b58b327b83b10e1dbc0d12ee59"
+      "assessment": "Alle sieben Absätze einschließlich Nummern und Buchstaben geprüft; Fehlerkategorien, Sonderregeln und unterschiedliche Heilungsfristen richtig. BGH-Fall und historischer Fristbeginn zutreffend eingegrenzt.",
+      "official_doknr": "BJNR010890965BJNE030918360",
+      "statutory_text_sha256": "814aac5db007bdfb4d38cb69b2ecc97ff6d7dfaff886145ce50c352918b577fa",
+      "commentary_sha256": "70800a07743e77fca65d4809fa3f460804be79cf18333e1cfd22f524213c5568"
     },
     {
-      "id": "p243",
+      "id": "p257",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze geprüft; Inhaltsanfechtung ausgeschlossen, Verfahrensmängel und Fristbeginn trotz Nachprüfung richtig getrennt.",
+      "official_doknr": "BJNR010890965BJNE031001377",
+      "statutory_text_sha256": "82ff723d4822edba3c3c1fcb6280200f4e52aa780e199d854c34f58baaee070c",
+      "commentary_sha256": "b0a292f95a99ebdf7391977f922622afc8646a9a52c615cdb2553da4c481511f"
+    },
+    {
+      "id": "p258",
       "result": "reviewed_corrected",
-      "assessment": "Alle vier Absätze und fünf Ausschlusstatbestände geprüft; konkrete Relevanzprüfung durch verifizierten BGH-Fall erläutert.",
-      "official_doknr": "BJNR010890965BJNE029405125",
-      "statutory_text_sha256": "0c314076a3399230e0343d8e83d693e0af03fe7815fac3dacf11be0706c11db5",
-      "commentary_sha256": "308f4050e1856602eda8a0bfed76088837d7cd6bed275398c2f92728f1bea8a1"
+      "assessment": "Absätze 1, 1a und 2–5 geprüft; Quorum mit konkreten Werten präzisiert. Vorbesitz, Hinterlegung, Anhörung, Prüferauswahl und Verantwortlichkeit richtig.",
+      "official_doknr": "BJNR010890965BJNE031212360",
+      "statutory_text_sha256": "edaf4d13881ecf1cd8134879f29186fa588f4282e4b76801d94d871cd7552119",
+      "commentary_sha256": "37b45ecab3f85c09c6ab05917668e99053670703a1a8533978585b6ea355d2bc"
     },
     {
-      "id": "p244",
+      "id": "p259",
       "result": "reviewed_no_change",
-      "assessment": "Beide Sätze geprüft; Bestand des Bestätigungsbeschlusses und fortbestehendes Interesse für Zwischenzeit zutreffend getrennt.",
-      "official_doknr": "BJNR010890965BJNE029500308",
-      "statutory_text_sha256": "7159bdd6e5fb5dcd740d3ca75b2365513abb2b082570eec92a55d2e1275bbc91",
-      "commentary_sha256": "dec6c099126d7890f669ca49a1129d012ca38b0dddc14c77a398b7ddf8e3c46d"
+      "assessment": "Alle fünf Absätze und Feststellungsformate geprüft; Stichtag, Methodenkontinuität, Nebenbefunde und Publikation richtig.",
+      "official_doknr": "BJNR010890965BJNE031301377",
+      "statutory_text_sha256": "684431f28d78709755a1eb01fb30b0ab0ed2baabd02c0f4d88e9d6912c190eea",
+      "commentary_sha256": "6861fbc116bac9f950e669b470416f7ebae0345aa4e51eed63eaa4db3bcdf408"
     },
     {
-      "id": "p245",
+      "id": "p260",
+      "result": "reviewed_no_change",
+      "assessment": "Alle vier Absätze geprüft; abweichendes Quorum, Monatsfrist, Antragsgegenstand, Schätzung, Beschwerde und Kosten richtig.",
+      "official_doknr": "BJNR010890965BJNE031406301",
+      "statutory_text_sha256": "652e663afa9474ddde6d100f3be825fc496856cf242f7d3342720f726727d479",
+      "commentary_sha256": "7e70e3cfbdfdc080aa7fab4ef5308ff74a0897a8212fa37411290420238096d3"
+    },
+    {
+      "id": "p261",
+      "result": "reviewed_no_change",
+      "assessment": "Alle drei Absätze geprüft; erster Folgeabschluss, veränderte Werte, Sonderrechnung, Kleinunternehmen und Ertragsverwendung richtig.",
+      "official_doknr": "BJNR010890965BJNE031502360",
+      "statutory_text_sha256": "f47950ede9e3ec629e1d09373dffe7e1ae1acc9a1b4b63b846b0acff1256c313",
+      "commentary_sha256": "c22dc4fbec3228796874e8ea14b2b2589120d0ebadf1fc72a66d2dc720cef028"
+    },
+    {
+      "id": "p261a",
+      "result": "reviewed_no_change",
+      "assessment": "Gesamter Satz mit Emittentenvoraussetzungen geprüft; gerichtliche Pflicht schon bei Antragseingang und Umfang der Mitteilungen richtig.",
+      "official_doknr": "BJNR010890965BJNE056203360",
+      "statutory_text_sha256": "6a0bc8e9a118ed2ce59454d1e2801bab7f13f5a3c458f1bb230d61b928c65c9d",
+      "commentary_sha256": "08f1caa107e2b5f434e1a4752da945a91cab11631aecba1844a01041a3d1deb7"
+    },
+    {
+      "id": "p262",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Absätze und alle sechs Auflösungsgründe geprüft; Kapitalmehrheit, Rechtskraft und Insolvenzabgrenzung richtig.",
+      "official_doknr": "BJNR010890965BJNE031902140",
+      "statutory_text_sha256": "07fa4f63462f37f076c4bf4efcbf73bccf88b15adee7bb1e38a3f686220543ae",
+      "commentary_sha256": "f6e071f7eb4dd6f522a490a0675897ee39132e111377c51471819ad29ddb16f7"
+    },
+    {
+      "id": "p263",
+      "result": "reviewed_no_change",
+      "assessment": "Alle vier Sätze geprüft; Anmeldung, Amtsverfahren und Entfall einer gesonderten Auflösungseintragung richtig.",
+      "official_doknr": "BJNR010890965BJNE032001307",
+      "statutory_text_sha256": "fa576a0135973ad49c977f489788cd5e09ab85054d2fe4b5ca1e145dd461bb7f",
+      "commentary_sha256": "cd7968fde77b3030520d3e46cc67a81be900c5e08507a786983ace02e6de5ab9"
+    },
+    {
+      "id": "p264",
+      "result": "reviewed_no_change",
+      "assessment": "Alle drei Absätze geprüft; Insolvenz, vermögenslose Löschung und Fortgeltung des Organisationsrechts zutreffend.",
+      "official_doknr": "BJNR010890965BJNE032201307",
+      "statutory_text_sha256": "ba86fe73fb94342639a409917def2e958027f3d566a1026e86ab710251204175",
+      "commentary_sha256": "c840ce5b79aaa9536cf13bd1953b150f36c762a50f7b671b4b802b4a23faace8"
+    },
+    {
+      "id": "p265",
+      "result": "reviewed_no_change",
+      "assessment": "Alle sechs Absätze geprüft; Bestellungshindernisse, juristische Personen, gerichtliche Bestellung und Abberufung, Vergütung und Arbeitsdirektor richtig.",
+      "official_doknr": "BJNR010890965BJNE032306360",
+      "statutory_text_sha256": "3734b08cf83dfd95619684c4ef65b44a2e2ecfdd2731eba25ea35c317f409dd6",
+      "commentary_sha256": "cdf6b06b70981675214b9b215d6e097ac71caced9e64b4c10d5a95141c20c77f"
+    },
+    {
+      "id": "p266",
+      "result": "reviewed_no_change",
+      "assessment": "Alle fünf Absätze einschließlich Wegfallslot geprüft; Zuständigkeit, Urkunden, Versicherung und Amtsverfahren richtig.",
+      "official_doknr": "BJNR010890965BJNE032401377",
+      "statutory_text_sha256": "001c3732cdb7d6243a6746d6f1d3c75c246afaaf7ea0490961f0284777de3105",
+      "commentary_sha256": "7d8bc5006b8e473fa66c6802ca26d18e3873278ba6db2d51ce224b9ecefd8baf"
+    },
+    {
+      "id": "p267",
+      "result": "reviewed_no_change",
+      "assessment": "Beide Sätze und Querverweise §§ 25, 272 geprüft; Publikation und Sperrjahr ohne Forderungsausschluss zutreffend.",
+      "official_doknr": "BJNR010890965BJNE032501140",
+      "statutory_text_sha256": "92de6da0f6114925fcbc3090b800dcf91c87dc776b6eb02972515b7d65915616",
+      "commentary_sha256": "63974e83d119a17a697fc35749b6e5af96a7de817d116d7b525490f9db01fca2"
+    },
+    {
+      "id": "p268",
+      "result": "reviewed_no_change",
+      "assessment": "Alle vier Absätze geprüft; neue Abwicklungsgeschäfte, Aufsicht, Wettbewerbsverbot und Geschäftsbriefausnahmen richtig.",
+      "official_doknr": "BJNR010890965BJNE032601307",
+      "statutory_text_sha256": "34e537d9dfa2e1180b49ba80e480aebe54f7542e8860840a1eff7e849a1bae85",
+      "commentary_sha256": "a3a3f308e15c0313a30d362a1f7814f24e18e13b0f369c08db33558e2b13f351"
+    },
+    {
+      "id": "p269",
       "result": "reviewed_corrected",
-      "assessment": "Alle fünf Nummern und virtuelle Teilnahme geprüft; unzulässige Verengung auf eigene Haftungsgefahr des Klägers korrigiert; Zustimmungsfall mit Grenzen ergänzt.",
-      "official_doknr": "BJNR010890965BJNE029602125",
-      "statutory_text_sha256": "74da9b37dc55c54e8f35c13343a60c853ada310b50f866f8608280eeded2ce58",
-      "commentary_sha256": "38136d9a04cc2e9d8072acb04ae9078c8d22037dc04bdab1906407c2c9df91aa"
+      "assessment": "Alle sechs Absätze geprüft; Gesamtvertretung, Empfang, Satzungsregel, Unbeschränkbarkeit und Zeichnung richtig. Entsprechende Anwendung der Einzelermächtigung bei gemischter Vertretung ergänzt.",
+      "official_doknr": "BJNR010890965BJNE032701125",
+      "statutory_text_sha256": "7830a476a5b62d81e0b938010163c327d87c0fbbb880ec9de0dea7948a6ba6dd",
+      "commentary_sha256": "d259b3bd493f90594842a3e2983163a0e3c171bb417a97bcd3e8f1f7a97bcf0c"
     },
     {
-      "id": "p246",
+      "id": "p270",
+      "result": "reviewed_no_change",
+      "assessment": "Alle drei Absätze geprüft; Eröffnungsunterlagen, Feststellung, Bewertung und nur gerichtliche Prüfbefreiung richtig.",
+      "official_doknr": "BJNR010890965BJNE053201140",
+      "statutory_text_sha256": "99d1273bb3b1cdba942efe59cf236e04cef304c71477b1c0a1192c0023dddfcc",
+      "commentary_sha256": "b6301126c2c4a716bc368c8a7d9a31377d115126cf49c967e5e0765f979e6087"
+    },
+    {
+      "id": "p271",
+      "result": "reviewed_no_change",
+      "assessment": "Alle drei Absätze geprüft; Gläubigervorrang, Sonderrechte, ungleiche Einlagen und Verlustverteilung richtig.",
+      "official_doknr": "BJNR010890965BJNE032901307",
+      "statutory_text_sha256": "54f1ca72f4ab20621015eecc37d5fe4664e84a46f167a8d5ffa8d4c96aa01fe5",
+      "commentary_sha256": "a342ed5d05a732ebdcec866624f6f54fd78a6953be7e058a511799d317f36177"
+    },
+    {
+      "id": "p272",
+      "result": "reviewed_no_change",
+      "assessment": "Alle drei Absätze geprüft; Sperrjahr, Hinterlegung bei bestehendem Recht und Sicherheitsleistung richtig.",
+      "official_doknr": "BJNR010890965BJNE033001140",
+      "statutory_text_sha256": "d1d5d33229b29e0b50e29ff93c77efe4d50dadfbe1e01bf61a9b6c691a4e7d0a",
+      "commentary_sha256": "85d0ac65b7ab4b34ad7b463c971cd32bc8a37c523d260923f4617faf8f66b6e6"
+    },
+    {
+      "id": "p273",
       "result": "reviewed_corrected",
-      "assessment": "Alle vier Absätze geprüft; Nachschieben von Gründen anhand verifizierter Entscheidung präzisiert; Zuständigkeit, Vertretung, Verbindung und Nebenintervention richtig.",
-      "official_doknr": "BJNR010890965BJNE029705123",
-      "statutory_text_sha256": "bf3827e16467c5d2f8081285a7d4b91e64fcb0c8532eeea8c4529dfa0de0b8cc",
-      "commentary_sha256": "fe500d4d7e420644cb77087e27ad322714071698fca959fb263975c8e95e3d62"
-    },
-    {
-      "id": "p246a",
-      "result": "reviewed_corrected",
-      "assessment": "Alle vier Absätze und drei Freigabealternativen geprüft; ergänzende Verfahrensverweisungen nach Absatz 1 erklärt.",
-      "official_doknr": "BJNR010890965BJNE056404125",
-      "statutory_text_sha256": "55c17d806ebac9b44005ed20db0efbc153b148e2041d111ae63fbeaef9cb3c19",
-      "commentary_sha256": "177f9787c4facf1ebe97bb9f28f893966a44e6b0dc027787bd517f3cb57a2df2"
-    },
-    {
-      "id": "p247",
-      "result": "reviewed_no_change",
-      "assessment": "Alle drei Absätze geprüft; flexible Obergrenze, persönliche Teilwertbegünstigung, Gebührenfolgen und Antragszeitpunkt richtig.",
-      "official_doknr": "BJNR010890965BJNE029801308",
-      "statutory_text_sha256": "4ae8577654788636bab48b14ab5f0276af8527c812b79c6344939476b2e8e61a",
-      "commentary_sha256": "0346b99dd5081ec35462db16c9795a3c649c6404654d4e8dcb5fe40beb64532c"
-    },
-    {
-      "id": "p248",
-      "result": "reviewed_no_change",
-      "assessment": "Beide Absätze geprüft; Rechtskraft, Drittwirkung, Registerpublizität und notariell bescheinigter Satzungstext richtig.",
-      "official_doknr": "BJNR010890965BJNE029900308",
-      "statutory_text_sha256": "d3356d7170c794867c93418499c98984f18ae0a8f8fd7dc70416dde302caea5b",
-      "commentary_sha256": "a6008d5166bd84cd507cae273657b6edf3518826c0e2207feff99f0f5b2b0479"
-    },
-    {
-      "id": "p248a",
-      "result": "reviewed_no_change",
-      "assessment": "Beide Sätze und verwiesenen § 149 Absätze 2/3 geprüft; Börsennotierung, Nebenvereinbarungen und Wirksamkeitsfolgen richtig.",
-      "official_doknr": "BJNR010890965BJNE056500377",
-      "statutory_text_sha256": "0ac349f597cdc08b83f5f0851402a578826baf2577edf6656a5435166f8ab286",
-      "commentary_sha256": "27634f5439c9f25e32802d00fe92da2c7a5e8177d5d19f53769ce90c127c643d"
-    },
-    {
-      "id": "p249",
-      "result": "reviewed_no_change",
-      "assessment": "Beide Absätze und verwiesenen UmwG-Bestandsschutz geprüft; keine Übernahme der allgemeinen Monatsfrist; Prozessverbindung zutreffend.",
-      "official_doknr": "BJNR010890965BJNE030003140",
-      "statutory_text_sha256": "ef4aa31d02d73a2b26c5f224569969420e8fb9dfdb2c1b44d3abae66bec67988",
-      "commentary_sha256": "f9155787788685ac160ddfd3fc89a93b7e21d4fcdcad12942f216096f5ed07ee"
-    },
-    {
-      "id": "p250",
-      "result": "reviewed_corrected",
-      "assessment": "Alle drei Absätze und jeweils fünf Nummern geprüft; Gruppen parteifähiger Arbeitnehmervertretungen ausdrücklich erläutert.",
-      "official_doknr": "BJNR010890965BJNE030205360",
-      "statutory_text_sha256": "138fd7d2a57e1b2aa73e3ca18bc126ba317d6b0b54def6b3739ed8ef982d12fd",
-      "commentary_sha256": "e76a06ecbf2eace05dddf5361028560f7e83e4c38dfb143a0db6a615331bc8d5"
-    },
-    {
-      "id": "p251",
-      "result": "reviewed_no_change",
-      "assessment": "Alle drei Absätze geprüft; beschränkte Übernahme des § 245, besondere Montan-Befugnisse und Urteilswirkung nach § 252 zutreffend.",
-      "official_doknr": "BJNR010890965BJNE030310125",
-      "statutory_text_sha256": "d7e303ceb25572f3e4228ce7482a3346ce8c30944789ee568db0768903a10b77",
-      "commentary_sha256": "e664eb549e6e4933da26cef5f08287b6c58559422e579b35bdbfba4647b4b63b"
-    },
-    {
-      "id": "p252",
-      "result": "reviewed_no_change",
-      "assessment": "Beide Absätze geprüft; abweichende Adressatenkreise bei Nichtigkeitsfeststellung und Wahlanfechtung richtig.",
-      "official_doknr": "BJNR010890965BJNE030402307",
-      "statutory_text_sha256": "582227db5fe1f15bf8b6493c52a958b685e2cb5d817b5cd5ddb286e8c82125dc",
-      "commentary_sha256": "4ba42d5c073bac421cc72300b3f5d8e024334f3a11c6a4991dd0b9178fcbbe5d"
-    },
-    {
-      "id": "p253",
-      "result": "reviewed_no_change",
-      "assessment": "Beide Absätze geprüft; abgeleitete Nichtigkeit, Grenze ihrer Geltendmachung und besondere weitere Gründe richtig.",
-      "official_doknr": "BJNR010890965BJNE030500308",
-      "statutory_text_sha256": "9c1e90749d48ce5189f475f8d2a8b8d7ae696f494dfa8d3d0fc7fec9c153276b",
-      "commentary_sha256": "39ea6a4f8a16dadc666b837bd1a0fe45d649733ab465567e3172394a22aca177"
-    },
-    {
-      "id": "p254",
-      "result": "reviewed_corrected",
-      "assessment": "Beide Absätze geprüft; vier Prozent auf um nicht eingeforderte Einlagen gekürzte Kapitalbasis präzisiert; Quorum und Frist richtig.",
-      "official_doknr": "BJNR010890965BJNE030603377",
-      "statutory_text_sha256": "6d060e78aacc848253759f8285300e0f10a9d87afc5e1e3617e5862d8e6bde63",
-      "commentary_sha256": "4218d4bd967a0f9660b5a8436ae4e42fb154389f379c49e7f09f78fd3ef4466d"
-    },
-    {
-      "id": "p255",
-      "result": "reviewed_corrected",
-      "assessment": "Alle sieben Absätze und Börsenkursausnahmen geprüft; niedriger Einlagewert als Voraussetzung des Ausgleichs ausdrücklich ergänzt; amtliche fehlerhafte Satzverweisung offengelegt.",
-      "official_doknr": "BJNR010890965BJNE030702360",
-      "statutory_text_sha256": "513048c48e18e2dd0dcdec0020e05d02111eacb72ece7d8eefbc403647bf30c0",
-      "commentary_sha256": "6e4403aa8d7520ac888343fda8d9cf52a905f8e76cb7e65e0480af0499feffab"
-    },
-    {
-      "id": "p255a",
-      "result": "reviewed_corrected",
-      "assessment": "Alle sieben Absätze geprüft; amtlich auf Absätze 3/4 begrenzte Zinsverweisung präzisiert und Auslegungsbedarf zu Absatz 5 offengelegt; Monatsfrist, Spitzen und Beschaffungsrisiko richtig.",
-      "official_doknr": "BJNR010890965BJNE059300360",
-      "statutory_text_sha256": "310a678dbe88b1a534be6deb3afd8d192bc0b3e126916f94e1afa5bab0348873",
-      "commentary_sha256": "a411441a890fa587770fc901619fd19ff35311275c68a26f3679554335865562"
+      "assessment": "Alle fünf Absätze geprüft; Schlussrechnung, Aufbewahrung, Einsicht, Nachtragsbestellung und Rechtsmittel richtig. Bahamas-Löschung ausdrücklich als unterstellter Beteiligtenvortrag gekennzeichnet; Checkliste auf nachträgliche Maßnahmen begrenzt.",
+      "official_doknr": "BJNR010890965BJNE033101140",
+      "statutory_text_sha256": "ccb0cb5798e35c21b839badeef3504ced0267624a5994e8b6f710a3f4cdad3c1",
+      "commentary_sha256": "d041a615152acca5f42f804d908a16c689e98e057014532fa9d07bd905d67327"
     }
   ],
   "limitations": [
-    "Genau p239–p255a (20 Einheiten) geprüft; keine Gesamtbuchfreigabe und keine externe anwaltliche Genehmigung.",
-    "Selektive Recherche: BGH II ZR 24/09 vollständig gelesen und amtlich abgeglichen; keine erschöpfende Fall- oder Folgeentscheidungsrecherche.",
-    "Amtliche Konsolidierung und Inkrafttreten der letzten ausgewiesenen Novelle geprüft; keine lückenlose Durchsicht aller späteren Gesetzblätter.",
-    "113 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung; vollständiges Kapitel 12 und ausdrücklich begrenzte Auszüge neu gerendert.",
-    "Redaktionelle Verweisungsprobleme in § 255 Absatz 5 und § 255a Absatz 6 offengelegt; kein gerichtliches Auslegungsergebnis vorgetäuscht."
+    "Genau die 20 zugewiesenen Einheiten p255b–p273 einschließlich p261a geprüft; keine Gesamtbuchfreigabe.",
+    "Selektive Rechtsprechung: beide zitierten BGH-Volltexte gelesen und amtlichem XML gegenübergestellt; keine erschöpfende Folgeentscheidungsrecherche.",
+    "Aktuelle amtliche Konsolidierung und Inkrafttreten der letzten ausgewiesenen Novelle geprüft; keine lückenlose Durchsicht aller späteren Gesetzblätter.",
+    "93 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung."
   ],
-  "verified_at": "2026-10-21T00:01:57.159371+00:00",
+  "verified_at": "2026-10-21T00:11:00.102044+00:00",
   "statutory_text_agreement_assigned": 1.0,
   "full_book_complete": false,
   "whole_book_validation": {
     "repo": "Komentar-DE-AKTG-1965",
     "units": 393,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 431305,
+    "commentary_chars": 469263,
     "errors": [
-      "krátký/chybějící komentář u 113 jednotek: ['p255b(0<400)', 'p256(0<400)', 'p257(0<400)', 'p258(0<400)', 'p259(0<400)', 'p260(0<400)', 'p261(0<400)', 'p261a(0<400)']"
+      "krátký/chybějící komentář u 93 jednotek: ['p274(0<400)', 'p275(0<400)', 'p276(0<400)', 'p277(0<400)', 'p278(0<400)', 'p279(0<400)', 'p280(0<400)', 'p281(0<400)']"
     ],
     "warnings": [],
     "ok": false

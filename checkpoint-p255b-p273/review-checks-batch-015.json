@@ -1,0 +1,57 @@
+{
+  "reviewed_ids": [
+    "p255b",
+    "p256",
+    "p257",
+    "p258",
+    "p259",
+    "p260",
+    "p261",
+    "p261a",
+    "p262",
+    "p263",
+    "p264",
+    "p265",
+    "p266",
+    "p267",
+    "p268",
+    "p269",
+    "p270",
+    "p271",
+    "p272",
+    "p273"
+  ],
+  "corrected_ids": [
+    "p255b",
+    "p258",
+    "p269",
+    "p273"
+  ],
+  "outside_scope_commentary_changes": [],
+  "statutory_text_agreement": 1.0,
+  "expected": 393,
+  "parsed": 393,
+  "missing": [],
+  "duplicates": [],
+  "annexes": [],
+  "eingangsformel_present": true,
+  "broken_links": [],
+  "repeated_long_sentences": [],
+  "rendered_files": [
+    "13-beschlussmaengel.md",
+    "14-abschlusskontrolle.md"
+  ],
+  "full_build_exit_code": 1,
+  "bounded_build_ok": true,
+  "bounded_validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 37958,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "batch_checks_ok": true,
+  "full_book_complete": false
+}

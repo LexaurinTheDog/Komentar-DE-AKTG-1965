@@ -1,15 +1,5 @@
 # Kommentarkapitel 14 — Abschlussmängel und Sonderprüfung
 
-#### Erstes Buch — Aktiengesellschaft
-
-#### Siebenter Teil — Nichtigkeit von
-Hauptversammlungsbeschlüssen und des festgestellten
-Jahresabschlusses. Sonderprüfung wegen unzulässiger
-Unterbewertung
-
-#### Zweiter Abschnitt — Nichtigkeit des
-festgestellten Jahresabschlusses
-
 ### § 256 — Nichtigkeit
 
 **Wortlaut der Vorschrift:**
@@ -95,16 +85,6 @@ Anfechtbar bleiben nach Maßgabe des § 243 Fehler des Feststellungsbeschlusses,
 
 Die Frist beginnt mit der Beschlussfassung auch dann, wenn eine erneute Abschlussprüfung erforderlich wird. Aktionäre dürfen deshalb das Ergebnis der Nachprüfung nicht abwarten, wenn sie einen bereits erkennbaren Verfahrensfehler verfolgen wollen. Beispiel: Die Hauptversammlung stellt einen nachträglich geänderten Abschluss fest; zugleich wird einem stimmberechtigten Aktionär unberechtigt der Zutritt versagt. Die erneute Prüfung verschiebt die Anfechtungsfrist wegen dieses Zutrittsfehlers nicht. Die materielle Richtigkeit eines Bilanzpostens ist gesondert nach § 256 zu beurteilen.
 
-#### Erstes Buch — Aktiengesellschaft
-
-#### Siebenter Teil — Nichtigkeit von
-Hauptversammlungsbeschlüssen und des festgestellten
-Jahresabschlusses. Sonderprüfung wegen unzulässiger
-Unterbewertung
-
-#### Dritter Abschnitt — Sonderprüfung wegen
-unzulässiger Unterbewertung
-
 ### § 258 — Bestellung der Sonderprüfer
 
 **Wortlaut der Vorschrift:**
@@ -131,7 +111,7 @@ unzulässiger Unterbewertung
 
 Die Sonderprüfung nach § 258 richtet sich gegen konkrete, nicht unwesentliche Unterbewertungen und gegen qualifiziert gerügte Lücken des Anhangs. Sie ist kein allgemeines Instrument zur erneuten Prüfung des ganzen Unternehmens. Für Unterbewertungen genügt ein begründeter Anlass zur Annahme des Fehlers; die vorsätzliche Verschleierung, die § 256 Absatz 5 für die Nichtigkeit verlangt, ist hier keine zusätzliche Voraussetzung. Bei Anhangslücken verlangt Absatz 1 dagegen die erfolglose Nachfrage in der Hauptversammlung und das Verlangen nach Aufnahme der Frage in die Niederschrift. Diese Vorbereitung darf im späteren Antrag nicht übergangen werden.
 
-Absatz 1a schützt die dort bezeichneten Finanzunternehmen, soweit die beanstandeten Ansätze oder Angaben auf der Anwendung des § 340f HGB beruhen. Die Ausnahme ist gegenstandsbezogen und kein genereller Ausschluss solcher Gesellschaften. Absatz 2 setzt eine Monatsfrist ab der Hauptversammlung über den Abschluss, die auch bei erneuter Prüfung läuft. Antragsberechtigt ist die Minderheit nach § 142 Absatz 2. Zusätzlich sind die dreimonatige Vorbesitzzeit und die Bindung der Aktien bis zur Entscheidung nachzuweisen; Hinterlegung und die bezeichnete Depotversicherung sind Alternativen.
+Absatz 1a schützt die dort bezeichneten Finanzunternehmen, soweit die beanstandeten Ansätze oder Angaben auf der Anwendung des § 340f HGB beruhen. Die Ausnahme ist gegenstandsbezogen und kein genereller Ausschluss solcher Gesellschaften. Absatz 2 setzt eine Monatsfrist ab der Hauptversammlung über den Abschluss, die auch bei erneuter Prüfung läuft. Antragsberechtigt ist die Minderheit nach § 142 Absatz 2, also Aktionäre mit zusammen mindestens einem Prozent des Grundkapitals oder einem anteiligen Betrag von 100 000 Euro. Zusätzlich sind die dreimonatige Vorbesitzzeit und die Bindung der Aktien bis zur Entscheidung nachzuweisen; Hinterlegung und die bezeichnete Depotversicherung sind Alternativen.
 
 Das Landgericht am Gesellschaftssitz hört Vorstand, Aufsichtsrat und Abschlussprüfer vor der Bestellung; die Entscheidung ist beschwerdefähig. Absatz 4 beschränkt die Auswahl auf Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften und sichert die Unabhängigkeit. Der aktuelle Abschlussprüfer und die Prüfer der letzten drei Jahre scheiden aus. Absatz 5 vermittelt Prüfungsrechte, Vergütung, Kostenregeln und Verantwortlichkeit; Auskunftsrechte bestehen auch gegenüber dem Abschlussprüfer.
 

@@ -1,17 +1,5 @@
 # Kommentarkapitel 13 — Beschlussmängel und zusätzliche Aktien
 
-#### Erstes Buch — Aktiengesellschaft
-
-#### Siebenter Teil — Nichtigkeit von
-Hauptversammlungsbeschlüssen und des festgestellten
-Jahresabschlusses. Sonderprüfung wegen unzulässiger
-Unterbewertung
-
-#### Erster Abschnitt — Nichtigkeit von
-Hauptversammlungsbeschlüssen
-
-#### Erster Unterabschnitt — Allgemeines
-
 ### § 241 — Nichtigkeitsgründe
 
 **Wortlaut der Vorschrift:**
@@ -255,19 +243,6 @@ Absatz 2 schreibt die Verbindung mehrerer Nichtigkeitsprozesse vor, während die
 
 Beispiel: Ein Aktionär erhebt zwei Monate nach der Versammlung Klage wegen eines behaupteten schweren Beurkundungsmangels. Die Anfechtungsfrist allein erledigt den Fall nicht. Zu prüfen sind der Tatbestand des § 241 Nummer 2 und eine mögliche Heilung nach § 242 Absatz 1. Die Benennung als Nichtigkeitsklage macht einen lediglich einfachen Verfahrensfehler nicht automatisch zum Nichtigkeitsgrund.
 
-#### Erstes Buch — Aktiengesellschaft
-
-#### Siebenter Teil — Nichtigkeit von
-Hauptversammlungsbeschlüssen und des festgestellten
-Jahresabschlusses. Sonderprüfung wegen unzulässiger
-Unterbewertung
-
-#### Erster Abschnitt — Nichtigkeit von
-Hauptversammlungsbeschlüssen
-
-#### Zweiter Unterabschnitt — Nichtigkeit
-bestimmter Hauptversammlungsbeschlüsse
-
 ### § 250 — Nichtigkeit der Wahl von Aufsichtsratsmitgliedern
 
 **Wortlaut der Vorschrift:**
@@ -497,7 +472,7 @@ Beispiel: Bis zur rechtskräftigen Ausgleichsentscheidung hat die AG eine weiter
 
 § 255b stellt das technische Instrument bereit, mit dem ein nach § 255a bestehender Anspruch auf zusätzliche Aktien erfüllt werden kann. Die Gesellschaft schafft die Aktien durch eine weitere Kapitalerhöhung gegen Sacheinlage; eingebracht wird gerade der festgestellte Ergänzungsanspruch. Das ist von einer erneuten Einzahlung der geschädigten Aktionäre zu unterscheiden. Absatz 1 verlangt eine gerichtliche Entscheidung oder einen gerichtlichen Vergleich als Grundlage. Bei einer Entscheidung muss vor Leistung der Sacheinlage Rechtskraft eingetreten sein. Erst mit Eintragung der Durchführung erlischt der Anspruch; der Kapitalerhöhungsbeschluss allein bewirkt dies nicht.
 
-Absatz 2 erleichtert die Festsetzungen: Die bezeichnete Entscheidung oder der Vergleich individualisiert die eingebrachten Ansprüche, daneben ist der zusätzliche Nennbetrag beziehungsweise die Stückzahl festzulegen. Die ausdrücklich ausgeschlossenen Vorschriften, insbesondere zum Bezugsrecht, verhindern, dass die Kompensation durch neue allgemeine Bezugsansprüche verwässert wird. Absatz 5 erstreckt diese Ausnahmen auf die dort gesondert bezeichnete Bezugsrechtsausübung. Andere Voraussetzungen einer wirksamen Kapitalerhöhung entfallen dadurch nicht pauschal.
+Absatz 2 erleichtert die Festsetzungen: Die bezeichnete Entscheidung oder der Vergleich individualisiert die eingebrachten Ansprüche, daneben ist der zusätzliche Nennbetrag beziehungsweise die Stückzahl festzulegen. Die ausdrücklich ausgeschlossenen Vorschriften, insbesondere zum Bezugsrecht, verhindern, dass die Kompensation durch neue allgemeine Bezugsansprüche verwässert wird. Absatz 5 erstreckt diese Ausnahmen auf Kapitalerhöhungen zur Bedienung der dort bezeichneten Bezugsrechte. Der Verweis auf § 255a Absatz 2 Satz 3 erfasst die Ausübung des nach Satz 2 nachträglich einzuräumenden Bezugsrechts binnen eines Monats nach Rechtskraft der gerichtlichen Entscheidung. Aktiengewährung und fristgerechte Bezugsrechtsausübung müssen deshalb getrennt dokumentiert werden. Andere Voraussetzungen einer wirksamen Kapitalerhöhung entfallen dadurch nicht pauschal.
 
 Der von der Gesellschaft zu bestellende Treuhänder bündelt nach Absatz 3 Abtretung, Zeichnung, Empfang der Leistungen und notwendige Erwerbserklärungen im eigenen Namen. Die entsprechende Anwendung des § 35 Absatz 3 regelt Auslagenersatz, Vergütung und deren gerichtliche Festsetzung einschließlich der vorgesehenen Rechtsbehelfe. Absatz 4 verlangt die qualifizierte Urkunde bei beiden Registeranmeldungen; sie muss den Umfang der Aktiengewährung erkennen lassen. Absatz 6 verweist für den Kapitalerhöhungsbeschluss auf § 255 Absatz 2 und trennt damit die Bewertungsfrage von der Beschlussanfechtung.
 

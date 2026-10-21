@@ -2,52 +2,37 @@
   "stage": "reviewing",
   "decisive_date": "2026-10-19",
   "total_units": 393,
-  "completed_units": 280,
-  "remaining_units": 113,
+  "completed_units": 300,
+  "remaining_units": 93,
   "validation_result": {
     "ok": false,
-    "reason": "113 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung; vollständiges Kapitel 12 und ausdrücklich begrenzte Auszüge neu gerendert.",
     "verbatim_ratio": 1.0,
-    "completeness": true,
-    "full_build_exit_code": 1,
     "strict_validator": {
       "repo": "Komentar-DE-AKTG-1965",
       "units": 393,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 431305,
+      "commentary_chars": 469263,
       "errors": [
-        "krátký/chybějící komentář u 113 jednotek: ['p255b(0<400)', 'p256(0<400)', 'p257(0<400)', 'p258(0<400)', 'p259(0<400)', 'p260(0<400)', 'p261(0<400)', 'p261a(0<400)']"
+        "krátký/chybějící komentář u 93 jednotek: ['p274(0<400)', 'p275(0<400)', 'p276(0<400)', 'p277(0<400)', 'p278(0<400)', 'p279(0<400)', 'p280(0<400)', 'p281(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
-    "bounded_review_evidence": "review-checks-batch-014.json"
+    "bounded_validation": {
+      "repo": "Komentar-DE-AKTG-1965",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 37958,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
   },
   "independent_review": false,
-  "checkpoint": "review-result-batch-014.json",
-  "updated_at": "2026-10-21T00:01:57.159371+00:00",
+  "checkpoint": "review-result-batch-015.json",
+  "updated_at": "2026-10-21T00:11:00.102044+00:00",
   "complete": false,
   "remaining_unit_ids": [
-    "p255b",
-    "p256",
-    "p257",
-    "p258",
-    "p259",
-    "p260",
-    "p261",
-    "p261a",
-    "p262",
-    "p263",
-    "p264",
-    "p265",
-    "p266",
-    "p267",
-    "p268",
-    "p269",
-    "p270",
-    "p271",
-    "p272",
-    "p273",
     "p274",
     "p275",
     "p276",
@@ -148,11 +133,11 @@
   "commented_scope": "Eingangsformel und §§ 1–206, including inserted and explicit empty/grouped slots",
   "source_checks": {
     "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
-    "accessed_at": "2026-10-21T00:00:12.085612+00:00",
+    "accessed_at": "2026-10-21T00:09:32.644068+00:00",
     "http_status": 200,
     "content_type": "application/zip",
-    "path": "sources/review-p239-p255a.zip",
-    "xml_path": "sources/review-p239-p255a.xml",
+    "path": "sources/review-p255b-p273.zip",
+    "xml_path": "sources/review-p255b-p273.xml",
     "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
     "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
     "format_validated": "ZIP opened; expected member and AktG jurabk checked; XML parsed",
@@ -165,9 +150,11 @@
     "KORE302052021"
   ],
   "remaining_limitations": [
-    "Autorenprüfung, keine unabhängige zweite Durchsicht.",
-    "Selektive Rechtsprechungsrecherche; kein neuer geprüfter Volltextnachweis übernommen.",
-    "Keine Gesamtbuchfertigstellung; §§ 239 ff. außerhalb dieses Batches bleiben offen."
+    "Genau die 20 zugewiesenen Einheiten p255b–p273 einschließlich p261a geprüft; keine Gesamtbuchfreigabe.",
+    "Selektive Rechtsprechung: beide zitierten BGH-Volltexte gelesen und amtlichem XML gegenübergestellt; keine erschöpfende Folgeentscheidungsrecherche.",
+    "Aktuelle amtliche Konsolidierung und Inkrafttreten der letzten ausgewiesenen Novelle geprüft; keine lückenlose Durchsicht aller späteren Gesetzblätter.",
+    "93 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung.",
+    "Auffällige Satzverweisung in § 255b Absatz 5 offengelegt; keine gerichtliche Klärung behauptet."
   ],
   "preflight_complete": true,
   "bounded_author_result": "eingangsformel-result.json",
@@ -201,33 +188,30 @@
   },
   "latest_bounded_review": {
     "reviewed_ids": [
-      "p239",
-      "p240",
-      "p241",
-      "p242",
-      "p243",
-      "p244",
-      "p245",
-      "p246",
-      "p246a",
-      "p247",
-      "p248",
-      "p248a",
-      "p249",
-      "p250",
-      "p251",
-      "p252",
-      "p253",
-      "p254",
-      "p255",
-      "p255a"
+      "p255b",
+      "p256",
+      "p257",
+      "p258",
+      "p259",
+      "p260",
+      "p261",
+      "p261a",
+      "p262",
+      "p263",
+      "p264",
+      "p265",
+      "p266",
+      "p267",
+      "p268",
+      "p269",
+      "p270",
+      "p271",
+      "p272",
+      "p273"
     ],
     "units_reviewed": 20,
     "complete": true,
-    "evidence": "review-result-batch-014.json",
-    "case_law_sources": [
-      "authorities/case-II-ZR-24-09.md"
-    ]
+    "evidence": "review-result-batch-015.json"
   },
   "validation": {
     "verbatim_ratio": 1.0,
@@ -266,5 +250,12 @@
     "p236",
     "p237",
     "p238"
-  ]
+  ],
+  "author_batch_p255b_p273": {
+    "stage": "bounded_batch_drafted",
+    "completed_units": 20,
+    "statutory_text_agreement": 1.0,
+    "report": "author-result-p255b-p273.json",
+    "whole_book_complete": false
+  }
 }
