@@ -262,6 +262,21 @@
       "sha256": "33b95ae5cc0ad0ebbf38cbe600fbdea205c15b50b516e2fcc45eae8dd35355c0"
     },
     {
+      "path": "authorities/WBRE202500014-review019.xml",
+      "bytes": 25849,
+      "sha256": "e74c94b4142ad8b73ca0ca24d4ce26dff64c3eaa25e46693382b83ec44e4847b"
+    },
+    {
+      "path": "authorities/WBRE202500014-review019.zip",
+      "bytes": 7746,
+      "sha256": "8d59e1ab8c052e630be34f3c87a3bfced7eea1d08007a4d16aefb17c4ea5ebfe"
+    },
+    {
+      "path": "authorities/case-BVerwG-8-C-3-23.md",
+      "bytes": 2048,
+      "sha256": "40e0f33107cdddc4b96044fe986aab3f1413c6a68af88172cb711986938dd702"
+    },
+    {
       "path": "authorities/case-II-ZB-10-25.md",
       "bytes": 1598,
       "sha256": "c35aa43b7c83a3fdbca67bef1eac6c64b5cf132769bdbaa537c598083a0c73d6"
@@ -445,6 +460,11 @@
       "path": "authorities/search-log-batch-018.json",
       "bytes": 815,
       "sha256": "72690bbff490e197b34df52303dc34b5530c94198b9fecb4427ddb41cebed7b0"
+    },
+    {
+      "path": "authorities/search-log-batch-019.json",
+      "bytes": 972,
+      "sha256": "37013955f664ae5a11a14aba66b694b62aa2a268101cf21795fa2c4d3585ff45"
     },
     {
       "path": "authorities/search-log-p207-p218.json",
@@ -807,6 +827,21 @@
       "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d"
     },
     {
+      "path": "sources/review-p325-p399-verification.json",
+      "bytes": 1125,
+      "sha256": "1f74cca4b34468fa30b30b7455632faa3504ce64fd38f4e1273ba0dd06d7d4ac"
+    },
+    {
+      "path": "sources/review-p325-p399.xml",
+      "bytes": 700066,
+      "sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea"
+    },
+    {
+      "path": "sources/review-p325-p399.zip",
+      "bytes": 140159,
+      "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d"
+    },
+    {
       "path": "sources/review-p37a-p56.xml",
       "bytes": 700066,
       "sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea"
@@ -883,8 +918,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 29086,
-      "sha256": "08f414320b1dae6af8253644ac57f38d29221bf702ac29488e729a81e3fc2159"
+      "bytes": 31543,
+      "sha256": "49a64b3a4daa741fc3dd89a139e0fc38c782dc8da4d125544e4264fa955cd35d"
     }
   ]
 }

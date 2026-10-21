@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/aktg/xml.zip",
+    "path": "sources/review-p325-p399.zip",
+    "xml_path": "sources/review-p325-p399.xml",
+    "accessed_at": "2026-10-21T00:47:47.187061+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "0a91a72369fd43995b2874f0380f3e4419b1ce9f205b162d053bbebe3e6ba10d",
+    "xml_sha256": "8225725c9f6eaf61f4426b2a4fead02eb35c1e94794f4c02b1ea2af9277921ea",
+    "format_validated": "ZIP and parsed XML; jurisdiction/title or docket verified"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202500014.zip",
+    "path": "authorities/WBRE202500014-review019.zip",
+    "xml_path": "authorities/WBRE202500014-review019.xml",
+    "accessed_at": "2026-10-21T00:47:47.353315+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "8d59e1ab8c052e630be34f3c87a3bfced7eea1d08007a4d16aefb17c4ea5ebfe",
+    "xml_sha256": "e74c94b4142ad8b73ca0ca24d4ce26dff64c3eaa25e46693382b83ec44e4847b",
+    "format_validated": "ZIP and parsed XML; jurisdiction/title or docket verified"
+  }
+]

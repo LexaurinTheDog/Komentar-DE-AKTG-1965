@@ -51,3 +51,5 @@ Zweite Durchsicht §§ 293a–306: [Einzelbefunde](review-result-batch-017.json)
 Zweite Durchsicht §§ 307–324: [Einzelbefunde](review-result-batch-018.json), [XML](sources/review-p307-p324.xml), [BGH-Abruf](authorities/fetch-review018.json).
 
 Autorenbatch §§ 325–399 (20 Einheiten): [amtlicher Abruf](sources/author-p325-p399-verification.json), [Vollständigkeit](completeness-author-p325-p399.json), [Fallkarte BVerwG](authorities/case-BVerwG-8-C-3-23.md), [Suchprotokoll](authorities/search-log-p325-p399.json). Keine Gesamtfreigabe.
+
+Zweite Durchsicht §§ 325–399 (genau 20 Einheiten): [Einzelbefunde](review-result-batch-019.json), [amtlicher Abruf](sources/review-p325-p399-verification.json), [XML](sources/review-p325-p399.xml), [BVerwG-Prüfprotokoll](authorities/search-log-batch-019.json).

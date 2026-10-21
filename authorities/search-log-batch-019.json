@@ -1,0 +1,33 @@
+{
+  "scope": [
+    "p325",
+    "p326",
+    "p327",
+    "p327a",
+    "p327b",
+    "p327c",
+    "p327d",
+    "p327e",
+    "p327f",
+    "p328",
+    "p329-336",
+    "p337",
+    "p338",
+    "p393a",
+    "p394",
+    "p395",
+    "p396",
+    "p397",
+    "p398",
+    "p399"
+  ],
+  "verified_at": "2026-10-21T00:49:52.050009+00:00",
+  "method": "Vorhandene Fundstelle und lokale nationale Korpusfassung vollständig geprüft; frischer amtlicher RII ZIP/XML-Abruf. Kein neuer Rechtssatz aus bloßen Suchtreffern.",
+  "full_text_read": [
+    "BVerwG 8 C 3.23 Rn. 1–21"
+  ],
+  "official_url": "https://www.bverwg.de/180924U8C3.23.0",
+  "snapshot": "authorities/WBRE202500014-review019.xml",
+  "local_corpus": "authorities/BVerwG-8-C-3-23-local.md",
+  "limitations": "Selektive Rechtsprechung: BVerwG 8 C 3.23 vollständig Rn. 1–21 geprüft; keine vollständige Folgeentscheidungsrecherche und keine zusätzliche fallspezifische Autorität für die übrigen Einheiten behauptet."
+}
