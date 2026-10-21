@@ -8,7 +8,7 @@
     "repo": "Komentar-DE-AKTG-1965",
     "units": 393,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 651284,
+    "commentary_chars": 651924,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -100,7 +100,16 @@
     ],
     "units_reviewed": 13,
     "complete": true,
-    "evidence": "review-result-batch-020.json"
+    "evidence": "review-result-batch-020.json",
+    "validation_result": {
+      "repo": "Komentar-DE-AKTG-1965",
+      "units": 393,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 651924,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
   },
   "validation": {
     "repo": "Komentar-DE-AKTG-1965",

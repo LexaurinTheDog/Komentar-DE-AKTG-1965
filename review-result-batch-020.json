@@ -131,5 +131,15 @@
     "Technische Wortlaut-, Längen- und Wiederholungsprüfungen ersetzen keine juristische Bewertung."
   ],
   "verified_at": "2026-10-21T00:59:14.897251+00:00",
-  "full_book_complete": false
+  "full_book_complete": false,
+  "technical_validation": {
+    "repo": "Komentar-DE-AKTG-1965",
+    "units": 393,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 651924,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "build_returncode": 0
 }
